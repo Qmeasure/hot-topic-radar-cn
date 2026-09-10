@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="面向短视频编导的财经、科技、社会民生与国际时政热点选题和爆款视频数据库" />
+  <title>热点选题雷达</title>
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="stylesheet" href="rank.css" />
+  <link rel="stylesheet" href="copy-links.css" />
+  <link rel="stylesheet" href="creators.css" />
+</head>
+<body>
+  <main class="shell">
+    <header class="topbar">
+      <div>
+        <div class="eyebrow">CONTENT INTELLIGENCE / ARCHIVE</div>
+        <h1>热点选题雷达</h1>
+        <p class="subtitle">财经 × 科技（AI重点）× 社会民生 × 国际时政 · 每日热点与爆款视频档案</p>
+      </div>
+      <div class="top-actions"><span class="hourly">● 每小时自动更新</span><span id="updateTime"></span><button id="refreshBtn">↻ 检查更新</button></div>
+    </header>
+
+    <section class="hero">
+      <div><span class="live-dot"></span><span id="dateLabel"></span><span class="muted">　当日归档</span></div>
+      <div class="hero-note">抖音 / 视频号优先 · 海外播客与访谈补充 · 公开数据每日核验 · 历史快照保留</div>
+    </section>
+
+    <section class="date-strip">
+      <div class="date-copy"><strong>历史归档</strong><span>选择日期，随时回看过去热点</span></div>
+      <div class="date-controls">
+        <button id="prevDate" aria-label="查看前一天">←</button>
+        <select id="dateSelect" aria-label="选择热点日期"></select>
+        <button id="nextDate" aria-label="查看后一天">→</button>
+      </div>
+    </section>
+
+    <section class="stats" id="stats"></section>
+
+    <nav class="view-switch" aria-label="内容视图">
+      <button class="view-btn active" type="button" data-view="topics">热点选题</button>
+      <button class="view-btn" type="button" data-view="creators">重点信源 <span id="creatorCount">282</span></button>
+    </nav>
+
+    <section class="toolbar" id="topicToolbar">
+      <div class="tabs" id="tabs"></div>
+      <label class="search"><span>⌕</span><input id="search" placeholder="搜索选题、作者或平台" /></label>
+    </section>
+
+    <section class="grid" id="topicGrid"></section>
+
+    <section class="creator-panel" id="creatorPanel" hidden>
+      <div class="creator-intro">
+        <div><span class="creator-kicker">定向观察池</span><h2>重点博主、播客与访谈</h2><p id="creatorSummary">优先扫描国内重点账号，并追踪华尔街与硅谷的AI对话。</p></div>
+        <label class="search creator-search"><span>⌕</span><input id="creatorSearch" placeholder="搜索博主、播客或访谈" /></label>
+      </div>
+      <div class="creator-tabs" id="creatorTabs"></div>
+      <div class="creator-grid" id="creatorGrid"></div>
+    </section>
+    <footer>播放、点赞、收藏、评论、转发均按平台公开口径独立采集；平台未公开的项目会明确标注“待核验”。</footer>
+  </main>
+
+  <div id="copyToast" class="copy-toast" role="status" aria-live="polite" aria-atomic="true" hidden></div>
+
+  <div class="analysis-modal" id="analysisModal" hidden>
+    <div class="analysis-backdrop" data-close-analysis></div>
+    <section class="analysis-panel" role="dialog" aria-modal="true" aria-labelledby="analysisTitle">
+      <header class="analysis-head">
+        <div><span class="analysis-kicker">爆款拆解与口播生成</span><h2 id="analysisTitle">文案分析工作台</h2></div>
+        <button class="icon-btn" data-close-analysis aria-label="关闭分析面板">×</button>
+      </header>
+      <div class="analysis-controls">
+        <label>目标受众<select id="audienceSelect"></select></label>
+        <label>口播字数<select id="durationSelect"><option value="1400" selected>1400字以内</option><option value="1600">1401–1600字</option><option value="1800">1601–1800字</option></select></label>
+        <label class="opinion-field">补充个人观点（可选）<textarea id="opinionInput" rows="2" placeholder="例如：我认为真正的机会不在上游，而在能替客户交付结果的应用端"></textarea></label>
+        <button class="generate-btn" id="generateBtn">重新分析并生成</button>
+      </div>
+      <div class="analysis-basis" id="analysisBasis"></div>
+      <div class="analysis-output" id="analysisOutput"></div>
+      <footer class="analysis-actions"><button id="copyScript">复制口播稿</button><button id="downloadScript">下载 TXT</button><a id="analysisSource" target="_blank" rel="noopener">查看原视频 ↗</a></footer>
+    </section>
+  </div>
+  <script src="data.js"></script>
+  <script src="creator-data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

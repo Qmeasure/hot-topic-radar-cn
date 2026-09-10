@@ -1,0 +1,61 @@
+.source-actions,
+.link-actions {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+}
+
+.link-actions {
+  justify-content: flex-end;
+}
+
+.copy-link-btn {
+  border: 1px solid #cbd7e6;
+  border-radius: 6px;
+  background: #fff;
+  color: #315f91;
+  padding: 5px 7px;
+  font: inherit;
+  font-size: 10px;
+  font-weight: 800;
+  line-height: 1;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.copy-link-btn:hover {
+  border-color: #8eacd0;
+  background: #edf4fc;
+}
+
+.copy-link-btn:focus-visible {
+  outline: 2px solid var(--blue);
+  outline-offset: 2px;
+}
+
+.copy-toast {
+  position: fixed;
+  right: 22px;
+  bottom: 22px;
+  z-index: 80;
+  background: #123f37;
+  color: #fff;
+  border-radius: 10px;
+  padding: 11px 15px;
+  box-shadow: 0 10px 28px rgba(18, 32, 45, .22);
+  font-size: 13px;
+  font-weight: 700;
+}
+
+.copy-toast.error {
+  background: #9c3f34;
+}
+
+@media (max-width: 620px) {
+  .copy-toast {
+    left: 16px;
+    right: 16px;
+    bottom: 16px;
+    text-align: center;
+  }
+}
