@@ -1,5 +1,5 @@
 window.HOT_ARCHIVE={
-  "updated": "2026-09-10 15:15",
+  "updated": "2026-09-10 15:39",
   "methodology": "公开互动热力 = 播放 + 点赞×20 + 收藏×15 + 评论×25 + 转发×30；缺失指标不计分，不做估算。",
   "days": {
     "2026-09-04": {
@@ -79044,7 +79044,7 @@ window.HOT_ARCHIVE={
       "topics": [
         {
           "cat": "科技",
-          "score": 17162401,
+          "score": 17882449,
           "title": "iPhone Duo 当日登榜：首款折叠 iPhone 的折痕与双屏体验迎来实测",
           "hook": "Apple 正式发布首款折叠 iPhone Duo 后，三条独立上手视频进入 B站热门，讨论集中在折痕控制、纳米纹理内屏、双屏比例和软件适配。适合从真实体验切入，判断苹果能否把折叠屏从高价小众形态推向主流，并观察铰链、面板和存储供应链的增量机会。",
           "platform": "哔哩哔哩 / Apple Newsroom",
@@ -79067,13 +79067,13 @@ window.HOT_ARCHIVE={
               "duration": "07:00",
               "published": "2026-09-10",
               "metrics": {
-                "views": "2121666",
-                "likes": "27516",
-                "favorites": "5562",
-                "comments": "19626",
-                "shares": "31340"
+                "views": "2157327",
+                "likes": "27906",
+                "favorites": "5642",
+                "comments": "19995",
+                "shares": "31675"
               },
-              "captured": "2026-09-10 15:08",
+              "captured": "2026-09-10 15:39",
               "status": "重点名单扫描完成后的哔哩哔哩热门榜补充；Apple 官方发布信息与平台公开接口已核验，账号、标题、发布时间、时长、原始链接及全部公开互动数据可访问",
               "metricHistory": [
                 {
@@ -79275,6 +79275,16 @@ window.HOT_ARCHIVE={
                     "comments": "19626",
                     "shares": "31340"
                   }
+                },
+                {
+                  "captured": "2026-09-10 15:39",
+                  "metrics": {
+                    "views": "2157327",
+                    "likes": "27906",
+                    "favorites": "5642",
+                    "comments": "19995",
+                    "shares": "31675"
+                  }
                 }
               ]
             },
@@ -79286,13 +79296,13 @@ window.HOT_ARCHIVE={
               "duration": "02:28",
               "published": "2026-09-10",
               "metrics": {
-                "views": "418314",
-                "likes": "15737",
-                "favorites": "1967",
-                "comments": "2873",
-                "shares": "3497"
+                "views": "429758",
+                "likes": "16138",
+                "favorites": "1999",
+                "comments": "2949",
+                "shares": "3590"
               },
-              "captured": "2026-09-10 15:08",
+              "captured": "2026-09-10 15:39",
               "status": "重点名单扫描完成后的哔哩哔哩热门榜补充；Apple 官方发布信息与平台公开接口已核验，账号、标题、发布时间、时长、原始链接及全部公开互动数据可访问",
               "metricHistory": [
                 {
@@ -79494,6 +79504,16 @@ window.HOT_ARCHIVE={
                     "comments": "2873",
                     "shares": "3497"
                   }
+                },
+                {
+                  "captured": "2026-09-10 15:39",
+                  "metrics": {
+                    "views": "429758",
+                    "likes": "16138",
+                    "favorites": "1999",
+                    "comments": "2949",
+                    "shares": "3590"
+                  }
                 }
               ]
             },
@@ -79505,13 +79525,13 @@ window.HOT_ARCHIVE={
               "duration": "07:22",
               "published": "2026-09-09",
               "metrics": {
-                "views": "678676",
-                "likes": "16468",
-                "favorites": "2630",
-                "comments": "1808",
-                "shares": "3236"
+                "views": "693491",
+                "likes": "16720",
+                "favorites": "2661",
+                "comments": "1842",
+                "shares": "3282"
               },
-              "captured": "2026-09-10 15:08",
+              "captured": "2026-09-10 15:39",
               "status": "重点名单扫描完成后的哔哩哔哩热门榜补充；Apple 官方发布信息与平台公开接口已核验，账号、标题、发布时间、时长、原始链接及全部公开互动数据可访问",
               "metricHistory": [
                 {
@@ -79713,6 +79733,16 @@ window.HOT_ARCHIVE={
                     "comments": "1808",
                     "shares": "3236"
                   }
+                },
+                {
+                  "captured": "2026-09-10 15:39",
+                  "metrics": {
+                    "views": "693491",
+                    "likes": "16720",
+                    "favorites": "2661",
+                    "comments": "1842",
+                    "shares": "3282"
+                  }
                 }
               ]
             },
@@ -79724,13 +79754,13 @@ window.HOT_ARCHIVE={
               "duration": "05:10",
               "published": "2026-09-10",
               "metrics": {
-                "views": "1168417",
-                "likes": "57614",
-                "favorites": "5063",
-                "comments": "6267",
-                "shares": "9322"
+                "views": "1225727",
+                "likes": "59935",
+                "favorites": "5251",
+                "comments": "6557",
+                "shares": "9615"
               },
-              "captured": "2026-09-10 15:08",
+              "captured": "2026-09-10 15:39",
               "status": "9月10日哔哩哔哩热门榜新增；Apple 官方发布页与平台公开接口已核验账号、标题、发布时间、时长、原始链接及全部公开互动数据；体验判断归因创作者",
               "metricHistory": [
                 {
@@ -79922,6 +79952,16 @@ window.HOT_ARCHIVE={
                     "comments": "6267",
                     "shares": "9322"
                   }
+                },
+                {
+                  "captured": "2026-09-10 15:39",
+                  "metrics": {
+                    "views": "1225727",
+                    "likes": "59935",
+                    "favorites": "5251",
+                    "comments": "6557",
+                    "shares": "9615"
+                  }
                 }
               ]
             },
@@ -79933,13 +79973,13 @@ window.HOT_ARCHIVE={
               "duration": "17:35",
               "published": "2026-09-10",
               "metrics": {
-                "views": "761803",
-                "likes": "17026",
-                "favorites": "2614",
-                "comments": "6100",
-                "shares": "4506"
+                "views": "773258",
+                "likes": "17255",
+                "favorites": "2644",
+                "comments": "6193",
+                "shares": "4544"
               },
-              "captured": "2026-09-10 15:08",
+              "captured": "2026-09-10 15:39",
               "status": "9月10日哔哩哔哩热门榜新增；Apple 官方发布页与平台公开接口已核验账号、标题、发布时间、时长、原始链接及全部公开互动数据；体验判断归因创作者",
               "metricHistory": [
                 {
@@ -80131,6 +80171,16 @@ window.HOT_ARCHIVE={
                     "comments": "6100",
                     "shares": "4506"
                   }
+                },
+                {
+                  "captured": "2026-09-10 15:39",
+                  "metrics": {
+                    "views": "773258",
+                    "likes": "17255",
+                    "favorites": "2644",
+                    "comments": "6193",
+                    "shares": "4544"
+                  }
                 }
               ]
             },
@@ -80142,13 +80192,13 @@ window.HOT_ARCHIVE={
               "duration": "07:21",
               "published": "2026-09-10",
               "metrics": {
-                "views": "801272",
-                "likes": "31272",
-                "favorites": "8235",
-                "comments": "8028",
-                "shares": "6316"
+                "views": "817633",
+                "likes": "31818",
+                "favorites": "8371",
+                "comments": "8172",
+                "shares": "6391"
               },
-              "captured": "2026-09-10 15:08",
+              "captured": "2026-09-10 15:39",
               "status": "9月10日哔哩哔哩热门榜新增；Apple 官方发布页与平台公开接口已核验账号、标题、发布时间、时长、原始链接及全部公开互动数据；体验判断归因创作者",
               "metricHistory": [
                 {
@@ -80340,6 +80390,16 @@ window.HOT_ARCHIVE={
                     "comments": "8028",
                     "shares": "6316"
                   }
+                },
+                {
+                  "captured": "2026-09-10 15:39",
+                  "metrics": {
+                    "views": "817633",
+                    "likes": "31818",
+                    "favorites": "8371",
+                    "comments": "8172",
+                    "shares": "6391"
+                  }
                 }
               ]
             },
@@ -80351,13 +80411,13 @@ window.HOT_ARCHIVE={
               "duration": "01:56",
               "published": "2026-09-10",
               "metrics": {
-                "views": "583235",
-                "likes": "21436",
-                "favorites": "1893",
-                "comments": "1334",
-                "shares": "3708"
+                "views": "611612",
+                "likes": "22449",
+                "favorites": "1953",
+                "comments": "1373",
+                "shares": "3823"
               },
-              "captured": "2026-09-10 15:08",
+              "captured": "2026-09-10 15:39",
               "status": "9月10日哔哩哔哩热门榜新增；Apple 官方发布页与平台公开接口已核验账号、标题、发布时间、时长、原始链接及全部公开互动数据；体验判断归因创作者",
               "metricHistory": [
                 {
@@ -80549,6 +80609,16 @@ window.HOT_ARCHIVE={
                     "comments": "1334",
                     "shares": "3708"
                   }
+                },
+                {
+                  "captured": "2026-09-10 15:39",
+                  "metrics": {
+                    "views": "611612",
+                    "likes": "22449",
+                    "favorites": "1953",
+                    "comments": "1373",
+                    "shares": "3823"
+                  }
                 }
               ]
             },
@@ -80560,13 +80630,13 @@ window.HOT_ARCHIVE={
               "duration": "00:47",
               "published": "2026-09-10",
               "metrics": {
-                "views": "745155",
-                "likes": "5668",
-                "favorites": "2358",
-                "comments": "4870",
-                "shares": "6785"
+                "views": "756713",
+                "likes": "5711",
+                "favorites": "2368",
+                "comments": "4855",
+                "shares": "6825"
               },
-              "captured": "2026-09-10 15:08",
+              "captured": "2026-09-10 15:39",
               "status": "9月10日哔哩哔哩热门榜新增；Apple 官方发布页与平台公开接口已核验账号、标题、发布时间、时长、原始链接及全部公开互动数据；体验判断归因创作者",
               "metricHistory": [
                 {
@@ -80758,6 +80828,16 @@ window.HOT_ARCHIVE={
                     "comments": "4870",
                     "shares": "6785"
                   }
+                },
+                {
+                  "captured": "2026-09-10 15:39",
+                  "metrics": {
+                    "views": "756713",
+                    "likes": "5711",
+                    "favorites": "2368",
+                    "comments": "4855",
+                    "shares": "6825"
+                  }
                 }
               ]
             },
@@ -80769,13 +80849,13 @@ window.HOT_ARCHIVE={
               "duration": "09:33",
               "published": "2026-09-10",
               "metrics": {
-                "views": "101750",
-                "likes": "1889",
-                "favorites": "1190",
-                "comments": "270",
-                "shares": "397"
+                "views": "103581",
+                "likes": "1895",
+                "favorites": "1196",
+                "comments": "276",
+                "shares": "399"
               },
-              "captured": "2026-09-10 15:08",
+              "captured": "2026-09-10 15:39",
               "status": "9月10日哔哩哔哩热门榜新增；Apple 官方发布页与平台公开接口已核验账号、标题、发布时间、时长、原始链接及全部公开互动数据；体验判断归因创作者",
               "metricHistory": [
                 {
@@ -80967,6 +81047,16 @@ window.HOT_ARCHIVE={
                     "comments": "270",
                     "shares": "397"
                   }
+                },
+                {
+                  "captured": "2026-09-10 15:39",
+                  "metrics": {
+                    "views": "103581",
+                    "likes": "1895",
+                    "favorites": "1196",
+                    "comments": "276",
+                    "shares": "399"
+                  }
                 }
               ]
             },
@@ -80978,13 +81068,13 @@ window.HOT_ARCHIVE={
               "duration": "04:30",
               "published": "2026-09-10",
               "metrics": {
-                "views": "365438",
-                "likes": "6295",
-                "favorites": "1041",
-                "comments": "3088",
-                "shares": "2291"
+                "views": "373731",
+                "likes": "6405",
+                "favorites": "1061",
+                "comments": "3181",
+                "shares": "2328"
               },
-              "captured": "2026-09-10 15:08",
+              "captured": "2026-09-10 15:39",
               "status": "2026-09-10 10:53 扫描新进入哔哩哔哩热门榜第 17 位；平台公开接口已核验账号、标题、发布时间、时长、原始链接及全部公开互动数据；与站内 iPhone Duo 主题为同平台关联版本，体验判断归因创作者",
               "metricHistory": [
                 {
@@ -81146,6 +81236,16 @@ window.HOT_ARCHIVE={
                     "comments": "3088",
                     "shares": "2291"
                   }
+                },
+                {
+                  "captured": "2026-09-10 15:39",
+                  "metrics": {
+                    "views": "373731",
+                    "likes": "6405",
+                    "favorites": "1061",
+                    "comments": "3181",
+                    "shares": "2328"
+                  }
                 }
               ]
             },
@@ -81157,13 +81257,13 @@ window.HOT_ARCHIVE={
               "duration": "07:55",
               "published": "2026-09-10",
               "metrics": {
-                "views": "169639",
-                "likes": "14099",
-                "favorites": "2350",
-                "comments": "1368",
-                "shares": "1555"
+                "views": "178887",
+                "likes": "14276",
+                "favorites": "2374",
+                "comments": "1452",
+                "shares": "1576"
               },
-              "captured": "2026-09-10 15:08",
+              "captured": "2026-09-10 15:39",
               "status": "2026-09-10 10:53 扫描新进入哔哩哔哩热门榜第 48 位；平台公开接口已核验账号、标题、发布时间、时长、原始链接及全部公开互动数据；与站内 iPhone Duo 主题为同平台关联版本，体验判断归因创作者",
               "metricHistory": [
                 {
@@ -81325,6 +81425,16 @@ window.HOT_ARCHIVE={
                     "comments": "1368",
                     "shares": "1555"
                   }
+                },
+                {
+                  "captured": "2026-09-10 15:39",
+                  "metrics": {
+                    "views": "178887",
+                    "likes": "14276",
+                    "favorites": "2374",
+                    "comments": "1452",
+                    "shares": "1576"
+                  }
                 }
               ]
             },
@@ -81336,13 +81446,13 @@ window.HOT_ARCHIVE={
               "duration": "06:19",
               "published": "2026-09-10",
               "metrics": {
-                "views": "249760",
-                "likes": "2472",
-                "favorites": "1815",
-                "comments": "1709",
-                "shares": "503"
+                "views": "265209",
+                "likes": "2527",
+                "favorites": "1832",
+                "comments": "1834",
+                "shares": "530"
               },
-              "captured": "2026-09-10 15:08",
+              "captured": "2026-09-10 15:39",
               "status": "2026-09-10 13:53 重点名单扫描完成后新进入哔哩哔哩热门榜第 26 位；平台公开接口已核验账号、标题、发布时间、时长、原始链接及全部公开互动数据；作为同主题独立创作者版本保留",
               "metricHistory": [
                 {
@@ -81394,6 +81504,16 @@ window.HOT_ARCHIVE={
                     "comments": "1709",
                     "shares": "503"
                   }
+                },
+                {
+                  "captured": "2026-09-10 15:39",
+                  "metrics": {
+                    "views": "265209",
+                    "likes": "2527",
+                    "favorites": "1832",
+                    "comments": "1834",
+                    "shares": "530"
+                  }
                 }
               ]
             },
@@ -81405,13 +81525,13 @@ window.HOT_ARCHIVE={
               "duration": "11:35",
               "published": "2026-09-10",
               "metrics": {
-                "views": "100800",
-                "likes": "4067",
-                "favorites": "1836",
-                "comments": "469",
-                "shares": "79"
+                "views": "136200",
+                "likes": "4504",
+                "favorites": "1912",
+                "comments": "555",
+                "shares": "91"
               },
-              "captured": "2026-09-10 15:08",
+              "captured": "2026-09-10 15:39",
               "status": "9月10日14:42哔哩哔哩热门榜新增；平台公开接口已核验账号、标题、发布时间、时长、原始链接及全部公开互动数据；产品取舍属于创作者访谈与观点",
               "metricHistory": [
                 {
@@ -81433,6 +81553,16 @@ window.HOT_ARCHIVE={
                     "comments": "469",
                     "shares": "79"
                   }
+                },
+                {
+                  "captured": "2026-09-10 15:39",
+                  "metrics": {
+                    "views": "136200",
+                    "likes": "4504",
+                    "favorites": "1912",
+                    "comments": "555",
+                    "shares": "91"
+                  }
                 }
               ]
             },
@@ -81444,13 +81574,13 @@ window.HOT_ARCHIVE={
               "duration": "15:28",
               "published": "2026-09-10",
               "metrics": {
-                "views": "53266",
-                "likes": "6045",
-                "favorites": "1602",
-                "comments": "536",
-                "shares": "803"
+                "views": "60902",
+                "likes": "6371",
+                "favorites": "1658",
+                "comments": "579",
+                "shares": "833"
               },
-              "captured": "2026-09-10 15:08",
+              "captured": "2026-09-10 15:39",
               "status": "9月10日14:42哔哩哔哩热门榜新增；平台公开接口已核验账号、标题、发布时间、时长、原始链接及全部公开互动数据；锐评内容属于创作者观点",
               "metricHistory": [
                 {
@@ -81471,6 +81601,45 @@ window.HOT_ARCHIVE={
                     "favorites": "1602",
                     "comments": "536",
                     "shares": "803"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 15:39",
+                  "metrics": {
+                    "views": "60902",
+                    "likes": "6371",
+                    "favorites": "1658",
+                    "comments": "579",
+                    "shares": "833"
+                  }
+                }
+              ]
+            },
+            {
+              "title": "【短的发布会】 Only Apple Can Duo！15999的苹果折叠屏iPhone Duo摸着友商过河？",
+              "url": "https://www.bilibili.com/video/BV1GkYN6RERr/",
+              "platform": "哔哩哔哩",
+              "creator": "短的发布会",
+              "duration": "05:23",
+              "published": "2026-09-10",
+              "metrics": {
+                "views": "100340",
+                "likes": "4637",
+                "favorites": "639",
+                "comments": "1010",
+                "shares": "603"
+              },
+              "captured": "2026-09-10 15:39",
+              "status": "9月10日15:37哔哩哔哩热门榜新增；平台公开接口已核验账号、标题、发布时间、时长、原始链接及全部公开互动数据；产品评价与定价判断属于创作者观点；与同题其他评测视频关联",
+              "metricHistory": [
+                {
+                  "captured": "2026-09-10 15:39",
+                  "metrics": {
+                    "views": "100340",
+                    "likes": "4637",
+                    "favorites": "639",
+                    "comments": "1010",
+                    "shares": "603"
                   }
                 }
               ]
@@ -81500,13 +81669,13 @@ window.HOT_ARCHIVE={
               "duration": "03:40",
               "published": "2026-09-10 11:00",
               "metrics": {
-                "views": "1043476",
-                "likes": "97431",
-                "favorites": "24500",
-                "comments": "4187",
-                "shares": "11444"
+                "views": "1193173",
+                "likes": "99459",
+                "favorites": "25010",
+                "comments": "4663",
+                "shares": "12833"
               },
-              "captured": "2026-09-10 15:08",
+              "captured": "2026-09-10 15:39",
               "status": "哔哩哔哩热门榜第 1；账号、标题、发布时间、时长、原始链接及播放、点赞、收藏、评论、转发均由平台公开接口核验",
               "metricHistory": [
                 {
@@ -81538,15 +81707,25 @@ window.HOT_ARCHIVE={
                     "comments": "4187",
                     "shares": "11444"
                   }
+                },
+                {
+                  "captured": "2026-09-10 15:39",
+                  "metrics": {
+                    "views": "1193173",
+                    "likes": "99459",
+                    "favorites": "25010",
+                    "comments": "4663",
+                    "shares": "12833"
+                  }
                 }
               ]
             }
           ],
-          "score": 3807591
+          "score": 4059068
         },
         {
           "cat": "社会",
-          "score": 3625246,
+          "score": 3740393,
           "title": "物业费账单视频走红：高物业费对应了什么服务与成本",
           "hook": "一条以“物业费最贵”为题的视频在近48小时快速升温。适合从公共区域维护、人工与能耗、收费透明度及业主议价机制切入，讨论住宅服务的真实成本和信任缺口；具体账单与场景以作者展示为准。",
           "platform": "哔哩哔哩",
@@ -81567,13 +81746,13 @@ window.HOT_ARCHIVE={
               "duration": "02:50",
               "published": "2026-09-09",
               "metrics": {
-                "views": "1358436",
-                "likes": "102960",
-                "favorites": "4827",
-                "comments": "4255",
-                "shares": "961"
+                "views": "1406528",
+                "likes": "105986",
+                "favorites": "4979",
+                "comments": "4400",
+                "shares": "982"
               },
-              "captured": "2026-09-10 15:08",
+              "captured": "2026-09-10 15:39",
               "status": "9月10日补扫发现的近48小时高互动内容；平台公开接口已核验账号、标题、发布时间、时长、原始链接及全部公开互动数据；费用与服务细节来自作者场景展示",
               "metricHistory": [
                 {
@@ -81765,6 +81944,16 @@ window.HOT_ARCHIVE={
                     "comments": "4255",
                     "shares": "961"
                   }
+                },
+                {
+                  "captured": "2026-09-10 15:39",
+                  "metrics": {
+                    "views": "1406528",
+                    "likes": "105986",
+                    "favorites": "4979",
+                    "comments": "4400",
+                    "shares": "982"
+                  }
                 }
               ]
             }
@@ -81772,7 +81961,7 @@ window.HOT_ARCHIVE={
         },
         {
           "cat": "科技",
-          "score": 2309309,
+          "score": 2354217,
           "title": "iPhone 18 Pro/Max 首轮实测登榜：成熟直板旗舰如何与折叠新品分工",
           "hook": "在 iPhone Duo 抢走发布会注意力的同时，iPhone 18 Pro/Max 的首轮体验视频也进入 B站热门。适合比较直板旗舰与折叠新品的产品分层、换机理由和价格带，判断苹果是扩大高端市场还是制造内部替代。",
           "platform": "哔哩哔哩 / Apple Newsroom",
@@ -81796,13 +81985,13 @@ window.HOT_ARCHIVE={
               "duration": "04:42",
               "published": "2026-09-10",
               "metrics": {
-                "views": "619851",
-                "likes": "19157",
-                "favorites": "4289",
-                "comments": "3987",
-                "shares": "2916"
+                "views": "633361",
+                "likes": "19493",
+                "favorites": "4376",
+                "comments": "4100",
+                "shares": "2962"
               },
-              "captured": "2026-09-10 15:08",
+              "captured": "2026-09-10 15:39",
               "status": "9月10日哔哩哔哩热门榜新增；平台公开接口已核验账号、标题、发布时间、时长、原始链接及全部公开互动数据；产品体验与“尽善尽美”表述属于创作者观点",
               "metricHistory": [
                 {
@@ -81994,6 +82183,16 @@ window.HOT_ARCHIVE={
                     "comments": "3987",
                     "shares": "2916"
                   }
+                },
+                {
+                  "captured": "2026-09-10 15:39",
+                  "metrics": {
+                    "views": "633361",
+                    "likes": "19493",
+                    "favorites": "4376",
+                    "comments": "4100",
+                    "shares": "2962"
+                  }
                 }
               ]
             },
@@ -82005,13 +82204,13 @@ window.HOT_ARCHIVE={
               "duration": "04:24",
               "published": "2026-09-10",
               "metrics": {
-                "views": "154774",
-                "likes": "6718",
-                "favorites": "1689",
-                "comments": "730",
-                "shares": "953"
+                "views": "158296",
+                "likes": "6852",
+                "favorites": "1720",
+                "comments": "748",
+                "shares": "960"
               },
-              "captured": "2026-09-10 15:08",
+              "captured": "2026-09-10 15:39",
               "status": "9月10日哔哩哔哩热门榜新增；平台公开接口已核验小白测评账号、标题、发布时间、时长、原始链接及全部公开互动数据；与苹果秋季新品发布会主题关联，产品体验判断归因创作者",
               "metricHistory": [
                 {
@@ -82193,6 +82392,16 @@ window.HOT_ARCHIVE={
                     "comments": "730",
                     "shares": "953"
                   }
+                },
+                {
+                  "captured": "2026-09-10 15:39",
+                  "metrics": {
+                    "views": "158296",
+                    "likes": "6852",
+                    "favorites": "1720",
+                    "comments": "748",
+                    "shares": "960"
+                  }
                 }
               ]
             },
@@ -82204,13 +82413,13 @@ window.HOT_ARCHIVE={
               "duration": "05:53",
               "published": "2026-09-10",
               "metrics": {
-                "views": "422884",
-                "likes": "6267",
-                "favorites": "1144",
-                "comments": "2411",
-                "shares": "2262"
+                "views": "429950",
+                "likes": "6372",
+                "favorites": "1167",
+                "comments": "2473",
+                "shares": "2288"
               },
-              "captured": "2026-09-10 15:08",
+              "captured": "2026-09-10 15:39",
               "status": "2026-09-10 13:53 重点名单扫描完成后新进入哔哩哔哩热门榜第 30 位；平台公开接口已核验账号、标题、发布时间、时长、原始链接及全部公开互动数据；作为同主题独立创作者版本保留",
               "metricHistory": [
                 {
@@ -82262,6 +82471,63 @@ window.HOT_ARCHIVE={
                     "comments": "2411",
                     "shares": "2262"
                   }
+                },
+                {
+                  "captured": "2026-09-10 15:39",
+                  "metrics": {
+                    "views": "429950",
+                    "likes": "6372",
+                    "favorites": "1167",
+                    "comments": "2473",
+                    "shares": "2288"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "cat": "社会",
+          "score": 1724088,
+          "title": "“康康爷爷”去世引发集体悼念：陪伴型内容如何形成跨代际情感连接",
+          "hook": "拥有数百万粉丝的“康康爷爷”去世消息进入B站热门，家属转述其临终交代，相关评论集中于长期陪伴和告别。适合讨论老年创作者、家庭账号与观众之间的情感劳动，也要尊重逝者与家属，避免消费悲剧。",
+          "platform": "哔哩哔哩",
+          "source": "https://www.bilibili.com/video/BV1XwYt6nESK/",
+          "tags": [
+            "康康爷爷",
+            "老年创作者",
+            "短视频",
+            "网络悼念",
+            "代际陪伴",
+            "数字记忆"
+          ],
+          "videos": [
+            {
+              "title": "500万粉丝博主“康康爷爷”去世，家属：爷爷临终交代，和大家的故事暂时告一段落了",
+              "url": "https://www.bilibili.com/video/BV1XwYt6nESK/",
+              "platform": "哔哩哔哩",
+              "creator": "九派新闻",
+              "duration": "00:42",
+              "published": "2026-09-09",
+              "metrics": {
+                "views": "430648",
+                "likes": "61886",
+                "favorites": "1342",
+                "comments": "448",
+                "shares": "813"
+              },
+              "captured": "2026-09-10 15:39",
+              "status": "9月10日15:37哔哩哔哩热门榜新增；平台公开接口已核验新闻账号、标题、发布时间、时长、原始链接及全部公开互动数据；死亡消息与临终转述来自家属公开说明及媒体报道",
+              "metricHistory": [
+                {
+                  "captured": "2026-09-10 15:39",
+                  "metrics": {
+                    "views": "430648",
+                    "likes": "61886",
+                    "favorites": "1342",
+                    "comments": "448",
+                    "shares": "813"
+                  }
                 }
               ]
             }
@@ -82269,7 +82535,7 @@ window.HOT_ARCHIVE={
         },
         {
           "cat": "科技",
-          "score": 1534848,
+          "score": 1541251,
           "title": "小米 18 Fold 实测登榜：国产折叠旗舰进入折痕与体验硬碰硬阶段",
           "hook": "小米 18 Fold 评测进入 B站热门，讨论焦点从参数堆叠转向折痕控制、软件适配和长期可靠性。适合与同期 iPhone Duo 放在同一坐标系里，比较折叠屏竞争的真实门槛究竟是硬件形态、生态协同还是售后成本；体验结论归因创作者。",
           "platform": "哔哩哔哩",
@@ -82291,13 +82557,13 @@ window.HOT_ARCHIVE={
               "duration": "14:43",
               "published": "2026-09-08",
               "metrics": {
-                "views": "973238",
-                "likes": "12280",
-                "favorites": "2221",
-                "comments": "6545",
-                "shares": "3969"
+                "views": "977766",
+                "likes": "12308",
+                "favorites": "2228",
+                "comments": "6573",
+                "shares": "3986"
               },
-              "captured": "2026-09-10 15:08",
+              "captured": "2026-09-10 15:39",
               "status": "9月10日哔哩哔哩热门榜新增；平台公开接口已核验钟文泽账号、标题、发布时间、时长、原始链接及全部公开互动数据；折痕和产品评价属于创作者实测观点",
               "metricHistory": [
                 {
@@ -82479,6 +82745,16 @@ window.HOT_ARCHIVE={
                     "comments": "6545",
                     "shares": "3969"
                   }
+                },
+                {
+                  "captured": "2026-09-10 15:39",
+                  "metrics": {
+                    "views": "977766",
+                    "likes": "12308",
+                    "favorites": "2228",
+                    "comments": "6573",
+                    "shares": "3986"
+                  }
                 }
               ]
             }
@@ -82486,7 +82762,7 @@ window.HOT_ARCHIVE={
         },
         {
           "cat": "社会",
-          "score": 1413976,
+          "score": 1423414,
           "title": "寒潮下的荒野石屋改造走红：冬季庇护所为何让观众持续追更",
           "hook": "荒野石屋改造视频进入 B站热门，内容从空间修缮延伸到保温、储粮、夜间用火与长期生存。适合拆解“慢改造+强季节节点+连续剧式悬念”如何形成稳定追更，以及户外生活内容背后的居住安全和实用知识需求。",
           "platform": "哔哩哔哩",
@@ -82508,13 +82784,13 @@ window.HOT_ARCHIVE={
               "duration": "27:08",
               "published": "2026-09-08 20:00",
               "metrics": {
-                "views": "729266",
-                "likes": "23564",
-                "favorites": "9478",
-                "comments": "1222",
-                "shares": "1357"
+                "views": "735789",
+                "likes": "23667",
+                "favorites": "9516",
+                "comments": "1225",
+                "shares": "1364"
               },
-              "captured": "2026-09-10 15:08",
+              "captured": "2026-09-10 15:39",
               "status": "9月10日哔哩哔哩热门榜新进入样本；账号、标题、发布时间、时长、原始链接及播放、点赞、收藏、评论、转发均由平台公开接口核验",
               "metricHistory": [
                 {
@@ -82526,6 +82802,16 @@ window.HOT_ARCHIVE={
                     "comments": "1222",
                     "shares": "1357"
                   }
+                },
+                {
+                  "captured": "2026-09-10 15:39",
+                  "metrics": {
+                    "views": "735789",
+                    "likes": "23667",
+                    "favorites": "9516",
+                    "comments": "1225",
+                    "shares": "1364"
+                  }
                 }
               ]
             }
@@ -82533,7 +82819,7 @@ window.HOT_ARCHIVE={
         },
         {
           "cat": "社会",
-          "score": 1251564,
+          "score": 1290911,
           "title": "“停捐一月遭催捐”登上热门：公益月捐如何重建信任与沟通边界",
           "hook": "央视新闻视频聚焦长期月捐者停捐后接到催捐电话引发的争议。适合从公益机构的获客与留存逻辑、捐赠者知情权、电话触达边界和资金透明度切入，讨论善意如何被流程化运营消耗。",
           "platform": "哔哩哔哩 / 央视新闻",
@@ -82555,13 +82841,13 @@ window.HOT_ARCHIVE={
               "duration": "01:19",
               "published": "2026-09-09",
               "metrics": {
-                "views": "417749",
-                "likes": "35498",
-                "favorites": "1503",
-                "comments": "3204",
-                "shares": "707"
+                "views": "429356",
+                "likes": "36745",
+                "favorites": "1541",
+                "comments": "3280",
+                "shares": "718"
               },
-              "captured": "2026-09-10 15:08",
+              "captured": "2026-09-10 15:39",
               "status": "2026-09-10 10:53 扫描新进入哔哩哔哩热门榜第 83 位；央视新闻账号、标题、发布时间、时长、原始链接及全部公开互动数据已由平台公开接口核验；视频中的个案与观点归因原发布者",
               "metricHistory": [
                 {
@@ -82723,6 +83009,16 @@ window.HOT_ARCHIVE={
                     "comments": "3204",
                     "shares": "707"
                   }
+                },
+                {
+                  "captured": "2026-09-10 15:39",
+                  "metrics": {
+                    "views": "429356",
+                    "likes": "36745",
+                    "favorites": "1541",
+                    "comments": "3280",
+                    "shares": "718"
+                  }
                 }
               ]
             }
@@ -82730,7 +83026,7 @@ window.HOT_ARCHIVE={
         },
         {
           "cat": "社会",
-          "score": 1129511,
+          "score": 1147026,
           "title": "第42个教师节：尊师叙事从节日祝福转向职业价值与教育家精神",
           "hook": "9月10日第42个教师节，官方微视频集中呈现教师在品格、信念与成长中的长期作用。适合进一步讨论教师职业吸引力、乡村与特教岗位支持、评价机制和减负，让节日表达落到制度与日常尊重。",
           "platform": "新华网",
@@ -82781,13 +83077,13 @@ window.HOT_ARCHIVE={
               "duration": "01:19",
               "published": "2026-09-09",
               "metrics": {
-                "views": "345711",
-                "likes": "35989",
-                "favorites": "1659",
-                "comments": "687",
-                "shares": "732"
+                "views": "352036",
+                "likes": "36490",
+                "favorites": "1681",
+                "comments": "711",
+                "shares": "740"
               },
-              "captured": "2026-09-10 15:08",
+              "captured": "2026-09-10 15:39",
               "status": "9月10日14:42哔哩哔哩热门榜新增；平台公开接口已核验账号、标题、发布时间、时长、原始链接及全部公开互动数据；作为教师节社会情绪与传播样本收录",
               "metricHistory": [
                 {
@@ -82809,6 +83105,16 @@ window.HOT_ARCHIVE={
                     "comments": "687",
                     "shares": "732"
                   }
+                },
+                {
+                  "captured": "2026-09-10 15:39",
+                  "metrics": {
+                    "views": "352036",
+                    "likes": "36490",
+                    "favorites": "1681",
+                    "comments": "711",
+                    "shares": "740"
+                  }
                 }
               ]
             }
@@ -82816,7 +83122,7 @@ window.HOT_ARCHIVE={
         },
         {
           "cat": "社会",
-          "score": 912886,
+          "score": 942597,
           "title": "给蜜蜂喂糖酿出紫色蜜：养蜂操作为何被误读成“造假”",
           "hook": "养蜂人用火龙果和糖水做实验的视频引发“是否假蜂蜜”的讨论。适合区分越冬或缺蜜期补饲、实验性饲喂与商品蜂蜜标准，延伸到食品标签、科普表达和消费者信任；是否可销售及质量判断应以监管标准和检测为准。",
           "platform": "哔哩哔哩",
@@ -82838,13 +83144,13 @@ window.HOT_ARCHIVE={
               "duration": "06:13",
               "published": "2026-09-09",
               "metrics": {
-                "views": "392436",
-                "likes": "22303",
-                "favorites": "1671",
-                "comments": "1535",
-                "shares": "365"
+                "views": "406802",
+                "likes": "22980",
+                "favorites": "1716",
+                "comments": "1567",
+                "shares": "376"
               },
-              "captured": "2026-09-10 15:08",
+              "captured": "2026-09-10 15:39",
               "status": "9月10日补扫发现的近48小时高互动内容；平台公开接口已核验账号、标题、发布时间、时长、原始链接及全部公开互动数据；实验过程来自作者展示，食品结论以监管检测为准",
               "metricHistory": [
                 {
@@ -83036,6 +83342,16 @@ window.HOT_ARCHIVE={
                     "comments": "1535",
                     "shares": "365"
                   }
+                },
+                {
+                  "captured": "2026-09-10 15:39",
+                  "metrics": {
+                    "views": "406802",
+                    "likes": "22980",
+                    "favorites": "1716",
+                    "comments": "1567",
+                    "shares": "376"
+                  }
                 }
               ]
             }
@@ -83043,7 +83359,7 @@ window.HOT_ARCHIVE={
         },
         {
           "cat": "财经",
-          "score": 806495,
+          "score": 825465,
           "title": "五毛钱铁板豆腐卖到意大利：小摊出海的成本、定价与文化溢价",
           "hook": "华人在意大利摆摊卖中餐的视频持续升温，用极低食材成本测试海外消费者反馈。适合拆解原料、人工、摊位、合规与税费如何重构毛利，也能讨论中餐出海究竟靠低价、猎奇还是稳定复购；经营数据以作者自述为准。",
           "platform": "哔哩哔哩",
@@ -83065,13 +83381,13 @@ window.HOT_ARCHIVE={
               "duration": "05:27",
               "published": "2026-09-09",
               "metrics": {
-                "views": "307845",
-                "likes": "22409",
-                "favorites": "1218",
-                "comments": "1084",
-                "shares": "170"
+                "views": "315385",
+                "likes": "22935",
+                "favorites": "1256",
+                "comments": "1094",
+                "shares": "173"
               },
-              "captured": "2026-09-10 15:08",
+              "captured": "2026-09-10 15:39",
               "status": "9月10日补扫发现的近48小时持续升温内容；平台公开接口已核验账号、标题、发布时间、时长、原始链接及全部公开互动数据；成本和顾客反馈属于作者记录",
               "metricHistory": [
                 {
@@ -83263,6 +83579,16 @@ window.HOT_ARCHIVE={
                     "comments": "1084",
                     "shares": "170"
                   }
+                },
+                {
+                  "captured": "2026-09-10 15:39",
+                  "metrics": {
+                    "views": "315385",
+                    "likes": "22935",
+                    "favorites": "1256",
+                    "comments": "1094",
+                    "shares": "173"
+                  }
                 }
               ]
             }
@@ -83270,7 +83596,7 @@ window.HOT_ARCHIVE={
         },
         {
           "cat": "社会",
-          "score": 368484,
+          "score": 368675,
           "title": "癌症为何常先转移到肝：一条热门科普拆解器官“第一站”机制",
           "hook": "一条解释癌细胞为何常经血流到达肝脏的视频进入 B站热门。适合从门静脉循环、肝脏血流量和肿瘤微环境切入，澄清“常见转移部位”不等于所有癌症都遵循同一路径，并提醒具体筛查与治疗应听从专业医生。",
           "platform": "哔哩哔哩",
@@ -83292,13 +83618,13 @@ window.HOT_ARCHIVE={
               "duration": "06:07",
               "published": "2026-09-09",
               "metrics": {
-                "views": "187974",
-                "likes": "5483",
+                "views": "188145",
+                "likes": "5484",
                 "favorites": "4168",
                 "comments": "74",
                 "shares": "216"
               },
-              "captured": "2026-09-10 15:08",
+              "captured": "2026-09-10 15:39",
               "status": "9月10日重点名单扫描完成后的 B站热门补充；平台公开接口已核验账号、标题、发布时间、时长、原始链接及全部公开互动数据；医学解释属于科普内容，个体诊疗以专业医生意见为准",
               "metricHistory": [
                 {
@@ -83410,6 +83736,64 @@ window.HOT_ARCHIVE={
                     "comments": "74",
                     "shares": "216"
                   }
+                },
+                {
+                  "captured": "2026-09-10 15:39",
+                  "metrics": {
+                    "views": "188145",
+                    "likes": "5484",
+                    "favorites": "4168",
+                    "comments": "74",
+                    "shares": "216"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "cat": "科技",
+          "score": 265432,
+          "title": "vivo X500 Pro Max 开箱登榜：旗舰手机继续用外观与影像制造换机理由",
+          "hook": "vivo X500 Pro Max 开箱视频进入B站热门，家庭成员共同体验的叙事让新品外观和使用感受更具传播性。适合跟进旗舰手机在同质化阶段如何靠设计、影像和场景化表达争夺换机用户；具体体验以作者展示为准。",
+          "platform": "哔哩哔哩",
+          "source": "https://www.bilibili.com/video/BV1fVYK6YEmQ/",
+          "tags": [
+            "vivo",
+            "X500 Pro Max",
+            "智能手机",
+            "消费电子",
+            "旗舰机",
+            "换机周期",
+            "影像"
+          ],
+          "videos": [
+            {
+              "title": "晚爸晚妈合体！vivo X500 Pro Max开箱，外观不一样哦！",
+              "url": "https://www.bilibili.com/video/BV1fVYK6YEmQ/",
+              "platform": "哔哩哔哩",
+              "creator": "科技体验派",
+              "duration": "09:29",
+              "published": "2026-09-10",
+              "metrics": {
+                "views": "73597",
+                "likes": "6695",
+                "favorites": "1187",
+                "comments": "188",
+                "shares": "1181"
+              },
+              "captured": "2026-09-10 15:39",
+              "status": "9月10日15:37哔哩哔哩热门榜新增；平台公开接口已核验账号、标题、发布时间、时长、原始链接及全部公开互动数据；外观与体验判断属于创作者观点",
+              "metricHistory": [
+                {
+                  "captured": "2026-09-10 15:39",
+                  "metrics": {
+                    "views": "73597",
+                    "likes": "6695",
+                    "favorites": "1187",
+                    "comments": "188",
+                    "shares": "1181"
+                  }
                 }
               ]
             }
@@ -83417,7 +83801,7 @@ window.HOT_ARCHIVE={
         },
         {
           "cat": "股市投资",
-          "score": 8762,
+          "score": 8999,
           "title": "AI重点：Cathie Wood 反驳“AI 是铁路泡沫”，收入兑现成为资本开支核心检验",
           "hook": "ARK Invest 用铁路建设作对照，认为 AI 基础设施并非只押注遥远需求，现实收入已在快速形成。适合讨论 AI 资本开支是否过热，以及模型、算力和应用收入能否支撑估值。",
           "platform": "YouTube / ARK Invest",
@@ -83439,13 +83823,13 @@ window.HOT_ARCHIVE={
               "duration": "01:00",
               "published": "2026-09-09",
               "metrics": {
-                "views": "5612",
-                "likes": "145",
+                "views": "5789",
+                "likes": "148",
                 "favorites": null,
                 "comments": "10",
                 "shares": null
               },
-              "captured": "2026-09-10 15:08",
+              "captured": "2026-09-10 15:39",
               "status": "重点嘉宾 Cathie Wood 在 ARK Invest 官方频道发布；账号身份、标题、发布时间、时长和原始链接已核验；播放、点赞、评论为本次采集公开值，收藏、转发未公开",
               "metricHistory": [
                 {
@@ -83667,6 +84051,16 @@ window.HOT_ARCHIVE={
                     "comments": "10",
                     "shares": null
                   }
+                },
+                {
+                  "captured": "2026-09-10 15:39",
+                  "metrics": {
+                    "views": "5789",
+                    "likes": "148",
+                    "favorites": null,
+                    "comments": "10",
+                    "shares": null
+                  }
                 }
               ]
             }
@@ -83674,7 +84068,7 @@ window.HOT_ARCHIVE={
         },
         {
           "cat": "金融",
-          "score": 5454,
+          "score": 5609,
           "title": "美联储沟通转向：透明度下降如何重塑市场定价",
           "hook": "凯文·沃什治下的美联储正进入更少前瞻指引的时期。Goldman Sachs Exchanges 邀请前美联储理事 Donald Kohn、Stephen Miran 与高盛首席经济学家 Jan Hatzius，辩论“适度不透明”能否改善市场信号，以及它对利率预期和波动率的影响。主题标签：美联储、货币政策、前瞻指引、市场定价、波动率、华尔街机构。",
           "platform": "YouTube / Goldman Sachs Exchanges",
@@ -83696,13 +84090,13 @@ window.HOT_ARCHIVE={
               "duration": "22:05",
               "published": "2026-09-09",
               "metrics": {
-                "views": "5454",
+                "views": "5609",
                 "likes": null,
                 "favorites": null,
                 "comments": null,
                 "shares": null
               },
-              "captured": "2026-09-10 15:08",
+              "captured": "2026-09-10 15:39",
               "status": "重点名单节目 Goldman Sachs Exchanges 当日官方新作；账号身份、标题、发布时间、时长与原始视频链接已核验；播放为本次采集公开值，点赞、收藏、评论、转发未公开",
               "metricHistory": [
                 {
@@ -84064,6 +84458,16 @@ window.HOT_ARCHIVE={
                     "comments": null,
                     "shares": null
                   }
+                },
+                {
+                  "captured": "2026-09-10 15:39",
+                  "metrics": {
+                    "views": "5609",
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
                 }
               ]
             }
@@ -84083,7 +84487,7 @@ window.HOT_ARCHIVE={
             "监管版权安全",
             "硅谷科技"
           ],
-          "score": 3724,
+          "score": 4241,
           "source": "https://www.youtube.com/watch?v=O6kJgoUk-RY",
           "videos": [
             {
@@ -84094,13 +84498,13 @@ window.HOT_ARCHIVE={
               "duration": "31:56",
               "published": "2026-09-10",
               "metrics": {
-                "views": "2629",
-                "likes": "51",
+                "views": "3126",
+                "likes": "52",
                 "favorites": null,
                 "comments": "3",
                 "shares": null
               },
-              "captured": "2026-09-10 15:08",
+              "captured": "2026-09-10 15:39",
               "status": "重点节目 TBPN 官方频道于 2026-09-10 08:52（北京时间）发布；账号身份、标题、发布时间、时长和原始链接已核验；播放、点赞为本次采集公开值，收藏、评论、转发未公开；与站内 iPhone Duo 和 Meta Muse 主题相关联",
               "metricHistory": [
                 {
@@ -84272,279 +84676,12 @@ window.HOT_ARCHIVE={
                     "comments": "3",
                     "shares": null
                   }
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "cat": "国际时政",
-          "score": 3234,
-          "title": "AI重点：纽约州用 AI 清理行政规则，同时收紧青少年社媒通知",
-          "hook": "Decoder 同日发布两段纽约州长 Kathy Hochul 访谈：一段讲用 AI 审视州政府规则、政策与委员会，另一段讲限制平台向未成年人发送夜间通知。适合把“政府内部 AI 提效”和“平台监管”放在同一框架下，讨论效率、问责与言论边界。",
-          "platform": "YouTube / Decoder",
-          "source": "https://www.youtube.com/watch?v=jv7___KkdJQ",
-          "tags": [
-            "AI重点",
-            "AI应用商业化",
-            "政府数字化",
-            "监管版权安全",
-            "未成年人保护",
-            "社交平台",
-            "纽约州"
-          ],
-          "videos": [
-            {
-              "title": "The bizarre rules AI found in New York",
-              "url": "https://www.youtube.com/watch?v=jv7___KkdJQ",
-              "platform": "YouTube",
-              "creator": "Decoder with Nilay Patel",
-              "duration": "00:48",
-              "published": "2026-09-09",
-              "metrics": {
-                "views": "1372",
-                "likes": "11",
-                "favorites": null,
-                "comments": "4",
-                "shares": null
-              },
-              "captured": "2026-09-10 15:08",
-              "status": "重点节目 Decoder 官方频道近48小时新视频；YouTube 公开页已核验标题、频道、发布日期、时长、原始链接、播放、点赞与评论；收藏和转发未公开；AI 用途为纽约州长本人在访谈中的陈述",
-              "metricHistory": [
-                {
-                  "captured": "2026-09-10 12:09",
-                  "metrics": {
-                    "views": "1270",
-                    "likes": "11",
-                    "favorites": null,
-                    "comments": "4",
-                    "shares": null
-                  }
                 },
                 {
-                  "captured": "2026-09-10 12:31",
+                  "captured": "2026-09-10 15:39",
                   "metrics": {
-                    "views": "1321",
-                    "likes": "11",
-                    "favorites": null,
-                    "comments": "4",
-                    "shares": null
-                  }
-                },
-                {
-                  "captured": "2026-09-10 12:43",
-                  "metrics": {
-                    "views": "1270",
-                    "likes": "11",
-                    "favorites": null,
-                    "comments": "4",
-                    "shares": null
-                  }
-                },
-                {
-                  "captured": "2026-09-10 13:06",
-                  "metrics": {
-                    "views": "1353",
-                    "likes": "11",
-                    "favorites": null,
-                    "comments": "4",
-                    "shares": null
-                  }
-                },
-                {
-                  "captured": "2026-09-10 13:22",
-                  "metrics": {
-                    "views": "1354",
-                    "likes": "11",
-                    "favorites": null,
-                    "comments": "4",
-                    "shares": null
-                  }
-                },
-                {
-                  "captured": "2026-09-10 13:35",
-                  "metrics": {
-                    "views": "1355",
-                    "likes": "11",
-                    "favorites": null,
-                    "comments": "4",
-                    "shares": null
-                  }
-                },
-                {
-                  "captured": "2026-09-10 13:53",
-                  "metrics": {
-                    "views": "1354",
-                    "likes": "11",
-                    "favorites": null,
-                    "comments": "4",
-                    "shares": null
-                  }
-                },
-                {
-                  "captured": "2026-09-10 14:09",
-                  "metrics": {
-                    "views": "1354",
-                    "likes": "11",
-                    "favorites": null,
-                    "comments": "4",
-                    "shares": null
-                  }
-                },
-                {
-                  "captured": "2026-09-10 14:36",
-                  "metrics": {
-                    "views": "1354",
-                    "likes": "11",
-                    "favorites": null,
-                    "comments": "4",
-                    "shares": null
-                  }
-                },
-                {
-                  "captured": "2026-09-10 14:44",
-                  "metrics": {
-                    "views": "1355",
-                    "likes": "11",
-                    "favorites": null,
-                    "comments": "4",
-                    "shares": null
-                  }
-                },
-                {
-                  "captured": "2026-09-10 15:08",
-                  "metrics": {
-                    "views": "1372",
-                    "likes": "11",
-                    "favorites": null,
-                    "comments": "4",
-                    "shares": null
-                  }
-                }
-              ]
-            },
-            {
-              "title": "Gov. Hochul: New York is tougher on Meta",
-              "url": "https://www.youtube.com/watch?v=u9Y8bgFjX6o",
-              "platform": "YouTube",
-              "creator": "Decoder with Nilay Patel",
-              "duration": "01:17",
-              "published": "2026-09-09",
-              "metrics": {
-                "views": "1167",
-                "likes": "15",
-                "favorites": null,
-                "comments": "3",
-                "shares": null
-              },
-              "captured": "2026-09-10 15:08",
-              "status": "重点节目 Decoder 官方频道近48小时新视频；YouTube 公开页已核验标题、频道、发布日期、时长、原始链接、播放、点赞与评论；收藏和转发未公开；政策立场为纽约州长本人在访谈中的陈述",
-              "metricHistory": [
-                {
-                  "captured": "2026-09-10 12:09",
-                  "metrics": {
-                    "views": "1146",
-                    "likes": "15",
-                    "favorites": null,
-                    "comments": "3",
-                    "shares": null
-                  }
-                },
-                {
-                  "captured": "2026-09-10 12:31",
-                  "metrics": {
-                    "views": "1161",
-                    "likes": "15",
-                    "favorites": null,
-                    "comments": "3",
-                    "shares": null
-                  }
-                },
-                {
-                  "captured": "2026-09-10 12:43",
-                  "metrics": {
-                    "views": "1167",
-                    "likes": "15",
-                    "favorites": null,
-                    "comments": "3",
-                    "shares": null
-                  }
-                },
-                {
-                  "captured": "2026-09-10 13:06",
-                  "metrics": {
-                    "views": "1176",
-                    "likes": "15",
-                    "favorites": null,
-                    "comments": "3",
-                    "shares": null
-                  }
-                },
-                {
-                  "captured": "2026-09-10 13:22",
-                  "metrics": {
-                    "views": "1167",
-                    "likes": "15",
-                    "favorites": null,
-                    "comments": "3",
-                    "shares": null
-                  }
-                },
-                {
-                  "captured": "2026-09-10 13:35",
-                  "metrics": {
-                    "views": "1167",
-                    "likes": "15",
-                    "favorites": null,
-                    "comments": "3",
-                    "shares": null
-                  }
-                },
-                {
-                  "captured": "2026-09-10 13:53",
-                  "metrics": {
-                    "views": "1167",
-                    "likes": "15",
-                    "favorites": null,
-                    "comments": "3",
-                    "shares": null
-                  }
-                },
-                {
-                  "captured": "2026-09-10 14:09",
-                  "metrics": {
-                    "views": "1167",
-                    "likes": "15",
-                    "favorites": null,
-                    "comments": "3",
-                    "shares": null
-                  }
-                },
-                {
-                  "captured": "2026-09-10 14:36",
-                  "metrics": {
-                    "views": "1187",
-                    "likes": "15",
-                    "favorites": null,
-                    "comments": "3",
-                    "shares": null
-                  }
-                },
-                {
-                  "captured": "2026-09-10 14:44",
-                  "metrics": {
-                    "views": "1167",
-                    "likes": "15",
-                    "favorites": null,
-                    "comments": "3",
-                    "shares": null
-                  }
-                },
-                {
-                  "captured": "2026-09-10 15:08",
-                  "metrics": {
-                    "views": "1167",
-                    "likes": "15",
+                    "views": "3126",
+                    "likes": "52",
                     "favorites": null,
                     "comments": "3",
                     "shares": null
@@ -84556,7 +84693,7 @@ window.HOT_ARCHIVE={
         },
         {
           "cat": "科技",
-          "score": 3446,
+          "score": 3762,
           "title": "AI重点：This Week in Startups 追问 OpenAI 数学论文争议，科研验证成焦点",
           "hook": "Jason Calacanis 主持的新一期节目把争论从“AI 是否解出千禧难题”推进到研究流程与学术归属：预印本、模型辅助证明、同行验证与机构传播之间应如何划线。适合延续 OpenAI 数学推理话题，并强调尚无数学界正式确认。",
           "platform": "YouTube / This Week in Startups",
@@ -84579,13 +84716,13 @@ window.HOT_ARCHIVE={
               "duration": "01:20:42",
               "published": "2026-09-09",
               "metrics": {
-                "views": "2706",
+                "views": "3022",
                 "likes": "32",
                 "favorites": null,
                 "comments": "4",
                 "shares": null
               },
-              "captured": "2026-09-10 15:08",
+              "captured": "2026-09-10 15:39",
               "status": "priorityGuests 中 Jason Calacanis 主持的 This Week in Startups 官方频道新一期；北京时间 2026-09-10 07:41 发布，账号、标题、发布时间、时长和原始链接已核验。播放、点赞、评论为本次公开值；收藏、转发未公开。节目讨论 OpenAI 与 Navier–Stokes 预印本争议，观点归因节目参与者，不视为数学界已正式确认解决",
               "metricHistory": [
                 {
@@ -84707,6 +84844,313 @@ window.HOT_ARCHIVE={
                     "comments": "4",
                     "shares": null
                   }
+                },
+                {
+                  "captured": "2026-09-10 15:39",
+                  "metrics": {
+                    "views": "3022",
+                    "likes": "32",
+                    "favorites": null,
+                    "comments": "4",
+                    "shares": null
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "cat": "国际时政",
+          "score": 3234,
+          "title": "AI重点：纽约州用 AI 清理行政规则，同时收紧青少年社媒通知",
+          "hook": "Decoder 同日发布两段纽约州长 Kathy Hochul 访谈：一段讲用 AI 审视州政府规则、政策与委员会，另一段讲限制平台向未成年人发送夜间通知。适合把“政府内部 AI 提效”和“平台监管”放在同一框架下，讨论效率、问责与言论边界。",
+          "platform": "YouTube / Decoder",
+          "source": "https://www.youtube.com/watch?v=jv7___KkdJQ",
+          "tags": [
+            "AI重点",
+            "AI应用商业化",
+            "政府数字化",
+            "监管版权安全",
+            "未成年人保护",
+            "社交平台",
+            "纽约州"
+          ],
+          "videos": [
+            {
+              "title": "The bizarre rules AI found in New York",
+              "url": "https://www.youtube.com/watch?v=jv7___KkdJQ",
+              "platform": "YouTube",
+              "creator": "Decoder with Nilay Patel",
+              "duration": "00:48",
+              "published": "2026-09-09",
+              "metrics": {
+                "views": "1372",
+                "likes": "11",
+                "favorites": null,
+                "comments": "4",
+                "shares": null
+              },
+              "captured": "2026-09-10 15:39",
+              "status": "重点节目 Decoder 官方频道近48小时新视频；YouTube 公开页已核验标题、频道、发布日期、时长、原始链接、播放、点赞与评论；收藏和转发未公开；AI 用途为纽约州长本人在访谈中的陈述",
+              "metricHistory": [
+                {
+                  "captured": "2026-09-10 12:09",
+                  "metrics": {
+                    "views": "1270",
+                    "likes": "11",
+                    "favorites": null,
+                    "comments": "4",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:31",
+                  "metrics": {
+                    "views": "1321",
+                    "likes": "11",
+                    "favorites": null,
+                    "comments": "4",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:43",
+                  "metrics": {
+                    "views": "1270",
+                    "likes": "11",
+                    "favorites": null,
+                    "comments": "4",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:06",
+                  "metrics": {
+                    "views": "1353",
+                    "likes": "11",
+                    "favorites": null,
+                    "comments": "4",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:22",
+                  "metrics": {
+                    "views": "1354",
+                    "likes": "11",
+                    "favorites": null,
+                    "comments": "4",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:35",
+                  "metrics": {
+                    "views": "1355",
+                    "likes": "11",
+                    "favorites": null,
+                    "comments": "4",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:53",
+                  "metrics": {
+                    "views": "1354",
+                    "likes": "11",
+                    "favorites": null,
+                    "comments": "4",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:09",
+                  "metrics": {
+                    "views": "1354",
+                    "likes": "11",
+                    "favorites": null,
+                    "comments": "4",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:36",
+                  "metrics": {
+                    "views": "1354",
+                    "likes": "11",
+                    "favorites": null,
+                    "comments": "4",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:44",
+                  "metrics": {
+                    "views": "1355",
+                    "likes": "11",
+                    "favorites": null,
+                    "comments": "4",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 15:08",
+                  "metrics": {
+                    "views": "1372",
+                    "likes": "11",
+                    "favorites": null,
+                    "comments": "4",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 15:39",
+                  "metrics": {
+                    "views": "1372",
+                    "likes": "11",
+                    "favorites": null,
+                    "comments": "4",
+                    "shares": null
+                  }
+                }
+              ]
+            },
+            {
+              "title": "Gov. Hochul: New York is tougher on Meta",
+              "url": "https://www.youtube.com/watch?v=u9Y8bgFjX6o",
+              "platform": "YouTube",
+              "creator": "Decoder with Nilay Patel",
+              "duration": "01:17",
+              "published": "2026-09-09",
+              "metrics": {
+                "views": "1167",
+                "likes": "15",
+                "favorites": null,
+                "comments": "3",
+                "shares": null
+              },
+              "captured": "2026-09-10 15:39",
+              "status": "重点节目 Decoder 官方频道近48小时新视频；YouTube 公开页已核验标题、频道、发布日期、时长、原始链接、播放、点赞与评论；收藏和转发未公开；政策立场为纽约州长本人在访谈中的陈述",
+              "metricHistory": [
+                {
+                  "captured": "2026-09-10 12:09",
+                  "metrics": {
+                    "views": "1146",
+                    "likes": "15",
+                    "favorites": null,
+                    "comments": "3",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:31",
+                  "metrics": {
+                    "views": "1161",
+                    "likes": "15",
+                    "favorites": null,
+                    "comments": "3",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:43",
+                  "metrics": {
+                    "views": "1167",
+                    "likes": "15",
+                    "favorites": null,
+                    "comments": "3",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:06",
+                  "metrics": {
+                    "views": "1176",
+                    "likes": "15",
+                    "favorites": null,
+                    "comments": "3",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:22",
+                  "metrics": {
+                    "views": "1167",
+                    "likes": "15",
+                    "favorites": null,
+                    "comments": "3",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:35",
+                  "metrics": {
+                    "views": "1167",
+                    "likes": "15",
+                    "favorites": null,
+                    "comments": "3",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:53",
+                  "metrics": {
+                    "views": "1167",
+                    "likes": "15",
+                    "favorites": null,
+                    "comments": "3",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:09",
+                  "metrics": {
+                    "views": "1167",
+                    "likes": "15",
+                    "favorites": null,
+                    "comments": "3",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:36",
+                  "metrics": {
+                    "views": "1187",
+                    "likes": "15",
+                    "favorites": null,
+                    "comments": "3",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:44",
+                  "metrics": {
+                    "views": "1167",
+                    "likes": "15",
+                    "favorites": null,
+                    "comments": "3",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 15:08",
+                  "metrics": {
+                    "views": "1167",
+                    "likes": "15",
+                    "favorites": null,
+                    "comments": "3",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 15:39",
+                  "metrics": {
+                    "views": "1167",
+                    "likes": "15",
+                    "favorites": null,
+                    "comments": "3",
+                    "shares": null
+                  }
                 }
               ]
             }
@@ -84736,13 +85180,13 @@ window.HOT_ARCHIVE={
               "duration": "39:23",
               "published": "2026-09-09",
               "metrics": {
-                "views": "1316",
+                "views": "1333",
                 "likes": "12",
                 "favorites": null,
                 "comments": "1",
                 "shares": null
               },
-              "captured": "2026-09-10 15:08",
+              "captured": "2026-09-10 15:39",
               "status": "重点名单嘉宾 Reid Hoffman 官方频道当日访谈；频道、标题、发布时间、时长和原始链接已核验；本次采集公开播放为 2，点赞、收藏、评论、转发未公开",
               "metricHistory": [
                 {
@@ -85214,15 +85658,25 @@ window.HOT_ARCHIVE={
                     "comments": "1",
                     "shares": null
                   }
+                },
+                {
+                  "captured": "2026-09-10 15:39",
+                  "metrics": {
+                    "views": "1333",
+                    "likes": "12",
+                    "favorites": null,
+                    "comments": "1",
+                    "shares": null
+                  }
                 }
               ]
             }
           ],
-          "score": 1581
+          "score": 1598
         },
         {
           "cat": "金融",
-          "score": 892,
+          "score": 932,
           "title": "Odd Lots 百元钞洗钱短版上线：数字支付时代现金需求为何仍旺",
           "hook": "Bloomberg Television 发布 Odd Lots 节目的 83 秒官方短版，聚焦百元钞在贸易型洗钱与平行金融网络中的角色。适合解释现金需求、跨境结算、银行合规和反洗钱成本之间的张力；现金使用本身不应被等同于犯罪。",
           "platform": "YouTube / Odd Lots",
@@ -85244,13 +85698,13 @@ window.HOT_ARCHIVE={
               "duration": "01:23",
               "published": "2026-09-09",
               "metrics": {
-                "views": "652",
+                "views": "692",
                 "likes": "12",
                 "favorites": null,
                 "comments": null,
                 "shares": null
               },
-              "captured": "2026-09-10 15:08",
+              "captured": "2026-09-10 15:39",
               "status": "重点节目 Odd Lots 的 Bloomberg Television 官方短版；2026-09-10 约 08:28（北京时间）上线，账号、标题、发布时间、时长和原始链接已核验；播放、点赞为本次公开值，收藏、评论、转发未公开；与站内 Apple Podcasts 及 Bloomberg Podcasts 长版为同内容关联版本",
               "metricHistory": [
                 {
@@ -85402,6 +85856,16 @@ window.HOT_ARCHIVE={
                     "comments": null,
                     "shares": null
                   }
+                },
+                {
+                  "captured": "2026-09-10 15:39",
+                  "metrics": {
+                    "views": "692",
+                    "likes": "12",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
                 }
               ]
             }
@@ -85409,7 +85873,7 @@ window.HOT_ARCHIVE={
         },
         {
           "cat": "科技",
-          "score": 769,
+          "score": 862,
           "title": "AI重点：Sonos 与 Google 继续谈 Gemini 接入，语音入口之争回到合作现实",
           "hook": "Sonos CEO Tom Conrad 表示，公司希望延续与 Google 的合作，并继续讨论让 Gemini 进入 Sonos 产品。适合追踪生成式 AI 助手如何落地家庭硬件，以及平台控制、兼容性、数据权限和生态谈判如何决定用户能否真正用上新模型。",
           "platform": "YouTube / Decoder",
@@ -85432,13 +85896,13 @@ window.HOT_ARCHIVE={
               "duration": "00:32",
               "published": "2026-09-09",
               "metrics": {
-                "views": "629",
+                "views": "722",
                 "likes": "7",
                 "favorites": null,
                 "comments": null,
                 "shares": null
               },
-              "captured": "2026-09-10 15:08",
+              "captured": "2026-09-10 15:39",
               "status": "重点节目 Decoder 官方频道近48小时新视频；YouTube 公开页已核验标题、频道、发布日期、时长、原始链接、播放与点赞；评论、收藏和转发未公开；合作进展为 Sonos CEO 本人在访谈中的陈述",
               "metricHistory": [
                 {
@@ -85550,6 +86014,16 @@ window.HOT_ARCHIVE={
                     "comments": null,
                     "shares": null
                   }
+                },
+                {
+                  "captured": "2026-09-10 15:39",
+                  "metrics": {
+                    "views": "722",
+                    "likes": "7",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
                 }
               ]
             }
@@ -85577,14 +86051,14 @@ window.HOT_ARCHIVE={
               "duration": "02:40:15",
               "published": "2026-09-09",
               "metrics": {
-                "views": "403",
+                "views": "423",
                 "likes": "2",
                 "favorites": null,
                 "comments": null,
                 "shares": null
               },
               "status": "重点名单节目 The Cognitive Revolution 当日官方直播；账号、标题、发布时间与原始链接已核验；采集时直播进行中，播放与点赞为当时公开值，时长、收藏、评论、转发未公开",
-              "captured": "2026-09-10 15:08",
+              "captured": "2026-09-10 15:39",
               "metricHistory": [
                 {
                   "captured": "2026-09-10 02:07",
@@ -85885,12 +86359,22 @@ window.HOT_ARCHIVE={
                     "comments": null,
                     "shares": null
                   }
+                },
+                {
+                  "captured": "2026-09-10 15:39",
+                  "metrics": {
+                    "views": "423",
+                    "likes": "2",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
                 }
               ]
             }
           ],
           "source": "https://www.youtube.com/watch?v=lGwmnQrN4Es",
-          "score": 443
+          "score": 463
         },
         {
           "cat": "国际时政",
