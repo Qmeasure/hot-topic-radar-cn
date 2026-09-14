@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-14T00:02:10.244Z",
+  "updatedAt": "2026-09-14T11:13:42+08:00",
   "profiles": [
     {
       "name": "William留学择校",
@@ -1623,6 +1623,19 @@
       "followerCount": 30195,
       "signature": "",
       "status": "TikHub 昵称精确匹配并已绑定"
+    },
+    {
+      "name": "李尚龙",
+      "displayName": "李尚龙",
+      "platform": "视频号",
+      "matchStatus": "verified",
+      "matchedName": "李尚龙",
+      "username": "v2_060000231003b20faec8c6e58a18c2d7cf0cec32b07746d20d26f40e2fb6eabfbd7d39e42832@finder",
+      "profileUrl": "https://weixin.qq.com/sph/A9bWWOKxg1",
+      "followerCount": null,
+      "signature": "李尚龙：\nAIFA 董事长（纳斯达克）\nAivolution Venture 创始合伙人 \n写字的",
+      "totalVideos": 1310,
+      "status": "TikHub 视频号昵称、简介与作品来源均已精确核验；平台未提供独立公开主页链接，入口指向最新作品。"
     }
   ]
 }

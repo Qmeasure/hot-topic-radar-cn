@@ -2416,6 +2416,21 @@ window.BENCHMARK_DATA={
         "status": "已核验 1 条本月候选视频"
       },
       {
+        "id": "ai-wechat-li-shanglong",
+        "name": "李尚龙",
+        "section": "AI",
+        "platform": "视频号",
+        "profileUrl": "https://weixin.qq.com/sph/A9bWWOKxg1",
+        "status": "TikHub 视频号昵称、简介与作品来源均已精确核验；平台未提供独立公开主页链接，入口指向最新作品。",
+        "matchStatus": "verified",
+        "username": "v2_060000231003b20faec8c6e58a18c2d7cf0cec32b07746d20d26f40e2fb6eabfbd7d39e42832@finder",
+        "matchedName": "李尚龙",
+        "followerCount": null,
+        "totalVideos": 1310,
+        "signature": "李尚龙：\nAIFA 董事长（纳斯达克）\nAivolution Venture 创始合伙人 \n写字的",
+        "region": "浙江"
+      },
+      {
         "id": "podcast-person-001",
         "name": "Gavin Baker",
         "section": "播客",
@@ -2453,6 +2468,48 @@ window.BENCHMARK_DATA={
     "timezone": "Asia/Shanghai",
     "collectionStatus": "TikHub Douyin App V3 最近 45 天增量同步；本次新增 50 条，2 个账号存在待确认或异常。未公开指标保留为空。",
     "videos": [
+      {
+        "id": "wechat-channels-15010201473658456952",
+        "platformVideoId": "15010201473658456952",
+        "creatorId": "ai-wechat-li-shanglong",
+        "platform": "视频号",
+        "title": "硅谷三大死对头统一喊话放缓AI!#AI#达里奥#奥特曼#马斯克",
+        "url": "https://weixin.qq.com/sph/AFrRoaHaxP",
+        "rawVideoUrl": "http://wxapp.tc.qq.com/251/20302/stodownload?encfilekey=nLWUlAoVvyy6rsnY4VISZLu6mbmrSHWPmv7xzwof1XwSqDnXqcPZZ1Z0GmDV07CDfJpW8Kun0sCz08zyN4OHTg&bizid=1023&dotrans=0&hy=SH&idx=1&m=&uzid=7a21a&token=2lt8WBSnjTm2Bus06w68fqW32PBcOldnAXvXSoicibCibbKng912X9NJwoZic18wQFLTowV7FJJAq70f7ibGGHxyicHHKJnfsIOV1sCHegFYZ2icFuGNricOzcJPuRn4Tt389uUJpqVc4PIvLW7quLFWYWnJjdlBa3lT0ZsuNKibMFmyre2BEuzLMgmGSVg3DJPwPc0fRcfibXNNFeAybib2yCvpFXQbkuYDricELzRxsdKASxZiaXko&basedata=CAMSBnhXVDExMyIlCggKBnhXVDExMwoICgZ4V1QxMTMKCAoGeFdUMTEzCgUKA3hBMjABOgIIAkIwnKqlp4YQzz6BgiIV85JWNGP8lDFbQlLjZY4lsFLct2o5w5ZprPAVmGqh1grSvoSASOrMndUG&sign=CM95zSldXrc23_V036SWt1eyKVsvT7NT8me0MIOZtHKwCoohB_nyBxvlUzmxrsa9DOOUdvazmWg4YtTtuhELFg&extg=274a00&ftype=642&svrbypass=AAuL%2FQsFAAABAAAAAAA05nxVaBBrutQ5aWanahAAAADnaHZTnGbFfAj9RgZXfw6VTp27TfXQAoCTvY0FuY8qniisBspjfjZZmpPugm4GVIooneIqmffAQc0%3D&svrnonce=1789355625",
+        "rawVideoKind": "direct-expiring",
+        "publishedAt": "2026-09-14T11:10:53+08:00",
+        "publishedPrecision": "datetime",
+        "durationSeconds": 275,
+        "metrics": {
+          "views": null,
+          "likes": 0,
+          "comments": 0,
+          "favorites": 1,
+          "shares": 0
+        },
+        "capturedAt": "2026-09-14T11:13:42+08:00",
+        "metricHistory": [
+          {
+            "capturedAt": "2026-09-14T11:13:42+08:00",
+            "source": "TikHub WeChat Channels V2",
+            "metrics": {
+              "views": null,
+              "likes": 0,
+              "comments": 0,
+              "favorites": 1,
+              "shares": 0
+            }
+          }
+        ],
+        "analysis": {
+          "topic": "AI应用",
+          "summary": "按标题关键词自动归类；内容观点尚未人工复核。",
+          "tags": [
+            "AI应用"
+          ]
+        },
+        "status": "TikHub 视频号 V2 已核验；播放量未公开；已生成微信分享链接。"
+      },
       {
         "id": "douyin-7684969931573644587",
         "platformVideoId": "7684969931573644587",
@@ -2620,6 +2677,48 @@ window.BENCHMARK_DATA={
           ]
         },
         "status": "TikHub Douyin App V3 已核验；原始播放地址为时效链接。"
+      },
+      {
+        "id": "wechat-channels-15010045008714599240",
+        "platformVideoId": "15010045008714599240",
+        "creatorId": "ai-wechat-li-shanglong",
+        "platform": "视频号",
+        "title": "字节 “世界模型 ”张一鸣亲自调兵#字节#世界模型#张一鸣",
+        "url": "https://weixin.qq.com/sph/A7So6BVfk5",
+        "rawVideoUrl": "http://wxapp.tc.qq.com/251/20302/stodownload?encfilekey=nLWUlAoVvyyTuyEWaiaiaCRMtibQJzTiaMWiagDMmU4Wic1U5HicxicG9XJnYFeDumAo1IfqfnltF2tv0J0m4ItibOHtT2A&bizid=1023&dotrans=0&hy=SH&idx=1&m=&uzid=7a22e&token=2lt8WBSnjTm2Bus06w68fhMTaQo4SYN25wWuT2VZCEBbp8icyicWzicKbmh2Z4vmAD7GLkeU7cuibtYfKpb6avic6ppsjR8Lr8qBmdmPttjClVpiak0RaNygS6bfQuyCr6bD5d9H0TYWB0Zh5nOHMUITTib7JIwCA0CHh1fypDJNDFpCarYknHlG2q2jBiarKQMKwePiarkMibyGTtxyo6mTwOfcX9BrGq2XiaGNibwLfAkHB7fds74&basedata=CAMSBnhXVDExMyInCggKBnhXVDExMwoKCgZ4V1QxMTIQAQoICgZ4V1QxMTEKBQoDeEEyOgIIAkIwnynxYiHcJTvS8szaam-jzD1Fk6BKiUKzesth17AA2lxJPHoLoe7qTd-rgbAGJWHKSOrMndUG&sign=pVcV0sSxgU_1EwlbtEjLfDMEbpWKCea9JvZjttFkOO8Uw2mS9sTkmIY57aiWrMvYAkQgZojitzyo0-q5DASk9g&extg=1074a00&svrbypass=AAuL%2FQsFAAABAAAAAADr%2FqbpHjA2xYrdaWanahAAAADnaHZTnGbFfAj9RgZXfw6VTp27TfXQArCT1dZo4qoqniisBspjfjZZmsmb8w3V%2Bj2MOp5DRpxcL0Q%3D&svrnonce=1789355625",
+        "rawVideoKind": "direct-expiring",
+        "publishedAt": "2026-09-14T06:00:01+08:00",
+        "publishedPrecision": "datetime",
+        "durationSeconds": 303,
+        "metrics": {
+          "views": null,
+          "likes": 378,
+          "comments": 70,
+          "favorites": 984,
+          "shares": 1509
+        },
+        "capturedAt": "2026-09-14T11:13:42+08:00",
+        "metricHistory": [
+          {
+            "capturedAt": "2026-09-14T11:13:42+08:00",
+            "source": "TikHub WeChat Channels V2",
+            "metrics": {
+              "views": null,
+              "likes": 378,
+              "comments": 70,
+              "favorites": 984,
+              "shares": 1509
+            }
+          }
+        ],
+        "analysis": {
+          "topic": "AI应用",
+          "summary": "按标题关键词自动归类；内容观点尚未人工复核。",
+          "tags": [
+            "AI应用"
+          ]
+        },
+        "status": "TikHub 视频号 V2 已核验；播放量未公开；已生成微信分享链接。"
       },
       {
         "id": "douyin-7685066167526423205",
@@ -4302,6 +4401,48 @@ window.BENCHMARK_DATA={
         "status": "TikHub Douyin App V3 已核验；原始播放地址为时效链接。"
       },
       {
+        "id": "wechat-channels-15009493679069137840",
+        "platformVideoId": "15009493679069137840",
+        "creatorId": "ai-wechat-li-shanglong",
+        "platform": "视频号",
+        "title": "数学家降成牧羊人AI正在颠覆数学#AI#数学",
+        "url": "https://weixin.qq.com/sph/AYyvRPlsSM",
+        "rawVideoUrl": "http://wxapp.tc.qq.com/251/20302/stodownload?encfilekey=nLWUlAoVvywnuZhvHUrNacmz311DbD3VdR8icInA08U97ubGSNJ533DMgExRnLIpeVJibgMbd0icgmiaWNryGNVyVQ&bizid=1023&dotrans=0&hy=SH&idx=1&m=&uzid=7a15c&token=2lt8WBSnjTm2Bus06w68fopzJb7UNI6iar1Cicys3EaF7I4E20b8mMEmIialKblSXQp2kVQdjsx2Lb231YILg9bHqTsL7GRGmhBxtPIP6ibQicLo4JvMHncwhVNLRmWTkmgR5B0k5KN3fPp291hemF1wlU16728EzxzicRGfdmM9qHwhEJdXkpA9b4ibAZgHC7YpCG7gTrSOO3V9j7fbcGahQ6o3bF738VFqzKauIcTibkKMuwY&basedata=CAMSBnhXVDExMyInCggKBnhXVDExMwoKCgZ4V1QxMTIQAQoICgZ4V1QxMTEKBQoDeEEyOgIIAkIwnUjnL5EC0shAQ7OvmiNKXNuI1LbQi6kGZDBcVZ1TgOmM886f9caOn5bjzMd9poDMSOrMndUG&sign=KXcUpYTQwCPfwOWB3CPjfSRlBT6bdkQ3cfq9xwzj51Xbj-8tmyGJsZVbHPaGIXxWbt9BAJKrD4CyY2ZQK81oJg&extg=1074a00&svrbypass=AAuL%2FQsFAAABAAAAAACF%2BB805ycnGUciaWanahAAAADnaHZTnGbFfAj9RgZXfw6VTp27TfXQAsiS5dVBsKgrniisBspjfjZZmivKoEjjgP62eG8JvlestjQ%3D&svrnonce=1789355625",
+        "rawVideoKind": "direct-expiring",
+        "publishedAt": "2026-09-13T11:44:38+08:00",
+        "publishedPrecision": "datetime",
+        "durationSeconds": 291,
+        "metrics": {
+          "views": null,
+          "likes": 841,
+          "comments": 75,
+          "favorites": 2016,
+          "shares": 3196
+        },
+        "capturedAt": "2026-09-14T11:13:42+08:00",
+        "metricHistory": [
+          {
+            "capturedAt": "2026-09-14T11:13:42+08:00",
+            "source": "TikHub WeChat Channels V2",
+            "metrics": {
+              "views": null,
+              "likes": 841,
+              "comments": 75,
+              "favorites": 2016,
+              "shares": 3196
+            }
+          }
+        ],
+        "analysis": {
+          "topic": "AI应用",
+          "summary": "按标题关键词自动归类；内容观点尚未人工复核。",
+          "tags": [
+            "AI应用"
+          ]
+        },
+        "status": "TikHub 视频号 V2 已核验；播放量未公开；已生成微信分享链接。"
+      },
+      {
         "id": "douyin-7684198951091768639",
         "platformVideoId": "7684198951091768639",
         "creatorId": "source-kfXgkf5JAl71WI3v",
@@ -4806,6 +4947,48 @@ window.BENCHMARK_DATA={
           ]
         },
         "status": "TikHub Douyin App V3 已核验；原始播放地址为时效链接。"
+      },
+      {
+        "id": "wechat-channels-15009320232637107071",
+        "platformVideoId": "15009320232637107071",
+        "creatorId": "ai-wechat-li-shanglong",
+        "platform": "视频号",
+        "title": "出生率暴跌，7条趋势关乎每个家庭！#出生率#幼儿园#孩子",
+        "url": "https://weixin.qq.com/sph/AjyN2YUdPT",
+        "rawVideoUrl": "http://wxapp.tc.qq.com/251/20302/stodownload?encfilekey=nLWUlAoVvywRqwfdjzFqqQtFicmkoeTmuK0B4fuibP274uY6qqfmZTIZlTektXibFA3QnsVQDq187JN3X8eHFfhTw&bizid=1023&dotrans=0&hy=SH&idx=1&m=&uzid=7a21a&token=ic1n0xDG6aw8WaARX13CPavJv85L4RekfmIJdtK0OAr8IibQGGeupQ5McNNicYAVGpZTjIWcJthJYqYHY17MQlKXaamy5yCr1ntwI4UxfgJxjerueliaSgNh9p0iaicG4bpGBeTPzACiaIYpqN4iaNo15rw0znUZjf9UjEicPWz5ic5gnybGA7hNNF41B9J7teFOFbL6RXCstrjy3yJqaTiaqR5026YOYqQAELAyVibyuyMXkw52xI4&basedata=CAMSBnhXVDExMyInCggKBnhXVDExMwoKCgZ4V1QxMTIQAQoICgZ4V1QxMTEKBQoDeEEyOgIIAkIwwgJSPYlmlsg1EykZhLYBB-x0NDhwlIJBfbn8sIvR1biqiKp0hhSJecLaZw0KgDssSOrMndUG&sign=LBscDlXs58VcTFgDvatFVQuMLrcb2wbTkcwEarA8In8spUxAk-VZrOj2jUPsoXvee6szfSB_TXKj6c_xDesk1Q&extg=1074a00&svrbypass=AAuL%2FQsFAAABAAAAAAAd1wplSN3MEScIaWanahAAAADnaHZTnGbFfAj9RgZXfw6VTp27TfXQAoeTxf1LyMconiisBspjfjZZmgrsyuGCZoXqZ4KFD6QnDxw%3D&svrnonce=1789355625",
+        "rawVideoKind": "direct-expiring",
+        "publishedAt": "2026-09-13T06:00:01+08:00",
+        "publishedPrecision": "datetime",
+        "durationSeconds": 351,
+        "metrics": {
+          "views": null,
+          "likes": 17902,
+          "comments": 1313,
+          "favorites": 35702,
+          "shares": 124787
+        },
+        "capturedAt": "2026-09-14T11:13:42+08:00",
+        "metricHistory": [
+          {
+            "capturedAt": "2026-09-14T11:13:42+08:00",
+            "source": "TikHub WeChat Channels V2",
+            "metrics": {
+              "views": null,
+              "likes": 17902,
+              "comments": 1313,
+              "favorites": 35702,
+              "shares": 124787
+            }
+          }
+        ],
+        "analysis": {
+          "topic": "认知成长",
+          "summary": "按标题关键词自动归类；内容观点尚未人工复核。",
+          "tags": [
+            "认知成长"
+          ]
+        },
+        "status": "TikHub 视频号 V2 已核验；播放量未公开；已生成微信分享链接。"
       },
       {
         "id": "douyin-7684690073564678278",
@@ -7604,6 +7787,48 @@ window.BENCHMARK_DATA={
         "status": "TikHub Douyin App V3 已核验；原始播放地址为时效链接。"
       },
       {
+        "id": "wechat-channels-15008683329871743925",
+        "platformVideoId": "15008683329871743925",
+        "creatorId": "ai-wechat-li-shanglong",
+        "platform": "视频号",
+        "title": "Anthropic点名七家中国公司，你还好意思说别人？",
+        "url": "https://weixin.qq.com/sph/AwjJqCY6g7",
+        "rawVideoUrl": "http://wxapp.tc.qq.com/251/20302/stodownload?encfilekey=Cvvj5Ix3eez3Y79SxtvVL0L7CkPM6dFibusn4vVFEyiarvTiaz99gzLDVDlQ1GZm3Q2lw0FDDicNoxR4EyuRzTMzIGiaj3Ms6Rl2yuCKT3xgWibOt79kOxK92l3OkHjrww30OPyoRkNj8zYppQDaMpfRCzEw&hy=SZ&idx=1&m=7b9f89197a86a9d40c0954caba670c26&uzid=7b5d4&token=ic1n0xDG6aw8WaARX13CPaogK5naA2URyOvxLHQ2tfTHPeotQSUSVLicCq0V4HiaghZiaIN26UoaOvVQTF3ibdovFqmnEicz2jQzbEgIOBHqib7JnMCAjc65dQSCrDLvNuicaZm8qesY6I5EnicnP0aib0S9pD6PHPtuTLSpzXltWcmoCfFIq6aIB0RzExhnic6MpOaibia7SwOI9Qsbo9nGSZDbQL9OibtrBFIso3D1hurftcbMX1aaM&basedata=CAMSBnhXVDExMyInCggKBnhXVDExMwoKCgZ4V1QxMTIQAQoICgZ4V1QxMTEKBQoDeEEyOgIIAkIwMALsT2fhkDDNXldcpbY6ksVKVkE1Uff-r481ju7NMx0J7TOIc39U8eVzzktbSJuZSOrMndUG&sign=-n6k4BxUjk1zhwT9XFGDf10_WZRqXryPN67qwLmDIT7IRaI7EtUtzQ5WETs0aB6483sTWtlOYIGwAENRTo8Ijg&extg=1074a00&svrbypass=AAuL%2FQsFAAABAAAAAAA%2BtISbh2gceuSDaWanahAAAADnaHZTnGbFfAj9RgZXfw6VTp27TfXQAs2SvdRj0NApniisBspjfjZZmoAZPOnn%2BxAH3wN5TN6JwCE%3D&svrnonce=1789355625",
+        "rawVideoKind": "direct-expiring",
+        "publishedAt": "2026-09-12T08:54:36+08:00",
+        "publishedPrecision": "datetime",
+        "durationSeconds": 196,
+        "metrics": {
+          "views": null,
+          "likes": 1132,
+          "comments": 189,
+          "favorites": 3737,
+          "shares": 5780
+        },
+        "capturedAt": "2026-09-14T11:13:42+08:00",
+        "metricHistory": [
+          {
+            "capturedAt": "2026-09-14T11:13:42+08:00",
+            "source": "TikHub WeChat Channels V2",
+            "metrics": {
+              "views": null,
+              "likes": 1132,
+              "comments": 189,
+              "favorites": 3737,
+              "shares": 5780
+            }
+          }
+        ],
+        "analysis": {
+          "topic": "AI应用",
+          "summary": "按标题关键词自动归类；内容观点尚未人工复核。",
+          "tags": [
+            "AI应用"
+          ]
+        },
+        "status": "TikHub 视频号 V2 已核验；播放量未公开；已生成微信分享链接。"
+      },
+      {
         "id": "youtube-wqQ5kIwe1nQ",
         "platformVideoId": "wqQ5kIwe1nQ",
         "creatorId": "podcast-show-012",
@@ -7728,6 +7953,48 @@ window.BENCHMARK_DATA={
         },
         "status": "TikHub YouTube Web V2 已核验；平台媒体直链未持久公开，已提供公开视频页。",
         "rawVideoKind": "direct"
+      },
+      {
+        "id": "wechat-channels-15008595454961519475",
+        "platformVideoId": "15008595454961519475",
+        "creatorId": "ai-wechat-li-shanglong",
+        "platform": "视频号",
+        "title": "Lululemon暴跌20% 大空头却把它加到第一仓位#Lululemon#大空头#Michselburry",
+        "url": "http://wxapp.tc.qq.com/251/20302/stodownload?encfilekey=nLWUlAoVvywGhlaha0LQNiadm25x4GC9cfP2kian2eyOvNjdlrV30kYkhGIibSf4RU2BSvoY8WsvkFN9jf3USyxlg&bizid=1023&dotrans=0&hy=SH&idx=1&m=&uzid=7a2b0&token=2lt8WBSnjTm2Bus06w68fiaUNd5YR0Pgtud5JsZG5MiaxZlo2eicKSdibsicKn62fLXW5K1McBCTQvoTwwC4uzzPmNWoFF0Y4jezCRJJUVYCsM46m5tuZnX43UZgX2mU4dUiaWJXRY7U4vhKNK4hgt3utMIYKG3DOEk617drc2Rv45Vhtl3xdygQuiaJcH3X3iaIZichFKJoveThVJupCx4WqhOdB0MWCAszOckTQY3NjJGtThibs&basedata=CAMSBnhXVDExMyInCggKBnhXVDExMwoKCgZ4V1QxMTIQAQoICgZ4V1QxMTEKBQoDeEEyOgIIAkIwOqOGnNRwfU8Si8A15ubDC3aoyEN06s6uBi-myp0W_coJbKgVkzKz5hIn1hbMpdgdSOrMndUG&sign=hSMcG5_NEIistnApir-JPhnMu8Duhk9hCUfbw5hlywUObxmqDa9-tg-jAdsbpM5wl7P0bspS1aQr7AFbr-sddw&extg=1074a00&svrbypass=AAuL%2FQsFAAABAAAAAABbOvBv1mRjIbIRaWanahAAAADnaHZTnGbFfAj9RgZXfw6VTp27TfXQAouT8ZojrvwpniisBspjfjZZmjIlcBC3gXggzlYkajhOarU%3D&svrnonce=1789355625",
+        "rawVideoUrl": "http://wxapp.tc.qq.com/251/20302/stodownload?encfilekey=nLWUlAoVvywGhlaha0LQNiadm25x4GC9cfP2kian2eyOvNjdlrV30kYkhGIibSf4RU2BSvoY8WsvkFN9jf3USyxlg&bizid=1023&dotrans=0&hy=SH&idx=1&m=&uzid=7a2b0&token=2lt8WBSnjTm2Bus06w68fiaUNd5YR0Pgtud5JsZG5MiaxZlo2eicKSdibsicKn62fLXW5K1McBCTQvoTwwC4uzzPmNWoFF0Y4jezCRJJUVYCsM46m5tuZnX43UZgX2mU4dUiaWJXRY7U4vhKNK4hgt3utMIYKG3DOEk617drc2Rv45Vhtl3xdygQuiaJcH3X3iaIZichFKJoveThVJupCx4WqhOdB0MWCAszOckTQY3NjJGtThibs&basedata=CAMSBnhXVDExMyInCggKBnhXVDExMwoKCgZ4V1QxMTIQAQoICgZ4V1QxMTEKBQoDeEEyOgIIAkIwOqOGnNRwfU8Si8A15ubDC3aoyEN06s6uBi-myp0W_coJbKgVkzKz5hIn1hbMpdgdSOrMndUG&sign=hSMcG5_NEIistnApir-JPhnMu8Duhk9hCUfbw5hlywUObxmqDa9-tg-jAdsbpM5wl7P0bspS1aQr7AFbr-sddw&extg=1074a00&svrbypass=AAuL%2FQsFAAABAAAAAABbOvBv1mRjIbIRaWanahAAAADnaHZTnGbFfAj9RgZXfw6VTp27TfXQAouT8ZojrvwpniisBspjfjZZmjIlcBC3gXggzlYkajhOarU%3D&svrnonce=1789355625",
+        "rawVideoKind": "direct-expiring",
+        "publishedAt": "2026-09-12T06:00:01+08:00",
+        "publishedPrecision": "datetime",
+        "durationSeconds": 464,
+        "metrics": {
+          "views": null,
+          "likes": 513,
+          "comments": 57,
+          "favorites": 1760,
+          "shares": 1994
+        },
+        "capturedAt": "2026-09-14T11:13:42+08:00",
+        "metricHistory": [
+          {
+            "capturedAt": "2026-09-14T11:13:42+08:00",
+            "source": "TikHub WeChat Channels V2",
+            "metrics": {
+              "views": null,
+              "likes": 513,
+              "comments": 57,
+              "favorites": 1760,
+              "shares": 1994
+            }
+          }
+        ],
+        "analysis": {
+          "topic": "认知成长",
+          "summary": "按标题关键词自动归类；内容观点尚未人工复核。",
+          "tags": [
+            "认知成长"
+          ]
+        },
+        "status": "TikHub 视频号 V2 已核验；播放量未公开；分享链接接口未返回，使用时效媒体链接。"
       },
       {
         "id": "douyin-7684350862030482803",
@@ -12990,6 +13257,48 @@ window.BENCHMARK_DATA={
         "status": "TikHub Douyin App V3 已核验；原始播放地址为时效链接。"
       },
       {
+        "id": "wechat-channels-15008044536521886533",
+        "platformVideoId": "15008044536521886533",
+        "creatorId": "ai-wechat-li-shanglong",
+        "platform": "视频号",
+        "title": "Anthropic测算，打工逻辑彻底反转#Anthropic#打工#AI",
+        "url": "https://weixin.qq.com/sph/AFCFYV5SkR",
+        "rawVideoUrl": "http://wxapp.tc.qq.com/251/20302/stodownload?encfilekey=nLWUlAoVvyxcvRWFDibxYQr6HOgJy3efYMc7wM0vJzMJVbX8ibaIb67DE8iaUFNLTChByN0oXTzERPtn5y4EicDtsg&bizid=1023&dotrans=0&hy=SH&idx=1&m=&uzid=7a22e&token=2lt8WBSnjTm2Bus06w68fnsal3jUsItVehXDNWMdbictoOVG5Pniam7ibCY8iaduE8wNdUicQ0Hs3vkibRhkicvUWOGpKlU7N6KMfiaEFGpyjUKajc5f1BphJMFCEYExS6KAB7Vzg0NSM4HKU2uJVWw68b6RcZoYmwrmJomw3zUR2PYFZ57azMEgYWgH4MP9ln5z0iafCOB2KBmO4BL1uxDb69AYJdeoqrcG65kTs4ML7caibsIrI&basedata=CAMSBnhXVDExMyInCggKBnhXVDExMwoKCgZ4V1QxMTIQAQoICgZ4V1QxMTEKBQoDeEEyOgIIAkIwOLw_EYL03kuwffwgtMmSokWEvluj9tmilFYEGbZ2cD1C1K8Sa49Fed2-Jz0BEPesSOrMndUG&sign=jD9GQQaDviI3ReIFv8nYJoF-ksMiT6OYweHzrZKg5zFnSCt3xp7XlC_HCoMLoauS30ynavwfqr8Tt0FkkwRzGQ&extg=1074a00&svrbypass=AAuL%2FQsFAAABAAAAAACWpaDPF8z6f8r2aWanahAAAADnaHZTnGbFfAj9RgZXfw6VTp27TfXQAr2T7Ys08OEuniisBspjfjZZmronIBoAfmzjiEwT7FlrgzY%3D&svrnonce=1789355625",
+        "rawVideoKind": "direct-expiring",
+        "publishedAt": "2026-09-11T11:45:26+08:00",
+        "publishedPrecision": "datetime",
+        "durationSeconds": 277,
+        "metrics": {
+          "views": null,
+          "likes": 2734,
+          "comments": 216,
+          "favorites": 6141,
+          "shares": 28246
+        },
+        "capturedAt": "2026-09-14T11:13:42+08:00",
+        "metricHistory": [
+          {
+            "capturedAt": "2026-09-14T11:13:42+08:00",
+            "source": "TikHub WeChat Channels V2",
+            "metrics": {
+              "views": null,
+              "likes": 2734,
+              "comments": 216,
+              "favorites": 6141,
+              "shares": 28246
+            }
+          }
+        ],
+        "analysis": {
+          "topic": "AI应用",
+          "summary": "按标题关键词自动归类；内容观点尚未人工复核。",
+          "tags": [
+            "AI应用"
+          ]
+        },
+        "status": "TikHub 视频号 V2 已核验；播放量未公开；已生成微信分享链接。"
+      },
+      {
         "id": "douyin-7684118672037661995",
         "platformVideoId": "7684118672037661995",
         "creatorId": "source-w5rObLWXhwtlXQs",
@@ -14503,6 +14812,48 @@ window.BENCHMARK_DATA={
         "rawVideoKind": "direct"
       },
       {
+        "id": "wechat-channels-15007870682128714617",
+        "platformVideoId": "15007870682128714617",
+        "creatorId": "ai-wechat-li-shanglong",
+        "platform": "视频号",
+        "title": "耐克被踢出标普100，AI算力入场！#耐克#标普100#AI算力",
+        "url": "http://wxapp.tc.qq.com/251/20302/stodownload?encfilekey=nLWUlAoVvywXBRfnfMxA3YPVgppSlkH1mic43naKg1rxCeGI1Njm6WNnHDiaB9yoNSWsu5zdqH43PjQO7EfW4dsA&bizid=1023&dotrans=0&hy=SH&idx=1&m=&uzid=7a170&token=ic1n0xDG6aw8WaARX13CPapsicwTE2tJarfIERDeeMnPrkgtnbvQSGibjFYia5ia88vKZczhKBhI7aHichiaic92yQq1wCib5SdEyZLW5A8miaodLYic4Y676HeYjPVt9OR3SUfh9V2OIVZVVJMko7ZUbzlRz0KImcLADbqen0ralGUfu7Ale1Ov0V5mJz26wrz9s27EvhR9RVMc4C7ibcjFwSpJiaH4XWPR04gicFrJMk8pxUByAusxU&basedata=CAMSBnhXVDExMyInCggKBnhXVDExMwoKCgZ4V1QxMTIQAQoICgZ4V1QxMTEKBQoDeEEyOgIIAkIwfTxQkFWQDTuaQv2yTaTIZGzzvy9PGxQ8mqDoG39HeG8Vzuoo6ZDIlkiHe-rcUc-ZSOrMndUG&sign=eisBjgEOmbPIllOHI1J2lRHk3mViVkVJDdLHQ9RscufG3YLS4oy6eEU5o7AN51ECG98fDlSZqcsh05vacYa6Zg&extg=1074a00&svrbypass=AAuL%2FQsFAAABAAAAAAAIaTpYptXDxq%2FGaWanahAAAADnaHZTnGbFfAj9RgZXfw6VTp27TfXQAoGTybQOtJkuniisBspjfjZZmnDmDjahFy7a4mnlJFpVvxY%3D&svrnonce=1789355625",
+        "rawVideoUrl": "http://wxapp.tc.qq.com/251/20302/stodownload?encfilekey=nLWUlAoVvywXBRfnfMxA3YPVgppSlkH1mic43naKg1rxCeGI1Njm6WNnHDiaB9yoNSWsu5zdqH43PjQO7EfW4dsA&bizid=1023&dotrans=0&hy=SH&idx=1&m=&uzid=7a170&token=ic1n0xDG6aw8WaARX13CPapsicwTE2tJarfIERDeeMnPrkgtnbvQSGibjFYia5ia88vKZczhKBhI7aHichiaic92yQq1wCib5SdEyZLW5A8miaodLYic4Y676HeYjPVt9OR3SUfh9V2OIVZVVJMko7ZUbzlRz0KImcLADbqen0ralGUfu7Ale1Ov0V5mJz26wrz9s27EvhR9RVMc4C7ibcjFwSpJiaH4XWPR04gicFrJMk8pxUByAusxU&basedata=CAMSBnhXVDExMyInCggKBnhXVDExMwoKCgZ4V1QxMTIQAQoICgZ4V1QxMTEKBQoDeEEyOgIIAkIwfTxQkFWQDTuaQv2yTaTIZGzzvy9PGxQ8mqDoG39HeG8Vzuoo6ZDIlkiHe-rcUc-ZSOrMndUG&sign=eisBjgEOmbPIllOHI1J2lRHk3mViVkVJDdLHQ9RscufG3YLS4oy6eEU5o7AN51ECG98fDlSZqcsh05vacYa6Zg&extg=1074a00&svrbypass=AAuL%2FQsFAAABAAAAAAAIaTpYptXDxq%2FGaWanahAAAADnaHZTnGbFfAj9RgZXfw6VTp27TfXQAoGTybQOtJkuniisBspjfjZZmnDmDjahFy7a4mnlJFpVvxY%3D&svrnonce=1789355625",
+        "rawVideoKind": "direct-expiring",
+        "publishedAt": "2026-09-11T06:00:01+08:00",
+        "publishedPrecision": "datetime",
+        "durationSeconds": 306,
+        "metrics": {
+          "views": null,
+          "likes": 533,
+          "comments": 75,
+          "favorites": 1430,
+          "shares": 1863
+        },
+        "capturedAt": "2026-09-14T11:13:42+08:00",
+        "metricHistory": [
+          {
+            "capturedAt": "2026-09-14T11:13:42+08:00",
+            "source": "TikHub WeChat Channels V2",
+            "metrics": {
+              "views": null,
+              "likes": 533,
+              "comments": 75,
+              "favorites": 1430,
+              "shares": 1863
+            }
+          }
+        ],
+        "analysis": {
+          "topic": "AI应用",
+          "summary": "按标题关键词自动归类；内容观点尚未人工复核。",
+          "tags": [
+            "AI应用"
+          ]
+        },
+        "status": "TikHub 视频号 V2 已核验；播放量未公开；分享链接接口未返回，使用时效媒体链接。"
+      },
+      {
         "id": "douyin-7683886123265648810",
         "platformVideoId": "7683886123265648810",
         "creatorId": "source-gkgj2wasMXo7KWWQ",
@@ -14790,6 +15141,48 @@ window.BENCHMARK_DATA={
           ]
         },
         "status": "TikHub Douyin App V3 已核验；原始播放地址为时效链接。"
+      },
+      {
+        "id": "wechat-channels-15007659810228865874",
+        "platformVideoId": "15007659810228865874",
+        "creatorId": "ai-wechat-li-shanglong",
+        "platform": "视频号",
+        "title": "三家央行同一个月掉头",
+        "url": "https://weixin.qq.com/sph/AUTrXze469",
+        "rawVideoUrl": "http://wxapp.tc.qq.com/251/20302/stodownload?encfilekey=Cvvj5Ix3eez3Y79SxtvVL0L7CkPM6dFibusn4vVFEyiaoSpT2cvialQzeXIK2Il7Oo131Kdzn9EXiagDibTmvnrdPFSy57ibazqvqjZg0Yq44J44RoiczYEBR8wDxWiaj7KX42ibCfo9GgNCPDyBAicwy5OJtyfQ&hy=SZ&idx=1&m=dac590da43940cdf5180525926a181f5&uzid=7a198&token=2lt8WBSnjTm2Bus06w68fsVAF95BFVZplUuhibpiaatDAccQ6ahxZXXrHNlIO7VXO3uS35sQ42P0icdribN9zg6D4q989ib9p9md9Vcic0uN8mLtLzUWbUvjc2tbm9NwDb9fbEV6OYcKBJ8wdXsBDrTvs7uFxz6khXE660DZhPP7KEcS1GUYXjAYLqszBUvBQgl5efO0INKs9ITViaF9Iibh4MrsnvsdsN7YxGmfNL9GEOXbuibA&basedata=CAMSBnhXVDExMyInCggKBnhXVDExMwoKCgZ4V1QxMTIQAQoICgZ4V1QxMTEKBQoDeEEyOgIIAkIwnEeED6XpQyxwnagj5-KXXn7-qjt4XWlcTktOqZUtU-cSuAR-3jRz9DogYio-SwbpSOrMndUG&sign=VlE0mXW-UQ9Vgu4z1vzzqJ387_Y66ONTkJ-f1l2UDXSq9iw9drxEiTSpBip4ghY5NAOF-guKTxp5hs-tS4YH0A&extg=1074a00&svrbypass=AAuL%2FQsFAAABAAAAAAAKwDk%2BY9J6lMi%2BaWanahAAAADnaHZTnGbFfAj9RgZXfw6VTp27TfXQAqqTjbo3jckvniisBspjfjZZmqpSz5NU%2BKyzDoYwAk2dAi8%3D&svrnonce=1789355625",
+        "rawVideoKind": "direct-expiring",
+        "publishedAt": "2026-09-10T23:01:03+08:00",
+        "publishedPrecision": "datetime",
+        "durationSeconds": 301,
+        "metrics": {
+          "views": null,
+          "likes": 2132,
+          "comments": 156,
+          "favorites": 7660,
+          "shares": 14658
+        },
+        "capturedAt": "2026-09-14T11:13:42+08:00",
+        "metricHistory": [
+          {
+            "capturedAt": "2026-09-14T11:13:42+08:00",
+            "source": "TikHub WeChat Channels V2",
+            "metrics": {
+              "views": null,
+              "likes": 2132,
+              "comments": 156,
+              "favorites": 7660,
+              "shares": 14658
+            }
+          }
+        ],
+        "analysis": {
+          "topic": "财经商业",
+          "summary": "按标题关键词自动归类；内容观点尚未人工复核。",
+          "tags": [
+            "财经商业"
+          ]
+        },
+        "status": "TikHub 视频号 V2 已核验；播放量未公开；已生成微信分享链接。"
       },
       {
         "id": "douyin-7683914155488775459",
@@ -19032,6 +19425,48 @@ window.BENCHMARK_DATA={
         "status": "TikHub Douyin App V3 已核验；原始播放地址为时效链接。"
       },
       {
+        "id": "wechat-channels-15007304226988952397",
+        "platformVideoId": "15007304226988952397",
+        "creatorId": "ai-wechat-li-shanglong",
+        "platform": "视频号",
+        "title": "英国号召家庭囤货 背后三层现实逻辑#英国#囤货",
+        "url": "http://wxapp.tc.qq.com/251/20302/stodownload?encfilekey=rgjNqbibdAo1Pb4m14eYSUkHkevUDQbCdmnKavfmIHQsezVic2tRD5MhCT8Sm0Erz50HFTesibhewziclCMXB3fvww&bizid=1023&dotrans=0&hy=SH&idx=1&m=&uzid=7a166&token=ic1n0xDG6aw8WaARX13CPatvFb4w3awVYLKS9Hy5iaPzPlcXt1jzlWBMa79nJrxYIwjYUSm6AnVGCR05oLOI981pG0mmEy6GXjVBw7j5DLaHLVTX16BRFHea9a7SnEPp7Ce476SUQq9Rq1m3rc7IhlpALLY4h7t5yMwZVUB2qHRcISNIUXkdzxaNWfyY288HhJnX5BDiaX3B1jgN4Zh073H95P1pMicPagqKLgfRRf17EWA&basedata=CAMSBnhXVDExMyInCggKBnhXVDExMwoKCgZ4V1QxMTIQAQoICgZ4V1QxMTEKBQoDeEEyOgIIAkIwxkaYFjwp98h7KA_BEG_eGFZt3dp5ltx9dM88TJQpRPYLawX90jtFt_UyHh-L6MikSOrMndUG&sign=pIbR-lvfAM_CKKDWWGHRo9iYyU7hE9WKZ3HeuUpOuP7V9V8hI0dWBnoEowL5uhg1MS0Bu8zPa6EPv6yFkVdkpg&extg=1074a00&svrbypass=AAuL%2FQsFAAABAAAAAAApIdQ05Lcki7G2aWanahAAAADnaHZTnGbFfAj9RgZXfw6VTp27TfXQArWT%2FYEImpovniisBspjfjZZmt6igK39Z1O3wEfTXMCCHC8%3D&svrnonce=1789355625",
+        "rawVideoUrl": "http://wxapp.tc.qq.com/251/20302/stodownload?encfilekey=rgjNqbibdAo1Pb4m14eYSUkHkevUDQbCdmnKavfmIHQsezVic2tRD5MhCT8Sm0Erz50HFTesibhewziclCMXB3fvww&bizid=1023&dotrans=0&hy=SH&idx=1&m=&uzid=7a166&token=ic1n0xDG6aw8WaARX13CPatvFb4w3awVYLKS9Hy5iaPzPlcXt1jzlWBMa79nJrxYIwjYUSm6AnVGCR05oLOI981pG0mmEy6GXjVBw7j5DLaHLVTX16BRFHea9a7SnEPp7Ce476SUQq9Rq1m3rc7IhlpALLY4h7t5yMwZVUB2qHRcISNIUXkdzxaNWfyY288HhJnX5BDiaX3B1jgN4Zh073H95P1pMicPagqKLgfRRf17EWA&basedata=CAMSBnhXVDExMyInCggKBnhXVDExMwoKCgZ4V1QxMTIQAQoICgZ4V1QxMTEKBQoDeEEyOgIIAkIwxkaYFjwp98h7KA_BEG_eGFZt3dp5ltx9dM88TJQpRPYLawX90jtFt_UyHh-L6MikSOrMndUG&sign=pIbR-lvfAM_CKKDWWGHRo9iYyU7hE9WKZ3HeuUpOuP7V9V8hI0dWBnoEowL5uhg1MS0Bu8zPa6EPv6yFkVdkpg&extg=1074a00&svrbypass=AAuL%2FQsFAAABAAAAAAApIdQ05Lcki7G2aWanahAAAADnaHZTnGbFfAj9RgZXfw6VTp27TfXQArWT%2FYEImpovniisBspjfjZZmt6igK39Z1O3wEfTXMCCHC8%3D&svrnonce=1789355625",
+        "rawVideoKind": "direct-expiring",
+        "publishedAt": "2026-09-10T11:14:34+08:00",
+        "publishedPrecision": "datetime",
+        "durationSeconds": 247,
+        "metrics": {
+          "views": null,
+          "likes": 3616,
+          "comments": 506,
+          "favorites": 12402,
+          "shares": 43556
+        },
+        "capturedAt": "2026-09-14T11:13:42+08:00",
+        "metricHistory": [
+          {
+            "capturedAt": "2026-09-14T11:13:42+08:00",
+            "source": "TikHub WeChat Channels V2",
+            "metrics": {
+              "views": null,
+              "likes": 3616,
+              "comments": 506,
+              "favorites": 12402,
+              "shares": 43556
+            }
+          }
+        ],
+        "analysis": {
+          "topic": "认知成长",
+          "summary": "按标题关键词自动归类；内容观点尚未人工复核。",
+          "tags": [
+            "认知成长"
+          ]
+        },
+        "status": "TikHub 视频号 V2 已核验；播放量未公开；分享链接接口未返回，使用时效媒体链接。"
+      },
+      {
         "id": "douyin-7683327810387119403",
         "platformVideoId": "7683327810387119403",
         "creatorId": "source-vd6Bl0tYaNeUjbDY",
@@ -19804,6 +20239,48 @@ window.BENCHMARK_DATA={
         "rawVideoKind": "platform-page"
       },
       {
+        "id": "wechat-channels-15007145903688059733",
+        "platformVideoId": "15007145903688059733",
+        "creatorId": "ai-wechat-li-shanglong",
+        "platform": "视频号",
+        "title": "冯小刚《抓特务》，一部被宣发耽误的好片！#抓特务#冯小刚#电影",
+        "url": "https://weixin.qq.com/sph/ApId7e6ICB",
+        "rawVideoUrl": "http://wxapp.tc.qq.com/251/20302/stodownload?encfilekey=nLWUlAoVvyyCtN4AXDTiaXkhonroiacNAOmv7rDibgGQ2n15q8RVlTQAcEFMzhyWzV1C5XHyLeiaSuP9elRefCuW6w&bizid=1023&dotrans=0&hy=SH&idx=1&m=&uzid=7a170&token=ic1n0xDG6aw8WaARX13CPatJHkXYUWT4Xs2jXQiccUmIrszFQS7urlgfYuEmjL2YMCoOnfJBprCpNHrDLsOpFcj1oYplFpUYxp6DuJJMopJAibVDAFlQAiaYCAa4jUnlfcZr5GmHSpzj2tIo3n3LMmIl2BydZh7448U1S93ibMric8HA4AMz5HBmiaOms2vFiav8Gnol9u6yJ93BKhtpKPmw9qQcYNTZEagCpr0qs0DQcC1dUxg&basedata=CAMSBnhXVDExMyInCggKBnhXVDExMwoKCgZ4V1QxMTIQAQoICgZ4V1QxMTEKBQoDeEEyOgIIAkIwP_-O8SczSz7Wt3tEi3MKeCjo9QkQq7rzjcR56CWcwSV8te-9YL1_rlBeh0cgxSE8SOrMndUG&sign=OI5gCt5psvUFd7njM0EI9ZTf84kAtwMTBFrwVvV-mot94aZXLnIk4Yk9xump1Dr4eHKlmkOzD952egyJKqkxmw&extg=1074a00&svrbypass=AAuL%2FQsFAAABAAAAAADlFFlBNlwCFojpaWanahAAAADnaHZTnGbFfAj9RgZXfw6VTp27TfXQAq2TzaBgmbYvniisBspjfjZZmsUW16yRB2PkJDa8qHIPUyw%3D&svrnonce=1789355625",
+        "rawVideoKind": "direct-expiring",
+        "publishedAt": "2026-09-10T06:00:01+08:00",
+        "publishedPrecision": "datetime",
+        "durationSeconds": 345,
+        "metrics": {
+          "views": null,
+          "likes": 973,
+          "comments": 193,
+          "favorites": 2713,
+          "shares": 2162
+        },
+        "capturedAt": "2026-09-14T11:13:42+08:00",
+        "metricHistory": [
+          {
+            "capturedAt": "2026-09-14T11:13:42+08:00",
+            "source": "TikHub WeChat Channels V2",
+            "metrics": {
+              "views": null,
+              "likes": 973,
+              "comments": 193,
+              "favorites": 2713,
+              "shares": 2162
+            }
+          }
+        ],
+        "analysis": {
+          "topic": "认知成长",
+          "summary": "按标题关键词自动归类；内容观点尚未人工复核。",
+          "tags": [
+            "认知成长"
+          ]
+        },
+        "status": "TikHub 视频号 V2 已核验；播放量未公开；已生成微信分享链接。"
+      },
+      {
         "id": "douyin-7683601465537505098",
         "platformVideoId": "7683601465537505098",
         "creatorId": "source-2Rk7kQrKbtSUwoDk",
@@ -19963,6 +20440,48 @@ window.BENCHMARK_DATA={
         },
         "status": "TikHub YouTube Web V2 已核验；平台媒体直链未持久公开，已提供公开视频页。",
         "rawVideoKind": "platform-page"
+      },
+      {
+        "id": "wechat-channels-15007031432761969485",
+        "platformVideoId": "15007031432761969485",
+        "creatorId": "ai-wechat-li-shanglong",
+        "platform": "视频号",
+        "title": "最安全的AI公司，自己人跳车了",
+        "url": "https://weixin.qq.com/sph/AlLC3Lb2eI",
+        "rawVideoUrl": "http://wxapp.tc.qq.com/251/20302/stodownload?encfilekey=Cvvj5Ix3eez3Y79SxtvVL0L7CkPM6dFibusn4vVFEyiapWUpggYC4EL6LGE9SCMHUky6QSEzKLMgKWb57NQtmZ3LDvricjpibFLJpw5vxMnc4vPeulpicVvaXm2D3n3GrrARw8RyIbwIt80krpD6E7uq46g&hy=SZ&idx=1&m=55249e383cef4e30a6013d6098b698d2&token=ic1n0xDG6aw8WaARX13CPalUcibapAGMibn5iaibqaribo72o6t6QKNjKnXYM7W8wuxszlO7CzrFtuXR1f8u0axLWNiaqfz4c51moH9TtRdqAZmLZDt4vwBluUI2SLJtU40gJC2JTFCuIKr4p9c6N1no1UhGnib0X0bPoKTEIgAXiajD7empHXNZ7XarHMerAXjIhsIA8libY80KjVibWdHs9U117q9ZaSGzsddEKQC6Fm21NRImOc&basedata=CAMSBnhXVDExMyInCggKBnhXVDExMwoKCgZ4V1QxMTIQAQoICgZ4V1QxMTEKBQoDeEEyOgIIAkIwRgEHmIuZfq5jW_7tOQiy5m_GF9kzMUFeAYjLFg5ieRSheXqJFy80pFOYz4lDQ1QBSOrMndUG&sign=tpuphNBWEa9EzRbroREqwzYupvzgMbZgeqeak86i2uHfIZAxdbM_tzvdMLQn1tETijcNjQclc-gRMB5ufwrw-Q&extg=1074a00&svrbypass=AAuL%2FQsFAAABAAAAAAD5MmDtvnSA6FPkaWanahAAAADnaHZTnGbFfAj9RgZXfw6VTp27TfXQArWT8flfndgsniisBspjfjZZmpKwyZKcfy4Y3Xf2V2JTKs8%3D&svrnonce=1789355625",
+        "rawVideoKind": "direct-expiring",
+        "publishedAt": "2026-09-10T02:12:35+08:00",
+        "publishedPrecision": "datetime",
+        "durationSeconds": 257,
+        "metrics": {
+          "views": null,
+          "likes": 3526,
+          "comments": 543,
+          "favorites": 7204,
+          "shares": 20894
+        },
+        "capturedAt": "2026-09-14T11:13:42+08:00",
+        "metricHistory": [
+          {
+            "capturedAt": "2026-09-14T11:13:42+08:00",
+            "source": "TikHub WeChat Channels V2",
+            "metrics": {
+              "views": null,
+              "likes": 3526,
+              "comments": 543,
+              "favorites": 7204,
+              "shares": 20894
+            }
+          }
+        ],
+        "analysis": {
+          "topic": "AI应用",
+          "summary": "按标题关键词自动归类；内容观点尚未人工复核。",
+          "tags": [
+            "AI应用"
+          ]
+        },
+        "status": "TikHub 视频号 V2 已核验；播放量未公开；已生成微信分享链接。"
       },
       {
         "id": "douyin-7683572483206827283",
@@ -25939,6 +26458,48 @@ window.BENCHMARK_DATA={
         },
         "status": "TikHub YouTube Web V2 已核验；平台媒体直链未持久公开，已提供公开视频页。",
         "rawVideoKind": "direct"
+      },
+      {
+        "id": "wechat-channels-15006511723729324912",
+        "platformVideoId": "15006511723729324912",
+        "creatorId": "ai-wechat-li-shanglong",
+        "platform": "视频号",
+        "title": "钱的流向变了 AI for Science 才是下一站#财富#李尚龙",
+        "url": "https://weixin.qq.com/sph/A9bWWOKxg1",
+        "rawVideoUrl": "http://wxapp.tc.qq.com/251/20302/stodownload?encfilekey=nLWUlAoVvyxZn7XmEIC9cibTVonwK6rvGuWkAB0kDKIwLlmJB4UHgMOnMwAecrturj8dMKicxlebEb9uyOyzYAtA&bizid=1023&dotrans=0&hy=SH&idx=1&m=&uzid=7a166&token=2lt8WBSnjTm2Bus06w68ftQ473YP1CLm5HNIRGia7wbrBKnLQsbqXL82fgWNZbd7AwjJ3a9KnziaaDibwoiaFJYMJADRXDbxKyf3gldA11s8PMFdjBWduHc2AtWMlHJ0CpfkVYnibcpX2HgaoBUQViaKWh2svyP2RYkpjmMKQdfqITk7tZegJBMnmiajbEAA6h5zm6Yv1WCf1EEjfJOpJA1vYWIHcYZ7ddoy97gtEwzPqqicjks&basedata=CAMSBnhXVDExMiIpCgoKBnhXVDExMhABCgoKBnhXVDExMhABCggKBnhXVDExMQoFCgN4QTIwAToCCAJCMNx29uvGW1hZ5xGGJOZ_KniQKGrovk1ZOlOH-et8F_WCz2vryNaV9v825lg6G1U28EjqzJ3VBg&sign=i-I4kaUbqLS3OUBQ0JPI4Epqmzo-DKlJPfpIoaqj5yRrz0kz1x02Okus5DYV0QwMNYSNkRo4LnKEiYBfFs0r6A&extg=1074a00&svrbypass=AAuL%2FQsFAAABAAAAAAA2tadT9v2YkCLHaWanahAAAADnaHZTnGbFfAj9RgZXfw6VTp27TfXQAoiTlfoYs8YtniisBspjfjZZmjCfaIzAgnqQQzm8gNhdQhM%3D&svrnonce=1789355625",
+        "rawVideoKind": "direct-expiring",
+        "publishedAt": "2026-09-09T09:00:01+08:00",
+        "publishedPrecision": "datetime",
+        "durationSeconds": 1300,
+        "metrics": {
+          "views": null,
+          "likes": 1044,
+          "comments": 88,
+          "favorites": 2477,
+          "shares": 9624
+        },
+        "capturedAt": "2026-09-14T11:13:42+08:00",
+        "metricHistory": [
+          {
+            "capturedAt": "2026-09-14T11:13:42+08:00",
+            "source": "TikHub WeChat Channels V2",
+            "metrics": {
+              "views": null,
+              "likes": 1044,
+              "comments": 88,
+              "favorites": 2477,
+              "shares": 9624
+            }
+          }
+        ],
+        "analysis": {
+          "topic": "AI应用",
+          "summary": "按标题关键词自动归类；内容观点尚未人工复核。",
+          "tags": [
+            "AI应用"
+          ]
+        },
+        "status": "TikHub 视频号 V2 已核验；播放量未公开；已生成微信分享链接。"
       },
       {
         "id": "douyin-7683124018089643315",
@@ -131206,6 +131767,90 @@ window.BENCHMARK_DATA={
         },
         "status": "TikHub Douyin App V3 已核验；原始播放地址为时效链接。",
         "rawVideoKind": "direct"
+      },
+      {
+        "id": "wechat-channels-14947714294725740962",
+        "platformVideoId": "14947714294725740962",
+        "creatorId": "ai-wechat-li-shanglong",
+        "platform": "视频号",
+        "title": "再见了网红李尚龙",
+        "url": "https://weixin.qq.com/sph/A3oDZkihza",
+        "rawVideoUrl": "http://wxapp.tc.qq.com/251/20302/stodownload?encfilekey=rgjNqbibdAo39JoLFxVQ5RsykOkM5zEk22eSRoxrK7mtlL4kB94SL1qKj9mKqnprQG8zq4sn4icy27j3EWE0yQsQ&bizid=1023&dotrans=0&hy=SH&idx=1&m=&uzid=7a22e&token=AxricY7RBHdXlynOc7DGDKVUXmz5xOFNHNBuylK8BfxQOLIhbGOBSHY1SZngLRkjaaQJjibbpQ0pSFBFKpFZ3vpDzKbmNjmsJ50MCSgFFkBBYEG1krIzEGp27CfaFYb1nvcZsxDQPwUZDrQ4NafcsHpGleMyYJaKRQOwO12WC4H5ahZewKbUIUFCtOHM87Iyn3Aes5mfbYBY8UppnTvdOsdWYJW5cZkkiaOZOvACtGoupA&basedata=CAMSBnhXVDExMyInCggKBnhXVDExMwoKCgZ4V1QxMTIQAQoICgZ4V1QxMTEKBQoDeEEyOgIIAkIwxAJDRQ296i22ngxe04Ty_siiN818-kV9UCwiDY2whEuQCbO3zrKlnYfHZ0IMf0OXSOrMndUG&sign=WIQBTTdECbEl646sTrsRsL5q7M5eYsCpGx-MgpCjz1kUKq4Ge2UemePs7OITheJ4x6j8AJ5WwymNs5-1UmDkVw&extg=1074a00&svrbypass=AAuL%2FQsFAAABAAAAAABAgBEARVj9OC0qaWanahAAAADnaHZTnGbFfAj9RgZXfw6VTp27TfXQAtqWyccksY81gSisBspjfjZZmowOqlvIYNCtqxIHqZN6Nt8%3D&svrnonce=1789355625",
+        "rawVideoKind": "direct-expiring",
+        "publishedAt": "2026-06-20T06:00:01+08:00",
+        "publishedPrecision": "datetime",
+        "durationSeconds": 372,
+        "metrics": {
+          "views": null,
+          "likes": 5448,
+          "comments": 1219,
+          "favorites": 12602,
+          "shares": 12952
+        },
+        "capturedAt": "2026-09-14T11:13:42+08:00",
+        "metricHistory": [
+          {
+            "capturedAt": "2026-09-14T11:13:42+08:00",
+            "source": "TikHub WeChat Channels V2",
+            "metrics": {
+              "views": null,
+              "likes": 5448,
+              "comments": 1219,
+              "favorites": 12602,
+              "shares": 12952
+            }
+          }
+        ],
+        "analysis": {
+          "topic": "认知成长",
+          "summary": "按标题关键词自动归类；内容观点尚未人工复核。",
+          "tags": [
+            "认知成长"
+          ]
+        },
+        "status": "TikHub 视频号 V2 已核验；播放量未公开；已生成微信分享链接。"
+      },
+      {
+        "id": "wechat-channels-14875206519967189107",
+        "platformVideoId": "14875206519967189107",
+        "creatorId": "ai-wechat-li-shanglong",
+        "platform": "视频号",
+        "title": "你以为的低谷其实是命运在改写你",
+        "url": "https://weixin.qq.com/sph/ALS4Oqih7N",
+        "rawVideoUrl": "http://wxapp.tc.qq.com/251/20302/stodownload?encfilekey=Cvvj5Ix3eewK0tHtibORqcsqchXNh0Gf3sJcaYqC2rQDoia6ug922PYlCSxnlBMzic7kCh0BdZvDMEKYhP5SYMW9jduIbWIqH9fAj4c17xeq1CFTZTrE5c4hicUuQaR0mtp5&bizid=1023&dotrans=0&hy=SH&idx=1&m=&uzid=7a15c&token=2lt8WBSnjTm2Bus06w68fkGJO63DyRZZ3qDEr2ZIseGkAZszxwVEIO5YSnEuA7kv7iae7ibeLNFMBVJjhpia4yyg5ic88Wib8R7ibZeqg9tcwkzzgP18HPdCXkKuQWbe2zbGrqNsf1AzLQb9dgIje1tZwUYibuletZbUCs9rkkduAPtssgANZibzuHEXvSqNxnCewd5JBIRgpV3rPONTQgrEC9ic1Se3s2ibWyoDaprnR1YMffteM&basedata=CAMSBnhXVDExMyInCggKBnhXVDExMwoKCgZ4V1QxMTIQAQoICgZ4V1QxMTEKBQoDeEEyOgIIAkIwMQUx-jwgped7uUAFWWQwjHWGe_Q6URgHlbmA8fBxeuee_ZH0hQaFb352tUy7iNSESOrMndUG&sign=GxbAMDw_Yo_qxbOD-gRWJg48QLriMK6JCo38lXyU5naYiPGnAV5sxpCa8rHbHrtykF_T5HEFVhm7FB0rBhm_AQ&extg=1074a00&svrbypass=AAuL%2FQsFAAABAAAAAACxFheMjmrP5oGOaWanahAAAADnaHZTnGbFfAj9RgZXfw6VTp27TfXQAouVidcq3%2BU6gCisBspjfjZZmlvDkMAcCqIarJZVsLckENs%3D&svrnonce=1789355625",
+        "rawVideoKind": "direct-expiring",
+        "publishedAt": "2026-03-12T05:00:01+08:00",
+        "publishedPrecision": "datetime",
+        "durationSeconds": 388,
+        "metrics": {
+          "views": null,
+          "likes": 46902,
+          "comments": 6440,
+          "favorites": 93102,
+          "shares": 146684
+        },
+        "capturedAt": "2026-09-14T11:13:42+08:00",
+        "metricHistory": [
+          {
+            "capturedAt": "2026-09-14T11:13:42+08:00",
+            "source": "TikHub WeChat Channels V2",
+            "metrics": {
+              "views": null,
+              "likes": 46902,
+              "comments": 6440,
+              "favorites": 93102,
+              "shares": 146684
+            }
+          }
+        ],
+        "analysis": {
+          "topic": "认知成长",
+          "summary": "按标题关键词自动归类；内容观点尚未人工复核。",
+          "tags": [
+            "认知成长"
+          ]
+        },
+        "status": "TikHub 视频号 V2 已核验；播放量未公开；已生成微信分享链接。"
       }
     ],
     "lastRun": {
@@ -131366,6 +132011,7 @@ window.BENCHMARK_DATA={
           "status": "已核验 1 条本月候选视频"
         }
       ]
-    }
+    },
+    "updatedAt": "2026-09-14T11:13:42+08:00"
   }
 };
