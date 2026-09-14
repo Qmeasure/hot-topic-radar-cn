@@ -1,0 +1,1619 @@
+{
+  "generatedAt": "2026-09-14T08:07:31+08:00",
+  "creatorCount": 140,
+  "summaries": [
+    {
+      "period": "day",
+      "start": "2026-09-14",
+      "videoCount": 6,
+      "creatorCount": 6,
+      "topTopics": [
+        {
+          "topic": "AI应用",
+          "count": 3
+        },
+        {
+          "topic": "宏观经济",
+          "count": 2
+        },
+        {
+          "topic": "AI模型",
+          "count": 1
+        }
+      ],
+      "topVideoId": "douyin-7683844509465311077"
+    },
+    {
+      "period": "week",
+      "start": "2026-09-13",
+      "videoCount": 6,
+      "creatorCount": 6,
+      "topTopics": [
+        {
+          "topic": "AI应用",
+          "count": 3
+        },
+        {
+          "topic": "宏观经济",
+          "count": 2
+        },
+        {
+          "topic": "AI模型",
+          "count": 1
+        }
+      ],
+      "topVideoId": "douyin-7683844509465311077"
+    },
+    {
+      "period": "day",
+      "start": "2026-09-13",
+      "videoCount": 52,
+      "creatorCount": 38,
+      "topTopics": [
+        {
+          "topic": "其他",
+          "count": 30
+        },
+        {
+          "topic": "AI应用",
+          "count": 7
+        },
+        {
+          "topic": "宏观经济",
+          "count": 6
+        },
+        {
+          "topic": "商业产业",
+          "count": 4
+        },
+        {
+          "topic": "AI模型",
+          "count": 3
+        }
+      ],
+      "topVideoId": "douyin-7684667404693048639"
+    },
+    {
+      "period": "week",
+      "start": "2026-09-06",
+      "videoCount": 520,
+      "creatorCount": 111,
+      "topTopics": [
+        {
+          "topic": "其他",
+          "count": 233
+        },
+        {
+          "topic": "宏观经济",
+          "count": 82
+        },
+        {
+          "topic": "AI应用",
+          "count": 82
+        },
+        {
+          "topic": "投资市场",
+          "count": 54
+        },
+        {
+          "topic": "AI模型",
+          "count": 23
+        }
+      ],
+      "topVideoId": "douyin-7683520934916934966"
+    },
+    {
+      "period": "day",
+      "start": "2026-09-12",
+      "videoCount": 57,
+      "creatorCount": 42,
+      "topTopics": [
+        {
+          "topic": "其他",
+          "count": 28
+        },
+        {
+          "topic": "AI应用",
+          "count": 13
+        },
+        {
+          "topic": "宏观经济",
+          "count": 9
+        },
+        {
+          "topic": "投资市场",
+          "count": 3
+        },
+        {
+          "topic": "AI模型",
+          "count": 2
+        }
+      ],
+      "topVideoId": "douyin-7684488993160973614"
+    },
+    {
+      "period": "day",
+      "start": "2026-09-11",
+      "videoCount": 93,
+      "creatorCount": 63,
+      "topTopics": [
+        {
+          "topic": "其他",
+          "count": 39
+        },
+        {
+          "topic": "宏观经济",
+          "count": 22
+        },
+        {
+          "topic": "投资市场",
+          "count": 13
+        },
+        {
+          "topic": "AI应用",
+          "count": 10
+        },
+        {
+          "topic": "AI模型",
+          "count": 3
+        }
+      ],
+      "topVideoId": "douyin-7684053557896645888"
+    },
+    {
+      "period": "day",
+      "start": "2026-09-10",
+      "videoCount": 72,
+      "creatorCount": 59,
+      "topTopics": [
+        {
+          "topic": "其他",
+          "count": 31
+        },
+        {
+          "topic": "AI应用",
+          "count": 15
+        },
+        {
+          "topic": "宏观经济",
+          "count": 6
+        },
+        {
+          "topic": "投资市场",
+          "count": 6
+        },
+        {
+          "topic": "商业产业",
+          "count": 4
+        }
+      ],
+      "topVideoId": "douyin-7683860916458261779"
+    },
+    {
+      "period": "day",
+      "start": "2026-09-09",
+      "videoCount": 86,
+      "creatorCount": 59,
+      "topTopics": [
+        {
+          "topic": "其他",
+          "count": 36
+        },
+        {
+          "topic": "宏观经济",
+          "count": 15
+        },
+        {
+          "topic": "AI应用",
+          "count": 12
+        },
+        {
+          "topic": "投资市场",
+          "count": 11
+        },
+        {
+          "topic": "AI模型",
+          "count": 4
+        }
+      ],
+      "topVideoId": "douyin-7683520934916934966"
+    },
+    {
+      "period": "day",
+      "start": "2026-09-08",
+      "videoCount": 82,
+      "creatorCount": 59,
+      "topTopics": [
+        {
+          "topic": "其他",
+          "count": 38
+        },
+        {
+          "topic": "投资市场",
+          "count": 11
+        },
+        {
+          "topic": "AI应用",
+          "count": 11
+        },
+        {
+          "topic": "宏观经济",
+          "count": 10
+        },
+        {
+          "topic": "商业产业",
+          "count": 5
+        }
+      ],
+      "topVideoId": "douyin-7683104315476544810"
+    },
+    {
+      "period": "day",
+      "start": "2026-09-07",
+      "videoCount": 78,
+      "creatorCount": 58,
+      "topTopics": [
+        {
+          "topic": "其他",
+          "count": 31
+        },
+        {
+          "topic": "宏观经济",
+          "count": 14
+        },
+        {
+          "topic": "AI应用",
+          "count": 14
+        },
+        {
+          "topic": "投资市场",
+          "count": 8
+        },
+        {
+          "topic": "AI模型",
+          "count": 5
+        }
+      ],
+      "topVideoId": "douyin-7682745954478361865"
+    },
+    {
+      "period": "day",
+      "start": "2026-09-06",
+      "videoCount": 41,
+      "creatorCount": 33,
+      "topTopics": [
+        {
+          "topic": "其他",
+          "count": 20
+        },
+        {
+          "topic": "宏观经济",
+          "count": 9
+        },
+        {
+          "topic": "AI应用",
+          "count": 6
+        },
+        {
+          "topic": "投资市场",
+          "count": 2
+        },
+        {
+          "topic": "商业产业",
+          "count": 1
+        }
+      ],
+      "topVideoId": "douyin-7682306878184951074"
+    },
+    {
+      "period": "week",
+      "start": "2026-08-30",
+      "videoCount": 390,
+      "creatorCount": 108,
+      "topTopics": [
+        {
+          "topic": "其他",
+          "count": 186
+        },
+        {
+          "topic": "宏观经济",
+          "count": 57
+        },
+        {
+          "topic": "AI应用",
+          "count": 53
+        },
+        {
+          "topic": "投资市场",
+          "count": 34
+        },
+        {
+          "topic": "AI模型",
+          "count": 22
+        }
+      ],
+      "topVideoId": "douyin-7682306878184951074"
+    },
+    {
+      "period": "day",
+      "start": "2026-09-05",
+      "videoCount": 49,
+      "creatorCount": 41,
+      "topTopics": [
+        {
+          "topic": "其他",
+          "count": 23
+        },
+        {
+          "topic": "宏观经济",
+          "count": 10
+        },
+        {
+          "topic": "AI应用",
+          "count": 8
+        },
+        {
+          "topic": "AI模型",
+          "count": 3
+        },
+        {
+          "topic": "投资市场",
+          "count": 3
+        }
+      ],
+      "topVideoId": "douyin-7681594379294821684"
+    },
+    {
+      "period": "day",
+      "start": "2026-09-04",
+      "videoCount": 65,
+      "creatorCount": 50,
+      "topTopics": [
+        {
+          "topic": "其他",
+          "count": 29
+        },
+        {
+          "topic": "AI模型",
+          "count": 9
+        },
+        {
+          "topic": "投资市场",
+          "count": 8
+        },
+        {
+          "topic": "AI应用",
+          "count": 7
+        },
+        {
+          "topic": "宏观经济",
+          "count": 5
+        }
+      ],
+      "topVideoId": "douyin-7681568129197083955"
+    },
+    {
+      "period": "day",
+      "start": "2026-09-03",
+      "videoCount": 60,
+      "creatorCount": 47,
+      "topTopics": [
+        {
+          "topic": "其他",
+          "count": 31
+        },
+        {
+          "topic": "AI应用",
+          "count": 8
+        },
+        {
+          "topic": "宏观经济",
+          "count": 7
+        },
+        {
+          "topic": "投资市场",
+          "count": 5
+        },
+        {
+          "topic": "商业产业",
+          "count": 2
+        }
+      ],
+      "topVideoId": "douyin-7681248895514463488"
+    },
+    {
+      "period": "day",
+      "start": "2026-09-02",
+      "videoCount": 68,
+      "creatorCount": 52,
+      "topTopics": [
+        {
+          "topic": "其他",
+          "count": 36
+        },
+        {
+          "topic": "AI应用",
+          "count": 10
+        },
+        {
+          "topic": "宏观经济",
+          "count": 9
+        },
+        {
+          "topic": "投资市场",
+          "count": 6
+        },
+        {
+          "topic": "商业产业",
+          "count": 3
+        }
+      ],
+      "topVideoId": "douyin-7680801661580741926"
+    },
+    {
+      "period": "day",
+      "start": "2026-09-01",
+      "videoCount": 52,
+      "creatorCount": 47,
+      "topTopics": [
+        {
+          "topic": "其他",
+          "count": 25
+        },
+        {
+          "topic": "AI应用",
+          "count": 7
+        },
+        {
+          "topic": "宏观经济",
+          "count": 7
+        },
+        {
+          "topic": "AI模型",
+          "count": 5
+        },
+        {
+          "topic": "投资市场",
+          "count": 4
+        }
+      ],
+      "topVideoId": "douyin-7680516684033084724"
+    },
+    {
+      "period": "day",
+      "start": "2026-08-31",
+      "videoCount": 55,
+      "creatorCount": 49,
+      "topTopics": [
+        {
+          "topic": "其他",
+          "count": 22
+        },
+        {
+          "topic": "宏观经济",
+          "count": 10
+        },
+        {
+          "topic": "AI应用",
+          "count": 7
+        },
+        {
+          "topic": "投资市场",
+          "count": 6
+        },
+        {
+          "topic": "商业产业",
+          "count": 4
+        }
+      ],
+      "topVideoId": "douyin-7680106141996633394"
+    },
+    {
+      "period": "day",
+      "start": "2026-08-30",
+      "videoCount": 28,
+      "creatorCount": 26,
+      "topTopics": [
+        {
+          "topic": "其他",
+          "count": 10
+        },
+        {
+          "topic": "商业产业",
+          "count": 5
+        },
+        {
+          "topic": "宏观经济",
+          "count": 5
+        },
+        {
+          "topic": "投资市场",
+          "count": 3
+        },
+        {
+          "topic": "AI应用",
+          "count": 3
+        }
+      ],
+      "topVideoId": "youtube-zMvBMfj4cSQ"
+    },
+    {
+      "period": "week",
+      "start": "2026-08-23",
+      "videoCount": 309,
+      "creatorCount": 98,
+      "topTopics": [
+        {
+          "topic": "其他",
+          "count": 149
+        },
+        {
+          "topic": "宏观经济",
+          "count": 48
+        },
+        {
+          "topic": "AI应用",
+          "count": 43
+        },
+        {
+          "topic": "投资市场",
+          "count": 33
+        },
+        {
+          "topic": "商业产业",
+          "count": 13
+        }
+      ],
+      "topVideoId": "youtube-NYFGCESmikA"
+    },
+    {
+      "period": "day",
+      "start": "2026-08-29",
+      "videoCount": 30,
+      "creatorCount": 26,
+      "topTopics": [
+        {
+          "topic": "其他",
+          "count": 13
+        },
+        {
+          "topic": "宏观经济",
+          "count": 6
+        },
+        {
+          "topic": "AI应用",
+          "count": 5
+        },
+        {
+          "topic": "投资市场",
+          "count": 2
+        },
+        {
+          "topic": "商业产业",
+          "count": 2
+        }
+      ],
+      "topVideoId": "youtube-h9VNB9TA2Hk"
+    },
+    {
+      "period": "day",
+      "start": "2026-08-28",
+      "videoCount": 58,
+      "creatorCount": 51,
+      "topTopics": [
+        {
+          "topic": "其他",
+          "count": 28
+        },
+        {
+          "topic": "投资市场",
+          "count": 9
+        },
+        {
+          "topic": "宏观经济",
+          "count": 7
+        },
+        {
+          "topic": "AI应用",
+          "count": 6
+        },
+        {
+          "topic": "商业产业",
+          "count": 3
+        }
+      ],
+      "topVideoId": "youtube-1u5dMAKl_ks"
+    },
+    {
+      "period": "day",
+      "start": "2026-08-27",
+      "videoCount": 43,
+      "creatorCount": 39,
+      "topTopics": [
+        {
+          "topic": "其他",
+          "count": 23
+        },
+        {
+          "topic": "宏观经济",
+          "count": 6
+        },
+        {
+          "topic": "AI应用",
+          "count": 5
+        },
+        {
+          "topic": "投资市场",
+          "count": 4
+        },
+        {
+          "topic": "AI模型",
+          "count": 3
+        }
+      ],
+      "topVideoId": null
+    },
+    {
+      "period": "day",
+      "start": "2026-08-26",
+      "videoCount": 46,
+      "creatorCount": 39,
+      "topTopics": [
+        {
+          "topic": "其他",
+          "count": 23
+        },
+        {
+          "topic": "宏观经济",
+          "count": 10
+        },
+        {
+          "topic": "AI应用",
+          "count": 6
+        },
+        {
+          "topic": "投资市场",
+          "count": 4
+        },
+        {
+          "topic": "AI模型",
+          "count": 1
+        }
+      ],
+      "topVideoId": "youtube-NYFGCESmikA"
+    },
+    {
+      "period": "day",
+      "start": "2026-08-25",
+      "videoCount": 54,
+      "creatorCount": 45,
+      "topTopics": [
+        {
+          "topic": "其他",
+          "count": 24
+        },
+        {
+          "topic": "AI应用",
+          "count": 11
+        },
+        {
+          "topic": "宏观经济",
+          "count": 8
+        },
+        {
+          "topic": "投资市场",
+          "count": 6
+        },
+        {
+          "topic": "AI模型",
+          "count": 3
+        }
+      ],
+      "topVideoId": "youtube-aV26V1UvkJw"
+    },
+    {
+      "period": "day",
+      "start": "2026-08-24",
+      "videoCount": 50,
+      "creatorCount": 45,
+      "topTopics": [
+        {
+          "topic": "其他",
+          "count": 28
+        },
+        {
+          "topic": "AI应用",
+          "count": 7
+        },
+        {
+          "topic": "宏观经济",
+          "count": 6
+        },
+        {
+          "topic": "投资市场",
+          "count": 5
+        },
+        {
+          "topic": "AI模型",
+          "count": 2
+        }
+      ],
+      "topVideoId": "youtube-yHe4SMiK3PU"
+    },
+    {
+      "period": "day",
+      "start": "2026-08-23",
+      "videoCount": 28,
+      "creatorCount": 26,
+      "topTopics": [
+        {
+          "topic": "其他",
+          "count": 14
+        },
+        {
+          "topic": "宏观经济",
+          "count": 5
+        },
+        {
+          "topic": "AI应用",
+          "count": 4
+        },
+        {
+          "topic": "投资市场",
+          "count": 2
+        },
+        {
+          "topic": "AI模型",
+          "count": 1
+        }
+      ],
+      "topVideoId": "youtube-YS9In813jJ0"
+    },
+    {
+      "period": "week",
+      "start": "2026-08-16",
+      "videoCount": 261,
+      "creatorCount": 91,
+      "topTopics": [
+        {
+          "topic": "其他",
+          "count": 115
+        },
+        {
+          "topic": "宏观经济",
+          "count": 47
+        },
+        {
+          "topic": "AI应用",
+          "count": 37
+        },
+        {
+          "topic": "投资市场",
+          "count": 28
+        },
+        {
+          "topic": "AI模型",
+          "count": 15
+        }
+      ],
+      "topVideoId": "youtube-Sij_v-mcZXQ"
+    },
+    {
+      "period": "day",
+      "start": "2026-08-22",
+      "videoCount": 30,
+      "creatorCount": 27,
+      "topTopics": [
+        {
+          "topic": "其他",
+          "count": 12
+        },
+        {
+          "topic": "宏观经济",
+          "count": 9
+        },
+        {
+          "topic": "AI应用",
+          "count": 4
+        },
+        {
+          "topic": "投资市场",
+          "count": 3
+        },
+        {
+          "topic": "AI模型",
+          "count": 1
+        }
+      ],
+      "topVideoId": null
+    },
+    {
+      "period": "day",
+      "start": "2026-08-21",
+      "videoCount": 44,
+      "creatorCount": 39,
+      "topTopics": [
+        {
+          "topic": "其他",
+          "count": 18
+        },
+        {
+          "topic": "宏观经济",
+          "count": 9
+        },
+        {
+          "topic": "AI应用",
+          "count": 8
+        },
+        {
+          "topic": "商业产业",
+          "count": 2
+        },
+        {
+          "topic": "投资市场",
+          "count": 2
+        }
+      ],
+      "topVideoId": "youtube-Sij_v-mcZXQ"
+    },
+    {
+      "period": "day",
+      "start": "2026-08-20",
+      "videoCount": 48,
+      "creatorCount": 42,
+      "topTopics": [
+        {
+          "topic": "其他",
+          "count": 15
+        },
+        {
+          "topic": "投资市场",
+          "count": 11
+        },
+        {
+          "topic": "宏观经济",
+          "count": 9
+        },
+        {
+          "topic": "AI应用",
+          "count": 8
+        },
+        {
+          "topic": "AI模型",
+          "count": 3
+        }
+      ],
+      "topVideoId": "youtube-pO097ci0aWk"
+    },
+    {
+      "period": "day",
+      "start": "2026-08-19",
+      "videoCount": 32,
+      "creatorCount": 31,
+      "topTopics": [
+        {
+          "topic": "其他",
+          "count": 18
+        },
+        {
+          "topic": "宏观经济",
+          "count": 4
+        },
+        {
+          "topic": "AI模型",
+          "count": 3
+        },
+        {
+          "topic": "AI应用",
+          "count": 3
+        },
+        {
+          "topic": "商业产业",
+          "count": 2
+        }
+      ],
+      "topVideoId": "youtube-UsBV0DCoDCA"
+    },
+    {
+      "period": "day",
+      "start": "2026-08-18",
+      "videoCount": 44,
+      "creatorCount": 39,
+      "topTopics": [
+        {
+          "topic": "其他",
+          "count": 22
+        },
+        {
+          "topic": "AI应用",
+          "count": 7
+        },
+        {
+          "topic": "宏观经济",
+          "count": 5
+        },
+        {
+          "topic": "投资市场",
+          "count": 4
+        },
+        {
+          "topic": "AI模型",
+          "count": 3
+        }
+      ],
+      "topVideoId": "youtube-h-0NZ-oIjlk"
+    },
+    {
+      "period": "day",
+      "start": "2026-08-17",
+      "videoCount": 35,
+      "creatorCount": 34,
+      "topTopics": [
+        {
+          "topic": "其他",
+          "count": 16
+        },
+        {
+          "topic": "宏观经济",
+          "count": 6
+        },
+        {
+          "topic": "投资市场",
+          "count": 5
+        },
+        {
+          "topic": "AI应用",
+          "count": 3
+        },
+        {
+          "topic": "AI模型",
+          "count": 2
+        }
+      ],
+      "topVideoId": "youtube-P5iICDVn5gc"
+    },
+    {
+      "period": "day",
+      "start": "2026-08-16",
+      "videoCount": 21,
+      "creatorCount": 21,
+      "topTopics": [
+        {
+          "topic": "其他",
+          "count": 11
+        },
+        {
+          "topic": "宏观经济",
+          "count": 5
+        },
+        {
+          "topic": "AI应用",
+          "count": 3
+        },
+        {
+          "topic": "商业产业",
+          "count": 1
+        },
+        {
+          "topic": "投资市场",
+          "count": 1
+        }
+      ],
+      "topVideoId": null
+    },
+    {
+      "period": "week",
+      "start": "2026-08-09",
+      "videoCount": 173,
+      "creatorCount": 73,
+      "topTopics": [
+        {
+          "topic": "其他",
+          "count": 71
+        },
+        {
+          "topic": "AI应用",
+          "count": 36
+        },
+        {
+          "topic": "宏观经济",
+          "count": 21
+        },
+        {
+          "topic": "投资市场",
+          "count": 21
+        },
+        {
+          "topic": "商业产业",
+          "count": 8
+        }
+      ],
+      "topVideoId": "youtube-l6USUAIKJls"
+    },
+    {
+      "period": "day",
+      "start": "2026-08-15",
+      "videoCount": 23,
+      "creatorCount": 23,
+      "topTopics": [
+        {
+          "topic": "其他",
+          "count": 8
+        },
+        {
+          "topic": "AI应用",
+          "count": 4
+        },
+        {
+          "topic": "宏观经济",
+          "count": 4
+        },
+        {
+          "topic": "投资市场",
+          "count": 3
+        },
+        {
+          "topic": "商业产业",
+          "count": 2
+        }
+      ],
+      "topVideoId": "douyin-7674146599014010138"
+    },
+    {
+      "period": "day",
+      "start": "2026-08-14",
+      "videoCount": 23,
+      "creatorCount": 22,
+      "topTopics": [
+        {
+          "topic": "其他",
+          "count": 9
+        },
+        {
+          "topic": "AI应用",
+          "count": 7
+        },
+        {
+          "topic": "宏观经济",
+          "count": 3
+        },
+        {
+          "topic": "投资市场",
+          "count": 2
+        },
+        {
+          "topic": "AI模型",
+          "count": 1
+        }
+      ],
+      "topVideoId": "youtube-R4hJ6SI4I_Q"
+    },
+    {
+      "period": "day",
+      "start": "2026-08-13",
+      "videoCount": 26,
+      "creatorCount": 26,
+      "topTopics": [
+        {
+          "topic": "其他",
+          "count": 10
+        },
+        {
+          "topic": "AI应用",
+          "count": 6
+        },
+        {
+          "topic": "宏观经济",
+          "count": 4
+        },
+        {
+          "topic": "投资市场",
+          "count": 2
+        },
+        {
+          "topic": "AI模型",
+          "count": 1
+        }
+      ],
+      "topVideoId": "youtube-eYrMF9Cht8A"
+    },
+    {
+      "period": "day",
+      "start": "2026-08-12",
+      "videoCount": 29,
+      "creatorCount": 24,
+      "topTopics": [
+        {
+          "topic": "其他",
+          "count": 11
+        },
+        {
+          "topic": "AI应用",
+          "count": 5
+        },
+        {
+          "topic": "投资市场",
+          "count": 4
+        },
+        {
+          "topic": "宏观经济",
+          "count": 2
+        },
+        {
+          "topic": "AI模型",
+          "count": 2
+        }
+      ],
+      "topVideoId": "youtube-l6USUAIKJls"
+    },
+    {
+      "period": "day",
+      "start": "2026-08-11",
+      "videoCount": 28,
+      "creatorCount": 28,
+      "topTopics": [
+        {
+          "topic": "其他",
+          "count": 12
+        },
+        {
+          "topic": "AI应用",
+          "count": 6
+        },
+        {
+          "topic": "投资市场",
+          "count": 4
+        },
+        {
+          "topic": "AI模型",
+          "count": 2
+        },
+        {
+          "topic": "AI深度访谈",
+          "count": 1
+        }
+      ],
+      "topVideoId": "youtube--RXD4bTuFTo"
+    },
+    {
+      "period": "day",
+      "start": "2026-08-10",
+      "videoCount": 23,
+      "creatorCount": 21,
+      "topTopics": [
+        {
+          "topic": "其他",
+          "count": 10
+        },
+        {
+          "topic": "AI应用",
+          "count": 5
+        },
+        {
+          "topic": "投资市场",
+          "count": 5
+        },
+        {
+          "topic": "宏观经济",
+          "count": 2
+        },
+        {
+          "topic": "商业产业",
+          "count": 1
+        }
+      ],
+      "topVideoId": null
+    },
+    {
+      "period": "day",
+      "start": "2026-08-09",
+      "videoCount": 10,
+      "creatorCount": 9,
+      "topTopics": [
+        {
+          "topic": "其他",
+          "count": 4
+        },
+        {
+          "topic": "投资市场",
+          "count": 2
+        },
+        {
+          "topic": "宏观经济",
+          "count": 2
+        },
+        {
+          "topic": "AI模型",
+          "count": 1
+        },
+        {
+          "topic": "AI应用",
+          "count": 1
+        }
+      ],
+      "topVideoId": null
+    },
+    {
+      "period": "week",
+      "start": "2026-08-02",
+      "videoCount": 119,
+      "creatorCount": 50,
+      "topTopics": [
+        {
+          "topic": "其他",
+          "count": 69
+        },
+        {
+          "topic": "AI应用",
+          "count": 19
+        },
+        {
+          "topic": "投资市场",
+          "count": 10
+        },
+        {
+          "topic": "宏观经济",
+          "count": 10
+        },
+        {
+          "topic": "商业产业",
+          "count": 6
+        }
+      ],
+      "topVideoId": null
+    },
+    {
+      "period": "day",
+      "start": "2026-08-08",
+      "videoCount": 15,
+      "creatorCount": 14,
+      "topTopics": [
+        {
+          "topic": "其他",
+          "count": 9
+        },
+        {
+          "topic": "AI应用",
+          "count": 4
+        },
+        {
+          "topic": "商业产业",
+          "count": 1
+        },
+        {
+          "topic": "AI模型",
+          "count": 1
+        }
+      ],
+      "topVideoId": null
+    },
+    {
+      "period": "day",
+      "start": "2026-08-07",
+      "videoCount": 23,
+      "creatorCount": 21,
+      "topTopics": [
+        {
+          "topic": "其他",
+          "count": 15
+        },
+        {
+          "topic": "AI应用",
+          "count": 5
+        },
+        {
+          "topic": "投资市场",
+          "count": 1
+        },
+        {
+          "topic": "商业产业",
+          "count": 1
+        },
+        {
+          "topic": "宏观经济",
+          "count": 1
+        }
+      ],
+      "topVideoId": null
+    },
+    {
+      "period": "day",
+      "start": "2026-08-06",
+      "videoCount": 17,
+      "creatorCount": 16,
+      "topTopics": [
+        {
+          "topic": "其他",
+          "count": 13
+        },
+        {
+          "topic": "投资市场",
+          "count": 2
+        },
+        {
+          "topic": "AI模型",
+          "count": 1
+        },
+        {
+          "topic": "AI应用",
+          "count": 1
+        }
+      ],
+      "topVideoId": null
+    },
+    {
+      "period": "day",
+      "start": "2026-08-05",
+      "videoCount": 18,
+      "creatorCount": 18,
+      "topTopics": [
+        {
+          "topic": "其他",
+          "count": 7
+        },
+        {
+          "topic": "AI应用",
+          "count": 4
+        },
+        {
+          "topic": "商业产业",
+          "count": 3
+        },
+        {
+          "topic": "宏观经济",
+          "count": 2
+        },
+        {
+          "topic": "投资市场",
+          "count": 1
+        }
+      ],
+      "topVideoId": null
+    },
+    {
+      "period": "day",
+      "start": "2026-08-04",
+      "videoCount": 24,
+      "creatorCount": 20,
+      "topTopics": [
+        {
+          "topic": "其他",
+          "count": 16
+        },
+        {
+          "topic": "宏观经济",
+          "count": 3
+        },
+        {
+          "topic": "AI应用",
+          "count": 3
+        },
+        {
+          "topic": "投资市场",
+          "count": 1
+        },
+        {
+          "topic": "商业产业",
+          "count": 1
+        }
+      ],
+      "topVideoId": null
+    },
+    {
+      "period": "day",
+      "start": "2026-08-03",
+      "videoCount": 12,
+      "creatorCount": 11,
+      "topTopics": [
+        {
+          "topic": "其他",
+          "count": 5
+        },
+        {
+          "topic": "投资市场",
+          "count": 3
+        },
+        {
+          "topic": "宏观经济",
+          "count": 2
+        },
+        {
+          "topic": "AI模型",
+          "count": 1
+        },
+        {
+          "topic": "AI应用",
+          "count": 1
+        }
+      ],
+      "topVideoId": null
+    },
+    {
+      "period": "day",
+      "start": "2026-08-02",
+      "videoCount": 8,
+      "creatorCount": 8,
+      "topTopics": [
+        {
+          "topic": "其他",
+          "count": 4
+        },
+        {
+          "topic": "AI应用",
+          "count": 2
+        },
+        {
+          "topic": "宏观经济",
+          "count": 1
+        },
+        {
+          "topic": "投资市场",
+          "count": 1
+        }
+      ],
+      "topVideoId": null
+    },
+    {
+      "period": "week",
+      "start": "2026-07-26",
+      "videoCount": 75,
+      "creatorCount": 45,
+      "topTopics": [
+        {
+          "topic": "其他",
+          "count": 34
+        },
+        {
+          "topic": "AI应用",
+          "count": 17
+        },
+        {
+          "topic": "宏观经济",
+          "count": 8
+        },
+        {
+          "topic": "投资市场",
+          "count": 7
+        },
+        {
+          "topic": "AI模型",
+          "count": 5
+        }
+      ],
+      "topVideoId": null
+    },
+    {
+      "period": "day",
+      "start": "2026-08-01",
+      "videoCount": 14,
+      "creatorCount": 13,
+      "topTopics": [
+        {
+          "topic": "其他",
+          "count": 9
+        },
+        {
+          "topic": "商业产业",
+          "count": 1
+        },
+        {
+          "topic": "AI模型",
+          "count": 1
+        },
+        {
+          "topic": "宏观经济",
+          "count": 1
+        },
+        {
+          "topic": "AI应用",
+          "count": 1
+        }
+      ],
+      "topVideoId": null
+    },
+    {
+      "period": "day",
+      "start": "2026-07-31",
+      "videoCount": 12,
+      "creatorCount": 12,
+      "topTopics": [
+        {
+          "topic": "其他",
+          "count": 5
+        },
+        {
+          "topic": "AI应用",
+          "count": 3
+        },
+        {
+          "topic": "AI模型",
+          "count": 2
+        },
+        {
+          "topic": "商业产业",
+          "count": 1
+        },
+        {
+          "topic": "投资市场",
+          "count": 1
+        }
+      ],
+      "topVideoId": null
+    },
+    {
+      "period": "day",
+      "start": "2026-07-30",
+      "videoCount": 19,
+      "creatorCount": 19,
+      "topTopics": [
+        {
+          "topic": "其他",
+          "count": 6
+        },
+        {
+          "topic": "AI应用",
+          "count": 6
+        },
+        {
+          "topic": "宏观经济",
+          "count": 3
+        },
+        {
+          "topic": "商业产业",
+          "count": 2
+        },
+        {
+          "topic": "投资市场",
+          "count": 1
+        }
+      ],
+      "topVideoId": null
+    },
+    {
+      "period": "day",
+      "start": "2026-07-29",
+      "videoCount": 19,
+      "creatorCount": 19,
+      "topTopics": [
+        {
+          "topic": "其他",
+          "count": 8
+        },
+        {
+          "topic": "AI应用",
+          "count": 5
+        },
+        {
+          "topic": "宏观经济",
+          "count": 3
+        },
+        {
+          "topic": "投资市场",
+          "count": 2
+        },
+        {
+          "topic": "AI模型",
+          "count": 1
+        }
+      ],
+      "topVideoId": null
+    },
+    {
+      "period": "day",
+      "start": "2026-07-28",
+      "videoCount": 3,
+      "creatorCount": 3,
+      "topTopics": [
+        {
+          "topic": "其他",
+          "count": 2
+        },
+        {
+          "topic": "投资市场",
+          "count": 1
+        }
+      ],
+      "topVideoId": null
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="AI与财经对标博主每日、每周视频数据监测展板" />
+  <title>对标博主数据展板</title>
+  <link rel="stylesheet" href="benchmark-dashboard.css" />
+</head>
+<body>
+  <main class="dashboard-shell">
+    <header class="dashboard-header">
+      <div>
+        <a class="back-link" href="index.html">← 返回 AI 内容工作台</a>
+        <p class="eyebrow">BENCHMARK CREATOR INTELLIGENCE</p>
+        <h1>对标博主数据展板</h1>
+        <p class="subtitle">AI × 财经 · 每日追踪 · 每周复盘 · 全量视频归档</p>
+      </div>
+      <div class="status-card" id="dataStatus" role="status" aria-live="polite"></div>
+    </header>
+
+    <section class="control-deck" aria-label="展板筛选">
+      <div class="control-primary">
+        <div class="segmented" id="periodSwitch" aria-label="统计周期">
+          <button type="button" data-period="day">每日</button>
+          <button type="button" data-period="week" class="active">每周</button>
+        </div>
+        <label class="date-field"><span id="dateFieldLabel">选择周内日期</span><input id="anchorDate" type="date" /></label>
+        <button class="ghost-button" id="goToday" type="button">回到今天</button>
+      </div>
+      <div class="period-copy">
+        <strong id="periodLabel">—</strong>
+        <span id="periodHint">周一至周日，以北京时间统计</span>
+      </div>
+    </section>
+
+    <nav class="section-tabs" id="sectionTabs" aria-label="名单板块">
+      <button type="button" data-section="全部" class="active">全部</button>
+      <button type="button" data-section="AI">AI</button>
+      <button type="button" data-section="财经">财经</button>
+      <button type="button" data-section="播客">播客</button>
+    </nav>
+
+    <section class="kpi-grid" id="kpiGrid" aria-label="核心数据"></section>
+
+    <section class="analysis-grid">
+      <article class="panel trend-panel">
+        <header class="panel-head">
+          <div><p class="panel-kicker">PUBLISHING RHYTHM</p><h2>发布节奏</h2></div>
+          <span class="panel-note">按北京时间</span>
+        </header>
+        <div id="dailyTrend" class="bar-chart"></div>
+      </article>
+      <article class="panel rank-panel">
+        <header class="panel-head">
+          <div><p class="panel-kicker">CREATOR COMPARISON</p><h2>博主表现对比</h2></div>
+          <span class="panel-note">按播放量排序</span>
+        </header>
+        <div id="creatorRanking" class="rank-list"></div>
+      </article>
+    </section>
+
+    <section class="panel coverage-panel">
+      <header class="panel-head">
+        <div><p class="panel-kicker">COLLECTION COVERAGE</p><h2>本周账号采集状态</h2></div>
+        <span class="panel-note" id="coverageSummary">—</span>
+      </header>
+      <div id="coverageList" class="coverage-list"></div>
+    </section>
+
+    <section class="panel records-panel">
+      <header class="records-head">
+        <div>
+          <p class="panel-kicker">COMPLETE VIDEO LOG</p>
+          <h2>本周期全部视频</h2>
+          <p id="recordSummary" class="records-summary">—</p>
+        </div>
+        <div class="record-actions">
+          <label><span class="sr-only">搜索视频</span><input id="videoSearch" type="search" placeholder="搜索博主或视频标题" /></label>
+          <label><span class="sr-only">选择平台</span><select id="platformFilter"><option value="全部">全部平台</option></select></label>
+          <label><span class="sr-only">选择博主</span><select id="creatorFilter"><option value="全部">全部博主</option></select></label>
+          <label><span class="sr-only">选择视频类型</span><select id="typeFilter"><option value="全部">全部视频类型</option></select></label>
+          <select id="sortBy" aria-label="排序方式">
+            <option value="published-desc">最新发布</option>
+            <option value="views-desc">播放量最高</option>
+            <option value="engagement-desc">互动量最高</option>
+          </select>
+          <button id="exportCsv" class="export-button" type="button">导出当前 CSV</button>
+        </div>
+      </header>
+      <div class="table-wrap">
+        <table>
+          <thead><tr><th>发布时间</th><th>板块 / 平台</th><th>博主</th><th class="title-col">视频</th><th>播放</th><th>点赞</th><th>评论</th><th>收藏</th><th>分享</th><th>采集快照</th></tr></thead>
+          <tbody id="videoRows"></tbody>
+        </table>
+        <div id="emptyState" class="empty-state" hidden>
+          <div class="empty-mark">⌁</div>
+          <h3 id="emptyTitle">名单尚未导入</h3>
+          <p id="emptyCopy">把对标博主名单发给我后，这里会按 AI 与财经两个板块，显示他们在所选周期发布的全部视频、原链接和公开数据快照。</p>
+        </div>
+      </div>
+    </section>
+
+    <details class="methodology">
+      <summary>数据口径与更新规则</summary>
+      <div class="method-grid">
+        <p><strong>时间口径</strong><span>每日按北京时间自然日；每周为周一 00:00 至周日 23:59。</span></p>
+        <p><strong>收录口径</strong><span>只收录名单内博主的公开新视频，以平台视频 ID 或标准化链接去重。</span></p>
+        <p><strong>指标口径</strong><span>播放、点赞、评论、收藏、分享按平台公开值记录；未公开项显示“未公开”，不推测、不补零。</span></p>
+        <p><strong>快照口径</strong><span>每次采集保留时间戳与历史指标，周报优先展示周期结束后的最新有效快照。</span></p>
+      </div>
+    </details>
+  </main>
+  <div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
+  <div id="creatorAnalysisModal" class="creator-modal" hidden>
+    <div class="creator-modal-backdrop" data-close-creator></div>
+    <section class="creator-modal-panel" role="dialog" aria-modal="true" aria-labelledby="creatorAnalysisName">
+      <header class="creator-modal-head">
+        <div>
+          <span class="creator-modal-kicker" id="creatorAnalysisMeta">账号分析</span>
+          <h2 id="creatorAnalysisName">—</h2>
+          <p id="creatorAnalysisFocus"></p>
+        </div>
+        <div class="creator-modal-actions">
+          <a id="creatorProfileLink" target="_blank" rel="noopener">打开视频主页 ↗</a>
+          <button type="button" data-close-creator aria-label="关闭账号分析">×</button>
+        </div>
+      </header>
+      <div class="creator-period-note" id="creatorPeriodNote"></div>
+      <div class="creator-kpis" id="creatorKpis"></div>
+      <div class="creator-analysis-grid">
+        <article><h3>内容结构与获客打法</h3><div id="creatorContentAnalysis"></div></article>
+        <article><h3>本周期视频</h3><div id="creatorVideoList"></div></article>
+      </div>
+    </section>
+  </div>
+  <script src="benchmark-data.js"></script>
+  <script src="benchmark-dashboard.js"></script>
+</body>
+</html>
