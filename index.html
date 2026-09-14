@@ -10,6 +10,7 @@
   <link rel="stylesheet" href="copy-links.css" />
   <link rel="stylesheet" href="creators.css" />
   <link rel="stylesheet" href="categories.css" />
+  <link rel="stylesheet" href="douyin-radar.css" />
 </head>
 <body>
   <main class="shell">
@@ -37,6 +38,14 @@
     </section>
 
     <section class="stats" id="stats"></section>
+
+    <section class="douyin-radar" id="douyinRadar">
+      <div class="douyin-radar-head">
+        <div><span class="douyin-kicker">DOUYIN DAILY PICKS</span><h2>今日抖音热点选题列表</h2><p id="douyinRadarMeta">按抖音热榜真实数据与账号适配度筛选</p></div>
+        <span class="douyin-primary">抖音优先</span>
+      </div>
+      <div class="douyin-topic-list" id="douyinTopicList"></div>
+    </section>
 
     <nav class="view-switch" aria-label="内容视图">
       <button class="view-btn active" type="button" data-view="topics">热点选题</button>
@@ -83,6 +92,7 @@
     </section>
   </div>
   <script src="data.js"></script>
+  <script src="douyin-hot-topics.js"></script>
   <script src="creator-data.js"></script>
   <script src="benchmark-data.js"></script>
   <script src="app.js"></script>
