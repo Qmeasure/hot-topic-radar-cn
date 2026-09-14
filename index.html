@@ -3,29 +3,30 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="description" content="面向短视频编导的财经、金融、股市投资、科技、社会民生与国际时政热点选题和爆款视频数据库" />
-  <title>热点选题雷达</title>
+  <meta name="description" content="面向AI投资博主的抖音热点选题、产业研究与爆款视频工作台" />
+  <title>AI投资内容工作台</title>
   <link rel="stylesheet" href="styles.css" />
   <link rel="stylesheet" href="rank.css" />
   <link rel="stylesheet" href="copy-links.css" />
   <link rel="stylesheet" href="creators.css" />
   <link rel="stylesheet" href="categories.css" />
   <link rel="stylesheet" href="douyin-radar.css" />
+  <link rel="stylesheet" href="ai-investment.css" />
 </head>
 <body>
   <main class="shell">
     <header class="topbar">
       <div>
         <div class="eyebrow">CONTENT INTELLIGENCE / ARCHIVE</div>
-        <h1>热点选题雷达</h1>
-        <p class="subtitle">财经 × 金融 × 股市投资 × 科技（AI重点）× 社会民生 × 国际时政 · 每日热点与爆款视频档案</p>
+        <h1>AI投资内容工作台</h1>
+        <p class="subtitle">以抖音热点为入口，专注 AI 产业链、科技投资、资本开支、公司竞争与普通投资者机会</p>
       </div>
       <div class="top-actions"><span class="hourly">● 每小时自动更新</span><span id="updateTime"></span><button id="refreshBtn">↻ 检查更新</button></div>
     </header>
 
     <section class="hero">
       <div><span class="live-dot"></span><span id="dateLabel"></span><span class="muted">　当日归档</span></div>
-      <div class="hero-note">抖音 / 视频号优先 · 海外播客与访谈补充 · 公开数据每日核验 · 历史快照保留</div>
+      <div class="hero-note">抖音为主 · AI投资为唯一内容主线 · 其他平台仅作辅助信源</div>
     </section>
 
     <section class="date-strip">
@@ -41,22 +42,24 @@
 
     <section class="douyin-radar" id="douyinRadar">
       <div class="douyin-radar-head">
-        <div><span class="douyin-kicker">DOUYIN DAILY PICKS</span><h2>今日抖音热点选题列表</h2><p id="douyinRadarMeta">按抖音热榜真实数据与账号适配度筛选</p></div>
+        <div><span class="douyin-kicker">DOUYIN × AI INVESTING</span><h2>今日抖音 AI 投资选题</h2><p id="douyinRadarMeta">只保留能转化为 AI 产业与投资判断的抖音热点</p></div>
         <span class="douyin-primary">抖音优先</span>
       </div>
       <div class="douyin-topic-list" id="douyinTopicList"></div>
     </section>
 
     <nav class="view-switch" aria-label="内容视图">
-      <button class="view-btn active" type="button" data-view="topics">热点选题</button>
+      <button class="view-btn active" type="button" data-view="topics">AI投资选题</button>
       <button class="view-btn" type="button" data-view="creators">重点信源 <span id="creatorCount">282</span></button>
       <a class="view-link" href="benchmark-dashboard.html">对标博主展板 ↗</a>
     </nav>
 
     <section class="toolbar" id="topicToolbar">
       <div class="tabs" id="tabs"></div>
-      <label class="search"><span>⌕</span><input id="search" placeholder="搜索选题、作者或平台" /></label>
+      <label class="search"><span>⌕</span><input id="search" placeholder="搜索抖音选题或博主" /></label>
     </section>
+
+    <div class="douyin-library-title" id="douyinLibraryTitle"><strong>抖音 AI 投资案例库</strong><span>仅展示带抖音原视频的历史选题</span></div>
 
     <section class="grid" id="topicGrid"></section>
 
