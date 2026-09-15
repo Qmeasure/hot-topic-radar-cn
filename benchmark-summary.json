@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-09-14T08:07:31+08:00",
-  "creatorCount": 140,
+  "generatedAt": "2026-09-15T10:02:01+08:00",
+  "creatorCount": 141,
   "summaries": [
     {
       "period": "day",
-      "start": "2026-09-14",
-      "videoCount": 6,
-      "creatorCount": 6,
+      "start": "2026-09-15",
+      "videoCount": 9,
+      "creatorCount": 9,
       "topTopics": [
         {
-          "topic": "AI应用",
-          "count": 3
+          "topic": "其他",
+          "count": 5
         },
         {
           "topic": "宏观经济",
@@ -19,36 +19,77 @@
         {
           "topic": "AI模型",
           "count": 1
+        },
+        {
+          "topic": "投资市场",
+          "count": 1
         }
       ],
-      "topVideoId": "douyin-7683844509465311077"
+      "topVideoId": "douyin-7685431228341832960"
     },
     {
       "period": "week",
       "start": "2026-09-13",
-      "videoCount": 6,
-      "creatorCount": 6,
+      "videoCount": 66,
+      "creatorCount": 48,
       "topTopics": [
         {
+          "topic": "其他",
+          "count": 25
+        },
+        {
           "topic": "AI应用",
-          "count": 3
+          "count": 13
+        },
+        {
+          "topic": "投资市场",
+          "count": 9
         },
         {
           "topic": "宏观经济",
-          "count": 2
+          "count": 8
         },
         {
-          "topic": "AI模型",
-          "count": 1
+          "topic": "商业产业",
+          "count": 6
         }
       ],
-      "topVideoId": "douyin-7683844509465311077"
+      "topVideoId": "douyin-7685350764788698394"
+    },
+    {
+      "period": "day",
+      "start": "2026-09-14",
+      "videoCount": 57,
+      "creatorCount": 47,
+      "topTopics": [
+        {
+          "topic": "其他",
+          "count": 20
+        },
+        {
+          "topic": "AI应用",
+          "count": 13
+        },
+        {
+          "topic": "投资市场",
+          "count": 8
+        },
+        {
+          "topic": "商业产业",
+          "count": 6
+        },
+        {
+          "topic": "宏观经济",
+          "count": 6
+        }
+      ],
+      "topVideoId": "douyin-7685350764788698394"
     },
     {
       "period": "day",
       "start": "2026-09-13",
-      "videoCount": 52,
-      "creatorCount": 38,
+      "videoCount": 54,
+      "creatorCount": 39,
       "topTopics": [
         {
           "topic": "其他",
@@ -56,7 +97,7 @@
         },
         {
           "topic": "AI应用",
-          "count": 7
+          "count": 8
         },
         {
           "topic": "宏观经济",
@@ -76,19 +117,19 @@
     {
       "period": "week",
       "start": "2026-09-06",
-      "videoCount": 520,
-      "creatorCount": 111,
+      "videoCount": 539,
+      "creatorCount": 112,
       "topTopics": [
         {
           "topic": "其他",
-          "count": 233
-        },
-        {
-          "topic": "宏观经济",
-          "count": 82
+          "count": 236
         },
         {
           "topic": "AI应用",
+          "count": 88
+        },
+        {
+          "topic": "宏观经济",
           "count": 82
         },
         {
@@ -105,8 +146,8 @@
     {
       "period": "day",
       "start": "2026-09-12",
-      "videoCount": 57,
-      "creatorCount": 42,
+      "videoCount": 60,
+      "creatorCount": 44,
       "topTopics": [
         {
           "topic": "其他",
@@ -114,7 +155,7 @@
         },
         {
           "topic": "AI应用",
-          "count": 13
+          "count": 14
         },
         {
           "topic": "宏观经济",
@@ -134,12 +175,12 @@
     {
       "period": "day",
       "start": "2026-09-11",
-      "videoCount": 93,
-      "creatorCount": 63,
+      "videoCount": 100,
+      "creatorCount": 65,
       "topTopics": [
         {
           "topic": "其他",
-          "count": 39
+          "count": 42
         },
         {
           "topic": "宏观经济",
@@ -151,7 +192,7 @@
         },
         {
           "topic": "AI应用",
-          "count": 10
+          "count": 12
         },
         {
           "topic": "AI模型",
@@ -163,8 +204,8 @@
     {
       "period": "day",
       "start": "2026-09-10",
-      "videoCount": 72,
-      "creatorCount": 59,
+      "videoCount": 76,
+      "creatorCount": 60,
       "topTopics": [
         {
           "topic": "其他",
@@ -172,7 +213,7 @@
         },
         {
           "topic": "AI应用",
-          "count": 15
+          "count": 16
         },
         {
           "topic": "宏观经济",
@@ -192,8 +233,8 @@
     {
       "period": "day",
       "start": "2026-09-09",
-      "videoCount": 86,
-      "creatorCount": 59,
+      "videoCount": 87,
+      "creatorCount": 60,
       "topTopics": [
         {
           "topic": "其他",
@@ -205,7 +246,7 @@
         },
         {
           "topic": "AI应用",
-          "count": 12
+          "count": 13
         },
         {
           "topic": "投资市场",
@@ -221,8 +262,8 @@
     {
       "period": "day",
       "start": "2026-09-08",
-      "videoCount": 82,
-      "creatorCount": 59,
+      "videoCount": 84,
+      "creatorCount": 61,
       "topTopics": [
         {
           "topic": "其他",
@@ -308,12 +349,12 @@
     {
       "period": "week",
       "start": "2026-08-30",
-      "videoCount": 390,
-      "creatorCount": 108,
+      "videoCount": 395,
+      "creatorCount": 110,
       "topTopics": [
         {
           "topic": "其他",
-          "count": 186
+          "count": 189
         },
         {
           "topic": "宏观经济",
@@ -321,7 +362,7 @@
         },
         {
           "topic": "AI应用",
-          "count": 53
+          "count": 54
         },
         {
           "topic": "投资市场",
@@ -337,8 +378,8 @@
     {
       "period": "day",
       "start": "2026-09-05",
-      "videoCount": 49,
-      "creatorCount": 41,
+      "videoCount": 50,
+      "creatorCount": 42,
       "topTopics": [
         {
           "topic": "其他",
@@ -366,8 +407,8 @@
     {
       "period": "day",
       "start": "2026-09-04",
-      "videoCount": 65,
-      "creatorCount": 50,
+      "videoCount": 66,
+      "creatorCount": 51,
       "topTopics": [
         {
           "topic": "其他",
@@ -378,12 +419,12 @@
           "count": 9
         },
         {
-          "topic": "投资市场",
+          "topic": "AI应用",
           "count": 8
         },
         {
-          "topic": "AI应用",
-          "count": 7
+          "topic": "投资市场",
+          "count": 8
         },
         {
           "topic": "宏观经济",
@@ -395,12 +436,12 @@
     {
       "period": "day",
       "start": "2026-09-03",
-      "videoCount": 60,
-      "creatorCount": 47,
+      "videoCount": 61,
+      "creatorCount": 48,
       "topTopics": [
         {
           "topic": "其他",
-          "count": 31
+          "count": 32
         },
         {
           "topic": "AI应用",
@@ -424,12 +465,12 @@
     {
       "period": "day",
       "start": "2026-09-02",
-      "videoCount": 68,
-      "creatorCount": 52,
+      "videoCount": 69,
+      "creatorCount": 53,
       "topTopics": [
         {
           "topic": "其他",
-          "count": 36
+          "count": 37
         },
         {
           "topic": "AI应用",
@@ -482,12 +523,12 @@
     {
       "period": "day",
       "start": "2026-08-31",
-      "videoCount": 55,
-      "creatorCount": 49,
+      "videoCount": 56,
+      "creatorCount": 50,
       "topTopics": [
         {
           "topic": "其他",
-          "count": 22
+          "count": 23
         },
         {
           "topic": "宏观经济",
@@ -506,7 +547,7 @@
           "count": 4
         }
       ],
-      "topVideoId": "douyin-7680106141996633394"
+      "topVideoId": "douyin-7679812072409926955"
     },
     {
       "period": "day",
@@ -540,12 +581,12 @@
     {
       "period": "week",
       "start": "2026-08-23",
-      "videoCount": 309,
-      "creatorCount": 98,
+      "videoCount": 311,
+      "creatorCount": 99,
       "topTopics": [
         {
           "topic": "其他",
-          "count": 149
+          "count": 151
         },
         {
           "topic": "宏观经济",
@@ -569,12 +610,12 @@
     {
       "period": "day",
       "start": "2026-08-29",
-      "videoCount": 30,
-      "creatorCount": 26,
+      "videoCount": 32,
+      "creatorCount": 27,
       "topTopics": [
         {
           "topic": "其他",
-          "count": 13
+          "count": 15
         },
         {
           "topic": "宏观经济",
@@ -772,12 +813,12 @@
     {
       "period": "week",
       "start": "2026-08-16",
-      "videoCount": 261,
-      "creatorCount": 91,
+      "videoCount": 266,
+      "creatorCount": 95,
       "topTopics": [
         {
           "topic": "其他",
-          "count": 115
+          "count": 117
         },
         {
           "topic": "宏观经济",
@@ -859,12 +900,12 @@
     {
       "period": "day",
       "start": "2026-08-20",
-      "videoCount": 48,
-      "creatorCount": 42,
+      "videoCount": 49,
+      "creatorCount": 43,
       "topTopics": [
         {
           "topic": "其他",
-          "count": 15
+          "count": 16
         },
         {
           "topic": "投资市场",
@@ -888,12 +929,12 @@
     {
       "period": "day",
       "start": "2026-08-19",
-      "videoCount": 32,
-      "creatorCount": 31,
+      "videoCount": 33,
+      "creatorCount": 32,
       "topTopics": [
         {
           "topic": "其他",
-          "count": 18
+          "count": 19
         },
         {
           "topic": "宏观经济",
@@ -917,8 +958,8 @@
     {
       "period": "day",
       "start": "2026-08-18",
-      "videoCount": 44,
-      "creatorCount": 39,
+      "videoCount": 45,
+      "creatorCount": 40,
       "topTopics": [
         {
           "topic": "其他",
@@ -941,13 +982,13 @@
           "count": 3
         }
       ],
-      "topVideoId": "youtube-h-0NZ-oIjlk"
+      "topVideoId": "youtube-xH7U7w9Qzlo"
     },
     {
       "period": "day",
       "start": "2026-08-17",
-      "videoCount": 35,
-      "creatorCount": 34,
+      "videoCount": 37,
+      "creatorCount": 36,
       "topTopics": [
         {
           "topic": "其他",
@@ -1004,12 +1045,12 @@
     {
       "period": "week",
       "start": "2026-08-09",
-      "videoCount": 173,
-      "creatorCount": 73,
+      "videoCount": 175,
+      "creatorCount": 74,
       "topTopics": [
         {
           "topic": "其他",
-          "count": 71
+          "count": 73
         },
         {
           "topic": "AI应用",
@@ -1033,12 +1074,12 @@
     {
       "period": "day",
       "start": "2026-08-15",
-      "videoCount": 23,
-      "creatorCount": 23,
+      "videoCount": 25,
+      "creatorCount": 24,
       "topTopics": [
         {
           "topic": "其他",
-          "count": 8
+          "count": 10
         },
         {
           "topic": "AI应用",
@@ -1236,12 +1277,12 @@
     {
       "period": "week",
       "start": "2026-08-02",
-      "videoCount": 119,
-      "creatorCount": 50,
+      "videoCount": 120,
+      "creatorCount": 51,
       "topTopics": [
         {
           "topic": "其他",
-          "count": 69
+          "count": 70
         },
         {
           "topic": "AI应用",
@@ -1260,7 +1301,7 @@
           "count": 6
         }
       ],
-      "topVideoId": null
+      "topVideoId": "douyin-7670125652561242255"
     },
     {
       "period": "day",
@@ -1373,12 +1414,12 @@
     {
       "period": "day",
       "start": "2026-08-04",
-      "videoCount": 24,
-      "creatorCount": 20,
+      "videoCount": 25,
+      "creatorCount": 21,
       "topTopics": [
         {
           "topic": "其他",
-          "count": 16
+          "count": 17
         },
         {
           "topic": "宏观经济",
@@ -1397,7 +1438,7 @@
           "count": 1
         }
       ],
-      "topVideoId": null
+      "topVideoId": "douyin-7670125652561242255"
     },
     {
       "period": "day",
@@ -1610,6 +1651,58 @@
         },
         {
           "topic": "投资市场",
+          "count": 1
+        }
+      ],
+      "topVideoId": null
+    },
+    {
+      "period": "day",
+      "start": "2026-06-20",
+      "videoCount": 1,
+      "creatorCount": 1,
+      "topTopics": [
+        {
+          "topic": "认知成长",
+          "count": 1
+        }
+      ],
+      "topVideoId": null
+    },
+    {
+      "period": "week",
+      "start": "2026-06-14",
+      "videoCount": 1,
+      "creatorCount": 1,
+      "topTopics": [
+        {
+          "topic": "认知成长",
+          "count": 1
+        }
+      ],
+      "topVideoId": null
+    },
+    {
+      "period": "day",
+      "start": "2026-03-12",
+      "videoCount": 1,
+      "creatorCount": 1,
+      "topTopics": [
+        {
+          "topic": "认知成长",
+          "count": 1
+        }
+      ],
+      "topVideoId": null
+    },
+    {
+      "period": "week",
+      "start": "2026-03-08",
+      "videoCount": 1,
+      "creatorCount": 1,
+      "topTopics": [
+        {
+          "topic": "认知成长",
           "count": 1
         }
       ],

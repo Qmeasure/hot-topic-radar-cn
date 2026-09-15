@@ -1,6 +1,6 @@
 window.CREATOR_WATCHLIST={
   "updated": "2026-09-07",
-  "sourceProfilesUpdatedAt": "2026-09-14T11:17:40+08:00",
+  "sourceProfilesUpdatedAt": "2026-09-15T10:21:28+08:00",
   "platforms": {
     "douyin": [
       {
@@ -187,34 +187,34 @@ window.CREATOR_WATCHLIST={
         "status": "未找到昵称精确匹配，主页未绑定",
         "candidates": [
           {
-            "nickname": "🧚🏻‍♀️菲er",
-            "uniqueId": null,
-            "followerCount": 16842,
-            "secUid": "MS4wLjABAAAA-zQyaLkzXDwB30-ldB8ZY6sCF6hU9o6thUz70y7xCWk"
-          },
-          {
             "nickname": "飞斧-Trader",
             "uniqueId": null,
-            "followerCount": 145456,
+            "followerCount": 145432,
             "secUid": "MS4wLjABAAAAmXBcHUgWhEFyMSqyl2F1-aOzxwJWooU9nwsWkejDwUg"
           },
           {
-            "nickname": "菲 er、💛",
+            "nickname": "拜托了霏学姐",
             "uniqueId": null,
-            "followerCount": 767,
-            "secUid": "MS4wLjABAAAA1LhdYxNisAIRDhkv4WYwCpegN1L7tKMODL2TSwjzv18"
+            "followerCount": 430,
+            "secUid": "MS4wLjABAAAAtlKsp08BygdgElCJiCkI3od1jwcUWcEMhs9dj-r2V4G--hIr2kEMAE5hWMQYkxoj"
           },
           {
-            "nickname": "菲·ｅｒ",
+            "nickname": "Trader韭",
             "uniqueId": null,
-            "followerCount": 262,
-            "secUid": "MS4wLjABAAAA3LwPJt9YnxMpP-0R3H1q9ayW31phBpfR7Zr44_q3gJc"
+            "followerCount": 195083,
+            "secUid": "MS4wLjABAAAAHiP_Vgs58df2m_Z-FBgay8n2Y9DUOYY7IeeSqMWWplM"
           },
           {
-            "nickname": "菲er 💓",
+            "nickname": "Trader",
             "uniqueId": null,
-            "followerCount": 12840,
-            "secUid": "MS4wLjABAAAANT9N9iPj2_5VcvMw7IsTpEFJumN7_GGgYfva0O4PCig"
+            "followerCount": 43979,
+            "secUid": "MS4wLjABAAAAjyBE2xmdsjvNTBGoggiYesxsB9FQs4FyqMiTMa8U4PFntFcBrQ0aiDUAeeLnLtHm"
+          },
+          {
+            "nickname": "老Baby爱口嗨——见证这五年（30年前",
+            "uniqueId": null,
+            "followerCount": 70,
+            "secUid": "MS4wLjABAAAAQI3P5-9xpx0PSEJSgbk7Cc03f7CWP1rEH24jGi9zZcM"
           }
         ]
       },
@@ -548,32 +548,32 @@ window.CREATOR_WATCHLIST={
           {
             "nickname": "小A学财经",
             "uniqueId": null,
-            "followerCount": 9248207,
+            "followerCount": 9251058,
             "secUid": "MS4wLjABAAAA8t3b1dsGNvJgc6cUe-Bm2JCyqtrs_c1zJZT6TmgxurkcAyap5aE-PRXpLX2tFuiu"
           },
           {
             "nickname": "小A读书圈",
             "uniqueId": null,
-            "followerCount": 3071147,
+            "followerCount": 3070283,
             "secUid": "MS4wLjABAAAAOSUdTVFKYIQumKvJDTf1m5T2B8wQR7d0RPJLaGZMURQ"
           },
           {
-            "nickname": "小N学财经",
+            "nickname": "小贾学财经",
             "uniqueId": null,
-            "followerCount": 29045,
-            "secUid": "MS4wLjABAAAAzAiZxwrx-SCGc1TO-CorBTqyHYtlEePxLdc7BCCyByQdPRCgJMECsj8TpqhPh7sO"
-          },
-          {
-            "nickname": "小思学财经",
-            "uniqueId": null,
-            "followerCount": 160710,
-            "secUid": "MS4wLjABAAAAxfJtCzFKU9RHcNodrB8wK5nCsSOMlFSMzv_n-hoGheCsS6ySHtWrlTibF7nCdPIT"
+            "followerCount": 3729,
+            "secUid": "MS4wLjABAAAADhXiLuhxG3wwZ54WAFXGEbbZGYC9fuQiIdjAzse6SoQ"
           },
           {
             "nickname": "小白学财经",
             "uniqueId": null,
-            "followerCount": 285293,
+            "followerCount": 286649,
             "secUid": "MS4wLjABAAAA_cPOv722jRXFAlZZEVnM9fBf_-lmCsl5YfyDpBC78sJxZt7yzCIRPIFOD0ePPRS4"
+          },
+          {
+            "nickname": "小思学财经",
+            "uniqueId": null,
+            "followerCount": 160866,
+            "secUid": "MS4wLjABAAAAxfJtCzFKU9RHcNodrB8wK5nCsSOMlFSMzv_n-hoGheCsS6ySHtWrlTibF7nCdPIT"
           }
         ]
       },
@@ -679,16 +679,22 @@ window.CREATOR_WATCHLIST={
         "status": "未找到昵称精确匹配，主页未绑定",
         "candidates": [
           {
+            "nickname": "陈思建",
+            "uniqueId": null,
+            "followerCount": 3925900,
+            "secUid": "MS4wLjABAAAASFK3JVZqzpqHHzh_1IHf81CEULYAhHsxdbL5rTmfADE"
+          },
+          {
             "nickname": "沉思🏰",
             "uniqueId": null,
-            "followerCount": 681653,
+            "followerCount": 681624,
             "secUid": "MS4wLjABAAAA5TD1JhUxVfV9leGRd_GM0cT0OJH89b8Hv3srpQ4OxuU"
           },
           {
-            "nickname": "陈思建",
+            "nickname": "歌手陈思",
             "uniqueId": null,
-            "followerCount": 3926751,
-            "secUid": "MS4wLjABAAAASFK3JVZqzpqHHzh_1IHf81CEULYAhHsxdbL5rTmfADE"
+            "followerCount": 564134,
+            "secUid": "MS4wLjABAAAA8MVj5vEdQNx2v7B35Q1dW6nfFJj4V0DWPCsh1_K9oDM"
           },
           {
             "nickname": "陈sir讲真话",
@@ -697,15 +703,9 @@ window.CREATOR_WATCHLIST={
             "secUid": "MS4wLjABAAAAigqwNIy3D9lhVz8TFhKAXEiBXQboa0wlOkIQPgD_rIEOdq9P2RzG3bk8yDGdxfAF"
           },
           {
-            "nickname": "歌手陈思",
-            "uniqueId": null,
-            "followerCount": 564167,
-            "secUid": "MS4wLjABAAAA8MVj5vEdQNx2v7B35Q1dW6nfFJj4V0DWPCsh1_K9oDM"
-          },
-          {
             "nickname": "陈思.",
             "uniqueId": null,
-            "followerCount": 97389,
+            "followerCount": 98113,
             "secUid": "MS4wLjABAAAAe_nXA-lpto93IGTVKB8_lhKYqQTMN9UAdeZsBqGYk_E"
           }
         ]
@@ -979,13 +979,13 @@ window.CREATOR_WATCHLIST={
           {
             "nickname": "德培论道（上海福卡智库）",
             "uniqueId": null,
-            "followerCount": 302249,
+            "followerCount": 302240,
             "secUid": "MS4wLjABAAAA8GX8IaPAi4ApXPFMA9XuVPpzR-8EYcJlgcUIW3xpbNcdbvCCxxcX60a9X7MNzLTl"
           },
           {
             "nickname": "王德培",
             "uniqueId": null,
-            "followerCount": 183735,
+            "followerCount": 183725,
             "secUid": "MS4wLjABAAAA8kyX7rvptUbV_9q5OUK7EDi7s8mryF0rF48jVzoFJ5CY4-BZapibim1RFx_qFl0q"
           },
           {
@@ -997,13 +997,13 @@ window.CREATOR_WATCHLIST={
           {
             "nickname": "匀枫财经论道",
             "uniqueId": null,
-            "followerCount": 510812,
+            "followerCount": 510882,
             "secUid": "MS4wLjABAAAAaMkMp40muauMwF1O0QXAcZA1js0VBQqkoeFgeirG1P0"
           },
           {
             "nickname": "家长闺蜜迪姐-德培",
             "uniqueId": null,
-            "followerCount": 29373,
+            "followerCount": 29368,
             "secUid": "MS4wLjABAAAA5IIt3qHPNa8hzY7Hiq42WWJdhhYYpB8mycSqX1RP8LK0LEPoPrQwaSI33Yl9tVmy"
           }
         ]
@@ -1127,8 +1127,14 @@ window.CREATOR_WATCHLIST={
           {
             "nickname": "张湧说财经",
             "uniqueId": null,
-            "followerCount": 1118547,
+            "followerCount": 1119043,
             "secUid": "MS4wLjABAAAAf2xOq0eJnSTMQCQ6R83sDgnE8g7BYIWtVYeLz8WXNIL_YoXsOq3NJ-PKc90CGmWz"
+          },
+          {
+            "nickname": "小湧的思考笔记",
+            "uniqueId": null,
+            "followerCount": 299,
+            "secUid": "MS4wLjABAAAAA0TH5idYS9Hx31iFNVpvv2w4P10HvMaqSEyXNbUQ85AihogvLbRPP0-FBBowxHnj"
           },
           {
             "nickname": "张湧聊经济",
@@ -1139,20 +1145,14 @@ window.CREATOR_WATCHLIST={
           {
             "nickname": "张永123",
             "uniqueId": null,
-            "followerCount": 149826,
+            "followerCount": 149812,
             "secUid": "MS4wLjABAAAAWjbg23YIHU4q-sPaCAJiSeT2S6QaP7yoRHvhCPWGCMQ"
           },
           {
             "nickname": "张勇82",
             "uniqueId": null,
-            "followerCount": 35083,
+            "followerCount": 35193,
             "secUid": "MS4wLjABAAAAMPMO1FfG_euA30b9Uyof2XjzJ7Oj-vDvEajd_BhuFqs"
-          },
-          {
-            "nickname": "湧哥助理-小易老师",
-            "uniqueId": null,
-            "followerCount": 1245,
-            "secUid": "MS4wLjABAAAAIQgw1ojIeo-VHbs_aJjYcJVgOkRUtQ-dTAMq8A7GJPG7fnx7BvO5TutBzUgqwtUv"
           }
         ]
       },
@@ -1249,25 +1249,25 @@ window.CREATOR_WATCHLIST={
           {
             "nickname": "乐嵘会客厅",
             "uniqueId": null,
-            "followerCount": 89162,
+            "followerCount": 89157,
             "secUid": "MS4wLjABAAAAMhFj8r3_m8SUF_E38sHWBYC8_SIk-H0Jyo2n5vpWdG8"
           },
           {
             "nickname": "乐够会客厅",
             "uniqueId": null,
-            "followerCount": 2603,
+            "followerCount": 2605,
             "secUid": "MS4wLjABAAAAeesdB-8KF9FBn9189uBCIU_EZjzG7iPD5-8lr4Z9BKo"
           },
           {
             "nickname": "足球会客厅-乐炎",
             "uniqueId": null,
-            "followerCount": 297690,
+            "followerCount": 297675,
             "secUid": "MS4wLjABAAAACyISzh3Uf_MbLNhN9utEcQV9fW6_1oOWWpXod78du0zdSDBUSCcomBN-bCOhcnR3"
           },
           {
             "nickname": "李乐峥🎵",
             "uniqueId": null,
-            "followerCount": 5252,
+            "followerCount": 5249,
             "secUid": "MS4wLjABAAAAVk12BLcxsnO3jP0R9okqz-IazF9hVfECT8hVjz_phgs"
           },
           {
@@ -1583,31 +1583,31 @@ window.CREATOR_WATCHLIST={
           {
             "nickname": "堵钱眼的申公豹",
             "uniqueId": null,
-            "followerCount": 1961478,
+            "followerCount": 1962217,
             "secUid": "MS4wLjABAAAAa1utoZsKNC5HqIS813GpWi30uEj2SW5sbWOz_hJXNhXfOi7OFxYS9bieaB2hXKte"
           },
           {
             "nickname": "申公豹",
             "uniqueId": null,
-            "followerCount": 2089144,
+            "followerCount": 2090814,
             "secUid": "MS4wLjABAAAAONskK3oatC9Eq3lm6Wr--kSbcQy_W9jjIgTn5yZadLg"
           },
           {
             "nickname": "申公豹🐆",
             "uniqueId": null,
-            "followerCount": 285697,
+            "followerCount": 285687,
             "secUid": "MS4wLjABAAAAyCUAlulylvTfipiKh5a-HmfJKNfcrChzak3ocheRNIs"
           },
           {
             "nickname": "申公豹",
             "uniqueId": null,
-            "followerCount": 203487,
+            "followerCount": 203485,
             "secUid": "MS4wLjABAAAAQHNtCSQld_voN07cfm1vkIhm96vKKbishecZq8WbknE"
           },
           {
             "nickname": "申公豹",
             "uniqueId": null,
-            "followerCount": 58298,
+            "followerCount": 58296,
             "secUid": "MS4wLjABAAAAPZGmhpH36rG8HR4Vz-XF0DN4ZiDGVoCVDTgVmK5uCm8"
           }
         ]
@@ -2849,31 +2849,31 @@ window.CREATOR_WATCHLIST={
           {
             "nickname": "堵钱眼的申公豹",
             "uniqueId": null,
-            "followerCount": 1961478,
+            "followerCount": 1962217,
             "secUid": "MS4wLjABAAAAa1utoZsKNC5HqIS813GpWi30uEj2SW5sbWOz_hJXNhXfOi7OFxYS9bieaB2hXKte"
           },
           {
             "nickname": "申公豹",
             "uniqueId": null,
-            "followerCount": 2089144,
+            "followerCount": 2090814,
             "secUid": "MS4wLjABAAAAONskK3oatC9Eq3lm6Wr--kSbcQy_W9jjIgTn5yZadLg"
           },
           {
             "nickname": "申公豹🐆",
             "uniqueId": null,
-            "followerCount": 285697,
+            "followerCount": 285687,
             "secUid": "MS4wLjABAAAAyCUAlulylvTfipiKh5a-HmfJKNfcrChzak3ocheRNIs"
           },
           {
             "nickname": "申公豹",
             "uniqueId": null,
-            "followerCount": 203487,
+            "followerCount": 203485,
             "secUid": "MS4wLjABAAAAQHNtCSQld_voN07cfm1vkIhm96vKKbishecZq8WbknE"
           },
           {
             "nickname": "申公豹",
             "uniqueId": null,
-            "followerCount": 58298,
+            "followerCount": 58296,
             "secUid": "MS4wLjABAAAAPZGmhpH36rG8HR4Vz-XF0DN4ZiDGVoCVDTgVmK5uCm8"
           }
         ]
@@ -2968,7 +2968,7 @@ window.CREATOR_WATCHLIST={
         "profileUrl": "https://weixin.qq.com/sph/A0ZhGpUPfn",
         "followerCount": null,
         "signature": "李尚龙：\nAIFA 董事长（纳斯达克）\nAivolution Venture 创始合伙人 \n写字的",
-        "totalVideos": 1310,
+        "totalVideos": 1313,
         "status": "TikHub 视频号昵称、简介与作品来源均已精确核验；平台未提供独立公开主页链接，入口指向最新作品。"
       }
     ],
