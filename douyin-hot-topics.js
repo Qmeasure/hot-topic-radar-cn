@@ -1,77 +1,12 @@
 window.DOUYIN_HOT_TOPICS={
   "schemaVersion": 1,
-  "date": "2026-09-15",
-  "capturedAt": "2026-09-15T10:17:35+08:00",
+  "date": "2026-09-16",
+  "capturedAt": "2026-09-16T08:06:57+08:00",
   "source": "TikHub Douyin App V3 hot search list",
-  "sourceStatus": "verified",
+  "sourceStatus": "partial",
+  "sourceIssue": "TikHub HTTP 402",
   "positioning": "AI投资",
   "topics": [
-    {
-      "id": "video-7684488993160973614",
-      "topic": "年轻人集体涌向AI减肥，第一波网友竟然瘦了500万斤",
-      "interactions": 150283,
-      "rank": null,
-      "signal": "抖音对标热点 · 150,283 公开互动",
-      "hotValue": 150283,
-      "viewCount": 4431585,
-      "videoCount": 1,
-      "content": "以“年轻人集体涌向AI减肥，第一波网友竟然瘦了500万斤”为事实入口，不复述新闻，重点拆解相关公司的竞争位置、资本开支、产业链受益方与估值风险。",
-      "why": "这是近三天抖音 AI 内容中的高互动样本，公开点赞、评论、收藏和分享合计 150,283；题材与AI投资主线直接相关。",
-      "benefit": "帮助账号建立“AI事件发生后，谁投入、谁受益、谁被重估”的投资分析心智，同时借鉴已经被抖音用户验证的传播切口。",
-      "searchUrl": "https://www.douyin.com/video/7684488993160973614",
-      "videos": [
-        {
-          "id": "7684488993160973614",
-          "creator": "直男财经",
-          "title": "年轻人集体涌向AI减肥，第一波网友竟然瘦了500万斤 #蚂蚁阿福 #2026外滩大会",
-          "url": "https://www.douyin.com/video/7684488993160973614",
-          "publishedAt": "2026-09-12T13:58:33+08:00",
-          "durationSeconds": 316,
-          "metrics": {
-            "views": 4431585,
-            "likes": 138320,
-            "comments": 1599,
-            "favorites": 7970,
-            "shares": 2394
-          },
-          "capturedAt": "2026-09-15T10:02:01+08:00",
-          "status": "TikHub Douyin App V3 已核验；原始播放地址为时效链接。"
-        }
-      ]
-    },
-    {
-      "id": "video-7684255521611730216",
-      "topic": "9.11 上集 高喊阻挡中国科技：读懂中美 AI 交手",
-      "interactions": 14195,
-      "rank": null,
-      "signal": "抖音对标热点 · 14,195 公开互动",
-      "hotValue": 14195,
-      "viewCount": null,
-      "videoCount": 1,
-      "content": "以“9.11 上集 高喊阻挡中国科技：读懂中美 AI 交手”为事实入口，不复述新闻，重点拆解相关公司的竞争位置、资本开支、产业链受益方与估值风险。",
-      "why": "这是近三天抖音 AI 内容中的高互动样本，公开点赞、评论、收藏和分享合计 14,195；题材与AI投资主线直接相关。",
-      "benefit": "帮助账号建立“AI事件发生后，谁投入、谁受益、谁被重估”的投资分析心智，同时借鉴已经被抖音用户验证的传播切口。",
-      "searchUrl": "https://www.douyin.com/video/7684255521611730216",
-      "videos": [
-        {
-          "id": "7684255521611730216",
-          "creator": "小孟同志v小孟同志",
-          "title": "9.11 上集 高喊阻挡中国科技：读懂中美 AI 交手 #ai  #中美  #硅谷  #科技  #零基础看懂全球",
-          "url": "https://www.douyin.com/video/7684255521611730216",
-          "publishedAt": "2026-09-12T12:00:00+08:00",
-          "durationSeconds": 338,
-          "metrics": {
-            "views": null,
-            "likes": 13337,
-            "comments": 248,
-            "favorites": 520,
-            "shares": 90
-          },
-          "capturedAt": "2026-09-15T10:02:01+08:00",
-          "status": "TikHub Douyin App V3 已核验；原始播放地址为时效链接。"
-        }
-      ]
-    },
     {
       "id": "video-7685196022947056911",
       "topic": "初始预算只有500，新手如何通过AiGC吃上饭？ 结合我最近做得AiGC的项目，聊聊我眼中对于小白玩家如何在两极分化的Ai漫剧Ai短剧赛道站稳脚跟，实现收益的正向飞轮",
@@ -132,72 +67,6 @@ window.DOUYIN_HOT_TOPICS={
             "comments": 518,
             "favorites": 1053,
             "shares": 1025
-          },
-          "capturedAt": "2026-09-15T10:02:01+08:00",
-          "status": "TikHub Douyin App V3 已核验；原始播放地址为时效链接。"
-        }
-      ]
-    },
-    {
-      "id": "video-7684646861038738779",
-      "topic": "AI 的风吹到了数学界，陶哲轩、邓煜等 25 位菲尔兹奖得主发联合信，AI 在数学领域存在严重错位，AI 公司的急功近利正在伤害数学。没有过程纯靠算力堆出来的成果，学术界应该认定价值为负",
-      "interactions": 8405,
-      "rank": null,
-      "signal": "抖音对标热点 · 8,405 公开互动",
-      "hotValue": 8405,
-      "viewCount": 272401,
-      "videoCount": 1,
-      "content": "以“AI 的风吹到了数学界，陶哲轩、邓煜等 25 位菲尔兹奖得主发联合信，AI 在数学领域存在严重错位，AI 公司的急功近利正在伤害数学。没有过程纯靠算力堆出来的成果，学术界应该认定价值为负”为事实入口，不复述新闻，重点拆解相关公司的竞争位置、资本开支、产业链受益方与估值风险。",
-      "why": "这是近三天抖音 AI 内容中的高互动样本，公开点赞、评论、收藏和分享合计 8,405；题材与AI投资主线直接相关。",
-      "benefit": "帮助账号建立“AI事件发生后，谁投入、谁受益、谁被重估”的投资分析心智，同时借鉴已经被抖音用户验证的传播切口。",
-      "searchUrl": "https://www.douyin.com/video/7684646861038738779",
-      "videos": [
-        {
-          "id": "7684646861038738779",
-          "creator": "老郑说 AI 前瞻",
-          "title": "AI 的风吹到了数学界，陶哲轩、邓煜等 25 位菲尔兹奖得主发联合信，AI 在数学领域存在严重错位，AI 公司的急功近利正在伤害数学。没有过程纯靠算力堆出来的成果，学术界应该认定价值为负#陶哲轩 #菲尔兹奖得主 #邓煜 #AI #老郑说AI前瞻",
-          "url": "https://www.douyin.com/video/7684646861038738779",
-          "publishedAt": "2026-09-12T21:54:35+08:00",
-          "durationSeconds": 451,
-          "metrics": {
-            "views": 272401,
-            "likes": 5103,
-            "comments": 1607,
-            "favorites": 862,
-            "shares": 833
-          },
-          "capturedAt": "2026-09-15T10:02:01+08:00",
-          "status": "TikHub Douyin App V3 已核验；原始播放地址为时效链接。"
-        }
-      ]
-    },
-    {
-      "id": "video-7684258157178277160",
-      "topic": "9.11 下集 高喊阻挡中国科技：读懂中美 AI 交手",
-      "interactions": 8116,
-      "rank": null,
-      "signal": "抖音对标热点 · 8,116 公开互动",
-      "hotValue": 8116,
-      "viewCount": null,
-      "videoCount": 1,
-      "content": "以“9.11 下集 高喊阻挡中国科技：读懂中美 AI 交手”为事实入口，不复述新闻，重点拆解相关公司的竞争位置、资本开支、产业链受益方与估值风险。",
-      "why": "这是近三天抖音 AI 内容中的高互动样本，公开点赞、评论、收藏和分享合计 8,116；题材与AI投资主线直接相关。",
-      "benefit": "帮助账号建立“AI事件发生后，谁投入、谁受益、谁被重估”的投资分析心智，同时借鉴已经被抖音用户验证的传播切口。",
-      "searchUrl": "https://www.douyin.com/video/7684258157178277160",
-      "videos": [
-        {
-          "id": "7684258157178277160",
-          "creator": "小孟同志v小孟同志",
-          "title": "9.11 下集 高喊阻挡中国科技：读懂中美 AI 交手 #ai  #中美  #硅谷  #科技  #零基础看懂全球",
-          "url": "https://www.douyin.com/video/7684258157178277160",
-          "publishedAt": "2026-09-12T12:01:00+08:00",
-          "durationSeconds": 445,
-          "metrics": {
-            "views": null,
-            "likes": 7543,
-            "comments": 218,
-            "favorites": 296,
-            "shares": 59
           },
           "capturedAt": "2026-09-15T10:02:01+08:00",
           "status": "TikHub Douyin App V3 已核验；原始播放地址为时效链接。"
@@ -271,39 +140,6 @@ window.DOUYIN_HOT_TOPICS={
       ]
     },
     {
-      "id": "video-7683844509465311077",
-      "topic": "中美科技战是一场持久战 中美科技战是一场持久战，总体战。",
-      "interactions": 4427,
-      "rank": null,
-      "signal": "抖音对标热点 · 4,427 公开互动",
-      "hotValue": 4427,
-      "viewCount": 101386,
-      "videoCount": 1,
-      "content": "以“中美科技战是一场持久战 中美科技战是一场持久战，总体战。”为事实入口，不复述新闻，重点拆解相关公司的竞争位置、资本开支、产业链受益方与估值风险。",
-      "why": "这是近三天抖音 AI 内容中的高互动样本，公开点赞、评论、收藏和分享合计 4,427；题材与AI投资主线直接相关。",
-      "benefit": "帮助账号建立“AI事件发生后，谁投入、谁受益、谁被重估”的投资分析心智，同时借鉴已经被抖音用户验证的传播切口。",
-      "searchUrl": "https://www.douyin.com/video/7683844509465311077",
-      "videos": [
-        {
-          "id": "7683844509465311077",
-          "creator": "李小意深度观察",
-          "title": "中美科技战是一场持久战 中美科技战是一场持久战，总体战。#中美科技战 #芯片  #科技前沿 #珂谧穿膜胶原棒",
-          "url": "https://www.douyin.com/video/7683844509465311077",
-          "publishedAt": "2026-09-14T06:30:18+08:00",
-          "durationSeconds": 213,
-          "metrics": {
-            "views": 101386,
-            "likes": 3883,
-            "comments": 102,
-            "favorites": 374,
-            "shares": 68
-          },
-          "capturedAt": "2026-09-15T10:02:01+08:00",
-          "status": "TikHub Douyin App V3 已核验；原始播放地址为时效链接。"
-        }
-      ]
-    },
-    {
       "id": "video-7685383321873927459",
       "topic": "AI会毁灭人类，硅谷3巨头集体按暂停，美国最新阳谋多少人信了",
       "interactions": 3652,
@@ -330,6 +166,171 @@ window.DOUYIN_HOT_TOPICS={
             "comments": 158,
             "favorites": 491,
             "shares": 251
+          },
+          "capturedAt": "2026-09-15T10:02:01+08:00",
+          "status": "TikHub Douyin App V3 已核验；原始播放地址为时效链接。"
+        }
+      ]
+    },
+    {
+      "id": "video-7684843663960174153",
+      "topic": "拿人类命运下注？美国AI巨头疯狂竞速！",
+      "interactions": 3608,
+      "rank": null,
+      "signal": "抖音对标热点 · 3,608 公开互动",
+      "hotValue": 3608,
+      "viewCount": null,
+      "videoCount": 1,
+      "content": "以“拿人类命运下注？美国AI巨头疯狂竞速！”为事实入口，不复述新闻，重点拆解相关公司的竞争位置、资本开支、产业链受益方与估值风险。",
+      "why": "这是近三天抖音 AI 内容中的高互动样本，公开点赞、评论、收藏和分享合计 3,608；题材与AI投资主线直接相关。",
+      "benefit": "帮助账号建立“AI事件发生后，谁投入、谁受益、谁被重估”的投资分析心智，同时借鉴已经被抖音用户验证的传播切口。",
+      "searchUrl": "https://www.douyin.com/video/7684843663960174153",
+      "videos": [
+        {
+          "id": "7684843663960174153",
+          "creator": "猴哥军情",
+          "title": "拿人类命运下注？美国AI巨头疯狂竞速！ #AI #人工智能 #机器人 #科技 #未来",
+          "url": "https://www.douyin.com/video/7684843663960174153",
+          "publishedAt": "2026-09-13T10:55:22+08:00",
+          "durationSeconds": 40,
+          "metrics": {
+            "views": null,
+            "likes": 2511,
+            "comments": 545,
+            "favorites": 166,
+            "shares": 386
+          },
+          "capturedAt": "2026-09-15T10:02:01+08:00",
+          "status": "TikHub Douyin App V3 已核验；原始播放地址为时效链接。"
+        }
+      ]
+    },
+    {
+      "id": "video-7685360652113808659",
+      "topic": "大佬说AI刚进入应用爆发期，我在外滩大会，看到蚂蚁正在发生的三个重要变化",
+      "interactions": 2159,
+      "rank": null,
+      "signal": "抖音对标热点 · 2,159 公开互动",
+      "hotValue": 2159,
+      "viewCount": 47447,
+      "videoCount": 1,
+      "content": "以“大佬说AI刚进入应用爆发期，我在外滩大会，看到蚂蚁正在发生的三个重要变化”为事实入口，不复述新闻，重点拆解相关公司的竞争位置、资本开支、产业链受益方与估值风险。",
+      "why": "这是近三天抖音 AI 内容中的高互动样本，公开点赞、评论、收藏和分享合计 2,159；题材与AI投资主线直接相关。",
+      "benefit": "帮助账号建立“AI事件发生后，谁投入、谁受益、谁被重估”的投资分析心智，同时借鉴已经被抖音用户验证的传播切口。",
+      "searchUrl": "https://www.douyin.com/video/7685360652113808659",
+      "videos": [
+        {
+          "id": "7685360652113808659",
+          "creator": "哈佛老徐抓AI趋势",
+          "title": "大佬说AI刚进入应用爆发期，我在外滩大会，看到蚂蚁正在发生的三个重要变化#外滩大会  #蚂蚁集团  #支付宝   #Agent #AI智能体",
+          "url": "https://www.douyin.com/video/7685360652113808659",
+          "publishedAt": "2026-09-14T20:04:36+08:00",
+          "durationSeconds": 201,
+          "metrics": {
+            "views": 47447,
+            "likes": 1779,
+            "comments": 37,
+            "favorites": 281,
+            "shares": 62
+          },
+          "capturedAt": "2026-09-15T10:02:01+08:00",
+          "status": "TikHub Douyin App V3 已核验；原始播放地址为时效链接。"
+        }
+      ]
+    },
+    {
+      "id": "video-7685145073855878066",
+      "topic": "Anthropic 达里奥：我们必须放缓 AI 前沿研究！奥特曼、马斯克秒支持",
+      "interactions": 785,
+      "rank": null,
+      "signal": "抖音对标热点 · 785 公开互动",
+      "hotValue": 785,
+      "viewCount": 22320,
+      "videoCount": 1,
+      "content": "以“Anthropic 达里奥：我们必须放缓 AI 前沿研究！奥特曼、马斯克秒支持”为事实入口，不复述新闻，重点拆解相关公司的竞争位置、资本开支、产业链受益方与估值风险。",
+      "why": "这是近三天抖音 AI 内容中的高互动样本，公开点赞、评论、收藏和分享合计 785；题材与AI投资主线直接相关。",
+      "benefit": "帮助账号建立“AI事件发生后，谁投入、谁受益、谁被重估”的投资分析心智，同时借鉴已经被抖音用户验证的传播切口。",
+      "searchUrl": "https://www.douyin.com/video/7685145073855878066",
+      "videos": [
+        {
+          "id": "7685145073855878066",
+          "creator": "老郑说 AI 前瞻",
+          "title": "Anthropic 达里奥：我们必须放缓 AI 前沿研究！奥特曼、马斯克秒支持\n#马斯克 #Anthropic #openai #达里奥 #老郑说AI前瞻",
+          "url": "https://www.douyin.com/video/7685145073855878066",
+          "publishedAt": "2026-09-14T06:07:56+08:00",
+          "durationSeconds": 396,
+          "metrics": {
+            "views": 22320,
+            "likes": 532,
+            "comments": 101,
+            "favorites": 106,
+            "shares": 46
+          },
+          "capturedAt": "2026-09-15T10:02:01+08:00",
+          "status": "TikHub Douyin App V3 已核验；原始播放地址为时效链接。"
+        }
+      ]
+    },
+    {
+      "id": "video-7685413418655845667",
+      "topic": "硅谷之争 越相信AI可能毁灭人类，为什么反而越要造出更强的AI？",
+      "interactions": 781,
+      "rank": null,
+      "signal": "抖音对标热点 · 781 公开互动",
+      "hotValue": 781,
+      "viewCount": null,
+      "videoCount": 1,
+      "content": "以“硅谷之争 越相信AI可能毁灭人类，为什么反而越要造出更强的AI？”为事实入口，不复述新闻，重点拆解相关公司的竞争位置、资本开支、产业链受益方与估值风险。",
+      "why": "这是近三天抖音 AI 内容中的高互动样本，公开点赞、评论、收藏和分享合计 781；题材与AI投资主线直接相关。",
+      "benefit": "帮助账号建立“AI事件发生后，谁投入、谁受益、谁被重估”的投资分析心智，同时借鉴已经被抖音用户验证的传播切口。",
+      "searchUrl": "https://www.douyin.com/video/7685413418655845667",
+      "videos": [
+        {
+          "id": "7685413418655845667",
+          "creator": "哎呀朱莉娅",
+          "title": "硅谷之争 越相信AI可能毁灭人类，为什么反而越要造出更强的AI？",
+          "url": "https://www.douyin.com/video/7685413418655845667",
+          "publishedAt": "2026-09-14T23:29:27+08:00",
+          "durationSeconds": 256,
+          "metrics": {
+            "views": null,
+            "likes": 524,
+            "comments": 31,
+            "favorites": 151,
+            "shares": 75
+          },
+          "capturedAt": "2026-09-15T10:02:01+08:00",
+          "status": "TikHub Douyin App V3 已核验；原始播放地址为时效链接。"
+        }
+      ]
+    },
+    {
+      "id": "video-7685319602730361774",
+      "topic": "手机行业大变天，AI智能体时代来了！",
+      "interactions": 697,
+      "rank": null,
+      "signal": "抖音对标热点 · 697 公开互动",
+      "hotValue": 697,
+      "viewCount": null,
+      "videoCount": 1,
+      "content": "以“手机行业大变天，AI智能体时代来了！”为事实入口，不复述新闻，重点拆解相关公司的竞争位置、资本开支、产业链受益方与估值风险。",
+      "why": "这是近三天抖音 AI 内容中的高互动样本，公开点赞、评论、收藏和分享合计 697；题材与AI投资主线直接相关。",
+      "benefit": "帮助账号建立“AI事件发生后，谁投入、谁受益、谁被重估”的投资分析心智，同时借鉴已经被抖音用户验证的传播切口。",
+      "searchUrl": "https://www.douyin.com/video/7685319602730361774",
+      "videos": [
+        {
+          "id": "7685319602730361774",
+          "creator": "猴哥军情",
+          "title": "手机行业大变天，AI智能体时代来了！ #ai手机 #豆包 #豆包手机 #手机 #科技",
+          "url": "https://www.douyin.com/video/7685319602730361774",
+          "publishedAt": "2026-09-14T17:35:15+08:00",
+          "durationSeconds": 43,
+          "metrics": {
+            "views": null,
+            "likes": 492,
+            "comments": 57,
+            "favorites": 35,
+            "shares": 113
           },
           "capturedAt": "2026-09-15T10:02:01+08:00",
           "status": "TikHub Douyin App V3 已核验；原始播放地址为时效链接。"

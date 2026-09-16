@@ -1,7 +1,7 @@
 window.BENCHMARK_DATA={
   "watchlist": {
     "schemaVersion": 1,
-    "updated": "2026-09-15",
+    "updated": "2026-09-16",
     "sections": [
       "AI",
       "财经",
@@ -14,8 +14,8 @@ window.BENCHMARK_DATA={
         "section": "AI",
         "platform": "抖音",
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAAEMfJKktSQaUca9ThGGFBxiQaXF3WgkswT3j-bIjaoupi3NTK6g8nKaaKCELdx5yA",
-        "status": "TikHub 昵称精确匹配并已核验",
-        "matchStatus": "verified",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"cbb915c7-b2de-45cc-b765-f9d26bc90c59\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:01:44\",\"time_stamp\":1789516904,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAEMfJKktSQaUca9ThGGFBxiQaXF3WgkswT3j-bIjaoupi3NTK6g8nKaaKCELdx5yA\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
+        "matchStatus": "api_error",
         "matchCandidates": [],
         "secUid": "MS4wLjABAAAAEMfJKktSQaUca9ThGGFBxiQaXF3WgkswT3j-bIjaoupi3NTK6g8nKaaKCELdx5yA",
         "matchedName": "哈佛老徐抓AI趋势",
@@ -30,8 +30,8 @@ window.BENCHMARK_DATA={
         "section": "AI",
         "platform": "抖音",
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAA0HAQJ_wv2u6qjbU6CsHe1xuy8Bw8aI5BZg_Dhj6EVNw",
-        "status": "TikHub 昵称精确匹配并已核验",
-        "matchStatus": "verified",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"28cd2904-6221-4b49-9472-d90f45814814\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:01:44\",\"time_stamp\":1789516904,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAA0HAQJ_wv2u6qjbU6CsHe1xuy8Bw8aI5BZg_Dhj6EVNw\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
+        "matchStatus": "api_error",
         "matchCandidates": [
           {
             "nickname": "杨竹筠",
@@ -103,9 +103,9 @@ window.BENCHMARK_DATA={
         "section": "AI",
         "platform": "抖音",
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAAMz4D7az-gsLDouUCVHgYTKKZWzT6HcXzdngHcLTEUKCbDlxXWYEVy1xsnZk8lyZu",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"3e641e80-eef8-467f-bdef-b437425a6200\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:01:45\",\"time_stamp\":1789516905,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAMz4D7az-gsLDouUCVHgYTKKZWzT6HcXzdngHcLTEUKCbDlxXWYEVy1xsnZk8lyZu\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "matchedName": "王煜全-前沿洞察",
-        "matchStatus": "verified",
+        "matchStatus": "api_error",
         "matchCandidates": [
           {
             "nickname": "王煜全-前沿洞察",
@@ -176,8 +176,8 @@ window.BENCHMARK_DATA={
         "section": "AI",
         "platform": "抖音",
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAArhUs1plRY4MS4vv2yfxA8mIT-_PMBtEYUyrNa5t0DL8QDtzYmfHLaTxHIYOcQ1Em",
-        "status": "TikHub 昵称精确匹配并已核验",
-        "matchStatus": "verified",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"d61d3c2f-dd03-4c78-9a02-56aa625b2573\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:01:46\",\"time_stamp\":1789516906,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAArhUs1plRY4MS4vv2yfxA8mIT-_PMBtEYUyrNa5t0DL8QDtzYmfHLaTxHIYOcQ1Em\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
+        "matchStatus": "api_error",
         "matchCandidates": [
           {
             "nickname": "小邓 Talk",
@@ -249,8 +249,8 @@ window.BENCHMARK_DATA={
         "section": "AI",
         "platform": "抖音",
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAAo9jpySaVTGscShEnsFnqUvUvrycnd8PaeJ8pORefn68",
-        "status": "TikHub 昵称精确匹配并已核验",
-        "matchStatus": "verified",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"377a2819-3f9c-466a-9eb6-2d0ada75dec9\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:01:46\",\"time_stamp\":1789516906,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAo9jpySaVTGscShEnsFnqUvUvrycnd8PaeJ8pORefn68\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
+        "matchStatus": "api_error",
         "matchCandidates": [],
         "secUid": "MS4wLjABAAAAo9jpySaVTGscShEnsFnqUvUvrycnd8PaeJ8pORefn68",
         "matchedName": "园长说AI",
@@ -265,8 +265,8 @@ window.BENCHMARK_DATA={
         "section": "AI",
         "platform": "抖音",
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAAIAYvK7S9JOmZ7lseY9WdXm_wWAWAXH3JpAyMmFXmWtxlKlEZSQ8JoJZzU6svTzvm",
-        "status": "TikHub 昵称精确匹配并已核验",
-        "matchStatus": "verified",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"8d3068b2-0d2f-45c8-a982-48da636de1c5\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:01:47\",\"time_stamp\":1789516907,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAIAYvK7S9JOmZ7lseY9WdXm_wWAWAXH3JpAyMmFXmWtxlKlEZSQ8JoJZzU6svTzvm\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
+        "matchStatus": "api_error",
         "matchCandidates": [],
         "secUid": "MS4wLjABAAAAIAYvK7S9JOmZ7lseY9WdXm_wWAWAXH3JpAyMmFXmWtxlKlEZSQ8JoJZzU6svTzvm",
         "matchedName": "Asteria💫| AI黑箱博弈",
@@ -281,14 +281,14 @@ window.BENCHMARK_DATA={
         "section": "AI",
         "platform": "抖音",
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAAXj11GyMXmtTcqOHKHME3IFCr4tfGbAwX_tREBgZPxR-pDT9eQmdBcwH126ZG9J8z",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"1924a2d7-4fc1-4a23-bfe1-2e0db1302be1\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:01:47\",\"time_stamp\":1789516907,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAXj11GyMXmtTcqOHKHME3IFCr4tfGbAwX_tREBgZPxR-pDT9eQmdBcwH126ZG9J8z\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "secUid": "MS4wLjABAAAAXj11GyMXmtTcqOHKHME3IFCr4tfGbAwX_tREBgZPxR-pDT9eQmdBcwH126ZG9J8z",
         "matchedName": "陈乔维Justin",
         "uniqueId": "43777324662",
         "followerCount": 32959,
         "totalFavorited": 535130,
         "signature": "AI创业者｜让AI变得简单\n正在打造Atompump.ai\nAI学习教程已更23/100，还差77期陪你学",
-        "matchStatus": "verified"
+        "matchStatus": "api_error"
       },
       {
         "id": "ai-tzfilm",
@@ -296,14 +296,14 @@ window.BENCHMARK_DATA={
         "section": "AI",
         "platform": "抖音",
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAAjN32ZoC90W_FXxpeck2ATV5PCQcnnHM2cSzm8SHdcGCEC3P_fxGweCSTutk3Mvqq",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"7fe9d782-d6fd-4b46-a3d3-8360cbf9f0ce\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:01:48\",\"time_stamp\":1789516908,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAjN32ZoC90W_FXxpeck2ATV5PCQcnnHM2cSzm8SHdcGCEC3P_fxGweCSTutk3Mvqq\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "secUid": "MS4wLjABAAAAjN32ZoC90W_FXxpeck2ATV5PCQcnnHM2cSzm8SHdcGCEC3P_fxGweCSTutk3Mvqq",
         "matchedName": "柱子哥TzFilm",
         "uniqueId": "21397448654",
         "followerCount": 211481,
         "totalFavorited": 1532437,
         "signature": "Ai丨全球视野丨科技数码丨案例分析\n真正意义上的超级个体（洗稿侵权必纠）\n商务：StudioZH6（备注来意）\n〖财富自由团〗：主页专属会员👇🏻👇🏻👇🏻",
-        "matchStatus": "verified"
+        "matchStatus": "api_error"
       },
       {
         "id": "ai-mit-cancer-dad",
@@ -311,14 +311,14 @@ window.BENCHMARK_DATA={
         "section": "AI",
         "platform": "抖音",
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAAxphxkGvRORnYvNhb6LGyWS7XS6Sa5nqN445bcWpi1Wk1GAakxjuFtLXJkA4R5LWf",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"3de99ed8-4386-419a-bc53-9817735d06f6\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:01:49\",\"time_stamp\":1789516909,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAxphxkGvRORnYvNhb6LGyWS7XS6Sa5nqN445bcWpi1Wk1GAakxjuFtLXJkA4R5LWf\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "secUid": "MS4wLjABAAAAxphxkGvRORnYvNhb6LGyWS7XS6Sa5nqN445bcWpi1Wk1GAakxjuFtLXJkA4R5LWf",
         "matchedName": "麻省理工巨蟹爸",
         "uniqueId": "26815049350",
         "followerCount": 193102,
         "totalFavorited": 995891,
         "signature": "📚村小→浙大→麻省理工;\n🎓MIT 情感人工智能实验室硕士; 心理学硕士; \n❤️帮助家长了解 AI 时代，孩子的自主学习和健康成长。\n📱交流合作：@蟹爸小助手\neach42 (意启AI) 创始人; \ngoofy，不严肃",
-        "matchStatus": "verified"
+        "matchStatus": "api_error"
       },
       {
         "id": "ai-laozheng-foresight",
@@ -326,8 +326,8 @@ window.BENCHMARK_DATA={
         "section": "AI",
         "platform": "抖音",
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAAk1gzQh_EBTfPjfW_EvlXUHX0ggtZXSVxivxM96k_aN4",
-        "status": "TikHub 昵称精确匹配并已核验",
-        "matchStatus": "verified",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"a9e97066-9f31-412f-9739-e2d86887fc1d\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:01:50\",\"time_stamp\":1789516910,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAk1gzQh_EBTfPjfW_EvlXUHX0ggtZXSVxivxM96k_aN4\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
+        "matchStatus": "api_error",
         "matchCandidates": [],
         "secUid": "MS4wLjABAAAAk1gzQh_EBTfPjfW_EvlXUHX0ggtZXSVxivxM96k_aN4",
         "matchedName": "老郑说 AI 前瞻",
@@ -342,14 +342,14 @@ window.BENCHMARK_DATA={
         "section": "AI",
         "platform": "抖音",
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAAwU33jOgLTqUV9Ub1h-Vgcd0VbQa-vV4lifYAzQSqgZ4",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"856f610a-045e-4f1b-8fca-fc9b521b794f\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:01:51\",\"time_stamp\":1789516911,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAwU33jOgLTqUV9Ub1h-Vgcd0VbQa-vV4lifYAzQSqgZ4\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "secUid": "MS4wLjABAAAAwU33jOgLTqUV9Ub1h-Vgcd0VbQa-vV4lifYAzQSqgZ4",
         "matchedName": "数字生命卡兹克",
         "uniqueId": "27040209150",
         "followerCount": 124987,
         "totalFavorited": 1005446,
         "signature": "希望能激发你对AI的好奇。",
-        "matchStatus": "verified"
+        "matchStatus": "api_error"
       },
       {
         "id": "ai-mali-business-thinking",
@@ -357,14 +357,14 @@ window.BENCHMARK_DATA={
         "section": "AI",
         "platform": "抖音",
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAAfgtDMrszkJL6elz6G9g_C0PBVKnxx0PgnbLNj9OLyMm9xfRHBD-WlvgbinUGoH8v",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"1f8f7151-7642-44cf-8e38-d17158ac0b69\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:01:51\",\"time_stamp\":1789516911,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAfgtDMrszkJL6elz6G9g_C0PBVKnxx0PgnbLNj9OLyMm9xfRHBD-WlvgbinUGoH8v\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "secUid": "MS4wLjABAAAAfgtDMrszkJL6elz6G9g_C0PBVKnxx0PgnbLNj9OLyMm9xfRHBD-WlvgbinUGoH8v",
         "matchedName": "马力AI和商业思维",
         "uniqueId": "48479806306",
         "followerCount": 1423872,
         "totalFavorited": 5763637,
         "signature": "合作可以直接发信息给这个账号。\n①写了本书（开源，免费）：《OpenClaw龙虾零基础入门》，给普通人看的AI智能体实战指南。\n② 资深产品经理，AI 商业化应用研究者，产业经济研究者，多家企业AI战略顾问\n③研究领域：AI、消费、低空经济、汽车、家电、保险，在北京邮电大学面向研究生主讲《产品经理和人工智能》课程。\n④曾为李开复老师的创新工场最早期的创业者，豌豆荚创始成员。",
-        "matchStatus": "verified"
+        "matchStatus": "api_error"
       },
       {
         "id": "finance-xiaolin-talk",
@@ -372,8 +372,8 @@ window.BENCHMARK_DATA={
         "section": "财经",
         "platform": "抖音",
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAAunpkE2IXyHAxm4A24G5d1Cf5141pnZy8HwNR5f2-6pI_GYBVR-Pv23uFyfMPB_9I",
-        "status": "TikHub 昵称精确匹配并已核验",
-        "matchStatus": "verified",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"f808751a-f044-49a5-a128-21f07d0b0a17\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:01:52\",\"time_stamp\":1789516912,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAunpkE2IXyHAxm4A24G5d1Cf5141pnZy8HwNR5f2-6pI_GYBVR-Pv23uFyfMPB_9I\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
+        "matchStatus": "api_error",
         "matchCandidates": [
           {
             "nickname": "小Lin说",
@@ -445,14 +445,14 @@ window.BENCHMARK_DATA={
         "section": "财经",
         "platform": "抖音",
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAAgedw9gb1eQ28n2BK4xIAz2HPSEHG9Fw13Y6B-ZS6XYQ",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"59d51086-4d8a-4bbf-ab64-9b8781e9819a\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:01:52\",\"time_stamp\":1789516912,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAgedw9gb1eQ28n2BK4xIAz2HPSEHG9Fw13Y6B-ZS6XYQ\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "secUid": "MS4wLjABAAAAgedw9gb1eQ28n2BK4xIAz2HPSEHG9Fw13Y6B-ZS6XYQ",
         "matchedName": "唐子棋",
         "uniqueId": "hyyao888888",
         "followerCount": 7072977,
         "totalFavorited": 60514670,
         "signature": "🌑山不让尘｜川不辞盈\n🌒怀瑾握瑜｜嘉言懿行\n🌔从“哲    学”视角看世界【国际视野｜商业财经】\n🌖从“心理学”视角品人生【传奇人物｜历史沉浮】\n     喜欢哲学 历史的伙伴可以关注@唐子棋|见辙 \n     喜欢图书 文学的伙伴可以关注@唐子棋｜知卷 \n🍀不会以任何方式私信粉丝，请大家谨防受骗～🍀",
-        "matchStatus": "verified"
+        "matchStatus": "api_error"
       },
       {
         "id": "finance-yiming",
@@ -460,8 +460,8 @@ window.BENCHMARK_DATA={
         "section": "财经",
         "platform": "抖音",
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAA_0YhWOn5ljVopcARIKtajFplrPi2_nHiChaJDJzLOXA",
-        "status": "TikHub 昵称精确匹配并已核验",
-        "matchStatus": "verified",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"cdce577d-534e-4fb1-a3ee-2516214b37c9\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:01:53\",\"time_stamp\":1789516913,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAA_0YhWOn5ljVopcARIKtajFplrPi2_nHiChaJDJzLOXA\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
+        "matchStatus": "api_error",
         "matchCandidates": [
           {
             "nickname": "一鸣财经",
@@ -533,8 +533,8 @@ window.BENCHMARK_DATA={
         "section": "财经",
         "platform": "抖音",
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAAfLuAfMUQKVdFpxg1xKFgYzFLlF-OChaA6k2L3mICids",
-        "status": "TikHub 昵称精确匹配并已核验",
-        "matchStatus": "verified",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"0318eea0-cdb4-4c4e-98b2-e6ff1177af1c\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:01:54\",\"time_stamp\":1789516914,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAfLuAfMUQKVdFpxg1xKFgYzFLlF-OChaA6k2L3mICids\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
+        "matchStatus": "api_error",
         "matchCandidates": [
           {
             "nickname": "兔子念金🐰",
@@ -606,8 +606,8 @@ window.BENCHMARK_DATA={
         "section": "财经",
         "platform": "抖音",
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAAPc9V-v4o3BdxwccbI5sPhAF-UPPk86Pkql0L9mHAJDY",
-        "status": "TikHub 昵称精确匹配并已核验",
-        "matchStatus": "verified",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"8cd26f37-318e-424d-994b-9e5abbadc385\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:01:54\",\"time_stamp\":1789516914,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAPc9V-v4o3BdxwccbI5sPhAF-UPPk86Pkql0L9mHAJDY\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
+        "matchStatus": "api_error",
         "matchCandidates": [],
         "secUid": "MS4wLjABAAAAPc9V-v4o3BdxwccbI5sPhAF-UPPk86Pkql0L9mHAJDY",
         "matchedName": "温义飞的急救财经",
@@ -622,8 +622,8 @@ window.BENCHMARK_DATA={
         "section": "财经",
         "platform": "抖音",
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAATI1mbcQ5_Qm_wNHn4UxOMpPA3D6CNg_D1oc5SDWorbuJh1K4rBszOsThB8Z7tgKY",
-        "status": "TikHub 昵称精确匹配并已核验",
-        "matchStatus": "verified",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"a6ae1660-5063-45d5-ad37-250f7a221b6d\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:01:55\",\"time_stamp\":1789516915,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAATI1mbcQ5_Qm_wNHn4UxOMpPA3D6CNg_D1oc5SDWorbuJh1K4rBszOsThB8Z7tgKY\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
+        "matchStatus": "api_error",
         "matchCandidates": [],
         "secUid": "MS4wLjABAAAATI1mbcQ5_Qm_wNHn4UxOMpPA3D6CNg_D1oc5SDWorbuJh1K4rBszOsThB8Z7tgKY",
         "matchedName": "柏年说政经",
@@ -638,8 +638,8 @@ window.BENCHMARK_DATA={
         "section": "财经",
         "platform": "抖音",
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAAIM8HX_fNB-R0yFW9Ua16Yz4HoJK9EXfIfQik9URxgbLj8fviecmFEwFXpO8uO8vs",
-        "status": "TikHub 昵称精确匹配并已核验",
-        "matchStatus": "verified",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"2e996b96-0006-4437-8451-82bb1dd523af\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:01:55\",\"time_stamp\":1789516915,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAIM8HX_fNB-R0yFW9Ua16Yz4HoJK9EXfIfQik9URxgbLj8fviecmFEwFXpO8uO8vs\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
+        "matchStatus": "api_error",
         "matchCandidates": [
           {
             "nickname": "小狮子财经科技",
@@ -711,8 +711,8 @@ window.BENCHMARK_DATA={
         "section": "财经",
         "platform": "抖音",
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAA3a41d58oFHrIgIdTzRp7m-xbh4O5UI4UFgXoyp43jgbzNlVw1yfXuZaKww6Q6CVA",
-        "status": "TikHub 昵称精确匹配并已核验",
-        "matchStatus": "verified",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"f49e5897-273e-46e4-a30a-6e431b32cfa0\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:01:56\",\"time_stamp\":1789516916,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAA3a41d58oFHrIgIdTzRp7m-xbh4O5UI4UFgXoyp43jgbzNlVw1yfXuZaKww6Q6CVA\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
+        "matchStatus": "api_error",
         "matchCandidates": [],
         "secUid": "MS4wLjABAAAA3a41d58oFHrIgIdTzRp7m-xbh4O5UI4UFgXoyp43jgbzNlVw1yfXuZaKww6Q6CVA",
         "matchedName": "李小意深度观察",
@@ -727,14 +727,14 @@ window.BENCHMARK_DATA={
         "section": "财经",
         "platform": "抖音",
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAAJtc6L3nTvnle9yRCKKwVjHs9pvh3X-ZH3daoKvx-kX3R6mwe1Q-FHSHrr_Qp73N7",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"3cd7c876-8699-45b2-ae9a-9db37bea9939\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:01:57\",\"time_stamp\":1789516917,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAJtc6L3nTvnle9yRCKKwVjHs9pvh3X-ZH3daoKvx-kX3R6mwe1Q-FHSHrr_Qp73N7\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "secUid": "MS4wLjABAAAAJtc6L3nTvnle9yRCKKwVjHs9pvh3X-ZH3daoKvx-kX3R6mwe1Q-FHSHrr_Qp73N7",
         "matchedName": "公信财经",
         "uniqueId": "gxcj666",
         "followerCount": 4898911,
         "totalFavorited": 94067837,
         "signature": "一个私人银行家\n只是钱见多了 才敢跟你说道财富规律\n🈴🛰️GXCJ2021",
-        "matchStatus": "verified"
+        "matchStatus": "api_error"
       },
       {
         "id": "finance-straight-man",
@@ -742,14 +742,14 @@ window.BENCHMARK_DATA={
         "section": "财经",
         "platform": "抖音",
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAADUObyc_aoKXnXnV01JEcZMdvU0_ZFvFnVQAU-weztOgHubCQont1aDrDASxWu8B6",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"d4281dda-1877-495b-b2ad-cf9d0cabf08e\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:01:58\",\"time_stamp\":1789516918,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAADUObyc_aoKXnXnV01JEcZMdvU0_ZFvFnVQAU-weztOgHubCQont1aDrDASxWu8B6\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "secUid": "MS4wLjABAAAADUObyc_aoKXnXnV01JEcZMdvU0_ZFvFnVQAU-weztOgHubCQont1aDrDASxWu8B6",
         "matchedName": "直男财经",
         "uniqueId": "zhinancaijing",
         "followerCount": 23100183,
         "totalFavorited": 424717701,
         "signature": "直男财经，深入人心\n商务:  zhinanshangwu\nPs：家人们啊，不在关注列表里的，统统不认识，谨防上当受骗！",
-        "matchStatus": "verified"
+        "matchStatus": "api_error"
       },
       {
         "id": "finance-guyu-family-office",
@@ -757,8 +757,8 @@ window.BENCHMARK_DATA={
         "section": "财经",
         "platform": "抖音",
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAAXjVIBIc_Q9OQPUcFLA-xk4SiFLyQU6WCKavzMwpUujTIq0Coc57FlOwVVT2sbSW0",
-        "status": "TikHub 昵称精确匹配并已核验",
-        "matchStatus": "verified",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"7e875eca-2332-4b22-a661-2b375d99f29d\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:01:59\",\"time_stamp\":1789516919,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAXjVIBIc_Q9OQPUcFLA-xk4SiFLyQU6WCKavzMwpUujTIq0Coc57FlOwVVT2sbSW0\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
+        "matchStatus": "api_error",
         "matchCandidates": [],
         "secUid": "MS4wLjABAAAAXjVIBIc_Q9OQPUcFLA-xk4SiFLyQU6WCKavzMwpUujTIq0Coc57FlOwVVT2sbSW0",
         "matchedName": "古宇家办",
@@ -776,8 +776,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAAKzlh24QlxTNyxgTLZgaiFdTAU6npW9wOsWFLJbOQXf5drz1BgTEoULY8jbD18iwo",
         "matchedName": "William留学择校",
         "followerCount": 33664,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"7a050c1f-a24f-40b5-9784-e20a925216b1\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:01:59\",\"time_stamp\":1789516919,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAKzlh24QlxTNyxgTLZgaiFdTAU6npW9wOsWFLJbOQXf5drz1BgTEoULY8jbD18iwo\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "GJGZZX",
         "totalFavorited": 728523,
         "signature": "国际学校十年资深老师\n带你深度了解江浙沪国际学校\n国际学校备考，留学申请，脱产\n咨询，投稿：WilliamLXZX"
@@ -791,8 +791,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAA-V5m6h6qpl0i0myrIaAmURbPgXxFF6vUOK85N5lF8reUZGirAU77jGdmuqT6jSPS",
         "matchedName": "白话频道",
         "followerCount": 2712207,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"dbda7d4d-367e-4570-99eb-e3b8e690403b\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:00\",\"time_stamp\":1789516920,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAA-V5m6h6qpl0i0myrIaAmURbPgXxFF6vUOK85N5lF8reUZGirAU77jGdmuqT6jSPS\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "59492378551",
         "totalFavorited": 57928380,
         "signature": "时事∣商业∣财经∣科技∣AI\n别人讲不明白的事情，让我来试试\n十年职场商务逻辑表达培训师，心理学硕士\n大白V: ppt20203344\n商务：hezuo17168"
@@ -806,8 +806,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAAsYaohHQsHYz6K_FTMpqxlhkcWTI7toGwcoUsB5QK2r29G74iIkYO9KG3qq77ParM",
         "matchedName": "大威哥",
         "followerCount": 3487194,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"7dfb845b-8674-493c-a729-762c253592e9\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:00\",\"time_stamp\":1789516920,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAsYaohHQsHYz6K_FTMpqxlhkcWTI7toGwcoUsB5QK2r29G74iIkYO9KG3qq77ParM\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "daweige31",
         "totalFavorited": 25524994,
         "signature": "内敛大男孩为了拍视频我豁出去了\n驻港部队退役,曾任香港大阅兵海军方队主领队\nAI、金融、自媒体一网打尽；看透真相不吃亏不上当！\n用大白话拆解各类你听不懂的新闻热点，一起学习进步哦~"
@@ -821,8 +821,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAA2hbbvFTFKSYm3l2pTpoHWhl-EMIvNlPkk7yQ-_gyZUwk421D1QGpLEF33PY5xQlG",
         "matchedName": "李菲特说",
         "followerCount": 429,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"2a34cda8-5468-45fd-bc1c-36bed9e3f349\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:01\",\"time_stamp\":1789516921,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAA2hbbvFTFKSYm3l2pTpoHWhl-EMIvNlPkk7yQ-_gyZUwk421D1QGpLEF33PY5xQlG\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "59943478669",
         "totalFavorited": 2807,
         "signature": "14年科技投资人\n前伦敦交易所全球机构业务ceo\n宾夕法尼亚大学经济学士"
@@ -836,8 +836,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAAkeSq6HD1upPKdlfNvQ_Twyenlp1vHRiv_Q4KZ7E5kh6kNi4sYkafgxJphwhAtNXC",
         "matchedName": "李菲特-智富界",
         "followerCount": 21,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"183ff906-cbca-4253-955b-010510eb8910\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:02\",\"time_stamp\":1789516922,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAkeSq6HD1upPKdlfNvQ_Twyenlp1vHRiv_Q4KZ7E5kh6kNi4sYkafgxJphwhAtNXC\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "50627967012",
         "totalFavorited": 206,
         "signature": "14年科技投资人，热爱抓时代龙头资产，算力界创始人，AI达人都在这｜香港持牌资管｜擅长AI资产投资｜企业AI转型｜AI 职业发展选择｜AI 投资教育｜ 宾夕法尼亚大学经济学士｜"
@@ -851,8 +851,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAAcIy1M38iq8znIPZ4-0R8JnoVHSW0h8Ro7WPUp1Iv838",
         "matchedName": "小司频道",
         "followerCount": 3769239,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"066ee28f-4e32-4d1c-bbde-beb0b7d6f396\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:02\",\"time_stamp\":1789516922,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAcIy1M38iq8znIPZ4-0R8JnoVHSW0h8Ro7WPUp1Iv838\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "xiaositv",
         "totalFavorited": 23669129,
         "signature": "清华大学本硕连读\n一言不合就涨价的“奸商”\n每天分享财经知识\n生活上有啥问题请找我的小弟“小司，总说笑”\nPS：主动联系你们的都是骗子"
@@ -866,8 +866,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAAOIvgEg9etQXIaNkktvAEDy67ob0zgZ1KVemhB-FJ--A",
         "matchedName": "财才说",
         "followerCount": 7330099,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"0834ba1c-f659-4bd6-9436-9b974948363e\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:03\",\"time_stamp\":1789516923,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAOIvgEg9etQXIaNkktvAEDy67ob0zgZ1KVemhB-FJ--A\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "Lets88868766",
         "totalFavorited": 89211312,
         "signature": "煎与熬，都是让你变成熟的过程\n曾留美7年，希望能给大家带来特别的观点\n花式分析社会现象，人话讲解商业逻辑\n讲述品牌故事 挖掘品牌价值\n商务请私（麻烦备注来意）\n抖音上只有这个号，大家谨防被骗"
@@ -881,8 +881,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAAOatNDtSaotVIyfv_ItcWnqcZp24K_vdF5Kr8JzmRoKy43PRvlizKK31IC38tEoEu",
         "matchedName": "雪狮upup",
         "followerCount": 201336,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"a297b318-3fba-4d5a-b443-cd8824659b33\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:04\",\"time_stamp\":1789516924,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAOatNDtSaotVIyfv_ItcWnqcZp24K_vdF5Kr8JzmRoKy43PRvlizKK31IC38tEoEu\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "xueshi_upup",
         "totalFavorited": 1130378,
         "signature": "哈佛大学毕业，当年申请全中+奖学金战绩，前科技行业AI产品经理\n清华大学出版社作者，985 高校特邀导师\n教育科技公司创始人，设计策展公司合伙人@琢磨琢磨ZOMOZOMO \n小号@哈佛雪狮商业思维"
@@ -896,8 +896,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAATJRRLMCSMX_njxnNizgu2FL2p3Y0zbFnIR4Ro1IsMrs2qIs2O90_1SmlsC0g5QfA",
         "matchedName": "清华妈妈马兰花",
         "followerCount": 2763820,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"e7c29555-5820-47a0-b280-20133f92e0d5\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:04\",\"time_stamp\":1789516924,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAATJRRLMCSMX_njxnNizgu2FL2p3Y0zbFnIR4Ro1IsMrs2qIs2O90_1SmlsC0g5QfA\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "lanhuamum2020",
         "totalFavorited": 26823241,
         "signature": "清华大学本科+研究生\n八岁👦🏻+七岁👧🏻的妈妈\n从清华学霸到靠谱妈妈\n双视角带给你高效育儿\n变自身经验为养娃灼见\n超过百万高知家庭追随\n【售后@马兰花的种草站 】"
@@ -911,8 +911,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAAycRgBzODplwEbFJ8eCaHdjlVnNgC2x7CyYrfhDYB8X8",
         "matchedName": "量见坤哥说法",
         "followerCount": 1008746,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"23f67b0e-a999-4675-8914-de487a48c094\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:05\",\"time_stamp\":1789516925,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAycRgBzODplwEbFJ8eCaHdjlVnNgC2x7CyYrfhDYB8X8\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "realkungeshuofa",
         "totalFavorited": 8621830,
         "signature": "*国内知名律师\n*执业36年\n讲课有点风格，办案追求极致\n愿每一位同学都能平安、健康、发大财\n谢谢你们的关注"
@@ -926,8 +926,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAAd0xzEHpqUoM6h76hrrigNOvCr5CliYfgC7-E6pJnK1llBhANKDUvaMz7gHqDgzcS",
         "matchedName": "雪球基金",
         "followerCount": 382780,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"a8b1e3ec-bd7d-4758-bbca-19014f4f0d12\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:06\",\"time_stamp\":1789516926,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAd0xzEHpqUoM6h76hrrigNOvCr5CliYfgC7-E6pJnK1llBhANKDUvaMz7gHqDgzcS\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "xueqiujinghua",
         "totalFavorited": 834538,
         "signature": "雪球官方账号。雪球，聪明的投资者都在这里。"
@@ -941,8 +941,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAAkq1OXz1cJMiVl0Kil1LiE3BxXOpridiebZvE9MR2nampLZ3z9Rn15gBm4x_A1LPB",
         "matchedName": "南山资本论",
         "followerCount": 2561696,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"03ed5ad4-5df0-4ba7-be44-b509b787302d\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:07\",\"time_stamp\":1789516927,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAkq1OXz1cJMiVl0Kil1LiE3BxXOpridiebZvE9MR2nampLZ3z9Rn15gBm4x_A1LPB\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "8888666NS",
         "totalFavorited": 35037184,
         "signature": "水满则溢  空则万有  \n空杯心态 . 穿越经济周期⏳\n📩：星图商务MMr888NS（备注品牌）"
@@ -956,8 +956,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAA_F0nCbityJFcVqtDaOdojTSAx60WhGc6Bv7uLL7SWf0",
         "matchedName": "小小鹰萱妈",
         "followerCount": 4830673,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"7a125074-5647-4bdb-aaf5-676574e55a87\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:08\",\"time_stamp\":1789516928,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAA_F0nCbityJFcVqtDaOdojTSAx60WhGc6Bv7uLL7SWf0\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "886117506",
         "totalFavorited": 65272917,
         "signature": "荐读委员+图书内容运营+家庭教育领学官\n中国出版协会金牌阅读推广人     市图书馆阅读推广人   \n姐姐(全国新时代好少年 省三好 省优秀少xian队员）\n妹妹（三年级PET 科创省一 ）\n售后@萱妈 助理(早八晚七）周六休息\n早岁读书无甚解，晚年省事有奇功"
@@ -971,8 +971,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAAZlR50HmWBfvQ69Y4-PqTTcfXJUGaEeuaYDfgLIVn9GA",
         "matchedName": "有点在李",
         "followerCount": 282599,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"88501ff4-f9fd-4f11-a865-e41ebdd48c8e\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:08\",\"time_stamp\":1789516928,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAZlR50HmWBfvQ69Y4-PqTTcfXJUGaEeuaYDfgLIVn9GA\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "25554002875",
         "totalFavorited": 1149491,
         "signature": "聊聊与💰有关的一切\n人大民商法律硕士&前金杜商事律师\n📮Liftupup（请备注来意）\n\n日常：@李遇记"
@@ -986,8 +986,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAAXsWXoljwu4_ANtfRQPbJgG-4xUkUlvb9OasOAu0zqNFTW80bbTEVLPzTVaAiKLve",
         "matchedName": "周周认知全球",
         "followerCount": 13,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"b93ff183-5607-4b74-963c-8602215e6015\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:09\",\"time_stamp\":1789516929,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAXsWXoljwu4_ANtfRQPbJgG-4xUkUlvb9OasOAu0zqNFTW80bbTEVLPzTVaAiKLve\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "35357330879",
         "totalFavorited": 55,
         "signature": "16国旅居经历  & 儿子在这@菠萝少年记\n教育国际化｜资产全球化｜社交多样化\n目前base深港，链接世界\n聊点认知以外的时事、财富与教育"
@@ -1001,8 +1001,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAAeaWRWQgPbk0ZH-XRknogPD7wlqi8EtezpUIFDi1x9o3UzzRIt5lTnA_k3oOnLOOB",
         "matchedName": "树先生资产视界",
         "followerCount": 43494,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"4f5782c0-7584-4de2-905e-fda883d75640\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:09\",\"time_stamp\":1789516929,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAeaWRWQgPbk0ZH-XRknogPD7wlqi8EtezpUIFDi1x9o3UzzRIt5lTnA_k3oOnLOOB\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "72435751369",
         "totalFavorited": 326596,
         "signature": "🇭🇰左手看国内 右手看全球\n🌍用全球配置的视野打开世界观\n👀专注家庭传承的长期主义者\n🔗讲点深刻的真话"
@@ -1016,8 +1016,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAAnZEfL_gaeQDbKT9b14t_WkmoDEuoY6Etu4sPxTMfkV9x_Q8ti4SGHN9_T_Fb5yO1",
         "matchedName": "朱虹教授",
         "followerCount": 1326576,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"495a3ed3-78dc-42ca-a43f-b0143f63d82f\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:10\",\"time_stamp\":1789516930,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAnZEfL_gaeQDbKT9b14t_WkmoDEuoY6Etu4sPxTMfkV9x_Q8ti4SGHN9_T_Fb5yO1\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "24104345565",
         "totalFavorited": 8378851,
         "signature": "知名社会学学者、C9高校教授&博导\n「半城·虹书房」主理人\n伴万千中产家庭不惑不惧、穿越周期"
@@ -1031,8 +1031,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAARVQ3j8AXcxbJPODW0ZryRz4JSpbAWFgh2ASG8O9OIc8",
         "matchedName": "董太太",
         "followerCount": 3532918,
-        "matchStatus": "ambiguous",
-        "status": "主页昵称为“董太太（16号fanbeauty面膜）”，与名单不一致，待确认",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"6a1d4916-83ea-43b6-9928-07a023e8aab5\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:11\",\"time_stamp\":1789516931,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAARVQ3j8AXcxbJPODW0ZryRz4JSpbAWFgh2ASG8O9OIc8\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "DNX833",
         "totalFavorited": 35191626,
         "signature": "🍇三个孩子宝妈，分别13Y，10Y，7Y\n✅有钱人三观研究院，金牛座只喜欢研究赚钱，有钱，钱生钱。2026和激活你的人在一起\n 🉑八卦都在这里聊@董太太（情绪版） \n🔥激活=信心➡️激活=能量➡️激活=乐观\n🈶 《樱桃小丸子》中有一句话说：有的人能给你充电，跟他聊两句，你就满血复活了，又可以跟世界掰手腕了\n➡️商务DNX268888",
@@ -1047,8 +1047,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAAJlWVPYaq2klajcxzeiS7VczvUaLj9kXtx5bFSmv66Nc",
         "matchedName": "周媛",
         "followerCount": 5200865,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"680876d3-ab15-4577-b97f-0a87e6b4aee0\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:11\",\"time_stamp\":1789516931,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAJlWVPYaq2klajcxzeiS7VczvUaLj9kXtx5bFSmv66Nc\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "zhouyuan5037",
         "totalFavorited": 79855544,
         "signature": "资深投资人 财经媒体人 财经主持人\n分享我觉得靠谱的财经知识和观点\n固定直播时间暂定每周一三五早上8:00\n请大家擦亮眼睛，当心骗子，绝对不会主动私信联系粉丝让加微信加群，更不会给你推荐股票，小心上当！！"
@@ -1062,8 +1062,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAAy960osq508PzgP-1FbLwWBKGeRNCZOvsf3SArYff8sE",
         "matchedName": "丸子妹",
         "followerCount": 5204522,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"23c2d1ac-7d77-4037-896c-f6ca42c30a85\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:12\",\"time_stamp\":1789516932,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAy960osq508PzgP-1FbLwWBKGeRNCZOvsf3SArYff8sE\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "Awanzimei",
         "totalFavorited": 128839727,
         "signature": "深圳市青联委员\n一枚95后财经丸\n【新闻】数据及事件均标注来源\n【热点】客观事实胜于流量情绪"
@@ -1077,8 +1077,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAAaqGuV4FnGP6ayE27gDwYOiE5tcXjEt96sBXhd-l_GHk",
         "matchedName": "小孟同志v小孟同志",
         "followerCount": 581848,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"36ff1d23-88f8-4192-a6d3-ab597c9732d3\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:13\",\"time_stamp\":1789516933,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAaqGuV4FnGP6ayE27gDwYOiE5tcXjEt96sBXhd-l_GHk\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "785491028",
         "totalFavorited": 10738413,
         "signature": "此人撰写过内参，合作过UN，供职过复交\n我知世界之大，亦信万变不离其宗\n（每周二和周五晚20:00 直播 ）\n@小孟同志（生活号）"
@@ -1092,8 +1092,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAAnBFgDT4pjYc0oW9bZD1SE5nvdeuolViN7kwHMDhy6Xo",
         "matchedName": "胡说有据",
         "followerCount": 2594977,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"16259144-362e-42d9-808f-747824fd7510\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:13\",\"time_stamp\":1789516933,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAnBFgDT4pjYc0oW9bZD1SE5nvdeuolViN7kwHMDhy6Xo\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "KJFC666",
         "totalFavorited": 25616892,
         "signature": "又是财气满满的一天\n服务号：胡说有据Pro\n商务🛰️：微信：tkg405060（非本人）"
@@ -1107,8 +1107,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAA_1iSPpfHXu5wjJ_7G2TZtv78eNv-_pScC2-WcyuiEtA",
         "matchedName": "大湾区老姚",
         "followerCount": 1119194,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"9d3aff91-96cb-432b-ac76-34d50bf8d522\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:14\",\"time_stamp\":1789516934,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAA_1iSPpfHXu5wjJ_7G2TZtv78eNv-_pScC2-WcyuiEtA\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "89399046958",
         "totalFavorited": 7808520,
         "signature": "经济有周期，财富有方向\n把财经讲透一点，把变化看远一点\n每天一条，每周二、五直播，陪你穿越周期"
@@ -1122,8 +1122,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAAUbDwIZKJ6eWAzeZFcsdNmJUW-0_RGfyWWLfcx44yvF0",
         "matchedName": "沈芊予",
         "followerCount": 90451,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"0a4ee42a-6713-4220-a4dc-4b649585eec6\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:14\",\"time_stamp\":1789516934,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAUbDwIZKJ6eWAzeZFcsdNmJUW-0_RGfyWWLfcx44yvF0\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "shenqianyu1234",
         "totalFavorited": 457301,
         "signature": "10年主持人\n原电视台主持人\n每日更新智慧思维\n内容持续更新中，敬请期待！\n关注了芊予，就是朋友，私信留言必看必回！"
@@ -1137,8 +1137,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAA1LLl0ptiJPAIGtrLb4siL8zjxUXE5EAVMOQRQE6Oqcc",
         "matchedName": "天骄说",
         "followerCount": 2155760,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"64886b8b-ffd4-46d1-831a-bb6f92418ed7\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:15\",\"time_stamp\":1789516935,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAA1LLl0ptiJPAIGtrLb4siL8zjxUXE5EAVMOQRQE6Oqcc\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "santimi",
         "totalFavorited": 33192103,
         "signature": "商务🛰：tkg405060（非本人）\n添加请备注来意"
@@ -1152,8 +1152,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAAsIn_kIo3PtfaqPTo71QaaaUKDUp3WxKibL-d0P9nKyURPg0EfkaJKC5Hspy10DUz",
         "matchedName": "哎呀朱莉娅",
         "followerCount": 293602,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"f541cb78-e1d9-4911-bfed-bc5a892192c0\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:16\",\"time_stamp\":1789516936,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAsIn_kIo3PtfaqPTo71QaaaUKDUp3WxKibL-d0P9nKyURPg0EfkaJKC5Hspy10DUz\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "lywhywhatwhenhow",
         "totalFavorited": 1364178,
         "signature": "❗警惕：抖音只有这一个号！以我或者我助理名义主动联系您的，都是骗子！❗警惕用我肖像实施诈骗和传播谣言的人!如遇到，请联系我，我们会立刻采取法律手段!\n🏫两所常春藤大学奖学金毕业（沃顿商学院MBA、哥伦比亚大学）\n📚前华尔街对冲基金基金经理\n📚教育、投资公司CEO"
@@ -1167,8 +1167,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAA_qjQvmocuJ8IXq01l2x-kJX0kFJ8w6sv5nKTtH13d1bRGDQ9ALoC9CzG-_TcegDd",
         "matchedName": "直言财经",
         "followerCount": 2116084,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"52341360-366c-4677-a54e-47bf247a4758\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:16\",\"time_stamp\":1789516936,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAA_qjQvmocuJ8IXq01l2x-kJX0kFJ8w6sv5nKTtH13d1bRGDQ9ALoC9CzG-_TcegDd\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "zhiyancaijing",
         "totalFavorited": 24052468,
         "signature": "无小号 无助理 不会主动联系 切勿上当\n本人从未入驻国外平台 如有必为假冒\n理想主义者 无论成败 永放光芒"
@@ -1182,8 +1182,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAApP0vtA-srbEvuc3jnPnYUQeOhT8XbKXqd5NqHutqF6CtWKHRH9mJxdWTU5XImWyK",
         "matchedName": "严九元GlobalView",
         "followerCount": 119822,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"a357d77f-f490-4531-a9d8-c8c79b1e94cc\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:17\",\"time_stamp\":1789516937,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAApP0vtA-srbEvuc3jnPnYUQeOhT8XbKXqd5NqHutqF6CtWKHRH9mJxdWTU5XImWyK\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "75050164770",
         "totalFavorited": 1457508,
         "signature": "智谷趋势创始人\n曾任知名媒体副总编辑\n让中高净值家庭能从顶层宏观维度，升级财富决策逻辑"
@@ -1197,8 +1197,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAAMTbKxtnj54YGmefn8FiIXqXWUzLBVQLvGaCrD5mgcmw",
         "matchedName": "财女小绵羊",
         "followerCount": 102888,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"c7bd5e61-05f4-4aa9-91b4-b13e63a94544\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:18\",\"time_stamp\":1789516938,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAMTbKxtnj54YGmefn8FiIXqXWUzLBVQLvGaCrD5mgcmw\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "1761320867",
         "totalFavorited": 666269,
         "signature": "浙江人在广州，中级经济师，注册理财规划师\n10 年企业服务经验\n分享关于财经，历史，国际时事的理解\n工作号：@广州财女小绵羊 @财女小绵羊同学"
@@ -1212,8 +1212,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAAuDd5ddiml7HNBBMfkDXelB3Nhg_DkwohN9jMyMkTfTA",
         "matchedName": "蔡公子",
         "followerCount": 491033,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"e363bb5f-3ed7-4fae-86ae-5c29a038409d\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:19\",\"time_stamp\":1789516939,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAuDd5ddiml7HNBBMfkDXelB3Nhg_DkwohN9jMyMkTfTA\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "cgz5",
         "totalFavorited": 5665406,
         "signature": "谢谢关注"
@@ -1227,8 +1227,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAA1wMuf3tRz1UJFVViYSmD7J9Y8M8zCEs4Clv9STQdjjU",
         "matchedName": "李一舟3.0",
         "followerCount": 1593894,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"6f643930-2ac5-4288-a503-a175f5da1186\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:19\",\"time_stamp\":1789516939,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAA1wMuf3tRz1UJFVViYSmD7J9Y8M8zCEs4Clv9STQdjjU\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "liulianhezi",
         "totalFavorited": 4453652,
         "signature": "清华大学博士，专注研究一人公司，AI商业落地，超级个体和小而美的商业模式。"
@@ -1242,8 +1242,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAAvqfKdtnDWEtNF72VjjrXHfSQLNhxq7PM_5LsiqV1XEwo7SeoyQ2KCLOZ5B8H0F2N",
         "matchedName": "严九元资产规划",
         "followerCount": 23842,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"c3c780d4-bb5f-4ecd-b8ee-e586ecc44dbf\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:20\",\"time_stamp\":1789516940,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAvqfKdtnDWEtNF72VjjrXHfSQLNhxq7PM_5LsiqV1XEwo7SeoyQ2KCLOZ5B8H0F2N\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "HouseLeader",
         "totalFavorited": 404247,
         "signature": "20年宏观政策跟踪经验\n创立百万财经大号智谷趋势\n福布斯U30评委"
@@ -1257,8 +1257,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAAlbkNTw3vjBlQx6pzhzRnFX1YLHlpCoU8nMpnSKiL6-S0WquIQngezW4Ydt_0DXdk",
         "matchedName": "韩秀云讲经济",
         "followerCount": 10237641,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"278d159d-e962-4620-917c-98600b48b318\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:21\",\"time_stamp\":1789516941,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAlbkNTw3vjBlQx6pzhzRnFX1YLHlpCoU8nMpnSKiL6-S0WquIQngezW4Ydt_0DXdk\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "hxyjjj2020",
         "totalFavorited": 78585151,
         "signature": "韩秀云：\n著名经济学家\n多部经济学书籍作者 ：《宏观经济通识课》《中国新经济》等\n致力用接地气的方式为普通百姓讲解经济学知识\n第四季财经课程已完更。点击橱窗即可查看学习。\n我们不会以领取资料等理由添加您的个人联系方式，请大家注意防范，以免造成损失。"
@@ -1272,8 +1272,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAAC8LWYMXFQvXRtkO5W1Md3IiS-aaJWMPcYPmgO6Xsh_KnHB5FBctepu_wwILrsNIk",
         "matchedName": "思进世界观",
         "followerCount": 131171,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"e8dc2c0a-0cb0-4b04-9745-e6a778f1d155\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:22\",\"time_stamp\":1789516942,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAC8LWYMXFQvXRtkO5W1Md3IiS-aaJWMPcYPmgO6Xsh_KnHB5FBctepu_wwILrsNIk\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "67451398806",
         "totalFavorited": 601754,
         "signature": "《绝情华尔街》作者\n央视华尔街学术顾问"
@@ -1287,8 +1287,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAAxXI6hISjy-WJEMQeJRp1aF29DPkS5HcrJEQJage_6ENPuI9tKUY0g_2Cl3E0jorW",
         "matchedName": "笨嘴哥财经",
         "followerCount": 1681995,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"59170ff1-1e8a-41e6-8f5a-12bab06ad22f\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:22\",\"time_stamp\":1789516942,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAxXI6hISjy-WJEMQeJRp1aF29DPkS5HcrJEQJage_6ENPuI9tKUY0g_2Cl3E0jorW\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "benzuige",
         "totalFavorited": 5931909,
         "signature": "国内头部金融大语言模型FinChat投资人\n曾任头部券商 内容首席\n头部股份制商业银行投行部 总监\n\n尽职调查 超过300家行业头部公司 \n知晓行业投资\n创立过6家公司 员工1500人 \n领悟商业本质\n\n每周三、周六晚9点10直播\n有且仅有一个 笨嘴哥财经  ，家人们擦亮眼睛哦！"
@@ -1302,8 +1302,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAABCQQ6G-F3LzpqJFPwk73qYP_28uLjvxPiTlseuyH-Nk",
         "matchedName": "米哥聊财经",
         "followerCount": 508454,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"7e946464-6814-4f02-af4e-48d704d73304\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:23\",\"time_stamp\":1789516943,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAABCQQ6G-F3LzpqJFPwk73qYP_28uLjvxPiTlseuyH-Nk\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "migeliaocaijing",
         "totalFavorited": 2582932,
         "signature": "⏰10年\"老司机\" 黄金｜白银｜大宗股\n🏅每日交易思考｜分享逻辑\n📊一线投研观点，小白能听"
@@ -1317,8 +1317,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAAd23jWkNJ2yPXAQseofIP-mEdScK7NhS5LFQun6nIjhs",
         "matchedName": "资本论",
         "followerCount": 8893690,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"125d9dac-9029-4f66-8663-a37b6da4592b\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:23\",\"time_stamp\":1789516943,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAd23jWkNJ2yPXAQseofIP-mEdScK7NhS5LFQun6nIjhs\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "51069304",
         "totalFavorited": 111904464,
         "signature": "全网超千万财经博主，资深自媒体创业者，投资创业一网打尽。\nPS：竟然还有小伙伴说我是AI，去迪拜那条找找答案吧。本人工龄比AI年长一点。🧐"
@@ -1332,8 +1332,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAA82IHtScs-vvmMmHpuc_ekwMpyc813SImU5ktR8mRBlw",
         "matchedName": "金融康博士",
         "followerCount": 42284,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"c57d5a9b-3aee-429b-86fd-1237117590ef\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:24\",\"time_stamp\":1789516944,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAA82IHtScs-vvmMmHpuc_ekwMpyc813SImU5ktR8mRBlw\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "80594254329",
         "totalFavorited": 88696,
         "signature": "清华大学经济学本科、博士后\n美国德州农机大学经济学博士\n宏观经济研究员、投资经理\n资本市场实操10年，辅导1000＋投资人"
@@ -1347,8 +1347,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAASzNSuyDa9cwn-yOMt_WYyPJMiEzLNP0g2mfpX5q_POTYV9MQzSztCBs3Lvi-vB09",
         "matchedName": "温义飞财富密码",
         "followerCount": 65768,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"829d965a-5dfc-48d2-ad67-bfc9f71a7134\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:25\",\"time_stamp\":1789516945,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAASzNSuyDa9cwn-yOMt_WYyPJMiEzLNP0g2mfpX5q_POTYV9MQzSztCBs3Lvi-vB09\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "66408618616",
         "totalFavorited": 332539,
         "signature": "“帮更多人了解趋势 读懂财经 提升思维”\n这里是千万财经大V温义飞的财富密码\n财经作家，伦敦政治经济学院，经济史硕士。\n大号@温义飞的急救财经"
@@ -1362,8 +1362,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAAy6RWWUskizYnHZYbmtvtTCBSZHg_9tnDvHXujrQ7i9uT-PA1XBm1FTeBSkqqwHEV",
         "matchedName": "冯观趋势洞察",
         "followerCount": 66231,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"2bf1138f-558f-4120-b7a8-1e2f0d27e5b0\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:25\",\"time_stamp\":1789516945,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAy6RWWUskizYnHZYbmtvtTCBSZHg_9tnDvHXujrQ7i9uT-PA1XBm1FTeBSkqqwHEV\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "70447457577",
         "totalFavorited": 265597,
         "signature": "🌟大家好 我是冯向坤\n🏅17年专注龙头企业投资\n🏆捍卫中国龙头企业，守护人民幸福资产"
@@ -1377,8 +1377,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAAGD0MpVA5EgtHqJlhkDuSGNMTL_59WrZxp8TiNhucgV4",
         "matchedName": "老谭说财经",
         "followerCount": 57,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"93436c1d-1d10-490f-880e-602aa640002a\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:26\",\"time_stamp\":1789516946,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAGD0MpVA5EgtHqJlhkDuSGNMTL_59WrZxp8TiNhucgV4\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "904986117",
         "totalFavorited": 2,
         "signature": ""
@@ -1392,8 +1392,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAAfvBbG3svnuAlE41qFjO64nq5H7NBU7y6b17PeY-Mi7c",
         "matchedName": "路口大爷",
         "followerCount": 2620149,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"a6d5e46a-b10d-42e1-8275-9009942aee29\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:27\",\"time_stamp\":1789516947,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAfvBbG3svnuAlE41qFjO64nq5H7NBU7y6b17PeY-Mi7c\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "caijinglukouDY",
         "totalFavorited": 26219252,
         "signature": "在偏见、喧嚣、敌对的信息中保持独立思考 \n95后宏观经济研究员，专注经济政策、产业趋势\n著有十万级畅销书《中国城市大洗牌》"
@@ -1407,8 +1407,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAAhFZZtY3zzhpf3fNnugxpjU0tfGKQAoLEy_xv-ZQHTpE",
         "matchedName": "天才留学生",
         "followerCount": 63137,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"c5889002-c29e-449f-a0dc-e6bc046e36a8\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:27\",\"time_stamp\":1789516947,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAhFZZtY3zzhpf3fNnugxpjU0tfGKQAoLEy_xv-ZQHTpE\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "xuxiaofa777_",
         "totalFavorited": 295425,
         "signature": "✨AI｜商业｜搞钱｜超级个体\n✨全网80w、作品均原创\n✨xuxiaofa777"
@@ -1422,8 +1422,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAAgZmAL-2pzA9lcLyYFK9Jr1-gLe8wEXoegf3bkZRotjUP1kgL1p45G8RWWfyGEfFT",
         "matchedName": "香港Jacky叔",
         "followerCount": 1119,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"644ebd4f-0c84-46f7-86a3-8e4dbb4b4a53\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:28\",\"time_stamp\":1789516948,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAgZmAL-2pzA9lcLyYFK9Jr1-gLe8wEXoegf3bkZRotjUP1kgL1p45G8RWWfyGEfFT\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "81546882602",
         "totalFavorited": 13035,
         "signature": "卓樾会创始人丨咨询🛰️ unclejackyhk\n身份教育规划丨🇭🇰土生土长香港人 \n规划身份，匹配港校，是为孩子和家庭提前布局的远见。\n✅HK身份获批成功率保持行业Top10\n✅香港身份规划丨国际教育通道丨海外资产配置"
@@ -1437,8 +1437,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAAvy3eG4aPCJAnafoPzr2QamqvuowW-pbgKMN5OaHz6t4MiWpbGSBkC1aRrTr_2t2W",
         "matchedName": "孟晓苏",
         "followerCount": 977566,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"c90a6640-6a67-4164-b7a0-eeaa277f3b43\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:28\",\"time_stamp\":1789516948,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAvy3eG4aPCJAnafoPzr2QamqvuowW-pbgKMN5OaHz6t4MiWpbGSBkC1aRrTr_2t2W\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "drmengxiaosu",
         "totalFavorited": 4934551,
         "signature": "万里委员长八十年代秘书、办公室负责人\n1998年国家房改课题组组长、中国房改方案设计者\n中国房地产开发集团公司董事长\n幸福人寿保险董事长（创办人）\n原国家进出口商品检验局副局长"
@@ -1452,8 +1452,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAARxCaX0DRwimU-PoLy3Fva-DjNZkb3hDCPWKMmYXPW00",
         "matchedName": "李俊怀聊配置",
         "followerCount": 2142816,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"81a12f28-2af9-4187-84b2-c73e78b185b8\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:29\",\"time_stamp\":1789516949,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAARxCaX0DRwimU-PoLy3Fva-DjNZkb3hDCPWKMmYXPW00\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "dhz907",
         "totalFavorited": 17151989,
         "signature": "全网1500W➕粉财经博主\n近20年，经历4轮资产涨跌，抓中3波时代红利\n擅长多元化资产配置➕布局时代红利\n变富的方式有很多，我喜欢慢的这一种"
@@ -1467,8 +1467,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAA6kWB1NsQq3hD_nJOM5re8Lj2k5RuU4hGhkaEqR1cWpM",
         "matchedName": "香港斐姐说",
         "followerCount": 75307,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"a714bd3e-8e29-4364-9ec4-8d77a1a097b8\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:30\",\"time_stamp\":1789516950,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAA6kWB1NsQq3hD_nJOM5re8Lj2k5RuU4hGhkaEqR1cWpM\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "48493233244",
         "totalFavorited": 194972,
         "signature": "👩‍🎓香港大学|清华大学|前500强\n🇭🇰香港百人团队|全网百万粉丝\n🔗加入斐姐团队wangfei803077（注明来意）\n💰财经速递|商业认知|财富管理"
@@ -1482,8 +1482,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAAuetGlmFFnmfzRdRrfMA_AyjB2cr_pkuZh2mYnbsENkk0JvLWy_ntnG_-Srcf0BPB",
         "matchedName": "温老板的香港圈",
         "followerCount": 2522,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"3eff8686-3b93-405f-9886-1a0743c6eb3a\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:31\",\"time_stamp\":1789516951,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAuetGlmFFnmfzRdRrfMA_AyjB2cr_pkuZh2mYnbsENkk0JvLWy_ntnG_-Srcf0BPB\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "36278455179",
         "totalFavorited": 6589,
         "signature": "内地销冠，香港团队长\n小白0资源起步，5个月达成COT\n寻找同业人，一起向上成长。"
@@ -1497,8 +1497,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAAVQDO8cdY4eZqVR2-yh6uxNCDKtT09TWraLG8vFQtYrk",
         "matchedName": "生哥与安迪",
         "followerCount": 422404,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"b196bb8c-c7f2-43c1-ab2c-6e61463c2738\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:32\",\"time_stamp\":1789516952,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAVQDO8cdY4eZqVR2-yh6uxNCDKtT09TWraLG8vFQtYrk\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "1203371510",
         "totalFavorited": 2853989,
         "signature": "｛一块成长，一块玩｝\n｛不争对错，坚持真实｝\n｛我提供一个观点，触发你一次思考，仅此｝"
@@ -1512,8 +1512,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAA12TyL-61IVI_ULZtHBUCDQkbf38BTh1FTWUyY0xmss4",
         "matchedName": "明缘说",
         "followerCount": 2589805,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"bbd3b740-ff66-4eac-80c4-c7c2c9aa7afe\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:32\",\"time_stamp\":1789516952,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAA12TyL-61IVI_ULZtHBUCDQkbf38BTh1FTWUyY0xmss4\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "793871968",
         "totalFavorited": 32732937,
         "signature": "讲人文的理科生，用政经视角看懂世界。\n爱国爱家爱自己。"
@@ -1527,8 +1527,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAAzSge8Gr05hWlI--yT7D7ZuPVUtUtzwxLvFCswqYkNRFcBVodZhVbuktYCkJ0Rh3c",
         "matchedName": "十里梧桐",
         "followerCount": 300894,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"a6e84e4f-8a29-4349-a3d8-c0498fafe0c9\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:33\",\"time_stamp\":1789516953,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAzSge8Gr05hWlI--yT7D7ZuPVUtUtzwxLvFCswqYkNRFcBVodZhVbuktYCkJ0Rh3c\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "73746503499",
         "totalFavorited": 1647837,
         "signature": "@梧桐树下一起读书 是我开发的APP\n计算机专业；\n逻辑化讲解世界经典著作、真实美国、前沿成果。\n家有万卷藏书，也去过很多国家；\n读书，为理解世界运行的逻辑；\n曾任职世界著名软件公司，及非著名投资公司"
@@ -1542,8 +1542,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAA0lmQhtYRwUT1q7y7fUbqxaZ5d5BRrgDsRShLrAZCFoHiFXRPlMQ7sx2H0q1AWshQ",
         "matchedName": "财富论",
         "followerCount": 4954128,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"402f9531-5bcc-4d77-81b0-0f1723ba22b1\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:34\",\"time_stamp\":1789516954,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAA0lmQhtYRwUT1q7y7fUbqxaZ5d5BRrgDsRShLrAZCFoHiFXRPlMQ7sx2H0q1AWshQ\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "KJDC88",
         "totalFavorited": 87250294,
         "signature": "资深媒体人\n坚持长期价值"
@@ -1557,8 +1557,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAAGaPSMRsUL6iHw4FADMcBYGFYIMw1Ml5aflGc3eYOnn6uVTIMaWfwnHXiBEaho5KK",
         "matchedName": "猫伊老爷",
         "followerCount": 774190,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"5559bf7f-3e07-4394-8661-afc5bcb1d248\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:34\",\"time_stamp\":1789516954,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAGaPSMRsUL6iHw4FADMcBYGFYIMw1Ml5aflGc3eYOnn6uVTIMaWfwnHXiBEaho5KK\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "50047800938",
         "totalFavorited": 10271428,
         "signature": "吐三分剑气，斩一片朗朗乾坤。洒一身热血，护华夏万里河山。"
@@ -1572,8 +1572,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAAQRNQx7KfzmjfhOFn8HO5Pgnvj2Ww6DbFDM6CwGtboMPkLVtScEU2RLVW-OQYdiHp",
         "matchedName": "阳和平说事儿",
         "followerCount": 3576899,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"fd40d7ce-e8eb-4222-8149-d99ea3065158\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:35\",\"time_stamp\":1789516955,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAQRNQx7KfzmjfhOFn8HO5Pgnvj2Ww6DbFDM6CwGtboMPkLVtScEU2RLVW-OQYdiHp\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "24698931341",
         "totalFavorited": 32993281,
         "signature": "北京生西安长的美国人，中美各半生的对照和亦工亦学的经历使得我对前30年的历史和经济学特别感兴趣。"
@@ -1587,8 +1587,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAAHsy63h5IdKKI1783ttXMRSwNmuguZqzNLj0UPFi1fmbPFcgZCXj1EZ9yKB81mwbR",
         "matchedName": "发烧好了呢",
         "followerCount": 2516753,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"210539e5-aefd-4d66-9db7-8de99f798e94\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:36\",\"time_stamp\":1789516956,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAHsy63h5IdKKI1783ttXMRSwNmuguZqzNLj0UPFi1fmbPFcgZCXj1EZ9yKB81mwbR\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "forCFA_2019",
         "totalFavorited": 25368013,
         "signature": "立下愚公移山志，敢叫荒漠变绿洲。\n——拒绝金融妖魔化~\n\n无小号，不会主动私信您，谨防受骗。🧐🧐"
@@ -1602,8 +1602,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAAm-YgirNQo_9nm1B8TNynOD5ZrYBtesVrgBuaZaS2dzQ",
         "matchedName": "毒角SHOW",
         "followerCount": 20278530,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"f651c760-5baf-41f9-baed-a2994704e5df\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:37\",\"time_stamp\":1789516957,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAm-YgirNQo_9nm1B8TNynOD5ZrYBtesVrgBuaZaS2dzQ\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "193148355",
         "totalFavorited": 474863994,
         "signature": "🇨🇳 中国自媒体OG / 海外街头整活第一人\n⏳ 10年只做一件事——把最酷的中国文化和产品带向世界\n🚀 国产品牌海外街头采访 / 🌐全球大事件现场VLOG\n商务合作+v：ohyeohh\n售后问题联系:@毒角SHOW小助理"
@@ -1617,8 +1617,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAA2D4eQkVXL1CTXyyYjfpAJFdOkLaw5_rObLWXhwtlXQs",
         "matchedName": "财姐水晶",
         "followerCount": 990869,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"996c421a-6681-4f95-96b8-00367975a3f0\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:38\",\"time_stamp\":1789516958,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAA2D4eQkVXL1CTXyyYjfpAJFdOkLaw5_rObLWXhwtlXQs\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "shuijing2026",
         "totalFavorited": 5671207,
         "signature": "👉从业超过十五年的圈内人\n👉原基金销售管理公司总经理｜资产管理部 总经理\n👉在这里分享交易心得@水晶讲交易 \n👉国内最早的基金组合管理人\n👉2016年海通期货全国交易大赛轻量组第三名\n👉真投资 才敢说真话++仅此一号，请勿上当"
@@ -1632,8 +1632,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAA7VdiTcmw2pddQQvZu_RFep9eGXuuGuaO8fx2yRVp05M",
         "matchedName": "财经林妹妹",
         "followerCount": 982,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"8fe03a42-426e-4a05-91b5-3102d94477f4\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:38\",\"time_stamp\":1789516958,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAA7VdiTcmw2pddQQvZu_RFep9eGXuuGuaO8fx2yRVp05M\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "wuyese",
         "totalFavorited": 501,
         "signature": "人生好似春梦一样,不过是烟花中,做乐一场。"
@@ -1647,8 +1647,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAA5aYKcQDdPamBdPZ02nlrKYwj7ivy5yerwKWN9CUSEiBw1542kbqE0pS-a9V9M3dn",
         "matchedName": "Mark一下-马克",
         "followerCount": 146908,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"edbca025-8449-4900-9e12-e93a704eb674\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:39\",\"time_stamp\":1789516959,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAA5aYKcQDdPamBdPZ02nlrKYwj7ivy5yerwKWN9CUSEiBw1542kbqE0pS-a9V9M3dn\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "markyixia",
         "totalFavorited": 911133,
         "signature": "@财经杂志 执行主编马克\n访谈商业世界里标志性的人和事，探究他们兴衰成败的内在逻辑；也讨论影响你我工作、生活的经济大事，用常识理解这个世界\n商务合作➕ wb68049102\n内容交流及其他➕mark_caijing"
@@ -1662,8 +1662,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAAO3JZCuRMBRrFntJq7xqhX9AXy-LYmNMXxrIr5FDTNiA",
         "matchedName": "黄力泓讲经济趋势",
         "followerCount": 126050,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"55a39001-a89b-427d-86f7-5c2031c0c86f\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:40\",\"time_stamp\":1789516960,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAO3JZCuRMBRrFntJq7xqhX9AXy-LYmNMXxrIr5FDTNiA\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "dae3519",
         "totalFavorited": 567540,
         "signature": "黄力泓\n定期分享行业动态、最新趋势\n主题：商业知识、商业趋势、商业增长\n有问题可在评论区留言，随机解答"
@@ -1677,8 +1677,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAAQ_lWy4B-epwTKBM-F5oRlVoPktBV7gLsiHcORc0wO1QVbmB3CF1U293nExl30IH2",
         "matchedName": "紫荆财富圈",
         "followerCount": 121857,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"913e401c-0bb6-4863-82a5-f6d86c65d61e\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:40\",\"time_stamp\":1789516960,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAQ_lWy4B-epwTKBM-F5oRlVoPktBV7gLsiHcORc0wO1QVbmB3CF1U293nExl30IH2\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "46901417233",
         "totalFavorited": 408899,
         "signature": "用最接地气的话，讲最深的专业知识"
@@ -1692,8 +1692,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAAYUmKqkWW0wxxOFHQxAPTB-RqDVw0uwWLm5Fu4F7jpJ8u5QDFAcre4Z8tHw8xZdeA",
         "matchedName": "韩玮的财经世界",
         "followerCount": 349595,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"379b6ec4-4f75-4ccf-83b6-7bca1dd66f70\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:41\",\"time_stamp\":1789516961,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAYUmKqkWW0wxxOFHQxAPTB-RqDVw0uwWLm5Fu4F7jpJ8u5QDFAcre4Z8tHw8xZdeA\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "HanWei_Finance",
         "totalFavorited": 2114573,
         "signature": "🗺️博观约取 | 厚积薄发\n💎如琢如磨 | 洞幽烛远\n📊\"宏观周期\" 之潮窥见个体【政策脉络 | 财富逻辑】\n🧭\"微观博弈\" 之域解读产业【市场心理 | 商业洞察】\n仅此一号，主动联系你的都是骗子！"
@@ -1707,8 +1707,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAA0_mpemoDG7GsE0jY67O_9jaA1nWa4zreXV-_-HRSy3OpMdQ4kfXgkf5JAl71WI3v",
         "matchedName": "向老师讲经济",
         "followerCount": 437641,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"72aaa82b-85aa-4909-b700-d8a4a186c4d5\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:41\",\"time_stamp\":1789516961,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAA0_mpemoDG7GsE0jY67O_9jaA1nWa4zreXV-_-HRSy3OpMdQ4kfXgkf5JAl71WI3v\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "41607409052",
         "totalFavorited": 2623546,
         "signature": "📖师从“欧元之父”蒙代尔\n🏦原中国农业银行首席经济学家\n🎓中国人民大学经济学博士，后留学英国剑桥大学和美国哥伦比亚大学\n➕关注向老师，一起学习宏观经济，看懂世界趋势变化，优化资产配置"
@@ -1722,8 +1722,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAAIvt3UumRhamD8b56Y2F1pKsJt-DtBvnW8wcZ3-curWo88M1sqEXMnh_Ws-2zfgbo",
         "matchedName": "俗人六哥_Ai企业智能体落地",
         "followerCount": 13073,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"839ccd6c-49c5-4912-836b-54bd4ab6c54a\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:42\",\"time_stamp\":1789516962,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAIvt3UumRhamD8b56Y2F1pKsJt-DtBvnW8wcZ3-curWo88M1sqEXMnh_Ws-2zfgbo\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "bdedu333",
         "totalFavorited": 59464,
         "signature": "1、16年互联网创业+运营+短视频直播+AI企业落地；\n2、没别的本事，就是做死100+账号，有点经验而已；\n3、不提供快餐，赚快钱，请绕道；"
@@ -1737,8 +1737,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAAwZN8t9XZKjuHFA-3otbKPxdiwcxwu1ktFHw7rqiRxyI",
         "matchedName": "上海柳叔",
         "followerCount": 775324,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"36836e5a-dcd6-4071-8b82-5e240567938c\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:43\",\"time_stamp\":1789516963,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAwZN8t9XZKjuHFA-3otbKPxdiwcxwu1ktFHw7rqiRxyI\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "Treeliu_sh",
         "totalFavorited": 1965114,
         "signature": "柳叔，知名机构配置总监，基金黄金资深顾问\n多伦多大学硕士，第一财经特邀嘉宾\n大树家庭配置方法论、大树定投课程创作者\n自我探索+自我成长践行者\n内容仅娱乐而非投资建议，预测常错不纠结\n每周二晚8点直播"
@@ -1752,8 +1752,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAAWTvRlacZKZaTEj0952hdl-NlhqrHQFFB7h4A_yG-oz8",
         "matchedName": "猴哥军情",
         "followerCount": 1407702,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"2165efc9-2ca2-4f84-aed0-1c843c73ba18\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:43\",\"time_stamp\":1789516963,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAWTvRlacZKZaTEj0952hdl-NlhqrHQFFB7h4A_yG-oz8\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "xiaov170116",
         "totalFavorited": 14312427,
         "signature": "专属会员群实时推送信息，博主不会主动私聊任何人，无小号，注意分辨!（大黄资讯专属会员）"
@@ -1767,8 +1767,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAAtrR3ZhxoEcDIwEpnBqfbNdf2R9f9w4QiSXCaRU431uuiL73K5qaBXTda0njLcQnv",
         "matchedName": "全球速探",
         "followerCount": 2293730,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"e566c8b2-585b-47da-ab31-e5527019041b\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:44\",\"time_stamp\":1789516964,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAtrR3ZhxoEcDIwEpnBqfbNdf2R9f9w4QiSXCaRU431uuiL73K5qaBXTda0njLcQnv\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "62048420546",
         "totalFavorited": 29803732,
         "signature": "观大国博弈，看风云变幻\n不随波逐流，不人云亦云"
@@ -1782,8 +1782,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAA_qsWgTAAmE0dc8ahmj134F4CDyX9eaKhTvi6H-4bPkGo6H6QSXKak1HX0Lg_hPZb",
         "matchedName": "陈思进财富说",
         "followerCount": 605639,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"d288b26d-393c-426f-baf8-a71c419e8970\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:45\",\"time_stamp\":1789516965,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAA_qsWgTAAmE0dc8ahmj134F4CDyX9eaKhTvi6H-4bPkGo6H6QSXKak1HX0Lg_hPZb\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "46916081024",
         "totalFavorited": 2797863,
         "signature": "著有《金融让谁富有》、《绝情华尔街》、《看懂金融的第一本书》等"
@@ -1797,8 +1797,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAAe7mzNzbChe3iX-rbdBqRsTDnCxOgkgj2wasMXo7KWWQ",
         "matchedName": "褚说",
         "followerCount": 200014,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"1312ae13-91d6-4d83-9356-bf1744def7c8\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:45\",\"time_stamp\":1789516965,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAe7mzNzbChe3iX-rbdBqRsTDnCxOgkgj2wasMXo7KWWQ\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "64680233",
         "totalFavorited": 1549586,
         "signature": "不唱赞歌  不造焦虑 \n客观论证  数据说话"
@@ -1812,8 +1812,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAAXvIF7Q5rh_hFtHVyeEqb0McY_psVD8SCKgbcH3ljIXc",
         "matchedName": "江平舟",
         "followerCount": 552103,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"f1757647-ae37-401c-943b-8fb31d95163c\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:46\",\"time_stamp\":1789516966,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAXvIF7Q5rh_hFtHVyeEqb0McY_psVD8SCKgbcH3ljIXc\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "1118257529",
         "totalFavorited": 6309175,
         "signature": "丈夫，主笔，主编，独立摄影师\n脱口秀参与者，能做出让全家人拍手叫好的菜\n合作vx：lopint345"
@@ -1827,8 +1827,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAA3yyhD8TtLL2CSpzmCV48VQDsn1-35ptfWOUM6ku6THQ",
         "matchedName": "廖小爱",
         "followerCount": 629868,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"bafa87ca-e181-4998-94ac-012faa5f89d9\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:47\",\"time_stamp\":1789516967,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAA3yyhD8TtLL2CSpzmCV48VQDsn1-35ptfWOUM6ku6THQ\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "Liaoxiaoai",
         "totalFavorited": 4031712,
         "signature": "👏体系：【中国特色的价值投资】 \n🦄方法：AI运用+ 三高龙头+持续子弹\n❤️主线：AI=算力+电力+矿力，    +应用\n🌸17年创业投资经历·前私募基金经理。不作恶。\n要查我请搜真名“廖爱萍”去私募排排网查 豆包脑子不太好\n▶️只做长线投资，不做短线，子弹30万以下勿进会员"
@@ -1842,8 +1842,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAAAL6expaiWXGOOQC133n0Fq8oFHl3kG5zgWrkiF73FAE",
         "matchedName": "心吾讲透价值",
         "followerCount": 358172,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"bc1d21ba-8fdf-4052-a58e-25cc715ae20b\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:47\",\"time_stamp\":1789516967,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAAL6expaiWXGOOQC133n0Fq8oFHl3kG5zgWrkiF73FAE\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "713927271",
         "totalFavorited": 1362411,
         "signature": "👉心吾读书创始人 \n价值投资践行者和传播者 \n敬天爱人 至诚无息"
@@ -1857,8 +1857,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAAZ7OdDn7LbxCyNBNZ-t5F4BCMEHlCM7wmmonPK02fA_wTsWnb3tDnhTXCM9EdxLKF",
         "matchedName": "马红漫",
         "followerCount": 291700,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"6a1b5da0-37e8-4084-a6e3-515f7b9b6e92\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:48\",\"time_stamp\":1789516968,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAZ7OdDn7LbxCyNBNZ-t5F4BCMEHlCM7wmmonPK02fA_wTsWnb3tDnhTXCM9EdxLKF\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "cjmhm001",
         "totalFavorited": 1314182,
         "signature": "经济学博士，著名财经主持人、评论家。复旦大学中国经济研究中心智库研究员。"
@@ -1872,8 +1872,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAA8ipqpzduFPXbvfeixQDqKQ-cMW_DAoGh0jaGmZ79-UA",
         "matchedName": "四懂非懂",
         "followerCount": 178709,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"55b58e07-d0a6-4211-8da0-fae075c8f20e\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:49\",\"time_stamp\":1789516969,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAA8ipqpzduFPXbvfeixQDqKQ-cMW_DAoGh0jaGmZ79-UA\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "Kaylan_C",
         "totalFavorited": 1544546,
         "signature": "“我就那么一说\n       您就那么一听”"
@@ -1887,8 +1887,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAArggZ2bRLZqeXvmT3EfUrLu2mXFAm__HCrppX5uDWPaEQvYTO-6IhcOLenzzOILxD",
         "matchedName": "龙白滔博士",
         "followerCount": 858782,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"f6a99218-e91a-4f0f-ae7e-47e7cee47c44\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:49\",\"time_stamp\":1789516969,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAArggZ2bRLZqeXvmT3EfUrLu2mXFAm__HCrppX5uDWPaEQvYTO-6IhcOLenzzOILxD\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "dyonyje8qnkm",
         "totalFavorited": 6629399,
         "signature": "清华计算机本硕博，纯solo/全网三百万财经+科普大V ，知识星球“龙白滔博士认知局”，独立经济学人，超级畅销书60万字《锚定中国》《数字货币》，中国最早AI+量化投资创业，全马精英，全植物饮食，有两只贵宾，27年跨工程/咨询/投资/创业/学术/媒体经验，终生学习和跨界成就典范"
@@ -1902,8 +1902,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAAVUphxFEGiI3bbWcYZMqGvdl-azx91YQsUsw-_beaNVk",
         "matchedName": "何毅财经课堂",
         "followerCount": 1441236,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"92796558-bb1d-4feb-a3ca-013ecc8101c9\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:50\",\"time_stamp\":1789516970,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAVUphxFEGiI3bbWcYZMqGvdl-azx91YQsUsw-_beaNVk\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "85456001689",
         "totalFavorited": 13603771,
         "signature": "一级市场的心得，分享行业知识和逻辑\n不做交易建议，有啥问题找我兄弟“何毅人文商业”说说"
@@ -1917,8 +1917,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAAkhgjq_j8OA-C5MhBVyON-7140y-OW06Nx47TOmXvrdGD78ymwE0tkN6J1vYKBrSz",
         "matchedName": "C位观察",
         "followerCount": 841578,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"b163b66f-78be-4182-a333-7f7e5754b642\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:50\",\"time_stamp\":1789516970,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAkhgjq_j8OA-C5MhBVyON-7140y-OW06Nx47TOmXvrdGD78ymwE0tkN6J1vYKBrSz\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "wyyjj163",
         "totalFavorited": 12655609,
         "signature": "C位大佬解读C位大事。\n对话各领域大咖分享行业智慧、人生经验。\n全网粉丝240万+，月均播放6000万+"
@@ -1932,8 +1932,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAARFDhdmgB0mnhMvPWchK-jl_rt2WwovY40cpKl-nYldh-vGgM77-ujFb6WQZkV2Ry",
         "matchedName": "Harry张瀚文",
         "followerCount": 98451,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"d109afe7-78ec-4a6a-ace0-dd0256450dbb\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:51\",\"time_stamp\":1789516971,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAARFDhdmgB0mnhMvPWchK-jl_rt2WwovY40cpKl-nYldh-vGgM77-ujFb6WQZkV2Ry\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "HarryZHW",
         "totalFavorited": 867192,
         "signature": "① 独立投资人\n② 分享价值投资、商业模式的个人思考\n③ 周一&周五20:00直播"
@@ -1947,8 +1947,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAAxtwEvQxX1vIF5qKAn28Is6SdLNyqIm3xWgYxDZvucleNE1fKotKi6LqJ46Jci591",
         "matchedName": "峰哥财富浪潮",
         "followerCount": 262309,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"03d239d5-1198-4689-a0af-33be7ea8869a\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:52\",\"time_stamp\":1789516972,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAxtwEvQxX1vIF5qKAn28Is6SdLNyqIm3xWgYxDZvucleNE1fKotKi6LqJ46Jci591\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "92131254948",
         "totalFavorited": 894117,
         "signature": "🏅程雪峰\n🏅你是谁不重要，你选择跟谁在一起非常重要"
@@ -1962,8 +1962,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAA-h6FtOrNWJnYOM9l7y-tVUPDm522Rk7kQrKbtSUwoDk",
         "matchedName": "纪晓岚财经",
         "followerCount": 1064194,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"38863ef2-4542-4e88-a544-6fed8c4bad7c\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:52\",\"time_stamp\":1789516972,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAA-h6FtOrNWJnYOM9l7y-tVUPDm522Rk7kQrKbtSUwoDk\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "wangji13911",
         "totalFavorited": 10728596,
         "signature": "10年企服规划经验，服务超千家企业。\n拆解金融底层逻辑，揭秘财富分配真相，只讲普通人能听懂的硬核干货。\n帮你避开融资陷阱，看懂财富规律，少走人生弯路。"
@@ -1977,8 +1977,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAAJR_5831bz2HTkop8lEuQbYFQvTThNKPP7Bw_k4uQk0uTACgVCnBkd55iFvPqtZ9P",
         "matchedName": "小智侃财经",
         "followerCount": 1520072,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"bd60e045-e5f4-4643-9e1c-324e3e258e01\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:53\",\"time_stamp\":1789516973,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAJR_5831bz2HTkop8lEuQbYFQvTThNKPP7Bw_k4uQk0uTACgVCnBkd55iFvPqtZ9P\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "zhiyoushe123",
         "totalFavorited": 8269291,
         "signature": "天桥底下摆茶摊儿的说书人\n拨迷雾？咱眼神儿浅，\n就爱琢磨点犄角旮旯的真章儿；\n荐好茶？咱舌头笨，\n只会挑那喝进肚里舒坦的实在货。\n邀您常来听听书，喝喝茶，品禅茶一味！"
@@ -1992,8 +1992,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAAvNHKyePrM_mUX5Uw0xNp37Bg4eblvdxMwTV3YqJ36cHtzmlFgoPO7Q0Jiz9dhKd1",
         "matchedName": "我的野蛮老婆",
         "followerCount": 4444294,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"5b02d7f2-1129-448a-9cc4-1aa7b5c3f039\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:54\",\"time_stamp\":1789516974,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAvNHKyePrM_mUX5Uw0xNp37Bg4eblvdxMwTV3YqJ36cHtzmlFgoPO7Q0Jiz9dhKd1\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "yemanlaopo",
         "totalFavorited": 34592663,
         "signature": ""
@@ -2007,8 +2007,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAAy5ym9wTQRRPyS8wY1UA4SXkgUkw7gZyg1Pkws_ppDtO2z0uOpWjbUWassaacpe8C",
         "matchedName": "付鹏的财经世界",
         "followerCount": 1208250,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"eb94f6f0-f172-47ed-bea5-59e64c6e0660\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:54\",\"time_stamp\":1789516974,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAy5ym9wTQRRPyS8wY1UA4SXkgUkw7gZyg1Pkws_ppDtO2z0uOpWjbUWassaacpe8C\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "fupeng715",
         "totalFavorited": 3674310,
         "signature": "金融是个专业的事情 投资不是拍脑袋的决定 原 FICC HF Trader关注全球大类资产《见证逆潮》作者  （上海柒依伍文化传媒）"
@@ -2022,8 +2022,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAABNMdtvv-TKCv7hx8B_I8QeR9H14s-FtqfZ7mtZNkbCQ4FVAGvd6Bl0tYaNeUjbDY",
         "matchedName": "周期老宋",
         "followerCount": 435798,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"10c24db0-7273-4323-acee-db88e450b4d3\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:55\",\"time_stamp\":1789516975,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAABNMdtvv-TKCv7hx8B_I8QeR9H14s-FtqfZ7mtZNkbCQ4FVAGvd6Bl0tYaNeUjbDY\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "szy2023good",
         "totalFavorited": 1703030,
         "signature": "万物皆周期。20年大类资产配置经验，用周期框架判断各类资产的波动规律。\n📅 会员圈四类干货：\n① 重要政策事件+机构调研解读\n② 实战投资模型系统\n③ 周期投资视频课程\n④ 会员专属答疑互动\n👇 点击【专属会员】开通，解锁完整版周期投资框架\n🪪全网同名，欢迎关注\n👏常规视频照常更新，诚意不变"
@@ -2037,8 +2037,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAAyMbT83GhO7Eb9SwQwQ85zv2UzrY9LVTX2_nNyH0_sLz0WZQnqXKFX_T95tNwgQ7q",
         "matchedName": "国信财经妙先生",
         "followerCount": 36681,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"8f045726-89eb-4168-9e6c-e6918544c167\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:56\",\"time_stamp\":1789516976,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAyMbT83GhO7Eb9SwQwQ85zv2UzrY9LVTX2_nNyH0_sLz0WZQnqXKFX_T95tNwgQ7q\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "62375122146",
         "totalFavorited": 293716,
         "signature": "国信证券 \n用简单的方式，讲清复杂的投资，讲真话不废话\n南开大学硕士，专注宏观与大类资产策略研究\n人民日报社证券时报资本市场讲师库认证讲师\n直播时间：周一早上8：30，周二-周六晚上20：30\n不主动私信任何人，谨防受骗"
@@ -2052,8 +2052,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAABX_XZ7TC70cbGtVPtpPaQaMYu0KMtraQrN7wOmJxOqTHU7d-_kpaKBY4JjB6dw8s",
         "matchedName": "新视野财经",
         "followerCount": 150246,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"f83eb10c-d36e-4dc3-ae4a-1ee14755eb6b\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:56\",\"time_stamp\":1789516976,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAABX_XZ7TC70cbGtVPtpPaQaMYu0KMtraQrN7wOmJxOqTHU7d-_kpaKBY4JjB6dw8s\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "96962525404",
         "totalFavorited": 1691038,
         "signature": "一个每天努力吸引你关注的嘚啵得博主~"
@@ -2067,8 +2067,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAAkzXLadGBf71sE8G2_oLUB1MXpj3ZEbXNiLLLxnIrtXc",
         "matchedName": "兔子念金🐰",
         "followerCount": 1289885,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"5d14e610-7c6f-48ae-bc5f-4390ee0c48f8\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:57\",\"time_stamp\":1789516977,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAkzXLadGBf71sE8G2_oLUB1MXpj3ZEbXNiLLLxnIrtXc\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "47561511091",
         "totalFavorited": 6643128,
         "signature": "十五年金融老司机\n财富=知识储备+人性\n视频涨知识，直播讲专业\n谢谢你的关注，兼听则明"
@@ -2082,8 +2082,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAAKTa6iLCNz-20ntcXgK8E8VDLoJghntRIkOZmo3pIIlM",
         "matchedName": "云霄博士",
         "followerCount": 30098,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"11b72f9c-e04c-43f5-a300-01643f678f26\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:57\",\"time_stamp\":1789516977,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAKTa6iLCNz-20ntcXgK8E8VDLoJghntRIkOZmo3pIIlM\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "Dr.Yunxiao",
         "totalFavorited": 41781,
         "signature": "💥爱笑女  博士生\n✨研究人工智能（多篇人工智能相关成果）\n✨985经济本科/美国公立常青藤科学硕士/双一流金融博士生，关注我，一起做时间的朋友"
@@ -2097,8 +2097,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAAnYeqjwUBcan0NEtk3QofTIQ425zdGtu8bXHu2PwwWBQ",
         "matchedName": "董AI",
         "followerCount": 882,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"b651c2ad-3564-4711-a463-b36b60e6b2ee\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:58\",\"time_stamp\":1789516978,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAnYeqjwUBcan0NEtk3QofTIQ425zdGtu8bXHu2PwwWBQ\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "79988237244",
         "totalFavorited": 37826,
         "signature": "AI实战派，帮企业和门店解决各种问题"
@@ -2112,8 +2112,8 @@ window.BENCHMARK_DATA={
         "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAAu5JO6-xlWuHn9nP3J18qkHdOGLJXn1casBXvyKUKT-k",
         "matchedName": "笨鸟怎么飞",
         "followerCount": 796241,
-        "matchStatus": "verified",
-        "status": "TikHub 昵称精确匹配并已核验",
+        "matchStatus": "api_error",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"6e140226-f385-466a-ad27-55456881585a\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:59\",\"time_stamp\":1789516979,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAu5JO6-xlWuHn9nP3J18qkHdOGLJXn1casBXvyKUKT-k\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
         "uniqueId": "58791129092",
         "totalFavorited": 3325330,
         "signature": "医疗科技财经都能扯一扯的笨鸟一枚\n平台就这一个号，不主动加人"
@@ -2124,8 +2124,8 @@ window.BENCHMARK_DATA={
         "section": "AI",
         "platform": "视频号",
         "profileUrl": "https://weixin.qq.com/sph/A0ZhGpUPfn",
-        "status": "TikHub 视频号昵称、简介与作品来源均已精确核验；平台未提供独立公开主页链接，入口指向最新作品。",
-        "matchStatus": "verified",
+        "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"66a841d5-a1e6-4845-8085-2ab18cf090bd\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:59\",\"time_stamp\":1789516979,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAmMhy3TlBNP081BYACTmXP832oTnE4mHbJIyQA_eWMBE\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}",
+        "matchStatus": "api_error",
         "username": "v2_060000231003b20faec8c6e58a18c2d7cf0cec32b07746d20d26f40e2fb6eabfbd7d39e42832@finder",
         "matchedName": "李尚龙",
         "followerCount": null,
@@ -2145,7 +2145,7 @@ window.BENCHMARK_DATA={
         "type": "AI深度访谈",
         "focus": "OpenAI内部、模型、产品与产业",
         "matchStatus": "verified",
-        "status": "未找到可唯一归属到该播客频道的本月视频"
+        "status": "接口异常：HTTP 402"
       },
       {
         "id": "podcast-show-002",
@@ -2156,7 +2156,7 @@ window.BENCHMARK_DATA={
         "type": "AI投资与创业",
         "focus": "AI研究者、创始人与投资人",
         "matchStatus": "verified",
-        "status": "已核验 3 条本月候选视频"
+        "status": "接口异常：HTTP 402"
       },
       {
         "id": "podcast-show-003",
@@ -2167,7 +2167,7 @@ window.BENCHMARK_DATA={
         "type": "AI深度访谈",
         "focus": "前沿模型、AGI、科学与社会",
         "matchStatus": "verified",
-        "status": "已核验 3 条本月候选视频"
+        "status": "接口异常：HTTP 402"
       },
       {
         "id": "podcast-show-004",
@@ -2178,7 +2178,7 @@ window.BENCHMARK_DATA={
         "type": "硅谷风投",
         "focus": "模型、基础设施、应用与商业化",
         "matchStatus": "verified",
-        "status": "已核验 3 条本月候选视频"
+        "status": "接口异常：HTTP 402"
       },
       {
         "id": "podcast-show-005",
@@ -2189,7 +2189,7 @@ window.BENCHMARK_DATA={
         "type": "硅谷风投",
         "focus": "科技、AI、创业与产业趋势",
         "matchStatus": "verified",
-        "status": "已核验 3 条本月候选视频"
+        "status": "接口异常：HTTP 402"
       },
       {
         "id": "podcast-show-006",
@@ -2200,7 +2200,7 @@ window.BENCHMARK_DATA={
         "type": "硅谷大佬对谈",
         "focus": "科技、商业、政策与AI",
         "matchStatus": "verified",
-        "status": "未找到可唯一归属到该播客频道的本月视频"
+        "status": "接口异常：HTTP 402"
       },
       {
         "id": "podcast-show-007",
@@ -2211,7 +2211,7 @@ window.BENCHMARK_DATA={
         "type": "金融科技访谈",
         "focus": "金融服务、Fintech与AI",
         "matchStatus": "verified",
-        "status": "未找到可唯一归属到该播客频道的本月视频"
+        "status": "接口异常：HTTP 402"
       },
       {
         "id": "podcast-show-008",
@@ -2222,7 +2222,7 @@ window.BENCHMARK_DATA={
         "type": "硅谷投资人圆桌",
         "focus": "科技、市场、资本与AI",
         "matchStatus": "verified",
-        "status": "已核验 3 条本月候选视频"
+        "status": "接口异常：HTTP 402"
       },
       {
         "id": "podcast-show-009",
@@ -2233,7 +2233,7 @@ window.BENCHMARK_DATA={
         "type": "科技投资",
         "focus": "科技、市场、资本主义与AI",
         "matchStatus": "verified",
-        "status": "未找到可唯一归属到该播客频道的本月视频"
+        "status": "接口异常：HTTP 402"
       },
       {
         "id": "podcast-show-010",
@@ -2244,7 +2244,7 @@ window.BENCHMARK_DATA={
         "type": "人物深度访谈",
         "focus": "AI、机器人、科技领袖与研究者",
         "matchStatus": "verified",
-        "status": "已核验 1 条本月候选视频"
+        "status": "接口异常：HTTP 402"
       },
       {
         "id": "podcast-show-011",
@@ -2255,7 +2255,7 @@ window.BENCHMARK_DATA={
         "type": "AI工程",
         "focus": "智能体、模型、基础设施与AI科学",
         "matchStatus": "verified",
-        "status": "已核验 3 条本月候选视频"
+        "status": "接口异常：HTTP 402"
       },
       {
         "id": "podcast-show-012",
@@ -2266,7 +2266,7 @@ window.BENCHMARK_DATA={
         "type": "AI深度访谈",
         "focus": "AI创新者、研究与产业影响",
         "matchStatus": "verified",
-        "status": "已核验 3 条本月候选视频"
+        "status": "接口异常：HTTP 402"
       },
       {
         "id": "podcast-show-013",
@@ -2277,7 +2277,7 @@ window.BENCHMARK_DATA={
         "type": "硅谷风投访谈",
         "focus": "VC、创始人、融资与AI公司",
         "matchStatus": "verified",
-        "status": "已核验 3 条本月候选视频"
+        "status": "接口异常：HTTP 402"
       },
       {
         "id": "podcast-show-014",
@@ -2288,7 +2288,7 @@ window.BENCHMARK_DATA={
         "type": "商业领袖访谈",
         "focus": "科技巨头、创始人、资本配置与AI",
         "matchStatus": "verified",
-        "status": "已核验 1 条本月候选视频"
+        "status": "接口异常：HTTP 402"
       },
       {
         "id": "podcast-show-015",
@@ -2299,7 +2299,7 @@ window.BENCHMARK_DATA={
         "type": "投资访谈",
         "focus": "投资人、商业模式与AI机会",
         "matchStatus": "verified",
-        "status": "已核验 3 条本月候选视频"
+        "status": "接口异常：HTTP 402"
       },
       {
         "id": "podcast-show-016",
@@ -2310,7 +2310,7 @@ window.BENCHMARK_DATA={
         "type": "华尔街市场",
         "focus": "金融市场、宏观经济与AI交易",
         "matchStatus": "verified",
-        "status": "未找到可唯一归属到该播客频道的本月视频"
+        "status": "接口异常：HTTP 402"
       },
       {
         "id": "podcast-show-017",
@@ -2321,7 +2321,7 @@ window.BENCHMARK_DATA={
         "type": "华尔街机构",
         "focus": "全球经济、投资、AI资本开支与回报",
         "matchStatus": "verified",
-        "status": "已核验 3 条本月候选视频"
+        "status": "接口异常：HTTP 402"
       },
       {
         "id": "podcast-show-018",
@@ -2332,7 +2332,7 @@ window.BENCHMARK_DATA={
         "type": "科技CEO访谈",
         "focus": "公司战略、平台权力、商业模式与AI",
         "matchStatus": "verified",
-        "status": "已核验 3 条本月候选视频"
+        "status": "接口异常：HTTP 402"
       },
       {
         "id": "podcast-show-019",
@@ -2343,7 +2343,7 @@ window.BENCHMARK_DATA={
         "type": "AI新闻与访谈",
         "focus": "AI产品、公司、监管与社会影响",
         "matchStatus": "verified",
-        "status": "已核验 3 条本月候选视频"
+        "status": "接口异常：HTTP 402"
       },
       {
         "id": "podcast-show-020",
@@ -2354,7 +2354,7 @@ window.BENCHMARK_DATA={
         "type": "思想人物访谈",
         "focus": "经济学、科技、AI与社会",
         "matchStatus": "verified",
-        "status": "已核验 3 条本月候选视频"
+        "status": "接口异常：HTTP 402"
       },
       {
         "id": "podcast-show-021",
@@ -2365,7 +2365,7 @@ window.BENCHMARK_DATA={
         "type": "科技商业直播访谈",
         "focus": "硅谷新闻、创始人、投资人与AI",
         "matchStatus": "verified",
-        "status": "已核验 3 条本月候选视频"
+        "status": "接口异常：HTTP 402"
       },
       {
         "id": "podcast-show-022",
@@ -2376,7 +2376,7 @@ window.BENCHMARK_DATA={
         "type": "产品与创业访谈",
         "focus": "产品、增长、AI应用与创业者",
         "matchStatus": "verified",
-        "status": "已核验 3 条本月候选视频"
+        "status": "接口异常：HTTP 402"
       },
       {
         "id": "podcast-show-023",
@@ -2387,7 +2387,7 @@ window.BENCHMARK_DATA={
         "type": "创业访谈",
         "focus": "AI创业、产品、融资与创始人经验",
         "matchStatus": "verified",
-        "status": "已核验 3 条本月候选视频"
+        "status": "接口异常：HTTP 402"
       },
       {
         "id": "podcast-show-024",
@@ -2398,7 +2398,7 @@ window.BENCHMARK_DATA={
         "type": "硅谷风投访谈",
         "focus": "AI创始人、市场判断与公司建设",
         "matchStatus": "verified",
-        "status": "已核验 3 条本月候选视频"
+        "status": "接口异常：HTTP 402"
       },
       {
         "id": "podcast-show-025",
@@ -2409,7 +2409,7 @@ window.BENCHMARK_DATA={
         "type": "AI产业访谈",
         "focus": "芯片、算力、机器人与AI应用",
         "matchStatus": "verified",
-        "status": "未找到可唯一归属到该播客频道的本月视频"
+        "status": "接口异常：HTTP 402"
       },
       {
         "id": "podcast-show-026",
@@ -2420,7 +2420,7 @@ window.BENCHMARK_DATA={
         "type": "AI芯片与算力",
         "focus": "半导体、GPU、HBM、数据中心与模型经济",
         "matchStatus": "verified",
-        "status": "已核验 3 条本月候选视频"
+        "status": "接口异常：HTTP 402"
       },
       {
         "id": "podcast-show-027",
@@ -2431,7 +2431,7 @@ window.BENCHMARK_DATA={
         "type": "科技创业与思想",
         "focus": "AI、创业、财富、未来工作与社会",
         "matchStatus": "verified",
-        "status": "已核验 1 条本月候选视频"
+        "status": "接口异常：HTTP 402"
       },
       {
         "id": "podcast-person-001",
@@ -2467,9 +2467,9 @@ window.BENCHMARK_DATA={
   },
   "dataset": {
     "schemaVersion": 2,
-    "updated": "2026-09-15",
+    "updated": "2026-09-16",
     "timezone": "Asia/Shanghai",
-    "collectionStatus": "TikHub Douyin App V3 最近 45 天增量同步；本次新增 72 条，1 个账号存在待确认或异常。未公开指标保留为空。",
+    "collectionStatus": "TikHub Douyin App V3 最近 45 天增量同步；本次新增 0 条，114 个账号存在待确认或异常。未公开指标保留为空。",
     "videos": [
       {
         "id": "douyin-7685376552283966747",
@@ -4611,7 +4611,7 @@ window.BENCHMARK_DATA={
           ]
         },
         "status": "TikHub YouTube Web V2 已核验；平台媒体直链未持久公开，已提供公开视频页。",
-        "rawVideoKind": "platform-page"
+        "rawVideoKind": "direct"
       },
       {
         "id": "youtube-wKcf6RorKvM",
@@ -4653,7 +4653,7 @@ window.BENCHMARK_DATA={
           ]
         },
         "status": "TikHub YouTube Web V2 已核验；平台媒体直链未持久公开，已提供公开视频页。",
-        "rawVideoKind": "platform-page"
+        "rawVideoKind": "direct"
       },
       {
         "id": "douyin-7685273078969097578",
@@ -4737,7 +4737,7 @@ window.BENCHMARK_DATA={
           ]
         },
         "status": "TikHub YouTube Web V2 已核验；平台媒体直链未持久公开，已提供公开视频页。",
-        "rawVideoKind": "platform-page"
+        "rawVideoKind": "direct"
       },
       {
         "id": "douyin-7685257568226140596",
@@ -4947,7 +4947,7 @@ window.BENCHMARK_DATA={
           ]
         },
         "status": "TikHub YouTube Web V2 已核验；平台媒体直链未持久公开，已提供公开视频页。",
-        "rawVideoKind": "platform-page"
+        "rawVideoKind": "direct"
       },
       {
         "id": "douyin-7685221252377864266",
@@ -5263,7 +5263,7 @@ window.BENCHMARK_DATA={
           ]
         },
         "status": "TikHub YouTube Web V2 已核验；平台媒体直链未持久公开，已提供公开视频页。",
-        "rawVideoKind": "platform-page"
+        "rawVideoKind": "direct"
       },
       {
         "id": "youtube-eDFXtSg3zB8",
@@ -5305,7 +5305,7 @@ window.BENCHMARK_DATA={
           ]
         },
         "status": "TikHub YouTube Web V2 已核验；平台媒体直链未持久公开，已提供公开视频页。",
-        "rawVideoKind": "platform-page"
+        "rawVideoKind": "direct"
       },
       {
         "id": "douyin-7684969931573644587",
@@ -5400,7 +5400,7 @@ window.BENCHMARK_DATA={
           ]
         },
         "status": "TikHub YouTube Web V2 已核验；平台媒体直链未持久公开，已提供公开视频页。",
-        "rawVideoKind": "platform-page"
+        "rawVideoKind": "direct"
       },
       {
         "id": "douyin-7685004184621476707",
@@ -5601,7 +5601,7 @@ window.BENCHMARK_DATA={
           ]
         },
         "status": "TikHub YouTube Web V2 已核验；平台媒体直链未持久公开，已提供公开视频页。",
-        "rawVideoKind": "platform-page"
+        "rawVideoKind": "direct"
       },
       {
         "id": "wechat-channels-15010045008714599240",
@@ -6120,7 +6120,7 @@ window.BENCHMARK_DATA={
           ]
         },
         "status": "TikHub YouTube Web V2 已核验；平台媒体直链未持久公开，已提供公开视频页。",
-        "rawVideoKind": "platform-page"
+        "rawVideoKind": "direct"
       },
       {
         "id": "douyin-7684997357456622705",
@@ -12001,7 +12001,7 @@ window.BENCHMARK_DATA={
           ]
         },
         "status": "TikHub YouTube Web V2 已核验；平台媒体直链未持久公开，已提供公开视频页。",
-        "rawVideoKind": "platform-page"
+        "rawVideoKind": "direct"
       },
       {
         "id": "youtube-wr6PMD06hP0",
@@ -12054,7 +12054,7 @@ window.BENCHMARK_DATA={
           ]
         },
         "status": "TikHub YouTube Web V2 已核验；平台媒体直链未持久公开，已提供公开视频页。",
-        "rawVideoKind": "platform-page"
+        "rawVideoKind": "direct"
       },
       {
         "id": "youtube-KHwaNKfiASw",
@@ -17564,7 +17564,7 @@ window.BENCHMARK_DATA={
           ]
         },
         "status": "TikHub YouTube Web V2 已核验；平台媒体直链未持久公开，已提供公开视频页。",
-        "rawVideoKind": "platform-page"
+        "rawVideoKind": "direct"
       },
       {
         "id": "douyin-7684158837057654068",
@@ -17811,7 +17811,7 @@ window.BENCHMARK_DATA={
           ]
         },
         "status": "TikHub YouTube Web V2 已核验；平台媒体直链未持久公开，已提供公开视频页。",
-        "rawVideoKind": "platform-page"
+        "rawVideoKind": "direct"
       },
       {
         "id": "youtube-0VEqt0pwpFI",
@@ -17864,7 +17864,7 @@ window.BENCHMARK_DATA={
           ]
         },
         "status": "TikHub YouTube Web V2 已核验；平台媒体直链未持久公开，已提供公开视频页。",
-        "rawVideoKind": "platform-page"
+        "rawVideoKind": "direct"
       },
       {
         "id": "douyin-7684135040922698993",
@@ -19068,7 +19068,7 @@ window.BENCHMARK_DATA={
           ]
         },
         "status": "TikHub YouTube Web V2 已核验；平台媒体直链未持久公开，已提供公开视频页。",
-        "rawVideoKind": "platform-page"
+        "rawVideoKind": "direct"
       },
       {
         "id": "douyin-7684084155549939822",
@@ -25724,7 +25724,7 @@ window.BENCHMARK_DATA={
           ]
         },
         "status": "TikHub YouTube Web V2 已核验；平台媒体直链未持久公开，已提供公开视频页。",
-        "rawVideoKind": "platform-page"
+        "rawVideoKind": "direct"
       },
       {
         "id": "douyin-7680852911278099766",
@@ -25896,7 +25896,7 @@ window.BENCHMARK_DATA={
           ]
         },
         "status": "TikHub YouTube Web V2 已核验；平台媒体直链未持久公开，已提供公开视频页。",
-        "rawVideoKind": "platform-page"
+        "rawVideoKind": "direct"
       },
       {
         "id": "douyin-7683563591584331249",
@@ -26154,7 +26154,7 @@ window.BENCHMARK_DATA={
           ]
         },
         "status": "TikHub YouTube Web V2 已核验；平台媒体直链未持久公开，已提供公开视频页。",
-        "rawVideoKind": "platform-page"
+        "rawVideoKind": "direct"
       },
       {
         "id": "wechat-channels-15007145903688059733",
@@ -26379,7 +26379,7 @@ window.BENCHMARK_DATA={
           ]
         },
         "status": "TikHub YouTube Web V2 已核验；平台媒体直链未持久公开，已提供公开视频页。",
-        "rawVideoKind": "platform-page"
+        "rawVideoKind": "direct"
       },
       {
         "id": "wechat-channels-15007031432761969485",
@@ -33178,7 +33178,7 @@ window.BENCHMARK_DATA={
           ]
         },
         "status": "TikHub YouTube Web V2 已核验；平台媒体直链未持久公开，已提供公开视频页。",
-        "rawVideoKind": "platform-page"
+        "rawVideoKind": "direct"
       },
       {
         "id": "wechat-channels-15006511723729324912",
@@ -33652,7 +33652,7 @@ window.BENCHMARK_DATA={
           ]
         },
         "status": "TikHub YouTube Web V2 已核验；平台媒体直链未持久公开，已提供公开视频页。",
-        "rawVideoKind": "platform-page"
+        "rawVideoKind": "direct"
       },
       {
         "id": "douyin-7683215853264915746",
@@ -40445,7 +40445,7 @@ window.BENCHMARK_DATA={
           ]
         },
         "status": "TikHub YouTube Web V2 已核验；平台媒体直链未持久公开，已提供公开视频页。",
-        "rawVideoKind": "platform-page"
+        "rawVideoKind": "direct"
       },
       {
         "id": "youtube-v-2BdiL6r74",
@@ -40553,7 +40553,7 @@ window.BENCHMARK_DATA={
           ]
         },
         "status": "TikHub YouTube Web V2 已核验；平台媒体直链未持久公开，已提供公开视频页。",
-        "rawVideoKind": "platform-page"
+        "rawVideoKind": "direct"
       },
       {
         "id": "douyin-7682828288893516726",
@@ -46699,7 +46699,7 @@ window.BENCHMARK_DATA={
           ]
         },
         "status": "TikHub YouTube Web V2 已核验；平台媒体直链未持久公开，已提供公开视频页。",
-        "rawVideoKind": "platform-page"
+        "rawVideoKind": "direct"
       },
       {
         "id": "youtube-n9xKblqyQ28",
@@ -46871,7 +46871,7 @@ window.BENCHMARK_DATA={
           ]
         },
         "status": "TikHub YouTube Web V2 已核验；平台媒体直链未持久公开，已提供公开视频页。",
-        "rawVideoKind": "platform-page"
+        "rawVideoKind": "direct"
       },
       {
         "id": "douyin-7682410580845579555",
@@ -49839,7 +49839,7 @@ window.BENCHMARK_DATA={
           ]
         },
         "status": "TikHub YouTube Web V2 已核验；平台媒体直链未持久公开，已提供公开视频页。",
-        "rawVideoKind": "platform-page"
+        "rawVideoKind": "direct"
       },
       {
         "id": "douyin-7681624390626299155",
@@ -54151,7 +54151,7 @@ window.BENCHMARK_DATA={
           ]
         },
         "status": "TikHub YouTube Web V2 已核验；平台媒体直链未持久公开，已提供公开视频页。",
-        "rawVideoKind": "platform-page"
+        "rawVideoKind": "direct"
       },
       {
         "id": "douyin-7681594379294821684",
@@ -59574,7 +59574,7 @@ window.BENCHMARK_DATA={
           ]
         },
         "status": "TikHub YouTube Web V2 已核验；平台媒体直链未持久公开，已提供公开视频页。",
-        "rawVideoKind": "platform-page"
+        "rawVideoKind": "direct"
       },
       {
         "id": "youtube-rY0wnfFHYbs",
@@ -59660,7 +59660,7 @@ window.BENCHMARK_DATA={
           ]
         },
         "status": "TikHub YouTube Web V2 已核验；平台媒体直链未持久公开，已提供公开视频页。",
-        "rawVideoKind": "platform-page"
+        "rawVideoKind": "direct"
       },
       {
         "id": "douyin-7681356359111734948",
@@ -64109,7 +64109,7 @@ window.BENCHMARK_DATA={
           ]
         },
         "status": "TikHub YouTube Web V2 已核验；平台媒体直链未持久公开，已提供公开视频页。",
-        "rawVideoKind": "platform-page"
+        "rawVideoKind": "direct"
       },
       {
         "id": "douyin-7680848477454142730",
@@ -64506,7 +64506,7 @@ window.BENCHMARK_DATA={
           ]
         },
         "status": "TikHub YouTube Web V2 已核验；平台媒体直链未持久公开，已提供公开视频页。",
-        "rawVideoKind": "platform-page"
+        "rawVideoKind": "direct"
       },
       {
         "id": "douyin-7680970075256234239",
@@ -69932,7 +69932,7 @@ window.BENCHMARK_DATA={
           ]
         },
         "status": "TikHub YouTube Web V2 已核验；平台媒体直链未持久公开，已提供公开视频页。",
-        "rawVideoKind": "platform-page"
+        "rawVideoKind": "direct"
       },
       {
         "id": "douyin-7680595105670252955",
@@ -73719,7 +73719,7 @@ window.BENCHMARK_DATA={
           ]
         },
         "status": "TikHub YouTube Web V2 已核验；平台媒体直链未持久公开，已提供公开视频页。",
-        "rawVideoKind": "platform-page"
+        "rawVideoKind": "direct"
       },
       {
         "id": "douyin-7680162846017162511",
@@ -73966,7 +73966,7 @@ window.BENCHMARK_DATA={
           ]
         },
         "status": "TikHub YouTube Web V2 已核验；平台媒体直链未持久公开，已提供公开视频页。",
-        "rawVideoKind": "platform-page"
+        "rawVideoKind": "direct"
       },
       {
         "id": "youtube-JWMF5EpP0KE",
@@ -74074,7 +74074,7 @@ window.BENCHMARK_DATA={
           ]
         },
         "status": "TikHub YouTube Web V2 已核验；平台媒体直链未持久公开，已提供公开视频页。",
-        "rawVideoKind": "platform-page"
+        "rawVideoKind": "direct"
       },
       {
         "id": "douyin-7680225195462747283",
@@ -77237,7 +77237,7 @@ window.BENCHMARK_DATA={
           ]
         },
         "status": "TikHub YouTube Web V2 已核验；平台媒体直链未持久公开，已提供公开视频页。",
-        "rawVideoKind": "platform-page"
+        "rawVideoKind": "direct"
       },
       {
         "id": "youtube-cdLeJU_1UH8",
@@ -78205,7 +78205,7 @@ window.BENCHMARK_DATA={
           ]
         },
         "status": "TikHub YouTube Web V2 已核验；平台媒体直链未持久公开，已提供公开视频页。",
-        "rawVideoKind": "platform-page"
+        "rawVideoKind": "direct"
       },
       {
         "id": "douyin-7679862056916389135",
@@ -80827,7 +80827,7 @@ window.BENCHMARK_DATA={
           ]
         },
         "status": "TikHub YouTube Web V2 已核验；平台媒体直链未持久公开，已提供公开视频页。",
-        "rawVideoKind": "platform-page"
+        "rawVideoKind": "direct"
       },
       {
         "id": "douyin-7679482704500870272",
@@ -82951,7 +82951,7 @@ window.BENCHMARK_DATA={
           ]
         },
         "status": "TikHub YouTube Web V2 已核验；平台媒体直链未持久公开，已提供公开视频页。",
-        "rawVideoKind": "platform-page"
+        "rawVideoKind": "direct"
       },
       {
         "id": "douyin-7678953739998252322",
@@ -85291,7 +85291,7 @@ window.BENCHMARK_DATA={
           ]
         },
         "status": "TikHub YouTube Web V2 已核验；平台媒体直链未持久公开，已提供公开视频页。",
-        "rawVideoKind": "platform-page"
+        "rawVideoKind": "direct"
       },
       {
         "id": "douyin-7679021961934515903",
@@ -87700,7 +87700,7 @@ window.BENCHMARK_DATA={
           ]
         },
         "status": "TikHub YouTube Web V2 已核验；平台媒体直链未持久公开，已提供公开视频页。",
-        "rawVideoKind": "platform-page"
+        "rawVideoKind": "direct"
       },
       {
         "id": "youtube-Zx1Ec8LWFeM",
@@ -87786,7 +87786,7 @@ window.BENCHMARK_DATA={
           ]
         },
         "status": "TikHub YouTube Web V2 已核验；平台媒体直链未持久公开，已提供公开视频页。",
-        "rawVideoKind": "platform-page"
+        "rawVideoKind": "direct"
       },
       {
         "id": "douyin-7678736815058111771",
@@ -93790,7 +93790,7 @@ window.BENCHMARK_DATA={
           ]
         },
         "status": "TikHub YouTube Web V2 已核验；平台媒体直链未持久公开，已提供公开视频页。",
-        "rawVideoKind": "platform-page"
+        "rawVideoKind": "direct"
       },
       {
         "id": "douyin-7678222715240697103",
@@ -94381,7 +94381,7 @@ window.BENCHMARK_DATA={
           ]
         },
         "status": "TikHub YouTube Web V2 已核验；平台媒体直链未持久公开，已提供公开视频页。",
-        "rawVideoKind": "platform-page"
+        "rawVideoKind": "direct"
       },
       {
         "id": "douyin-7677930566951439650",
@@ -98722,7 +98722,7 @@ window.BENCHMARK_DATA={
           ]
         },
         "status": "TikHub YouTube Web V2 已核验；平台媒体直链未持久公开，已提供公开视频页。",
-        "rawVideoKind": "platform-page"
+        "rawVideoKind": "direct"
       },
       {
         "id": "douyin-7677601788710735139",
@@ -102377,7 +102377,7 @@ window.BENCHMARK_DATA={
           ]
         },
         "status": "TikHub YouTube Web V2 已核验；平台媒体直链未持久公开，已提供公开视频页。",
-        "rawVideoKind": "platform-page"
+        "rawVideoKind": "direct"
       },
       {
         "id": "douyin-7677347708696415522",
@@ -104614,7 +104614,7 @@ window.BENCHMARK_DATA={
           ]
         },
         "status": "TikHub YouTube Web V2 已核验；平台媒体直链未持久公开，已提供公开视频页。",
-        "rawVideoKind": "platform-page"
+        "rawVideoKind": "direct"
       },
       {
         "id": "douyin-7676877533215837480",
@@ -109657,7 +109657,7 @@ window.BENCHMARK_DATA={
           ]
         },
         "status": "TikHub YouTube Web V2 已核验；平台媒体直链未持久公开，已提供公开视频页。",
-        "rawVideoKind": "platform-page"
+        "rawVideoKind": "direct"
       },
       {
         "id": "youtube-Sij_v-mcZXQ",
@@ -109765,7 +109765,7 @@ window.BENCHMARK_DATA={
           ]
         },
         "status": "TikHub YouTube Web V2 已核验；平台媒体直链未持久公开，已提供公开视频页。",
-        "rawVideoKind": "platform-page"
+        "rawVideoKind": "direct"
       },
       {
         "id": "douyin-7676255357856992531",
@@ -113689,7 +113689,7 @@ window.BENCHMARK_DATA={
           ]
         },
         "status": "TikHub YouTube Web V2 已核验；平台媒体直链未持久公开，已提供公开视频页。",
-        "rawVideoKind": "platform-page"
+        "rawVideoKind": "direct"
       },
       {
         "id": "douyin-7675792471004251321",
@@ -116338,7 +116338,7 @@ window.BENCHMARK_DATA={
           ]
         },
         "status": "TikHub YouTube Web V2 已核验；平台媒体直链未持久公开，已提供公开视频页。",
-        "rawVideoKind": "platform-page"
+        "rawVideoKind": "direct"
       },
       {
         "id": "douyin-7675406005320092962",
@@ -119510,7 +119510,7 @@ window.BENCHMARK_DATA={
           ]
         },
         "status": "TikHub YouTube Web V2 已核验；平台媒体直链未持久公开，已提供公开视频页。",
-        "rawVideoKind": "platform-page"
+        "rawVideoKind": "direct"
       },
       {
         "id": "youtube-xH7U7w9Qzlo",
@@ -119563,7 +119563,7 @@ window.BENCHMARK_DATA={
           ]
         },
         "status": "TikHub YouTube Web V2 已核验；平台媒体直链未持久公开，已提供公开视频页。",
-        "rawVideoKind": "platform-page"
+        "rawVideoKind": "direct"
       },
       {
         "id": "douyin-7675093074590092596",
@@ -122439,7 +122439,7 @@ window.BENCHMARK_DATA={
           ]
         },
         "status": "TikHub YouTube Web V2 已核验；平台媒体直链未持久公开，已提供公开视频页。",
-        "rawVideoKind": "platform-page"
+        "rawVideoKind": "direct"
       },
       {
         "id": "youtube-P5iICDVn5gc",
@@ -122653,7 +122653,7 @@ window.BENCHMARK_DATA={
           ]
         },
         "status": "TikHub YouTube Web V2 已核验；平台媒体直链未持久公开，已提供公开视频页。",
-        "rawVideoKind": "platform-page"
+        "rawVideoKind": "direct"
       },
       {
         "id": "douyin-7674752418442198958",
@@ -150510,156 +150510,721 @@ window.BENCHMARK_DATA={
       }
     ],
     "lastRun": {
-      "capturedAt": "2026-09-15T10:02:01+08:00",
+      "capturedAt": "2026-09-16T08:01:43+08:00",
       "provider": "TikHub",
       "api": "Douyin App V3",
-      "newVideos": 72,
+      "newVideos": 0,
       "errors": [
+        {
+          "creatorId": "ai-harvard-laoxu",
+          "name": "哈佛老徐抓AI趋势",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"cbb915c7-b2de-45cc-b765-f9d26bc90c59\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:01:44\",\"time_stamp\":1789516904,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAEMfJKktSQaUca9ThGGFBxiQaXF3WgkswT3j-bIjaoupi3NTK6g8nKaaKCELdx5yA\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "ai-yang-zhuyun",
+          "name": "杨竹筠",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"28cd2904-6221-4b49-9472-d90f45814814\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:01:44\",\"time_stamp\":1789516904,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAA0HAQJ_wv2u6qjbU6CsHe1xuy8Bw8aI5BZg_Dhj6EVNw\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "ai-wang-yuquan-frontier-insight",
+          "name": "王煜全-前沿洞察",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"3e641e80-eef8-467f-bdef-b437425a6200\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:01:45\",\"time_stamp\":1789516905,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAMz4D7az-gsLDouUCVHgYTKKZWzT6HcXzdngHcLTEUKCbDlxXWYEVy1xsnZk8lyZu\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "ai-xiaodeng-talk",
+          "name": "小邓 Talk",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"d61d3c2f-dd03-4c78-9a02-56aa625b2573\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:01:46\",\"time_stamp\":1789516906,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAArhUs1plRY4MS4vv2yfxA8mIT-_PMBtEYUyrNa5t0DL8QDtzYmfHLaTxHIYOcQ1Em\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "ai-yuanzhang",
+          "name": "园长说AI",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"377a2819-3f9c-466a-9eb6-2d0ada75dec9\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:01:46\",\"time_stamp\":1789516906,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAo9jpySaVTGscShEnsFnqUvUvrycnd8PaeJ8pORefn68\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "ai-asteria-black-box-game",
+          "name": "Asteria💫| AI黑箱博弈",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"8d3068b2-0d2f-45c8-a982-48da636de1c5\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:01:47\",\"time_stamp\":1789516907,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAIAYvK7S9JOmZ7lseY9WdXm_wWAWAXH3JpAyMmFXmWtxlKlEZSQ8JoJZzU6svTzvm\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "ai-chen-qiaowei-justin",
+          "name": "陈乔维Justin",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"1924a2d7-4fc1-4a23-bfe1-2e0db1302be1\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:01:47\",\"time_stamp\":1789516907,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAXj11GyMXmtTcqOHKHME3IFCr4tfGbAwX_tREBgZPxR-pDT9eQmdBcwH126ZG9J8z\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "ai-tzfilm",
+          "name": "柱子哥TzFilm",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"7fe9d782-d6fd-4b46-a3d3-8360cbf9f0ce\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:01:48\",\"time_stamp\":1789516908,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAjN32ZoC90W_FXxpeck2ATV5PCQcnnHM2cSzm8SHdcGCEC3P_fxGweCSTutk3Mvqq\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "ai-mit-cancer-dad",
+          "name": "麻省理工巨蟹爸",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"3de99ed8-4386-419a-bc53-9817735d06f6\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:01:49\",\"time_stamp\":1789516909,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAxphxkGvRORnYvNhb6LGyWS7XS6Sa5nqN445bcWpi1Wk1GAakxjuFtLXJkA4R5LWf\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "ai-laozheng-foresight",
+          "name": "老郑说 AI 前瞻",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"a9e97066-9f31-412f-9739-e2d86887fc1d\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:01:50\",\"time_stamp\":1789516910,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAk1gzQh_EBTfPjfW_EvlXUHX0ggtZXSVxivxM96k_aN4\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "ai-digital-life-khazix",
+          "name": "数字生命卡兹克",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"856f610a-045e-4f1b-8fca-fc9b521b794f\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:01:51\",\"time_stamp\":1789516911,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAwU33jOgLTqUV9Ub1h-Vgcd0VbQa-vV4lifYAzQSqgZ4\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "ai-mali-business-thinking",
+          "name": "马力AI和商业思维",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"1f8f7151-7642-44cf-8e38-d17158ac0b69\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:01:51\",\"time_stamp\":1789516911,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAfgtDMrszkJL6elz6G9g_C0PBVKnxx0PgnbLNj9OLyMm9xfRHBD-WlvgbinUGoH8v\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "finance-xiaolin-talk",
+          "name": "小Lin说",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"f808751a-f044-49a5-a128-21f07d0b0a17\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:01:52\",\"time_stamp\":1789516912,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAunpkE2IXyHAxm4A24G5d1Cf5141pnZy8HwNR5f2-6pI_GYBVR-Pv23uFyfMPB_9I\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "finance-tang-ziqi",
+          "name": "唐子棋",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"59d51086-4d8a-4bbf-ab64-9b8781e9819a\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:01:52\",\"time_stamp\":1789516912,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAgedw9gb1eQ28n2BK4xIAz2HPSEHG9Fw13Y6B-ZS6XYQ\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "finance-yiming",
+          "name": "一鸣财经",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"cdce577d-534e-4fb1-a3ee-2516214b37c9\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:01:53\",\"time_stamp\":1789516913,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAA_0YhWOn5ljVopcARIKtajFplrPi2_nHiChaJDJzLOXA\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "finance-tuzi-nianjin",
+          "name": "兔子念金",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"0318eea0-cdb4-4c4e-98b2-e6ff1177af1c\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:01:54\",\"time_stamp\":1789516914,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAfLuAfMUQKVdFpxg1xKFgYzFLlF-OChaA6k2L3mICids\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "finance-wen-yifei-emergency-finance",
+          "name": "温义飞的急救财经",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"8cd26f37-318e-424d-994b-9e5abbadc385\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:01:54\",\"time_stamp\":1789516914,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAPc9V-v4o3BdxwccbI5sPhAF-UPPk86Pkql0L9mHAJDY\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "finance-bainian-politics-economics",
+          "name": "柏年说政经",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"a6ae1660-5063-45d5-ad37-250f7a221b6d\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:01:55\",\"time_stamp\":1789516915,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAATI1mbcQ5_Qm_wNHn4UxOMpPA3D6CNg_D1oc5SDWorbuJh1K4rBszOsThB8Z7tgKY\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "finance-little-lion-tech",
+          "name": "小狮子财经科技",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"2e996b96-0006-4437-8451-82bb1dd523af\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:01:55\",\"time_stamp\":1789516915,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAIM8HX_fNB-R0yFW9Ua16Yz4HoJK9EXfIfQik9URxgbLj8fviecmFEwFXpO8uO8vs\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "finance-li-xiaoyi-deep-observation",
+          "name": "李小意深度观察",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"f49e5897-273e-46e4-a30a-6e431b32cfa0\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:01:56\",\"time_stamp\":1789516916,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAA3a41d58oFHrIgIdTzRp7m-xbh4O5UI4UFgXoyp43jgbzNlVw1yfXuZaKww6Q6CVA\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "finance-gongxin",
+          "name": "公信财经",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"3cd7c876-8699-45b2-ae9a-9db37bea9939\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:01:57\",\"time_stamp\":1789516917,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAJtc6L3nTvnle9yRCKKwVjHs9pvh3X-ZH3daoKvx-kX3R6mwe1Q-FHSHrr_Qp73N7\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "finance-straight-man",
+          "name": "直男财经",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"d4281dda-1877-495b-b2ad-cf9d0cabf08e\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:01:58\",\"time_stamp\":1789516918,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAADUObyc_aoKXnXnV01JEcZMdvU0_ZFvFnVQAU-weztOgHubCQont1aDrDASxWu8B6\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "finance-guyu-family-office",
+          "name": "古宇家办",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"7e875eca-2332-4b22-a661-2b375d99f29d\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:01:59\",\"time_stamp\":1789516919,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAXjVIBIc_Q9OQPUcFLA-xk4SiFLyQU6WCKavzMwpUujTIq0Coc57FlOwVVT2sbSW0\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-gTEoULY8jbD18iwo",
+          "name": "William留学择校",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"7a050c1f-a24f-40b5-9784-e20a925216b1\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:01:59\",\"time_stamp\":1789516919,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAKzlh24QlxTNyxgTLZgaiFdTAU6npW9wOsWFLJbOQXf5drz1BgTEoULY8jbD18iwo\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-AU77jGdmuqT6jSPS",
+          "name": "白话频道",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"dbda7d4d-367e-4570-99eb-e3b8e690403b\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:00\",\"time_stamp\":1789516920,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAA-V5m6h6qpl0i0myrIaAmURbPgXxFF6vUOK85N5lF8reUZGirAU77jGdmuqT6jSPS\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-IkYO9KG3qq77ParM",
+          "name": "大威哥",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"7dfb845b-8674-493c-a729-762c253592e9\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:00\",\"time_stamp\":1789516920,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAsYaohHQsHYz6K_FTMpqxlhkcWTI7toGwcoUsB5QK2r29G74iIkYO9KG3qq77ParM\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-1QGpLEF33PY5xQlG",
+          "name": "李菲特说",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"2a34cda8-5468-45fd-bc1c-36bed9e3f349\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:01\",\"time_stamp\":1789516921,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAA2hbbvFTFKSYm3l2pTpoHWhl-EMIvNlPkk7yQ-_gyZUwk421D1QGpLEF33PY5xQlG\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-YkafgxJphwhAtNXC",
+          "name": "李菲特—智富界",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"183ff906-cbca-4253-955b-010510eb8910\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:02\",\"time_stamp\":1789516922,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAkeSq6HD1upPKdlfNvQ_Twyenlp1vHRiv_Q4KZ7E5kh6kNi4sYkafgxJphwhAtNXC\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-0h8Ro7WPUp1Iv838",
+          "name": "小司频道",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"066ee28f-4e32-4d1c-bbde-beb0b7d6f396\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:02\",\"time_stamp\":1789516922,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAcIy1M38iq8znIPZ4-0R8JnoVHSW0h8Ro7WPUp1Iv838\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-zgZ1KVemhBFJA",
+          "name": "财才说",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"0834ba1c-f659-4bd6-9436-9b974948363e\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:03\",\"time_stamp\":1789516923,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAOIvgEg9etQXIaNkktvAEDy67ob0zgZ1KVemhB-FJ--A\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-lizKK31IC38tEoEu",
+          "name": "雪狮upup",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"a297b318-3fba-4d5a-b443-cd8824659b33\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:04\",\"time_stamp\":1789516924,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAOatNDtSaotVIyfv_ItcWnqcZp24K_vdF5Kr8JzmRoKy43PRvlizKK31IC38tEoEu\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-O901SmlsC0g5QfA",
+          "name": "清华妈妈马兰花",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"e7c29555-5820-47a0-b280-20133f92e0d5\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:04\",\"time_stamp\":1789516924,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAATJRRLMCSMX_njxnNizgu2FL2p3Y0zbFnIR4Ro1IsMrs2qIs2O90_1SmlsC0g5QfA\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-C2x7CyYrfhDYB8X8",
+          "name": "量见坤哥说法",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"23f67b0e-a999-4675-8914-de487a48c094\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:05\",\"time_stamp\":1789516925,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAycRgBzODplwEbFJ8eCaHdjlVnNgC2x7CyYrfhDYB8X8\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-KDUvaMz7gHqDgzcS",
+          "name": "雪球基金",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"a8b1e3ec-bd7d-4758-bbca-19014f4f0d12\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:06\",\"time_stamp\":1789516926,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAd0xzEHpqUoM6h76hrrigNOvCr5CliYfgC7-E6pJnK1llBhANKDUvaMz7gHqDgzcS\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-9Rn15gBm4xA1LPB",
+          "name": "南山资本论",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"03ed5ad4-5df0-4ba7-be44-b509b787302d\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:07\",\"time_stamp\":1789516927,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAkq1OXz1cJMiVl0Kil1LiE3BxXOpridiebZvE9MR2nampLZ3z9Rn15gBm4x_A1LPB\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-WhGc6Bv7uLL7SWf0",
+          "name": "小小鹰萱妈",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"7a125074-5647-4bdb-aaf5-676574e55a87\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:08\",\"time_stamp\":1789516928,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAA_F0nCbityJFcVqtDaOdojTSAx60WhGc6Bv7uLL7SWf0\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-aEeuaYDfgLIVn9GA",
+          "name": "有点在李",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"88501ff4-f9fd-4f11-a865-e41ebdd48c8e\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:08\",\"time_stamp\":1789516928,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAZlR50HmWBfvQ69Y4-PqTTcfXJUGaEeuaYDfgLIVn9GA\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-bTEVLPzTVaAiKLve",
+          "name": "周周认知全球",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"b93ff183-5607-4b74-963c-8602215e6015\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:09\",\"time_stamp\":1789516929,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAXsWXoljwu4_ANtfRQPbJgG-4xUkUlvb9OasOAu0zqNFTW80bbTEVLPzTVaAiKLve\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-t5lTnAk3oOnLOOB",
+          "name": "树先生资产视界",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"4f5782c0-7584-4de2-905e-fda883d75640\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:09\",\"time_stamp\":1789516929,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAeaWRWQgPbk0ZH-XRknogPD7wlqi8EtezpUIFDi1x9o3UzzRIt5lTnA_k3oOnLOOB\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-i4SGHN9TFb5yO1",
+          "name": "朱虹教授",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"495a3ed3-78dc-42ca-a43f-b0143f63d82f\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:10\",\"time_stamp\":1789516930,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAnZEfL_gaeQDbKT9b14t_WkmoDEuoY6Etu4sPxTMfkV9x_Q8ti4SGHN9_T_Fb5yO1\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
         {
           "creatorId": "source-AWFgh2ASG8O9OIc8",
           "name": "董太太",
-          "status": "主页昵称为“董太太（16号fanbeauty面膜）”，与名单不一致，待确认"
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"6a1d4916-83ea-43b6-9928-07a023e8aab5\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:11\",\"time_stamp\":1789516931,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAARVQ3j8AXcxbJPODW0ZryRz4JSpbAWFgh2ASG8O9OIc8\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-j9kXtx5bFSmv66Nc",
+          "name": "周媛",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"680876d3-ab15-4577-b97f-0a87e6b4aee0\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:11\",\"time_stamp\":1789516931,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAJlWVPYaq2klajcxzeiS7VczvUaLj9kXtx5bFSmv66Nc\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-CZOvsf3SArYff8sE",
+          "name": "丸子妹",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"23c2d1ac-7d77-4037-896c-f6ca42c30a85\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:12\",\"time_stamp\":1789516932,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAy960osq508PzgP-1FbLwWBKGeRNCZOvsf3SArYff8sE\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-jEt96sBXhdlGHk",
+          "name": "小孟同志v小孟同志",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"36ff1d23-88f8-4192-a6d3-ab597c9732d3\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:13\",\"time_stamp\":1789516933,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAaqGuV4FnGP6ayE27gDwYOiE5tcXjEt96sBXhd-l_GHk\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-olViN7kwHMDhy6Xo",
+          "name": "胡说有据",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"16259144-362e-42d9-808f-747824fd7510\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:13\",\"time_stamp\":1789516933,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAnBFgDT4pjYc0oW9bZD1SE5nvdeuolViN7kwHMDhy6Xo\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-pScC2WcyuiEtA",
+          "name": "大湾区老姚",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"9d3aff91-96cb-432b-ac76-34d50bf8d522\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:14\",\"time_stamp\":1789516934,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAA_1iSPpfHXu5wjJ_7G2TZtv78eNv-_pScC2-WcyuiEtA\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-RGfyWWLfcx44yvF0",
+          "name": "沈芊予",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"0a4ee42a-6713-4220-a4dc-4b649585eec6\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:14\",\"time_stamp\":1789516934,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAUbDwIZKJ6eWAzeZFcsdNmJUW-0_RGfyWWLfcx44yvF0\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-E5EAVMOQRQE6Oqcc",
+          "name": "天骄说",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"64886b8b-ffd4-46d1-831a-bb6f92418ed7\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:15\",\"time_stamp\":1789516935,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAA1LLl0ptiJPAIGtrLb4siL8zjxUXE5EAVMOQRQE6Oqcc\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-fkaJKC5Hspy10DUz",
+          "name": "哎呀朱莉娅",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"f541cb78-e1d9-4911-bfed-bc5a892192c0\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:16\",\"time_stamp\":1789516936,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAsIn_kIo3PtfaqPTo71QaaaUKDUp3WxKibL-d0P9nKyURPg0EfkaJKC5Hspy10DUz\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-ALoC9CzGTcegDd",
+          "name": "直言财经",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"52341360-366c-4677-a54e-47bf247a4758\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:16\",\"time_stamp\":1789516936,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAA_qjQvmocuJ8IXq01l2x-kJX0kFJ8w6sv5nKTtH13d1bRGDQ9ALoC9CzG-_TcegDd\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-H9mJxdWTU5XImWyK",
+          "name": "严九元GlobalView",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"a357d77f-f490-4531-a9d8-c8c79b1e94cc\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:17\",\"time_stamp\":1789516937,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAApP0vtA-srbEvuc3jnPnYUQeOhT8XbKXqd5NqHutqF6CtWKHRH9mJxdWTU5XImWyK\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-BVQLvGaCrD5mgcmw",
+          "name": "财女小绵羊",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"c7bd5e61-05f4-4aa9-91b4-b13e63a94544\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:18\",\"time_stamp\":1789516938,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAMTbKxtnj54YGmefn8FiIXqXWUzLBVQLvGaCrD5mgcmw\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-DkwohN9jMyMkTfTA",
+          "name": "蔡公子",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"e363bb5f-3ed7-4fae-86ae-5c29a038409d\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:19\",\"time_stamp\":1789516939,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAuDd5ddiml7HNBBMfkDXelB3Nhg_DkwohN9jMyMkTfTA\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-zCEs4Clv9STQdjjU",
+          "name": "李一舟3.0",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"6f643930-2ac5-4288-a503-a175f5da1186\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:19\",\"time_stamp\":1789516939,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAA1wMuf3tRz1UJFVViYSmD7J9Y8M8zCEs4Clv9STQdjjU\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-yQ2KCLOZ5B8H0F2N",
+          "name": "严九元资产规划",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"c3c780d4-bb5f-4ecd-b8ee-e586ecc44dbf\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:20\",\"time_stamp\":1789516940,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAvqfKdtnDWEtNF72VjjrXHfSQLNhxq7PM_5LsiqV1XEwo7SeoyQ2KCLOZ5B8H0F2N\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-QngezW4Ydt0DXdk",
+          "name": "韩秀云讲经济",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"278d159d-e962-4620-917c-98600b48b318\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:21\",\"time_stamp\":1789516941,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAlbkNTw3vjBlQx6pzhzRnFX1YLHlpCoU8nMpnSKiL6-S0WquIQngezW4Ydt_0DXdk\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-BctepuwwILrsNIk",
+          "name": "思进世界观",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"e8dc2c0a-0cb0-4b04-9745-e6a778f1d155\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:22\",\"time_stamp\":1789516942,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAC8LWYMXFQvXRtkO5W1Md3IiS-aaJWMPcYPmgO6Xsh_KnHB5FBctepu_wwILrsNIk\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-KUY0g2Cl3E0jorW",
+          "name": "笨嘴哥财经",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"59170ff1-1e8a-41e6-8f5a-12bab06ad22f\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:22\",\"time_stamp\":1789516942,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAxXI6hISjy-WJEMQeJRp1aF29DPkS5HcrJEQJage_6ENPuI9tKUY0g_2Cl3E0jorW\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-LjvxPiTlseuyHNk",
+          "name": "米哥聊财经",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"7e946464-6814-4f02-af4e-48d704d73304\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:23\",\"time_stamp\":1789516943,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAABCQQ6G-F3LzpqJFPwk73qYP_28uLjvxPiTlseuyH-Nk\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-7NhS5LFQun6nIjhs",
+          "name": "资本论",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"125d9dac-9029-4f66-8663-a37b6da4592b\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:23\",\"time_stamp\":1789516943,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAd23jWkNJ2yPXAQseofIP-mEdScK7NhS5LFQun6nIjhs\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-13SImU5ktR8mRBlw",
+          "name": "金融康博士",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"c57d5a9b-3aee-429b-86fd-1237117590ef\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:24\",\"time_stamp\":1789516944,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAA82IHtScs-vvmMmHpuc_ekwMpyc813SImU5ktR8mRBlw\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-zSztCBs3LvivB09",
+          "name": "温义飞财富密码",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"829d965a-5dfc-48d2-ad67-bfc9f71a7134\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:25\",\"time_stamp\":1789516945,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAASzNSuyDa9cwn-yOMt_WYyPJMiEzLNP0g2mfpX5q_POTYV9MQzSztCBs3Lvi-vB09\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-XBm1FTeBSkqqwHEV",
+          "name": "冯观趋势洞察",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"2bf1138f-558f-4120-b7a8-1e2f0d27e5b0\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:25\",\"time_stamp\":1789516945,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAy6RWWUskizYnHZYbmtvtTCBSZHg_9tnDvHXujrQ7i9uT-PA1XBm1FTeBSkqqwHEV\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-9WrZxp8TiNhucgV4",
+          "name": "老谭说财经",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"93436c1d-1d10-490f-880e-602aa640002a\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:26\",\"time_stamp\":1789516946,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAGD0MpVA5EgtHqJlhkDuSGNMTL_59WrZxp8TiNhucgV4\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-BU7y6b17PeYMi7c",
+          "name": "路口大爷",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"a6d5e46a-b10d-42e1-8275-9009942aee29\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:27\",\"time_stamp\":1789516947,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAfvBbG3svnuAlE41qFjO64nq5H7NBU7y6b17PeY-Mi7c\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-QAoLEyxvZQHTpE",
+          "name": "天才留学生",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"c5889002-c29e-449f-a0dc-e6bc046e36a8\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:27\",\"time_stamp\":1789516947,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAhFZZtY3zzhpf3fNnugxpjU0tfGKQAoLEy_xv-ZQHTpE\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-1p45G8RWWfyGEfFT",
+          "name": "香港Jacky叔",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"644ebd4f-0c84-46f7-86a3-8e4dbb4b4a53\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:28\",\"time_stamp\":1789516948,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAgZmAL-2pzA9lcLyYFK9Jr1-gLe8wEXoegf3bkZRotjUP1kgL1p45G8RWWfyGEfFT\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-GSBkC1aRrTr2t2W",
+          "name": "孟晓苏",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"c90a6640-6a67-4164-b7a0-eeaa277f3b43\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:28\",\"time_stamp\":1789516948,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAvy3eG4aPCJAnafoPzr2QamqvuowW-pbgKMN5OaHz6t4MiWpbGSBkC1aRrTr_2t2W\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-b3hDCPWKMmYXPW00",
+          "name": "李俊怀聊配置",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"81a12f28-2af9-4187-84b2-c73e78b185b8\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:29\",\"time_stamp\":1789516949,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAARxCaX0DRwimU-PoLy3Fva-DjNZkb3hDCPWKMmYXPW00\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-uU4hGhkaEqR1cWpM",
+          "name": "香港斐姐说",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"a714bd3e-8e29-4364-9ec4-8d77a1a097b8\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:30\",\"time_stamp\":1789516950,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAA6kWB1NsQq3hD_nJOM5re8Lj2k5RuU4hGhkaEqR1cWpM\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-yntnGSrcf0BPB",
+          "name": "温老板的香港圈",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"3eff8686-3b93-405f-9886-1a0743c6eb3a\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:31\",\"time_stamp\":1789516951,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAuetGlmFFnmfzRdRrfMA_AyjB2cr_pkuZh2mYnbsENkk0JvLWy_ntnG_-Srcf0BPB\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-09TWraLG8vFQtYrk",
+          "name": "生哥与安迪",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"b196bb8c-c7f2-43c1-ab2c-6e61463c2738\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:32\",\"time_stamp\":1789516952,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAVQDO8cdY4eZqVR2-yh6uxNCDKtT09TWraLG8vFQtYrk\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-BTh1FTWUyY0xmss4",
+          "name": "明缘说",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"bbd3b740-ff66-4eac-80c4-c7c2c9aa7afe\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:32\",\"time_stamp\":1789516952,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAA12TyL-61IVI_ULZtHBUCDQkbf38BTh1FTWUyY0xmss4\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-ZhVbuktYCkJ0Rh3c",
+          "name": "十里梧桐",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"a6e84e4f-8a29-4349-a3d8-c0498fafe0c9\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:33\",\"time_stamp\":1789516953,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAzSge8Gr05hWlI--yT7D7ZuPVUtUtzwxLvFCswqYkNRFcBVodZhVbuktYCkJ0Rh3c\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-lMQ7sx2H0q1AWshQ",
+          "name": "财富论",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"402f9531-5bcc-4d77-81b0-0f1723ba22b1\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:34\",\"time_stamp\":1789516954,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAA0lmQhtYRwUT1q7y7fUbqxaZ5d5BRrgDsRShLrAZCFoHiFXRPlMQ7sx2H0q1AWshQ\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-aWfwnHXiBEaho5KK",
+          "name": "猫伊老爷",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"5559bf7f-3e07-4394-8661-afc5bcb1d248\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:34\",\"time_stamp\":1789516954,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAGaPSMRsUL6iHw4FADMcBYGFYIMw1Ml5aflGc3eYOnn6uVTIMaWfwnHXiBEaho5KK\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-cEU2RLVWOQYdiHp",
+          "name": "阳和平说事儿",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"fd40d7ce-e8eb-4222-8149-d99ea3065158\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:35\",\"time_stamp\":1789516955,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAQRNQx7KfzmjfhOFn8HO5Pgnvj2Ww6DbFDM6CwGtboMPkLVtScEU2RLVW-OQYdiHp\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-CXj1EZ9yKB81mwbR",
+          "name": "发烧好了呢",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"210539e5-aefd-4d66-9db7-8de99f798e94\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:36\",\"time_stamp\":1789516956,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAHsy63h5IdKKI1783ttXMRSwNmuguZqzNLj0UPFi1fmbPFcgZCXj1EZ9yKB81mwbR\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-tesVrgBuaZaS2dzQ",
+          "name": "毒角SHOW",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"f651c760-5baf-41f9-baed-a2994704e5df\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:37\",\"time_stamp\":1789516957,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAm-YgirNQo_9nm1B8TNynOD5ZrYBtesVrgBuaZaS2dzQ\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-w5rObLWXhwtlXQs",
+          "name": "财姐水晶",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"996c421a-6681-4f95-96b8-00367975a3f0\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:38\",\"time_stamp\":1789516958,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAA2D4eQkVXL1CTXyyYjfpAJFdOkLaw5_rObLWXhwtlXQs\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-uGuaO8fx2yRVp05M",
+          "name": "财经林妹妹",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"8fe03a42-426e-4a05-91b5-3102d94477f4\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:38\",\"time_stamp\":1789516958,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAA7VdiTcmw2pddQQvZu_RFep9eGXuuGuaO8fx2yRVp05M\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-kbqE0pSa9V9M3dn",
+          "name": "Mark一下-马克",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"edbca025-8449-4900-9e12-e93a704eb674\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:39\",\"time_stamp\":1789516959,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAA5aYKcQDdPamBdPZ02nlrKYwj7ivy5yerwKWN9CUSEiBw1542kbqE0pS-a9V9M3dn\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-YmNMXxrIr5FDTNiA",
+          "name": "黄力泓讲经济趋势",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"55a39001-a89b-427d-86f7-5c2031c0c86f\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:40\",\"time_stamp\":1789516960,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAO3JZCuRMBRrFntJq7xqhX9AXy-LYmNMXxrIr5FDTNiA\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-CF1U293nExl30IH2",
+          "name": "紫荆财富圈",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"913e401c-0bb6-4863-82a5-f6d86c65d61e\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:40\",\"time_stamp\":1789516960,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAQ_lWy4B-epwTKBM-F5oRlVoPktBV7gLsiHcORc0wO1QVbmB3CF1U293nExl30IH2\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-Acre4Z8tHw8xZdeA",
+          "name": "韩玮的财经世界",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"379b6ec4-4f75-4ccf-83b6-7bca1dd66f70\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:41\",\"time_stamp\":1789516961,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAYUmKqkWW0wxxOFHQxAPTB-RqDVw0uwWLm5Fu4F7jpJ8u5QDFAcre4Z8tHw8xZdeA\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-kfXgkf5JAl71WI3v",
+          "name": "向老师讲经济",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"72aaa82b-85aa-4909-b700-d8a4a186c4d5\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:41\",\"time_stamp\":1789516961,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAA0_mpemoDG7GsE0jY67O_9jaA1nWa4zreXV-_-HRSy3OpMdQ4kfXgkf5JAl71WI3v\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-qEXMnhWs2zfgbo",
+          "name": "俗人六哥_AI企业智能体落地",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"839ccd6c-49c5-4912-836b-54bd4ab6c54a\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:42\",\"time_stamp\":1789516962,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAIvt3UumRhamD8b56Y2F1pKsJt-DtBvnW8wcZ3-curWo88M1sqEXMnh_Ws-2zfgbo\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-wu1ktFHw7rqiRxyI",
+          "name": "上海柳叔",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"36836e5a-dcd6-4071-8b82-5e240567938c\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:43\",\"time_stamp\":1789516963,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAwZN8t9XZKjuHFA-3otbKPxdiwcxwu1ktFHw7rqiRxyI\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-HQFFB7h4AyGoz8",
+          "name": "猴哥军情",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"2165efc9-2ca2-4f84-aed0-1c843c73ba18\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:43\",\"time_stamp\":1789516963,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAWTvRlacZKZaTEj0952hdl-NlhqrHQFFB7h4A_yG-oz8\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-5qaBXTda0njLcQnv",
+          "name": "全球速探",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"e566c8b2-585b-47da-ab31-e5527019041b\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:44\",\"time_stamp\":1789516964,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAtrR3ZhxoEcDIwEpnBqfbNdf2R9f9w4QiSXCaRU431uuiL73K5qaBXTda0njLcQnv\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-SXKak1HX0LghPZb",
+          "name": "陈思进财富说",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"d288b26d-393c-426f-baf8-a71c419e8970\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:45\",\"time_stamp\":1789516965,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAA_qsWgTAAmE0dc8ahmj134F4CDyX9eaKhTvi6H-4bPkGo6H6QSXKak1HX0Lg_hPZb\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-gkgj2wasMXo7KWWQ",
+          "name": "褚说",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"1312ae13-91d6-4d83-9356-bf1744def7c8\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:45\",\"time_stamp\":1789516965,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAe7mzNzbChe3iX-rbdBqRsTDnCxOgkgj2wasMXo7KWWQ\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-VD8SCKgbcH3ljIXc",
+          "name": "江平舟",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"f1757647-ae37-401c-943b-8fb31d95163c\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:46\",\"time_stamp\":1789516966,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAXvIF7Q5rh_hFtHVyeEqb0McY_psVD8SCKgbcH3ljIXc\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-35ptfWOUM6ku6THQ",
+          "name": "廖小爱",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"bafa87ca-e181-4998-94ac-012faa5f89d9\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:47\",\"time_stamp\":1789516967,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAA3yyhD8TtLL2CSpzmCV48VQDsn1-35ptfWOUM6ku6THQ\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-3kG5zgWrkiF73FAE",
+          "name": "心吾讲透价值",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"bc1d21ba-8fdf-4052-a58e-25cc715ae20b\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:47\",\"time_stamp\":1789516967,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAAL6expaiWXGOOQC133n0Fq8oFHl3kG5zgWrkiF73FAE\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-3tDnhTXCM9EdxLKF",
+          "name": "马红漫",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"6a1b5da0-37e8-4084-a6e3-515f7b9b6e92\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:48\",\"time_stamp\":1789516968,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAZ7OdDn7LbxCyNBNZ-t5F4BCMEHlCM7wmmonPK02fA_wTsWnb3tDnhTXCM9EdxLKF\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-DAoGh0jaGmZ79UA",
+          "name": "四懂非懂",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"55b58e07-d0a6-4211-8da0-fae075c8f20e\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:49\",\"time_stamp\":1789516969,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAA8ipqpzduFPXbvfeixQDqKQ-cMW_DAoGh0jaGmZ79-UA\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-6IhcOLenzzOILxD",
+          "name": "龙白滔博士",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"f6a99218-e91a-4f0f-ae7e-47e7cee47c44\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:49\",\"time_stamp\":1789516969,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAArggZ2bRLZqeXvmT3EfUrLu2mXFAm__HCrppX5uDWPaEQvYTO-6IhcOLenzzOILxD\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-91YQsUswbeaNVk",
+          "name": "何毅财经课堂",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"92796558-bb1d-4feb-a3ca-013ecc8101c9\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:50\",\"time_stamp\":1789516970,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAVUphxFEGiI3bbWcYZMqGvdl-azx91YQsUsw-_beaNVk\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-wE0tkN6J1vYKBrSz",
+          "name": "C位观察",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"b163b66f-78be-4182-a333-7f7e5754b642\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:50\",\"time_stamp\":1789516970,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAkhgjq_j8OA-C5MhBVyON-7140y-OW06Nx47TOmXvrdGD78ymwE0tkN6J1vYKBrSz\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-77ujFb6WQZkV2Ry",
+          "name": "Harry张瀚文",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"d109afe7-78ec-4a6a-ace0-dd0256450dbb\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:51\",\"time_stamp\":1789516971,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAARFDhdmgB0mnhMvPWchK-jl_rt2WwovY40cpKl-nYldh-vGgM77-ujFb6WQZkV2Ry\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-otKi6LqJ46Jci591",
+          "name": "峰哥财富浪潮",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"03d239d5-1198-4689-a0af-33be7ea8869a\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:52\",\"time_stamp\":1789516972,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAxtwEvQxX1vIF5qKAn28Is6SdLNyqIm3xWgYxDZvucleNE1fKotKi6LqJ46Jci591\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-2Rk7kQrKbtSUwoDk",
+          "name": "纪晓岚财经",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"38863ef2-4542-4e88-a544-6fed8c4bad7c\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:52\",\"time_stamp\":1789516972,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAA-h6FtOrNWJnYOM9l7y-tVUPDm522Rk7kQrKbtSUwoDk\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-CnBkd55iFvPqtZ9P",
+          "name": "小智侃财经",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"bd60e045-e5f4-4643-9e1c-324e3e258e01\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:53\",\"time_stamp\":1789516973,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAJR_5831bz2HTkop8lEuQbYFQvTThNKPP7Bw_k4uQk0uTACgVCnBkd55iFvPqtZ9P\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-goPO7Q0Jiz9dhKd1",
+          "name": "我的野蛮老婆",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"5b02d7f2-1129-448a-9cc4-1aa7b5c3f039\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:54\",\"time_stamp\":1789516974,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAvNHKyePrM_mUX5Uw0xNp37Bg4eblvdxMwTV3YqJ36cHtzmlFgoPO7Q0Jiz9dhKd1\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-pWjbUWassaacpe8C",
+          "name": "付鹏的财经世界",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"eb94f6f0-f172-47ed-bea5-59e64c6e0660\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:54\",\"time_stamp\":1789516974,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAy5ym9wTQRRPyS8wY1UA4SXkgUkw7gZyg1Pkws_ppDtO2z0uOpWjbUWassaacpe8C\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-vd6Bl0tYaNeUjbDY",
+          "name": "周期老宋",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"10c24db0-7273-4323-acee-db88e450b4d3\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:55\",\"time_stamp\":1789516975,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAABNMdtvv-TKCv7hx8B_I8QeR9H14s-FtqfZ7mtZNkbCQ4FVAGvd6Bl0tYaNeUjbDY\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-qXKFXT95tNwgQ7q",
+          "name": "国信财经妙先生",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"8f045726-89eb-4168-9e6c-e6918544c167\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:56\",\"time_stamp\":1789516976,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAyMbT83GhO7Eb9SwQwQ85zv2UzrY9LVTX2_nNyH0_sLz0WZQnqXKFX_T95tNwgQ7q\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-kpaKBY4JjB6dw8s",
+          "name": "新视野财经",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"f83eb10c-d36e-4dc3-ae4a-1ee14755eb6b\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:56\",\"time_stamp\":1789516976,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAABX_XZ7TC70cbGtVPtpPaQaMYu0KMtraQrN7wOmJxOqTHU7d-_kpaKBY4JjB6dw8s\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-ZEbXNiLLLxnIrtXc",
+          "name": "兔子念金🐰",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"5d14e610-7c6f-48ae-bc5f-4390ee0c48f8\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:57\",\"time_stamp\":1789516977,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAkzXLadGBf71sE8G2_oLUB1MXpj3ZEbXNiLLLxnIrtXc\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-hntRIkOZmo3pIIlM",
+          "name": "云霄博士",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"11b72f9c-e04c-43f5-a300-01643f678f26\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:57\",\"time_stamp\":1789516977,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAKTa6iLCNz-20ntcXgK8E8VDLoJghntRIkOZmo3pIIlM\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-dGtu8bXHu2PwwWBQ",
+          "name": "董AI",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"b651c2ad-3564-4711-a463-b36b60e6b2ee\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:58\",\"time_stamp\":1789516978,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAnYeqjwUBcan0NEtk3QofTIQ425zdGtu8bXHu2PwwWBQ\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "source-Xn1casBXvyKUKTk",
+          "name": "笨鸟怎么飞",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"6e140226-f385-466a-ad27-55456881585a\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:59\",\"time_stamp\":1789516979,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAu5JO6-xlWuHn9nP3J18qkHdOGLJXn1casBXvyKUKT-k\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
+        },
+        {
+          "creatorId": "ai-wechat-li-shanglong",
+          "name": "李尚龙",
+          "status": "TikHub 接口异常：TikHub HTTP 402: {\"detail\":{\"code\":402,\"request_id\":\"66a841d5-a1e6-4845-8085-2ab18cf090bd\",\"message\":\"Insufficient balance, this endpoint requires payment and accepts free credit, to top up balance or get free credit, go: https://user.tikhub.io/users/add_credit\",\"message_zh\":\"免费额度以及余额不足，此路由需要付费，可接受免费额度，前往充值或获取免费额度：https://user.tikhub.io/users/add_credit\",\"docs\":null,\"support\":\"Discord: https://discord.gg/aMEAS8Xsvz\",\"time\":\"2026-09-15 17:02:59\",\"time_stamp\":1789516979,\"time_zone\":\"America/Los_Angeles\",\"router\":\"/api/v1/douyin/app/v3/handler_user_profile\",\"params\":{\"sec_user_id\":\"MS4wLjABAAAAmMhy3TlBNP081BYACTmXP832oTnE4mHbJIyQA_eWMBE\"},\"headers\":{\"User-Agent\":\"node\",\"Authorization\":\"Bearer g6g9Ufk3hAaxkjOOQYey6Rb1HyvXfbhy+gjbtma4XOXqkA2LBnqlKWm2Pw==\",\"Host\":\"api.tikhub.io\",\"Accept\":\"*/*\",\"Accept-Encoding\":\"gzip, br\",\"Referer\":\"None\",\"Accept-Language\":\"*\"}}}"
         }
       ]
     },
     "podcastLastRun": {
-      "capturedAt": "2026-09-15T02:16:58.650Z",
-      "added": 10,
+      "capturedAt": "2026-09-16T00:03:37.643Z",
+      "added": 0,
       "status": [
         {
           "creatorId": "podcast-show-001",
           "name": "The OpenAI Podcast",
-          "status": "未找到可唯一归属到该播客频道的本月视频"
+          "status": "接口异常：HTTP 402"
         },
         {
           "creatorId": "podcast-show-002",
           "name": "No Priors",
-          "status": "已核验 3 条本月候选视频"
+          "status": "接口异常：HTTP 402"
         },
         {
           "creatorId": "podcast-show-003",
           "name": "Dwarkesh Podcast",
-          "status": "已核验 3 条本月候选视频"
+          "status": "接口异常：HTTP 402"
         },
         {
           "creatorId": "podcast-show-004",
           "name": "AI + a16z",
-          "status": "已核验 3 条本月候选视频"
+          "status": "接口异常：HTTP 402"
         },
         {
           "creatorId": "podcast-show-005",
           "name": "The a16z Show",
-          "status": "已核验 3 条本月候选视频"
+          "status": "接口异常：HTTP 402"
         },
         {
           "creatorId": "podcast-show-006",
           "name": "The Ben & Marc Show",
-          "status": "未找到可唯一归属到该播客频道的本月视频"
+          "status": "接口异常：HTTP 402"
         },
         {
           "creatorId": "podcast-show-007",
           "name": "In the Vault",
-          "status": "未找到可唯一归属到该播客频道的本月视频"
+          "status": "接口异常：HTTP 402"
         },
         {
           "creatorId": "podcast-show-008",
           "name": "All-In Podcast",
-          "status": "已核验 3 条本月候选视频"
+          "status": "接口异常：HTTP 402"
         },
         {
           "creatorId": "podcast-show-009",
           "name": "BG2 Pod",
-          "status": "未找到可唯一归属到该播客频道的本月视频"
+          "status": "接口异常：HTTP 402"
         },
         {
           "creatorId": "podcast-show-010",
           "name": "Lex Fridman Podcast",
-          "status": "已核验 1 条本月候选视频"
+          "status": "接口异常：HTTP 402"
         },
         {
           "creatorId": "podcast-show-011",
           "name": "Latent Space",
-          "status": "已核验 3 条本月候选视频"
+          "status": "接口异常：HTTP 402"
         },
         {
           "creatorId": "podcast-show-012",
           "name": "The Cognitive Revolution",
-          "status": "已核验 3 条本月候选视频"
+          "status": "接口异常：HTTP 402"
         },
         {
           "creatorId": "podcast-show-013",
           "name": "20VC",
-          "status": "已核验 3 条本月候选视频"
+          "status": "接口异常：HTTP 402"
         },
         {
           "creatorId": "podcast-show-014",
           "name": "Acquired Interviews",
-          "status": "已核验 1 条本月候选视频"
+          "status": "接口异常：HTTP 402"
         },
         {
           "creatorId": "podcast-show-015",
           "name": "Invest Like the Best",
-          "status": "已核验 3 条本月候选视频"
+          "status": "接口异常：HTTP 402"
         },
         {
           "creatorId": "podcast-show-016",
           "name": "Odd Lots",
-          "status": "未找到可唯一归属到该播客频道的本月视频"
+          "status": "接口异常：HTTP 402"
         },
         {
           "creatorId": "podcast-show-017",
           "name": "Goldman Sachs Exchanges",
-          "status": "已核验 3 条本月候选视频"
+          "status": "接口异常：HTTP 402"
         },
         {
           "creatorId": "podcast-show-018",
           "name": "Decoder with Nilay Patel",
-          "status": "已核验 3 条本月候选视频"
+          "status": "接口异常：HTTP 402"
         },
         {
           "creatorId": "podcast-show-019",
           "name": "Hard Fork",
-          "status": "已核验 3 条本月候选视频"
+          "status": "接口异常：HTTP 402"
         },
         {
           "creatorId": "podcast-show-020",
           "name": "Conversations with Tyler",
-          "status": "已核验 3 条本月候选视频"
+          "status": "接口异常：HTTP 402"
         },
         {
           "creatorId": "podcast-show-021",
           "name": "TBPN",
-          "status": "已核验 3 条本月候选视频"
+          "status": "接口异常：HTTP 402"
         },
         {
           "creatorId": "podcast-show-022",
           "name": "Lenny's Podcast",
-          "status": "已核验 3 条本月候选视频"
+          "status": "接口异常：HTTP 402"
         },
         {
           "creatorId": "podcast-show-023",
           "name": "Y Combinator",
-          "status": "已核验 3 条本月候选视频"
+          "status": "接口异常：HTTP 402"
         },
         {
           "creatorId": "podcast-show-024",
           "name": "Sequoia Capital",
-          "status": "已核验 3 条本月候选视频"
+          "status": "接口异常：HTTP 402"
         },
         {
           "creatorId": "podcast-show-025",
           "name": "The AI Podcast by NVIDIA",
-          "status": "未找到可唯一归属到该播客频道的本月视频"
+          "status": "接口异常：HTTP 402"
         },
         {
           "creatorId": "podcast-show-026",
           "name": "SemiAnalysis Weekly",
-          "status": "已核验 3 条本月候选视频"
+          "status": "接口异常：HTTP 402"
         },
         {
           "creatorId": "podcast-show-027",
           "name": "Naval Podcast",
-          "status": "已核验 1 条本月候选视频"
+          "status": "接口异常：HTTP 402"
         }
       ]
     },

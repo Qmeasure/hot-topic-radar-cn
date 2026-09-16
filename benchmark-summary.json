@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-15T10:02:01+08:00",
+  "generatedAt": "2026-09-16T08:01:43+08:00",
   "creatorCount": 141,
   "summaries": [
     {
       "period": "day",
       "start": "2026-09-15",
-      "videoCount": 9,
-      "creatorCount": 9,
+      "videoCount": 10,
+      "creatorCount": 10,
       "topTopics": [
         {
           "topic": "其他",
@@ -23,6 +23,10 @@
         {
           "topic": "投资市场",
           "count": 1
+        },
+        {
+          "topic": "认知成长",
+          "count": 1
         }
       ],
       "topVideoId": "douyin-7685431228341832960"
@@ -30,8 +34,8 @@
     {
       "period": "week",
       "start": "2026-09-13",
-      "videoCount": 66,
-      "creatorCount": 48,
+      "videoCount": 76,
+      "creatorCount": 54,
       "topTopics": [
         {
           "topic": "其他",
@@ -39,7 +43,7 @@
         },
         {
           "topic": "AI应用",
-          "count": 13
+          "count": 14
         },
         {
           "topic": "投资市场",
@@ -59,8 +63,8 @@
     {
       "period": "day",
       "start": "2026-09-14",
-      "videoCount": 57,
-      "creatorCount": 47,
+      "videoCount": 66,
+      "creatorCount": 53,
       "topTopics": [
         {
           "topic": "其他",
@@ -68,7 +72,7 @@
         },
         {
           "topic": "AI应用",
-          "count": 13
+          "count": 14
         },
         {
           "topic": "投资市场",
@@ -88,8 +92,8 @@
     {
       "period": "day",
       "start": "2026-09-13",
-      "videoCount": 54,
-      "creatorCount": 39,
+      "videoCount": 55,
+      "creatorCount": 40,
       "topTopics": [
         {
           "topic": "其他",
@@ -117,8 +121,8 @@
     {
       "period": "week",
       "start": "2026-09-06",
-      "videoCount": 539,
-      "creatorCount": 112,
+      "videoCount": 541,
+      "creatorCount": 113,
       "topTopics": [
         {
           "topic": "其他",
@@ -175,8 +179,8 @@
     {
       "period": "day",
       "start": "2026-09-11",
-      "videoCount": 100,
-      "creatorCount": 65,
+      "videoCount": 101,
+      "creatorCount": 66,
       "topTopics": [
         {
           "topic": "其他",
