@@ -1,7 +1,7 @@
 window.DOUYIN_HOT_TOPICS={
   "schemaVersion": 1,
   "date": "2026-09-17",
-  "capturedAt": "2026-09-17T11:52:42+08:00",
+  "capturedAt": "2026-09-17T11:55:02+08:00",
   "source": "TikHub Douyin App V3 hot search list",
   "sourceStatus": "partial",
   "sourceIssue": "TikHub HTTP 402",
@@ -232,72 +232,6 @@ window.DOUYIN_HOT_TOPICS={
             "comments": 9,
             "favorites": 20,
             "shares": 7
-          },
-          "capturedAt": "2026-09-15T10:02:01+08:00",
-          "status": "TikHub Douyin App V3 已核验；原始播放地址为时效链接。"
-        }
-      ]
-    },
-    {
-      "id": "video-7685347621917019427",
-      "topic": "中国和美国做企业AI的区别到底在哪？ 为什么中国的企业AI没有美国那么大的体量？中国做企业AI到底能不能赚钱？怎么赚钱？企业AI专家孟虎老师告诉你答案！",
-      "interactions": 3,
-      "rank": null,
-      "signal": "抖音对标热点 · 3 公开互动",
-      "hotValue": 3,
-      "viewCount": null,
-      "videoCount": 1,
-      "content": "以“中国和美国做企业AI的区别到底在哪？ 为什么中国的企业AI没有美国那么大的体量？中国做企业AI到底能不能赚钱？怎么赚钱？企业AI专家孟虎老师告诉你答案！”为事实入口，不复述新闻，重点拆解相关公司的竞争位置、资本开支、产业链受益方与估值风险。",
-      "why": "这是近三天抖音 AI 内容中的高互动样本，公开点赞、评论、收藏和分享合计 3；题材与AI投资主线直接相关。",
-      "benefit": "帮助账号建立“AI事件发生后，谁投入、谁受益、谁被重估”的投资分析心智，同时借鉴已经被抖音用户验证的传播切口。",
-      "searchUrl": "https://www.douyin.com/video/7685347621917019427",
-      "videos": [
-        {
-          "id": "7685347621917019427",
-          "creator": "李菲特—智富界",
-          "title": "中国和美国做企业AI的区别到底在哪？ 为什么中国的企业AI没有美国那么大的体量？中国做企业AI到底能不能赚钱？怎么赚钱？企业AI专家孟虎老师告诉你答案！\n#AI #燃起来了大国重器 #真财实学计划 #零距离看懂财经 #企业AI",
-          "url": "https://www.douyin.com/video/7685347621917019427",
-          "publishedAt": "2026-09-14T19:14:01+08:00",
-          "durationSeconds": 108,
-          "metrics": {
-            "views": null,
-            "likes": 2,
-            "comments": 0,
-            "favorites": 1,
-            "shares": 0
-          },
-          "capturedAt": "2026-09-15T10:02:01+08:00",
-          "status": "TikHub Douyin App V3 已核验；原始播放地址为时效链接。"
-        }
-      ]
-    },
-    {
-      "id": "video-7685350601256881462",
-      "topic": "企业AI居然能做到千万年营收？这其中的秘诀是什么？",
-      "interactions": 1,
-      "rank": null,
-      "signal": "抖音对标热点 · 1 公开互动",
-      "hotValue": 1,
-      "viewCount": null,
-      "videoCount": 1,
-      "content": "以“企业AI居然能做到千万年营收？这其中的秘诀是什么？”为事实入口，不复述新闻，重点拆解相关公司的竞争位置、资本开支、产业链受益方与估值风险。",
-      "why": "这是近三天抖音 AI 内容中的高互动样本，公开点赞、评论、收藏和分享合计 1；题材与AI投资主线直接相关。",
-      "benefit": "帮助账号建立“AI事件发生后，谁投入、谁受益、谁被重估”的投资分析心智，同时借鉴已经被抖音用户验证的传播切口。",
-      "searchUrl": "https://www.douyin.com/video/7685350601256881462",
-      "videos": [
-        {
-          "id": "7685350601256881462",
-          "creator": "李菲特—智富界",
-          "title": "企业AI居然能做到千万年营收？这其中的秘诀是什么？ #抖音前沿科技首发计划 #AI #零距离看懂财经 #真财实学计划 #燃起来了大国重器",
-          "url": "https://www.douyin.com/video/7685350601256881462",
-          "publishedAt": "2026-09-14T21:26:00+08:00",
-          "durationSeconds": 157,
-          "metrics": {
-            "views": null,
-            "likes": 1,
-            "comments": 0,
-            "favorites": 0,
-            "shares": 0
           },
           "capturedAt": "2026-09-15T10:02:01+08:00",
           "status": "TikHub Douyin App V3 已核验；原始播放地址为时效链接。"
