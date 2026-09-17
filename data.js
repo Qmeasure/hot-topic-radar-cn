@@ -1,5 +1,5 @@
 window.HOT_ARCHIVE={
-  "updated": "2026-09-16 08:06",
+  "updated": "2026-09-17 11:53",
   "methodology": "公开互动热力 = 播放 + 点赞×20 + 收藏×15 + 评论×25 + 转发×30；缺失指标不计分，不做估算。",
   "days": {
     "2026-09-04": {
@@ -183315,6 +183315,18635 @@ window.HOT_ARCHIVE={
                     "favorites": "1385",
                     "comments": "1031",
                     "shares": "1114"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "2026-09-17": {
+      "topics": [
+        {
+          "cat": "股市投资",
+          "score": 0,
+          "title": "a16z：AI 让风投幂律更极端，算力投入开始直接复利：AI重点",
+          "hook": "a16z 的 Jen Kha、David George 与 Accolade Partners 的 Aram Verdiyan 讨论 AI 如何改变风险投资的收益分布与资产配置：资本可直接转化为算力并强化头部模型公司的优势，同时把机会推向能源、数据中心、机器人、自动驾驶和医疗。适合拆解 AI 投资回报、基金组合集中度、传统 SaaS 重估与基础设施瓶颈。",
+          "platform": "Apple Podcasts / The a16z Show",
+          "source": "https://podcasts.apple.com/us/podcast/how-ai-is-rewriting-the-power-law-of-venture-capital/id842818711?i=1000788832865",
+          "tags": [
+            "AI重点",
+            "风险投资",
+            "资产配置",
+            "资本开支与投资回报",
+            "算力",
+            "数据中心",
+            "机器人",
+            "自动驾驶",
+            "SaaS估值",
+            "The a16z Show"
+          ],
+          "videos": [
+            {
+              "title": "How AI Is Rewriting the Power Law of Venture Capital",
+              "url": "https://podcasts.apple.com/us/podcast/how-ai-is-rewriting-the-power-law-of-venture-capital/id842818711?i=1000788832865",
+              "platform": "Apple Podcasts",
+              "creator": "The a16z Show / a16z",
+              "duration": "49:23",
+              "published": "2026-09-10",
+              "metrics": {
+                "views": null,
+                "likes": null,
+                "favorites": null,
+                "comments": null,
+                "shares": null
+              },
+              "captured": "2026-09-17 11:52",
+              "status": "重点节目 The a16z Show；Apple Podcasts 原始节目页与公开节目索引交叉核验节目身份、标题、参与者、发布时间、时长和可直接访问链接；节目页未公开播放、点赞、收藏、评论、转发数据，均记为未公开，不估算、不计热力",
+              "metricHistory": [
+                {
+                  "captured": "2026-09-11 14:00",
+                  "metrics": {
+                    "views": null,
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:54",
+                  "metrics": {
+                    "views": null,
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:20",
+                  "metrics": {
+                    "views": null,
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-13 08:27",
+                  "metrics": {
+                    "views": null,
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-14 08:31",
+                  "metrics": {
+                    "views": null,
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:22",
+                  "metrics": {
+                    "views": null,
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-16 08:06",
+                  "metrics": {
+                    "views": null,
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:52",
+                  "metrics": {
+                    "views": null,
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "cat": "社会",
+          "score": 0,
+          "title": "Odd Lots：零售盗损背后的有组织犯罪链条与门店治理",
+          "hook": "Bloomberg Odd Lots 对话 Home Depot 资产保护副总裁 Scott Glenn，拆解从门店“盗手”、销赃中间人到线上转售的有组织零售犯罪链条，以及摄像分析、跨店情报和联邦执法协作。适合讨论零售盗损、实体门店体验、平台治理与企业安全投入。节目中的比例、趋势和治理效果均属于嘉宾陈述。",
+          "platform": "Omny.fm / Odd Lots",
+          "source": "https://omny.fm/shows/odd-lots/the-rise-of-organized-retail-crime-at-big-box-stores",
+          "tags": [
+            "零售盗损",
+            "有组织犯罪",
+            "实体零售",
+            "平台治理",
+            "企业安全",
+            "Home Depot",
+            "Odd Lots"
+          ],
+          "videos": [
+            {
+              "title": "The Rise of Organized Retail Crime at Big Box Stores",
+              "url": "https://omny.fm/shows/odd-lots/the-rise-of-organized-retail-crime-at-big-box-stores",
+              "platform": "Omny.fm / Podcast",
+              "creator": "Odd Lots / Bloomberg",
+              "duration": "52:39",
+              "published": "2026-09-10",
+              "metrics": {
+                "views": null,
+                "likes": null,
+                "favorites": null,
+                "comments": null,
+                "shares": null
+              },
+              "captured": "2026-09-17 11:52",
+              "status": "重点节目 Odd Lots；Omny.fm 原始节目页、Apple Podcasts 与公开节目索引交叉核验节目身份、标题、嘉宾、发布时间、时长和可直接播放链接；节目页未公开播放、点赞、收藏、评论、转发数据，均记为未公开，不估算、不计热力",
+              "metricHistory": [
+                {
+                  "captured": "2026-09-11 13:01",
+                  "metrics": {
+                    "views": null,
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:54",
+                  "metrics": {
+                    "views": null,
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:20",
+                  "metrics": {
+                    "views": null,
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-13 08:27",
+                  "metrics": {
+                    "views": null,
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-14 08:31",
+                  "metrics": {
+                    "views": null,
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:22",
+                  "metrics": {
+                    "views": null,
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-16 08:06",
+                  "metrics": {
+                    "views": null,
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:52",
+                  "metrics": {
+                    "views": null,
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "cat": "金融",
+          "score": 0,
+          "title": "No Priors 对话 Coinbase CEO：稳定币、代币化与 AI 智能体金融合流：AI重点",
+          "hook": "Brian Armstrong 在 No Priors 详解 Coinbase 的“Everything Exchange”、稳定币支付与 agentic finance 路线，并讨论让 AI 智能体拥有账户和机器间小额支付能力。适合拆解 AI 智能体商业化如何进入支付、交易、代币化资产与金融监管。",
+          "platform": "Apple Podcasts / No Priors",
+          "source": "https://podcasts.apple.com/us/podcast/coinbases-everything-exchange-agentic-finance-stablecoins/id1668002688?i=1000788833275",
+          "tags": [
+            "AI重点",
+            "智能体",
+            "AI应用商业化",
+            "稳定币",
+            "支付",
+            "代币化资产",
+            "金融监管",
+            "Coinbase",
+            "No Priors"
+          ],
+          "videos": [
+            {
+              "title": "Coinbase’s Everything Exchange: Agentic Finance, Stablecoins, and Tokenization with CEO Brian Armstrong",
+              "url": "https://podcasts.apple.com/us/podcast/coinbases-everything-exchange-agentic-finance-stablecoins/id1668002688?i=1000788833275",
+              "platform": "Apple Podcasts",
+              "creator": "No Priors",
+              "duration": "45:09",
+              "published": "2026-09-10",
+              "metrics": {
+                "views": null,
+                "likes": null,
+                "favorites": null,
+                "comments": null,
+                "shares": null
+              },
+              "captured": "2026-09-17 11:52",
+              "status": "重点节目 No Priors；Apple Podcasts 官方节目页与公开节目索引交叉核验标题、嘉宾、发布时间和时长；节目页未提供播放、点赞、收藏、评论、转发数据，均记为未公开，不估算、不计热力",
+              "metricHistory": [
+                {
+                  "captured": "2026-09-11 12:43",
+                  "metrics": {
+                    "views": null,
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:54",
+                  "metrics": {
+                    "views": null,
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:20",
+                  "metrics": {
+                    "views": null,
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-13 08:27",
+                  "metrics": {
+                    "views": null,
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-14 08:31",
+                  "metrics": {
+                    "views": null,
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:22",
+                  "metrics": {
+                    "views": null,
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-16 08:06",
+                  "metrics": {
+                    "views": null,
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:52",
+                  "metrics": {
+                    "views": null,
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "cat": "科技",
+          "score": 0,
+          "title": "Decoder 讨论科技反弹：AI、监控与数据中心为何遭遇跨阵营抵制：AI重点",
+          "hook": "Decoder 团队从听众反馈切入，讨论 AI 产品被强行植入、监控摄像头、数据中心成本和算法碎片化带来的科技反弹。适合拆解 AI 基础设施扩张如何碰到隐私、地方治理、公共成本与用户控制权。",
+          "platform": "The Verge / Decoder",
+          "source": "https://www.theverge.com/podcast/992141/decoder-mailbag-ai-backlash-surveillance-midterms-data-centers",
+          "tags": [
+            "AI重点",
+            "AI监管",
+            "数据中心",
+            "隐私安全",
+            "社会影响",
+            "科技治理",
+            "Decoder"
+          ],
+          "videos": [
+            {
+              "title": "Why the current tech backlash feels different",
+              "url": "https://www.theverge.com/podcast/992141/decoder-mailbag-ai-backlash-surveillance-midterms-data-centers",
+              "platform": "The Verge / Podcast",
+              "creator": "Decoder with Nilay Patel",
+              "duration": "54:35",
+              "published": "2026-09-10",
+              "metrics": {
+                "views": null,
+                "likes": null,
+                "favorites": null,
+                "comments": null,
+                "shares": null
+              },
+              "captured": "2026-09-17 11:52",
+              "status": "重点节目 Decoder with Nilay Patel；The Verge 官方节目页、Apple Podcasts 与公开节目索引交叉核验标题、发布时间和时长；官方节目页未公开播放、点赞、收藏、评论、转发数据，均记为未公开，不估算、不计热力",
+              "metricHistory": [
+                {
+                  "captured": "2026-09-11 12:43",
+                  "metrics": {
+                    "views": null,
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:54",
+                  "metrics": {
+                    "views": null,
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:20",
+                  "metrics": {
+                    "views": null,
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-13 08:27",
+                  "metrics": {
+                    "views": null,
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-14 08:31",
+                  "metrics": {
+                    "views": null,
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:22",
+                  "metrics": {
+                    "views": null,
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-16 08:06",
+                  "metrics": {
+                    "views": null,
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:52",
+                  "metrics": {
+                    "views": null,
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "cat": "科技",
+          "score": 37150,
+          "title": "20VC：Jensen Huang 宣称 AGI 已到来，AI 助手、模型竞赛与资本交易升温：AI重点",
+          "hook": "20VC 的 Harry Stebbings、Jason Lemkin 与 Rory O’Driscoll 围绕 Jensen Huang 对 AGI 的判断、OpenAI 新模型、AI 助手竞争、智能体安全、Tesla Cybercab，以及 Anthropic 并购和 AI 公司融资展开圆桌。适合拆解“AGI 宣言”背后的算力需求、智能体商业化、监管安全与资本市场叙事。",
+          "platform": "YouTube / 20VC",
+          "source": "https://www.youtube.com/watch?v=4ioSi39yjJQ",
+          "tags": [
+            "AI重点",
+            "模型与AGI",
+            "智能体",
+            "AI应用商业化",
+            "AI安全",
+            "自动驾驶",
+            "融资并购与IPO",
+            "NVIDIA",
+            "OpenAI",
+            "20VC"
+          ],
+          "videos": [
+            {
+              "title": "Jensen Huang Declares AGI Has Arrived | Tesla Launches Cybercabs | Index Pulls Out of Town",
+              "url": "https://www.youtube.com/watch?v=4ioSi39yjJQ",
+              "platform": "YouTube",
+              "creator": "20VC with Harry Stebbings",
+              "duration": "01:22:31",
+              "published": "2026-09-10",
+              "metrics": {
+                "views": "32090",
+                "likes": "178",
+                "favorites": null,
+                "comments": "60",
+                "shares": null
+              },
+              "captured": "2026-09-17 11:53",
+              "status": "重点节目 20VC；标题、发布时间、时长与原始 YouTube 视频 ID 已由 Apple Podcasts 节目页及主持人公开链接交叉核验；本次采集环境无法访问 YouTube 公开页，播放、点赞、收藏、评论、转发均未公开，不估算、不计热力",
+              "metricHistory": [
+                {
+                  "captured": "2026-09-11 12:31",
+                  "metrics": {
+                    "views": null,
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:53",
+                  "metrics": {
+                    "views": "17332",
+                    "likes": "126",
+                    "favorites": null,
+                    "comments": "45",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:54",
+                  "metrics": {
+                    "views": "17332",
+                    "likes": "126",
+                    "favorites": null,
+                    "comments": "45",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:55",
+                  "metrics": {
+                    "views": "17332",
+                    "likes": "126",
+                    "favorites": null,
+                    "comments": "45",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:20",
+                  "metrics": {
+                    "views": "17332",
+                    "likes": "126",
+                    "favorites": null,
+                    "comments": "45",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:21",
+                  "metrics": {
+                    "views": "21672",
+                    "likes": "141",
+                    "favorites": null,
+                    "comments": "50",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-13 08:27",
+                  "metrics": {
+                    "views": "26570",
+                    "likes": "166",
+                    "favorites": null,
+                    "comments": "53",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-14 08:31",
+                  "metrics": {
+                    "views": "28739",
+                    "likes": "173",
+                    "favorites": null,
+                    "comments": "55",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:22",
+                  "metrics": {
+                    "views": "28739",
+                    "likes": "173",
+                    "favorites": null,
+                    "comments": "55",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:23",
+                  "metrics": {
+                    "views": "30428",
+                    "likes": "176",
+                    "favorites": null,
+                    "comments": "58",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-16 08:06",
+                  "metrics": {
+                    "views": "31262",
+                    "likes": "179",
+                    "favorites": null,
+                    "comments": "60",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:52",
+                  "metrics": {
+                    "views": "31262",
+                    "likes": "179",
+                    "favorites": null,
+                    "comments": "60",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:53",
+                  "metrics": {
+                    "views": "32090",
+                    "likes": "178",
+                    "favorites": null,
+                    "comments": "60",
+                    "shares": null
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "cat": "科技",
+          "score": 39367148,
+          "title": "iPhone Duo 当日登榜：首款折叠 iPhone 的折痕与双屏体验迎来实测",
+          "hook": "Apple 正式发布首款折叠 iPhone Duo 后，多条独立上手视频进入 B站热门，讨论集中在折痕控制、纳米纹理内屏、双屏比例和软件适配。适合从真实体验切入，判断苹果能否把折叠屏从高价小众形态推向主流，并观察铰链、面板和存储供应链的增量机会。",
+          "platform": "哔哩哔哩 / Apple Newsroom",
+          "source": "https://www.apple.com.cn/newsroom/2026/09/apple-unveils-iphone-duo/",
+          "tags": [
+            "Apple",
+            "iPhone Duo",
+            "折叠屏",
+            "消费电子",
+            "硬件创新",
+            "供应链",
+            "产品体验"
+          ],
+          "videos": [
+            {
+              "title": "iPhone Duo 苹果折叠屏上手：超强折痕控制 + 纳米纹理屏",
+              "url": "https://www.bilibili.com/video/BV1oFY868ETc/",
+              "platform": "哔哩哔哩",
+              "creator": "钟文泽",
+              "duration": "07:00",
+              "published": "2026-09-10",
+              "metrics": {
+                "views": "3389566",
+                "likes": "38546",
+                "favorites": "8097",
+                "comments": "25467",
+                "shares": "37279"
+              },
+              "captured": "2026-09-17 11:53",
+              "status": "重点名单扫描完成后的哔哩哔哩热门榜补充；Apple 官方发布信息与平台公开接口已核验，账号、标题、发布时间、时长、原始链接及全部公开互动数据可访问",
+              "metricHistory": [
+                {
+                  "captured": "2026-09-10 04:37",
+                  "metrics": {
+                    "views": "138588",
+                    "likes": "3279",
+                    "favorites": "737",
+                    "comments": "3450",
+                    "shares": "1965"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 10:09",
+                  "metrics": {
+                    "views": "1332638",
+                    "likes": "17791",
+                    "favorites": "3761",
+                    "comments": "12264",
+                    "shares": "21130"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 10:21",
+                  "metrics": {
+                    "views": "1378824",
+                    "likes": "18351",
+                    "favorites": "3872",
+                    "comments": "12833",
+                    "shares": "21839"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 10:53",
+                  "metrics": {
+                    "views": "1471243",
+                    "likes": "19497",
+                    "favorites": "4067",
+                    "comments": "13867",
+                    "shares": "23251"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 10:55",
+                  "metrics": {
+                    "views": "1474436",
+                    "likes": "19562",
+                    "favorites": "4083",
+                    "comments": "13927",
+                    "shares": "23335"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:08",
+                  "metrics": {
+                    "views": "1505748",
+                    "likes": "19928",
+                    "favorites": "4125",
+                    "comments": "14305",
+                    "shares": "23807"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:21",
+                  "metrics": {
+                    "views": "1542364",
+                    "likes": "20390",
+                    "favorites": "4203",
+                    "comments": "14623",
+                    "shares": "24296"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:45",
+                  "metrics": {
+                    "views": "1616190",
+                    "likes": "21254",
+                    "favorites": "4390",
+                    "comments": "15319",
+                    "shares": "25425"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:54",
+                  "metrics": {
+                    "views": "1651834",
+                    "likes": "21699",
+                    "favorites": "4468",
+                    "comments": "15639",
+                    "shares": "25901"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:09",
+                  "metrics": {
+                    "views": "1714620",
+                    "likes": "22405",
+                    "favorites": "4599",
+                    "comments": "16217",
+                    "shares": "26728"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:31",
+                  "metrics": {
+                    "views": "1803167",
+                    "likes": "23483",
+                    "favorites": "4789",
+                    "comments": "16987",
+                    "shares": "27868"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:43",
+                  "metrics": {
+                    "views": "1844697",
+                    "likes": "24138",
+                    "favorites": "4904",
+                    "comments": "17388",
+                    "shares": "28422"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:06",
+                  "metrics": {
+                    "views": "1918425",
+                    "likes": "25121",
+                    "favorites": "5096",
+                    "comments": "17949",
+                    "shares": "29273"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:22",
+                  "metrics": {
+                    "views": "1953931",
+                    "likes": "25606",
+                    "favorites": "5188",
+                    "comments": "18279",
+                    "shares": "29650"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:35",
+                  "metrics": {
+                    "views": "1982408",
+                    "likes": "25941",
+                    "favorites": "5246",
+                    "comments": "18404",
+                    "shares": "29911"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:53",
+                  "metrics": {
+                    "views": "2012688",
+                    "likes": "26316",
+                    "favorites": "5319",
+                    "comments": "18714",
+                    "shares": "30244"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:09",
+                  "metrics": {
+                    "views": "2039019",
+                    "likes": "26624",
+                    "favorites": "5383",
+                    "comments": "18904",
+                    "shares": "30493"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:36",
+                  "metrics": {
+                    "views": "2081460",
+                    "likes": "27081",
+                    "favorites": "5475",
+                    "comments": "19222",
+                    "shares": "30909"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:44",
+                  "metrics": {
+                    "views": "2091717",
+                    "likes": "27181",
+                    "favorites": "5495",
+                    "comments": "19311",
+                    "shares": "31013"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 15:08",
+                  "metrics": {
+                    "views": "2121666",
+                    "likes": "27516",
+                    "favorites": "5562",
+                    "comments": "19626",
+                    "shares": "31340"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 15:39",
+                  "metrics": {
+                    "views": "2157327",
+                    "likes": "27906",
+                    "favorites": "5642",
+                    "comments": "19995",
+                    "shares": "31675"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:00",
+                  "metrics": {
+                    "views": "2179124",
+                    "likes": "28138",
+                    "favorites": "5704",
+                    "comments": "20196",
+                    "shares": "31895"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:05",
+                  "metrics": {
+                    "views": "2184307",
+                    "likes": "28194",
+                    "favorites": "5710",
+                    "comments": "20260",
+                    "shares": "31946"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:20",
+                  "metrics": {
+                    "views": "2200033",
+                    "likes": "28369",
+                    "favorites": "5737",
+                    "comments": "20437",
+                    "shares": "32069"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:34",
+                  "metrics": {
+                    "views": "2214885",
+                    "likes": "28526",
+                    "favorites": "5791",
+                    "comments": "20558",
+                    "shares": "32195"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:53",
+                  "metrics": {
+                    "views": "2233904",
+                    "likes": "28740",
+                    "favorites": "5843",
+                    "comments": "20707",
+                    "shares": "32361"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:06",
+                  "metrics": {
+                    "views": "2247411",
+                    "likes": "28875",
+                    "favorites": "5869",
+                    "comments": "20814",
+                    "shares": "32485"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:21",
+                  "metrics": {
+                    "views": "2263262",
+                    "likes": "29052",
+                    "favorites": "5910",
+                    "comments": "20935",
+                    "shares": "32585"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:39",
+                  "metrics": {
+                    "views": "2281237",
+                    "likes": "29245",
+                    "favorites": "5954",
+                    "comments": "21063",
+                    "shares": "32734"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:56",
+                  "metrics": {
+                    "views": "2300263",
+                    "likes": "29451",
+                    "favorites": "6010",
+                    "comments": "21189",
+                    "shares": "32867"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:53",
+                  "metrics": {
+                    "views": "2971215",
+                    "likes": "35514",
+                    "favorites": "7327",
+                    "comments": "24291",
+                    "shares": "36109"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:54",
+                  "metrics": {
+                    "views": "2971592",
+                    "likes": "35517",
+                    "favorites": "7328",
+                    "comments": "24293",
+                    "shares": "36109"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:55",
+                  "metrics": {
+                    "views": "2971592",
+                    "likes": "35517",
+                    "favorites": "7328",
+                    "comments": "24292",
+                    "shares": "36109"
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:20",
+                  "metrics": {
+                    "views": "3055530",
+                    "likes": "36288",
+                    "favorites": "7526",
+                    "comments": "24761",
+                    "shares": "36366"
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:21",
+                  "metrics": {
+                    "views": "3055530",
+                    "likes": "36288",
+                    "favorites": "7526",
+                    "comments": "24761",
+                    "shares": "36366"
+                  }
+                },
+                {
+                  "captured": "2026-09-13 08:27",
+                  "metrics": {
+                    "views": "3195617",
+                    "likes": "37372",
+                    "favorites": "7783",
+                    "comments": "25375",
+                    "shares": "36788"
+                  }
+                },
+                {
+                  "captured": "2026-09-14 08:31",
+                  "metrics": {
+                    "views": "3277865",
+                    "likes": "37864",
+                    "favorites": "7918",
+                    "comments": "25434",
+                    "shares": "36976"
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:22",
+                  "metrics": {
+                    "views": "3329285",
+                    "likes": "38177",
+                    "favorites": "7997",
+                    "comments": "25456",
+                    "shares": "37138"
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:23",
+                  "metrics": {
+                    "views": "3329285",
+                    "likes": "38177",
+                    "favorites": "7997",
+                    "comments": "25456",
+                    "shares": "37138"
+                  }
+                },
+                {
+                  "captured": "2026-09-16 08:06",
+                  "metrics": {
+                    "views": "3362113",
+                    "likes": "38368",
+                    "favorites": "8054",
+                    "comments": "25460",
+                    "shares": "37215"
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:52",
+                  "metrics": {
+                    "views": "3389566",
+                    "likes": "38546",
+                    "favorites": "8097",
+                    "comments": "25467",
+                    "shares": "37279"
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:53",
+                  "metrics": {
+                    "views": "3389566",
+                    "likes": "38546",
+                    "favorites": "8097",
+                    "comments": "25467",
+                    "shares": "37279"
+                  }
+                }
+              ]
+            },
+            {
+              "title": "iPhone Duo全球首发上手",
+              "url": "https://www.bilibili.com/video/BV1NCYb6GE6J/",
+              "platform": "哔哩哔哩",
+              "creator": "大宽大宽",
+              "duration": "02:28",
+              "published": "2026-09-10",
+              "metrics": {
+                "views": "692395",
+                "likes": "23768",
+                "favorites": "2853",
+                "comments": "4402",
+                "shares": "4816"
+              },
+              "captured": "2026-09-17 11:53",
+              "status": "重点名单扫描完成后的哔哩哔哩热门榜补充；Apple 官方发布信息与平台公开接口已核验，账号、标题、发布时间、时长、原始链接及全部公开互动数据可访问",
+              "metricHistory": [
+                {
+                  "captured": "2026-09-10 04:37",
+                  "metrics": {
+                    "views": "53759",
+                    "likes": "1911",
+                    "favorites": "1012",
+                    "comments": "960",
+                    "shares": "610"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 10:09",
+                  "metrics": {
+                    "views": "251857",
+                    "likes": "11665",
+                    "favorites": "1601",
+                    "comments": "2038",
+                    "shares": "1994"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 10:21",
+                  "metrics": {
+                    "views": "257944",
+                    "likes": "11816",
+                    "favorites": "1617",
+                    "comments": "2040",
+                    "shares": "2056"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 10:53",
+                  "metrics": {
+                    "views": "273511",
+                    "likes": "12205",
+                    "favorites": "1656",
+                    "comments": "2143",
+                    "shares": "2235"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 10:55",
+                  "metrics": {
+                    "views": "274118",
+                    "likes": "12227",
+                    "favorites": "1659",
+                    "comments": "2152",
+                    "shares": "2243"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:08",
+                  "metrics": {
+                    "views": "279370",
+                    "likes": "12362",
+                    "favorites": "1668",
+                    "comments": "2181",
+                    "shares": "2297"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:21",
+                  "metrics": {
+                    "views": "285450",
+                    "likes": "12508",
+                    "favorites": "1684",
+                    "comments": "2225",
+                    "shares": "2366"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:45",
+                  "metrics": {
+                    "views": "297563",
+                    "likes": "12816",
+                    "favorites": "1712",
+                    "comments": "2311",
+                    "shares": "2482"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:54",
+                  "metrics": {
+                    "views": "303263",
+                    "likes": "12970",
+                    "favorites": "1726",
+                    "comments": "2350",
+                    "shares": "2540"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:09",
+                  "metrics": {
+                    "views": "315014",
+                    "likes": "13281",
+                    "favorites": "1753",
+                    "comments": "2425",
+                    "shares": "2667"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:31",
+                  "metrics": {
+                    "views": "331060",
+                    "likes": "13693",
+                    "favorites": "1792",
+                    "comments": "2505",
+                    "shares": "2832"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:43",
+                  "metrics": {
+                    "views": "338414",
+                    "likes": "13863",
+                    "favorites": "1807",
+                    "comments": "2533",
+                    "shares": "2896"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:06",
+                  "metrics": {
+                    "views": "351683",
+                    "likes": "14169",
+                    "favorites": "1841",
+                    "comments": "2583",
+                    "shares": "2990"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:22",
+                  "metrics": {
+                    "views": "359056",
+                    "likes": "14357",
+                    "favorites": "1859",
+                    "comments": "2616",
+                    "shares": "3051"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:35",
+                  "metrics": {
+                    "views": "364857",
+                    "likes": "14477",
+                    "favorites": "1872",
+                    "comments": "2650",
+                    "shares": "3086"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:53",
+                  "metrics": {
+                    "views": "370818",
+                    "likes": "14626",
+                    "favorites": "1882",
+                    "comments": "2683",
+                    "shares": "3130"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:09",
+                  "metrics": {
+                    "views": "382515",
+                    "likes": "14912",
+                    "favorites": "1902",
+                    "comments": "2733",
+                    "shares": "3224"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:36",
+                  "metrics": {
+                    "views": "400439",
+                    "likes": "15309",
+                    "favorites": "1940",
+                    "comments": "2799",
+                    "shares": "3362"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:44",
+                  "metrics": {
+                    "views": "405261",
+                    "likes": "15416",
+                    "favorites": "1948",
+                    "comments": "2815",
+                    "shares": "3399"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 15:08",
+                  "metrics": {
+                    "views": "418314",
+                    "likes": "15737",
+                    "favorites": "1967",
+                    "comments": "2873",
+                    "shares": "3497"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 15:39",
+                  "metrics": {
+                    "views": "429758",
+                    "likes": "16138",
+                    "favorites": "1999",
+                    "comments": "2949",
+                    "shares": "3590"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:00",
+                  "metrics": {
+                    "views": "436983",
+                    "likes": "16391",
+                    "favorites": "2014",
+                    "comments": "3006",
+                    "shares": "3648"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:05",
+                  "metrics": {
+                    "views": "438428",
+                    "likes": "16458",
+                    "favorites": "2022",
+                    "comments": "3016",
+                    "shares": "3655"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:20",
+                  "metrics": {
+                    "views": "442573",
+                    "likes": "16639",
+                    "favorites": "2035",
+                    "comments": "3040",
+                    "shares": "3688"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:34",
+                  "metrics": {
+                    "views": "448927",
+                    "likes": "16838",
+                    "favorites": "2049",
+                    "comments": "3061",
+                    "shares": "3739"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:53",
+                  "metrics": {
+                    "views": "456280",
+                    "likes": "17177",
+                    "favorites": "2068",
+                    "comments": "3113",
+                    "shares": "3786"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:06",
+                  "metrics": {
+                    "views": "460886",
+                    "likes": "17375",
+                    "favorites": "2086",
+                    "comments": "3143",
+                    "shares": "3823"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:21",
+                  "metrics": {
+                    "views": "465558",
+                    "likes": "17511",
+                    "favorites": "2096",
+                    "comments": "3171",
+                    "shares": "3865"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:39",
+                  "metrics": {
+                    "views": "472586",
+                    "likes": "17685",
+                    "favorites": "2112",
+                    "comments": "3209",
+                    "shares": "3915"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:56",
+                  "metrics": {
+                    "views": "479874",
+                    "likes": "17836",
+                    "favorites": "2130",
+                    "comments": "3223",
+                    "shares": "3974"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:53",
+                  "metrics": {
+                    "views": "623646",
+                    "likes": "22155",
+                    "favorites": "2514",
+                    "comments": "3911",
+                    "shares": "4711"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:54",
+                  "metrics": {
+                    "views": "623726",
+                    "likes": "22156",
+                    "favorites": "2514",
+                    "comments": "3914",
+                    "shares": "4712"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:55",
+                  "metrics": {
+                    "views": "623726",
+                    "likes": "22157",
+                    "favorites": "2514",
+                    "comments": "3914",
+                    "shares": "4712"
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:20",
+                  "metrics": {
+                    "views": "641840",
+                    "likes": "22603",
+                    "favorites": "2561",
+                    "comments": "3951",
+                    "shares": "4746"
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:21",
+                  "metrics": {
+                    "views": "641840",
+                    "likes": "22603",
+                    "favorites": "2561",
+                    "comments": "3951",
+                    "shares": "4746"
+                  }
+                },
+                {
+                  "captured": "2026-09-13 08:27",
+                  "metrics": {
+                    "views": "664581",
+                    "likes": "23168",
+                    "favorites": "2665",
+                    "comments": "4106",
+                    "shares": "4787"
+                  }
+                },
+                {
+                  "captured": "2026-09-14 08:31",
+                  "metrics": {
+                    "views": "678188",
+                    "likes": "23482",
+                    "favorites": "2743",
+                    "comments": "4293",
+                    "shares": "4796"
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:22",
+                  "metrics": {
+                    "views": "685817",
+                    "likes": "23620",
+                    "favorites": "2785",
+                    "comments": "4404",
+                    "shares": "4803"
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:23",
+                  "metrics": {
+                    "views": "685824",
+                    "likes": "23620",
+                    "favorites": "2785",
+                    "comments": "4404",
+                    "shares": "4803"
+                  }
+                },
+                {
+                  "captured": "2026-09-16 08:06",
+                  "metrics": {
+                    "views": "689125",
+                    "likes": "23687",
+                    "favorites": "2817",
+                    "comments": "4387",
+                    "shares": "4808"
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:52",
+                  "metrics": {
+                    "views": "692395",
+                    "likes": "23768",
+                    "favorites": "2853",
+                    "comments": "4402",
+                    "shares": "4816"
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:53",
+                  "metrics": {
+                    "views": "692395",
+                    "likes": "23768",
+                    "favorites": "2853",
+                    "comments": "4402",
+                    "shares": "4816"
+                  }
+                }
+              ]
+            },
+            {
+              "title": "这才是iphone折叠机啊！",
+              "url": "https://www.bilibili.com/video/BV1a2Yt6nEYH/",
+              "platform": "哔哩哔哩",
+              "creator": "热男HotGuys",
+              "duration": "07:22",
+              "published": "2026-09-09",
+              "metrics": {
+                "views": "1897886",
+                "likes": "39433",
+                "favorites": "6351",
+                "comments": "3476",
+                "shares": "6566"
+              },
+              "captured": "2026-09-17 11:53",
+              "status": "重点名单扫描完成后的哔哩哔哩热门榜补充；Apple 官方发布信息与平台公开接口已核验，账号、标题、发布时间、时长、原始链接及全部公开互动数据可访问",
+              "metricHistory": [
+                {
+                  "captured": "2026-09-10 04:37",
+                  "metrics": {
+                    "views": "126928",
+                    "likes": "5822",
+                    "favorites": "988",
+                    "comments": "490",
+                    "shares": "726"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 10:09",
+                  "metrics": {
+                    "views": "385017",
+                    "likes": "10838",
+                    "favorites": "1780",
+                    "comments": "1151",
+                    "shares": "1784"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 10:21",
+                  "metrics": {
+                    "views": "392253",
+                    "likes": "11046",
+                    "favorites": "1814",
+                    "comments": "1194",
+                    "shares": "1822"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 10:53",
+                  "metrics": {
+                    "views": "417534",
+                    "likes": "11610",
+                    "favorites": "1896",
+                    "comments": "1282",
+                    "shares": "1922"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 10:55",
+                  "metrics": {
+                    "views": "419979",
+                    "likes": "11653",
+                    "favorites": "1901",
+                    "comments": "1286",
+                    "shares": "1927"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:08",
+                  "metrics": {
+                    "views": "430599",
+                    "likes": "11868",
+                    "favorites": "1935",
+                    "comments": "1314",
+                    "shares": "1972"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:21",
+                  "metrics": {
+                    "views": "445504",
+                    "likes": "12126",
+                    "favorites": "1973",
+                    "comments": "1354",
+                    "shares": "2035"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:45",
+                  "metrics": {
+                    "views": "473346",
+                    "likes": "12615",
+                    "favorites": "2048",
+                    "comments": "1414",
+                    "shares": "2116"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:54",
+                  "metrics": {
+                    "views": "485310",
+                    "likes": "12776",
+                    "favorites": "2075",
+                    "comments": "1437",
+                    "shares": "2164"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:09",
+                  "metrics": {
+                    "views": "507979",
+                    "likes": "13116",
+                    "favorites": "2125",
+                    "comments": "1483",
+                    "shares": "2358"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:31",
+                  "metrics": {
+                    "views": "542481",
+                    "likes": "13804",
+                    "favorites": "2221",
+                    "comments": "1536",
+                    "shares": "2674"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:43",
+                  "metrics": {
+                    "views": "562233",
+                    "likes": "14209",
+                    "favorites": "2281",
+                    "comments": "1593",
+                    "shares": "2749"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:06",
+                  "metrics": {
+                    "views": "593070",
+                    "likes": "14887",
+                    "favorites": "2372",
+                    "comments": "1646",
+                    "shares": "2897"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:22",
+                  "metrics": {
+                    "views": "609830",
+                    "likes": "15230",
+                    "favorites": "2433",
+                    "comments": "1680",
+                    "shares": "2993"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:35",
+                  "metrics": {
+                    "views": "620573",
+                    "likes": "15433",
+                    "favorites": "2466",
+                    "comments": "1701",
+                    "shares": "3034"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:53",
+                  "metrics": {
+                    "views": "634932",
+                    "likes": "15698",
+                    "favorites": "2500",
+                    "comments": "1722",
+                    "shares": "3073"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:09",
+                  "metrics": {
+                    "views": "646261",
+                    "likes": "15917",
+                    "favorites": "2541",
+                    "comments": "1744",
+                    "shares": "3111"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:36",
+                  "metrics": {
+                    "views": "662971",
+                    "likes": "16225",
+                    "favorites": "2594",
+                    "comments": "1775",
+                    "shares": "3173"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:44",
+                  "metrics": {
+                    "views": "666779",
+                    "likes": "16298",
+                    "favorites": "2603",
+                    "comments": "1785",
+                    "shares": "3188"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 15:08",
+                  "metrics": {
+                    "views": "678676",
+                    "likes": "16468",
+                    "favorites": "2630",
+                    "comments": "1808",
+                    "shares": "3236"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 15:39",
+                  "metrics": {
+                    "views": "693491",
+                    "likes": "16720",
+                    "favorites": "2661",
+                    "comments": "1842",
+                    "shares": "3282"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:00",
+                  "metrics": {
+                    "views": "702645",
+                    "likes": "16871",
+                    "favorites": "2689",
+                    "comments": "1873",
+                    "shares": "3309"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:05",
+                  "metrics": {
+                    "views": "704752",
+                    "likes": "16914",
+                    "favorites": "2695",
+                    "comments": "1880",
+                    "shares": "3317"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:20",
+                  "metrics": {
+                    "views": "710632",
+                    "likes": "17021",
+                    "favorites": "2718",
+                    "comments": "1853",
+                    "shares": "3337"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:34",
+                  "metrics": {
+                    "views": "716244",
+                    "likes": "17130",
+                    "favorites": "2733",
+                    "comments": "1862",
+                    "shares": "3356"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:53",
+                  "metrics": {
+                    "views": "734310",
+                    "likes": "17668",
+                    "favorites": "2789",
+                    "comments": "1886",
+                    "shares": "3390"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:06",
+                  "metrics": {
+                    "views": "742930",
+                    "likes": "17863",
+                    "favorites": "2816",
+                    "comments": "1902",
+                    "shares": "3420"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:21",
+                  "metrics": {
+                    "views": "749528",
+                    "likes": "17982",
+                    "favorites": "2835",
+                    "comments": "1918",
+                    "shares": "3437"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:39",
+                  "metrics": {
+                    "views": "757003",
+                    "likes": "18122",
+                    "favorites": "2855",
+                    "comments": "1945",
+                    "shares": "3459"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:56",
+                  "metrics": {
+                    "views": "764966",
+                    "likes": "18294",
+                    "favorites": "2875",
+                    "comments": "1976",
+                    "shares": "3505"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:53",
+                  "metrics": {
+                    "views": "1116423",
+                    "likes": "29169",
+                    "favorites": "4287",
+                    "comments": "2875",
+                    "shares": "5341"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:54",
+                  "metrics": {
+                    "views": "1116567",
+                    "likes": "29174",
+                    "favorites": "4287",
+                    "comments": "2875",
+                    "shares": "5343"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:55",
+                  "metrics": {
+                    "views": "1116567",
+                    "likes": "29177",
+                    "favorites": "4287",
+                    "comments": "2875",
+                    "shares": "5344"
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:20",
+                  "metrics": {
+                    "views": "1245338",
+                    "likes": "32016",
+                    "favorites": "4683",
+                    "comments": "3016",
+                    "shares": "5584"
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:21",
+                  "metrics": {
+                    "views": "1245967",
+                    "likes": "32017",
+                    "favorites": "4683",
+                    "comments": "3016",
+                    "shares": "5584"
+                  }
+                },
+                {
+                  "captured": "2026-09-13 08:27",
+                  "metrics": {
+                    "views": "1615464",
+                    "likes": "35810",
+                    "favorites": "5604",
+                    "comments": "3218",
+                    "shares": "6163"
+                  }
+                },
+                {
+                  "captured": "2026-09-14 08:31",
+                  "metrics": {
+                    "views": "1838915",
+                    "likes": "37866",
+                    "favorites": "6109",
+                    "comments": "3359",
+                    "shares": "6372"
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:22",
+                  "metrics": {
+                    "views": "1879767",
+                    "likes": "38738",
+                    "favorites": "6251",
+                    "comments": "3416",
+                    "shares": "6467"
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:23",
+                  "metrics": {
+                    "views": "1879767",
+                    "likes": "38738",
+                    "favorites": "6251",
+                    "comments": "3416",
+                    "shares": "6467"
+                  }
+                },
+                {
+                  "captured": "2026-09-16 08:06",
+                  "metrics": {
+                    "views": "1889276",
+                    "likes": "39118",
+                    "favorites": "6306",
+                    "comments": "3455",
+                    "shares": "6535"
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:52",
+                  "metrics": {
+                    "views": "1897886",
+                    "likes": "39433",
+                    "favorites": "6351",
+                    "comments": "3476",
+                    "shares": "6566"
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:53",
+                  "metrics": {
+                    "views": "1897886",
+                    "likes": "39433",
+                    "favorites": "6351",
+                    "comments": "3476",
+                    "shares": "6566"
+                  }
+                }
+              ]
+            },
+            {
+              "title": "【影视飓风】iPhone Duo折叠屏真机上手",
+              "url": "https://www.bilibili.com/video/BV12PYh62E3c/",
+              "platform": "哔哩哔哩",
+              "creator": "影视飓风",
+              "duration": "05:10",
+              "published": "2026-09-10",
+              "metrics": {
+                "views": "4097158",
+                "likes": "152120",
+                "favorites": "16249",
+                "comments": "11767",
+                "shares": "18796"
+              },
+              "captured": "2026-09-17 11:53",
+              "status": "9月10日哔哩哔哩热门榜新增；Apple 官方发布页与平台公开接口已核验账号、标题、发布时间、时长、原始链接及全部公开互动数据；体验判断归因创作者",
+              "metricHistory": [
+                {
+                  "captured": "2026-09-10 10:14",
+                  "metrics": {
+                    "views": "336652",
+                    "likes": "17295",
+                    "favorites": "1641",
+                    "comments": "2318",
+                    "shares": "3462"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 10:21",
+                  "metrics": {
+                    "views": "362183",
+                    "likes": "18435",
+                    "favorites": "1759",
+                    "comments": "2488",
+                    "shares": "3695"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 10:53",
+                  "metrics": {
+                    "views": "414821",
+                    "likes": "21083",
+                    "favorites": "1999",
+                    "comments": "2828",
+                    "shares": "4228"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 10:55",
+                  "metrics": {
+                    "views": "419347",
+                    "likes": "21272",
+                    "favorites": "2015",
+                    "comments": "2846",
+                    "shares": "4262"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:08",
+                  "metrics": {
+                    "views": "441290",
+                    "likes": "22352",
+                    "favorites": "2103",
+                    "comments": "3005",
+                    "shares": "4458"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:21",
+                  "metrics": {
+                    "views": "465015",
+                    "likes": "23473",
+                    "favorites": "2204",
+                    "comments": "3149",
+                    "shares": "4680"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:45",
+                  "metrics": {
+                    "views": "514074",
+                    "likes": "25837",
+                    "favorites": "2416",
+                    "comments": "3436",
+                    "shares": "5045"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:54",
+                  "metrics": {
+                    "views": "539049",
+                    "likes": "27107",
+                    "favorites": "2545",
+                    "comments": "3557",
+                    "shares": "5235"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:09",
+                  "metrics": {
+                    "views": "593802",
+                    "likes": "29851",
+                    "favorites": "2776",
+                    "comments": "3810",
+                    "shares": "5616"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:31",
+                  "metrics": {
+                    "views": "694428",
+                    "likes": "35225",
+                    "favorites": "3177",
+                    "comments": "4235",
+                    "shares": "6362"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:43",
+                  "metrics": {
+                    "views": "758628",
+                    "likes": "38492",
+                    "favorites": "3431",
+                    "comments": "4457",
+                    "shares": "6782"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:06",
+                  "metrics": {
+                    "views": "854633",
+                    "likes": "43555",
+                    "favorites": "3831",
+                    "comments": "4895",
+                    "shares": "7432"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:22",
+                  "metrics": {
+                    "views": "914441",
+                    "likes": "46428",
+                    "favorites": "4092",
+                    "comments": "5147",
+                    "shares": "7835"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:35",
+                  "metrics": {
+                    "views": "955271",
+                    "likes": "48513",
+                    "favorites": "4268",
+                    "comments": "5314",
+                    "shares": "8081"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:53",
+                  "metrics": {
+                    "views": "1005087",
+                    "likes": "50871",
+                    "favorites": "4472",
+                    "comments": "5502",
+                    "shares": "8344"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:09",
+                  "metrics": {
+                    "views": "1042178",
+                    "likes": "52448",
+                    "favorites": "4608",
+                    "comments": "5684",
+                    "shares": "8558"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:36",
+                  "metrics": {
+                    "views": "1103466",
+                    "likes": "55075",
+                    "favorites": "4837",
+                    "comments": "5973",
+                    "shares": "8919"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:44",
+                  "metrics": {
+                    "views": "1122502",
+                    "likes": "55729",
+                    "favorites": "4895",
+                    "comments": "6030",
+                    "shares": "9021"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 15:08",
+                  "metrics": {
+                    "views": "1168417",
+                    "likes": "57614",
+                    "favorites": "5063",
+                    "comments": "6267",
+                    "shares": "9322"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 15:39",
+                  "metrics": {
+                    "views": "1225727",
+                    "likes": "59935",
+                    "favorites": "5251",
+                    "comments": "6557",
+                    "shares": "9615"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:00",
+                  "metrics": {
+                    "views": "1261366",
+                    "likes": "61433",
+                    "favorites": "5390",
+                    "comments": "6744",
+                    "shares": "9787"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:05",
+                  "metrics": {
+                    "views": "1271343",
+                    "likes": "61759",
+                    "favorites": "5412",
+                    "comments": "6784",
+                    "shares": "9824"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:20",
+                  "metrics": {
+                    "views": "1293046",
+                    "likes": "62658",
+                    "favorites": "5504",
+                    "comments": "6891",
+                    "shares": "9930"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:34",
+                  "metrics": {
+                    "views": "1316527",
+                    "likes": "63533",
+                    "favorites": "5576",
+                    "comments": "6972",
+                    "shares": "10050"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:53",
+                  "metrics": {
+                    "views": "1343855",
+                    "likes": "64600",
+                    "favorites": "5679",
+                    "comments": "7078",
+                    "shares": "10194"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:06",
+                  "metrics": {
+                    "views": "1363082",
+                    "likes": "65330",
+                    "favorites": "5753",
+                    "comments": "7140",
+                    "shares": "10285"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:21",
+                  "metrics": {
+                    "views": "1382483",
+                    "likes": "66110",
+                    "favorites": "5837",
+                    "comments": "7226",
+                    "shares": "10387"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:39",
+                  "metrics": {
+                    "views": "1408362",
+                    "likes": "67152",
+                    "favorites": "5936",
+                    "comments": "7331",
+                    "shares": "10514"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:56",
+                  "metrics": {
+                    "views": "1438095",
+                    "likes": "68237",
+                    "favorites": "6070",
+                    "comments": "7431",
+                    "shares": "10656"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:53",
+                  "metrics": {
+                    "views": "2774736",
+                    "likes": "115908",
+                    "favorites": "11485",
+                    "comments": "9997",
+                    "shares": "16267"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:54",
+                  "metrics": {
+                    "views": "2775901",
+                    "likes": "115946",
+                    "favorites": "11492",
+                    "comments": "9999",
+                    "shares": "16271"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:55",
+                  "metrics": {
+                    "views": "2777017",
+                    "likes": "115957",
+                    "favorites": "11492",
+                    "comments": "9999",
+                    "shares": "16271"
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:20",
+                  "metrics": {
+                    "views": "3041726",
+                    "likes": "124548",
+                    "favorites": "12667",
+                    "comments": "10416",
+                    "shares": "17143"
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:21",
+                  "metrics": {
+                    "views": "3041726",
+                    "likes": "124555",
+                    "favorites": "12669",
+                    "comments": "10417",
+                    "shares": "17144"
+                  }
+                },
+                {
+                  "captured": "2026-09-13 08:27",
+                  "metrics": {
+                    "views": "3520201",
+                    "likes": "138142",
+                    "favorites": "14531",
+                    "comments": "11171",
+                    "shares": "18002"
+                  }
+                },
+                {
+                  "captured": "2026-09-14 08:31",
+                  "metrics": {
+                    "views": "3785716",
+                    "likes": "145148",
+                    "favorites": "15404",
+                    "comments": "11512",
+                    "shares": "18331"
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:22",
+                  "metrics": {
+                    "views": "3918301",
+                    "likes": "148220",
+                    "favorites": "15718",
+                    "comments": "11643",
+                    "shares": "18533"
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:23",
+                  "metrics": {
+                    "views": "3918373",
+                    "likes": "148220",
+                    "favorites": "15718",
+                    "comments": "11643",
+                    "shares": "18533"
+                  }
+                },
+                {
+                  "captured": "2026-09-16 08:06",
+                  "metrics": {
+                    "views": "3995129",
+                    "likes": "149984",
+                    "favorites": "15896",
+                    "comments": "11669",
+                    "shares": "18639"
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:52",
+                  "metrics": {
+                    "views": "4097158",
+                    "likes": "152120",
+                    "favorites": "16249",
+                    "comments": "11767",
+                    "shares": "18796"
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:53",
+                  "metrics": {
+                    "views": "4097158",
+                    "likes": "152120",
+                    "favorites": "16249",
+                    "comments": "11767",
+                    "shares": "18796"
+                  }
+                }
+              ]
+            },
+            {
+              "title": "两分钟发布会 | 首款折叠iPhone Duo亮相 超酷开合动画 Dock栏右侧重构 还有iPhone 18 Pro系列 耳机和手表等",
+              "url": "https://www.bilibili.com/video/BV1K1Yh6UEHC/",
+              "platform": "哔哩哔哩",
+              "creator": "科技美学",
+              "duration": "17:35",
+              "published": "2026-09-10",
+              "metrics": {
+                "views": "1044478",
+                "likes": "21728",
+                "favorites": "3173",
+                "comments": "7215",
+                "shares": "5088"
+              },
+              "captured": "2026-09-17 11:53",
+              "status": "9月10日哔哩哔哩热门榜新增；Apple 官方发布页与平台公开接口已核验账号、标题、发布时间、时长、原始链接及全部公开互动数据；体验判断归因创作者",
+              "metricHistory": [
+                {
+                  "captured": "2026-09-10 10:14",
+                  "metrics": {
+                    "views": "434696",
+                    "likes": "9961",
+                    "favorites": "1652",
+                    "comments": "3455",
+                    "shares": "2945"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 10:21",
+                  "metrics": {
+                    "views": "451261",
+                    "likes": "10375",
+                    "favorites": "1714",
+                    "comments": "3629",
+                    "shares": "3048"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 10:53",
+                  "metrics": {
+                    "views": "489116",
+                    "likes": "11256",
+                    "favorites": "1845",
+                    "comments": "4068",
+                    "shares": "3289"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 10:55",
+                  "metrics": {
+                    "views": "490518",
+                    "likes": "11305",
+                    "favorites": "1857",
+                    "comments": "4098",
+                    "shares": "3302"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:08",
+                  "metrics": {
+                    "views": "504706",
+                    "likes": "11603",
+                    "favorites": "1893",
+                    "comments": "4189",
+                    "shares": "3369"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:21",
+                  "metrics": {
+                    "views": "521275",
+                    "likes": "11944",
+                    "favorites": "1944",
+                    "comments": "4328",
+                    "shares": "3452"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:45",
+                  "metrics": {
+                    "views": "551258",
+                    "likes": "12534",
+                    "favorites": "2037",
+                    "comments": "4632",
+                    "shares": "3620"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:54",
+                  "metrics": {
+                    "views": "564337",
+                    "likes": "12781",
+                    "favorites": "2087",
+                    "comments": "4756",
+                    "shares": "3691"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:09",
+                  "metrics": {
+                    "views": "595037",
+                    "likes": "13407",
+                    "favorites": "2181",
+                    "comments": "5011",
+                    "shares": "3810"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:31",
+                  "metrics": {
+                    "views": "638330",
+                    "likes": "14353",
+                    "favorites": "2291",
+                    "comments": "5378",
+                    "shares": "4023"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:43",
+                  "metrics": {
+                    "views": "658666",
+                    "likes": "14832",
+                    "favorites": "2334",
+                    "comments": "5489",
+                    "shares": "4112"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:06",
+                  "metrics": {
+                    "views": "688754",
+                    "likes": "15552",
+                    "favorites": "2415",
+                    "comments": "5754",
+                    "shares": "4249"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:22",
+                  "metrics": {
+                    "views": "702091",
+                    "likes": "15889",
+                    "favorites": "2455",
+                    "comments": "5816",
+                    "shares": "4293"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:35",
+                  "metrics": {
+                    "views": "712681",
+                    "likes": "16090",
+                    "favorites": "2482",
+                    "comments": "5935",
+                    "shares": "4327"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:53",
+                  "metrics": {
+                    "views": "723784",
+                    "likes": "16308",
+                    "favorites": "2518",
+                    "comments": "5790",
+                    "shares": "4367"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:09",
+                  "metrics": {
+                    "views": "732853",
+                    "likes": "16508",
+                    "favorites": "2535",
+                    "comments": "5864",
+                    "shares": "4409"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:36",
+                  "metrics": {
+                    "views": "747730",
+                    "likes": "16779",
+                    "favorites": "2580",
+                    "comments": "5987",
+                    "shares": "4464"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:44",
+                  "metrics": {
+                    "views": "751670",
+                    "likes": "16863",
+                    "favorites": "2591",
+                    "comments": "6010",
+                    "shares": "4473"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 15:08",
+                  "metrics": {
+                    "views": "761803",
+                    "likes": "17026",
+                    "favorites": "2614",
+                    "comments": "6100",
+                    "shares": "4506"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 15:39",
+                  "metrics": {
+                    "views": "773258",
+                    "likes": "17255",
+                    "favorites": "2644",
+                    "comments": "6193",
+                    "shares": "4544"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:00",
+                  "metrics": {
+                    "views": "780194",
+                    "likes": "17394",
+                    "favorites": "2650",
+                    "comments": "6251",
+                    "shares": "4561"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:05",
+                  "metrics": {
+                    "views": "781766",
+                    "likes": "17414",
+                    "favorites": "2653",
+                    "comments": "6216",
+                    "shares": "4566"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:20",
+                  "metrics": {
+                    "views": "786377",
+                    "likes": "17496",
+                    "favorites": "2668",
+                    "comments": "6253",
+                    "shares": "4576"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:34",
+                  "metrics": {
+                    "views": "790593",
+                    "likes": "17555",
+                    "favorites": "2683",
+                    "comments": "6261",
+                    "shares": "4590"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:53",
+                  "metrics": {
+                    "views": "795518",
+                    "likes": "17646",
+                    "favorites": "2694",
+                    "comments": "6299",
+                    "shares": "4613"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:06",
+                  "metrics": {
+                    "views": "799067",
+                    "likes": "17704",
+                    "favorites": "2704",
+                    "comments": "6331",
+                    "shares": "4623"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:21",
+                  "metrics": {
+                    "views": "802735",
+                    "likes": "17776",
+                    "favorites": "2717",
+                    "comments": "6346",
+                    "shares": "4632"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:39",
+                  "metrics": {
+                    "views": "807410",
+                    "likes": "17870",
+                    "favorites": "2735",
+                    "comments": "6387",
+                    "shares": "4642"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:56",
+                  "metrics": {
+                    "views": "812476",
+                    "likes": "17943",
+                    "favorites": "2754",
+                    "comments": "6412",
+                    "shares": "4660"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:53",
+                  "metrics": {
+                    "views": "1001760",
+                    "likes": "21024",
+                    "favorites": "3126",
+                    "comments": "7096",
+                    "shares": "5025"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:54",
+                  "metrics": {
+                    "views": "1001874",
+                    "likes": "21025",
+                    "favorites": "3126",
+                    "comments": "7096",
+                    "shares": "5025"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:55",
+                  "metrics": {
+                    "views": "1001874",
+                    "likes": "21025",
+                    "favorites": "3126",
+                    "comments": "7097",
+                    "shares": "5025"
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:20",
+                  "metrics": {
+                    "views": "1016441",
+                    "likes": "21267",
+                    "favorites": "3159",
+                    "comments": "7108",
+                    "shares": "5043"
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:21",
+                  "metrics": {
+                    "views": "1016441",
+                    "likes": "21267",
+                    "favorites": "3159",
+                    "comments": "7108",
+                    "shares": "5043"
+                  }
+                },
+                {
+                  "captured": "2026-09-13 08:27",
+                  "metrics": {
+                    "views": "1030766",
+                    "likes": "21522",
+                    "favorites": "3171",
+                    "comments": "7170",
+                    "shares": "5072"
+                  }
+                },
+                {
+                  "captured": "2026-09-14 08:31",
+                  "metrics": {
+                    "views": "1037488",
+                    "likes": "21629",
+                    "favorites": "3173",
+                    "comments": "7173",
+                    "shares": "5081"
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:22",
+                  "metrics": {
+                    "views": "1040971",
+                    "likes": "21680",
+                    "favorites": "3170",
+                    "comments": "7187",
+                    "shares": "5084"
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:23",
+                  "metrics": {
+                    "views": "1040974",
+                    "likes": "21680",
+                    "favorites": "3170",
+                    "comments": "7187",
+                    "shares": "5084"
+                  }
+                },
+                {
+                  "captured": "2026-09-16 08:06",
+                  "metrics": {
+                    "views": "1042897",
+                    "likes": "21703",
+                    "favorites": "3159",
+                    "comments": "7211",
+                    "shares": "5087"
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:52",
+                  "metrics": {
+                    "views": "1044478",
+                    "likes": "21728",
+                    "favorites": "3173",
+                    "comments": "7215",
+                    "shares": "5088"
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:53",
+                  "metrics": {
+                    "views": "1044478",
+                    "likes": "21728",
+                    "favorites": "3173",
+                    "comments": "7215",
+                    "shares": "5088"
+                  }
+                }
+              ]
+            },
+            {
+              "title": "「小白」iPhone Duo真机体验：苹果折叠终于来了！",
+              "url": "https://www.bilibili.com/video/BV1LJYb6ZE1m/",
+              "platform": "哔哩哔哩",
+              "creator": "小白测评",
+              "duration": "07:21",
+              "published": "2026-09-10",
+              "metrics": {
+                "views": "1408800",
+                "likes": "48907",
+                "favorites": "12706",
+                "comments": "10936",
+                "shares": "9534"
+              },
+              "captured": "2026-09-17 11:53",
+              "status": "9月10日哔哩哔哩热门榜新增；Apple 官方发布页与平台公开接口已核验账号、标题、发布时间、时长、原始链接及全部公开互动数据；体验判断归因创作者",
+              "metricHistory": [
+                {
+                  "captured": "2026-09-10 10:14",
+                  "metrics": {
+                    "views": "461980",
+                    "likes": "18927",
+                    "favorites": "5167",
+                    "comments": "4956",
+                    "shares": "4184"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 10:21",
+                  "metrics": {
+                    "views": "476729",
+                    "likes": "19444",
+                    "favorites": "5306",
+                    "comments": "5113",
+                    "shares": "4291"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 10:53",
+                  "metrics": {
+                    "views": "512869",
+                    "likes": "20583",
+                    "favorites": "5608",
+                    "comments": "5545",
+                    "shares": "4495"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 10:55",
+                  "metrics": {
+                    "views": "514300",
+                    "likes": "20675",
+                    "favorites": "5624",
+                    "comments": "5573",
+                    "shares": "4513"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:08",
+                  "metrics": {
+                    "views": "527356",
+                    "likes": "21120",
+                    "favorites": "5733",
+                    "comments": "5749",
+                    "shares": "4594"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:21",
+                  "metrics": {
+                    "views": "542275",
+                    "likes": "21668",
+                    "favorites": "5890",
+                    "comments": "5929",
+                    "shares": "4686"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:45",
+                  "metrics": {
+                    "views": "573966",
+                    "likes": "22817",
+                    "favorites": "6198",
+                    "comments": "6089",
+                    "shares": "4864"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:54",
+                  "metrics": {
+                    "views": "587407",
+                    "likes": "23332",
+                    "favorites": "6327",
+                    "comments": "6208",
+                    "shares": "4944"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:09",
+                  "metrics": {
+                    "views": "613885",
+                    "likes": "24271",
+                    "favorites": "6527",
+                    "comments": "6447",
+                    "shares": "5147"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:31",
+                  "metrics": {
+                    "views": "655590",
+                    "likes": "25840",
+                    "favorites": "6888",
+                    "comments": "6810",
+                    "shares": "5513"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:43",
+                  "metrics": {
+                    "views": "676969",
+                    "likes": "26710",
+                    "favorites": "7074",
+                    "comments": "6964",
+                    "shares": "5619"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:06",
+                  "metrics": {
+                    "views": "709150",
+                    "likes": "27999",
+                    "favorites": "7400",
+                    "comments": "7220",
+                    "shares": "5783"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:22",
+                  "metrics": {
+                    "views": "725557",
+                    "likes": "28703",
+                    "favorites": "7567",
+                    "comments": "7376",
+                    "shares": "5896"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:35",
+                  "metrics": {
+                    "views": "738725",
+                    "likes": "29152",
+                    "favorites": "7685",
+                    "comments": "7497",
+                    "shares": "5941"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:53",
+                  "metrics": {
+                    "views": "753589",
+                    "likes": "29682",
+                    "favorites": "7815",
+                    "comments": "7579",
+                    "shares": "6021"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:09",
+                  "metrics": {
+                    "views": "765471",
+                    "likes": "30092",
+                    "favorites": "7922",
+                    "comments": "7708",
+                    "shares": "6080"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:36",
+                  "metrics": {
+                    "views": "783826",
+                    "likes": "30708",
+                    "favorites": "8082",
+                    "comments": "7871",
+                    "shares": "6163"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:44",
+                  "metrics": {
+                    "views": "788292",
+                    "likes": "30842",
+                    "favorites": "8113",
+                    "comments": "7905",
+                    "shares": "6187"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 15:08",
+                  "metrics": {
+                    "views": "801272",
+                    "likes": "31272",
+                    "favorites": "8235",
+                    "comments": "8028",
+                    "shares": "6316"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 15:39",
+                  "metrics": {
+                    "views": "817633",
+                    "likes": "31818",
+                    "favorites": "8371",
+                    "comments": "8172",
+                    "shares": "6391"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:00",
+                  "metrics": {
+                    "views": "828205",
+                    "likes": "32223",
+                    "favorites": "8479",
+                    "comments": "8275",
+                    "shares": "6430"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:05",
+                  "metrics": {
+                    "views": "830794",
+                    "likes": "32322",
+                    "favorites": "8501",
+                    "comments": "8298",
+                    "shares": "6440"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:20",
+                  "metrics": {
+                    "views": "838261",
+                    "likes": "32567",
+                    "favorites": "8564",
+                    "comments": "8355",
+                    "shares": "6475"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:34",
+                  "metrics": {
+                    "views": "844762",
+                    "likes": "32775",
+                    "favorites": "8618",
+                    "comments": "8300",
+                    "shares": "6505"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:53",
+                  "metrics": {
+                    "views": "853280",
+                    "likes": "33057",
+                    "favorites": "8674",
+                    "comments": "8363",
+                    "shares": "6556"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:06",
+                  "metrics": {
+                    "views": "859339",
+                    "likes": "33276",
+                    "favorites": "8718",
+                    "comments": "8420",
+                    "shares": "6592"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:21",
+                  "metrics": {
+                    "views": "865997",
+                    "likes": "33522",
+                    "favorites": "8779",
+                    "comments": "8483",
+                    "shares": "6624"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:39",
+                  "metrics": {
+                    "views": "875170",
+                    "likes": "33842",
+                    "favorites": "8877",
+                    "comments": "8551",
+                    "shares": "6690"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:56",
+                  "metrics": {
+                    "views": "883870",
+                    "likes": "34124",
+                    "favorites": "8950",
+                    "comments": "8637",
+                    "shares": "6767"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:53",
+                  "metrics": {
+                    "views": "1223971",
+                    "likes": "44330",
+                    "favorites": "11510",
+                    "comments": "10016",
+                    "shares": "9094"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:54",
+                  "metrics": {
+                    "views": "1224325",
+                    "likes": "44335",
+                    "favorites": "11513",
+                    "comments": "10016",
+                    "shares": "9095"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:55",
+                  "metrics": {
+                    "views": "1224325",
+                    "likes": "44337",
+                    "favorites": "11513",
+                    "comments": "10016",
+                    "shares": "9095"
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:20",
+                  "metrics": {
+                    "views": "1266177",
+                    "likes": "45468",
+                    "favorites": "11779",
+                    "comments": "10364",
+                    "shares": "9191"
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:21",
+                  "metrics": {
+                    "views": "1266177",
+                    "likes": "45468",
+                    "favorites": "11779",
+                    "comments": "10364",
+                    "shares": "9191"
+                  }
+                },
+                {
+                  "captured": "2026-09-13 08:27",
+                  "metrics": {
+                    "views": "1326010",
+                    "likes": "46936",
+                    "favorites": "12126",
+                    "comments": "10616",
+                    "shares": "9321"
+                  }
+                },
+                {
+                  "captured": "2026-09-14 08:31",
+                  "metrics": {
+                    "views": "1363072",
+                    "likes": "47837",
+                    "favorites": "12384",
+                    "comments": "10756",
+                    "shares": "9405"
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:22",
+                  "metrics": {
+                    "views": "1382977",
+                    "likes": "48302",
+                    "favorites": "12509",
+                    "comments": "10826",
+                    "shares": "9465"
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:23",
+                  "metrics": {
+                    "views": "1382989",
+                    "likes": "48302",
+                    "favorites": "12509",
+                    "comments": "10826",
+                    "shares": "9465"
+                  }
+                },
+                {
+                  "captured": "2026-09-16 08:06",
+                  "metrics": {
+                    "views": "1395833",
+                    "likes": "48600",
+                    "favorites": "12587",
+                    "comments": "10887",
+                    "shares": "9485"
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:52",
+                  "metrics": {
+                    "views": "1408800",
+                    "likes": "48907",
+                    "favorites": "12706",
+                    "comments": "10936",
+                    "shares": "9534"
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:53",
+                  "metrics": {
+                    "views": "1408800",
+                    "likes": "48907",
+                    "favorites": "12706",
+                    "comments": "10936",
+                    "shares": "9534"
+                  }
+                }
+              ]
+            },
+            {
+              "title": "动态视频 | 折叠屏iPhone Duo、18 Pro系列现场上手！",
+              "url": "https://www.bilibili.com/video/BV1jcYa6BEDm/",
+              "platform": "哔哩哔哩",
+              "creator": "老师好我叫何同学",
+              "duration": "01:56",
+              "published": "2026-09-10",
+              "metrics": {
+                "views": "1541772",
+                "likes": "56507",
+                "favorites": "4948",
+                "comments": "2330",
+                "shares": "5966"
+              },
+              "captured": "2026-09-17 11:53",
+              "status": "9月10日哔哩哔哩热门榜新增；Apple 官方发布页与平台公开接口已核验账号、标题、发布时间、时长、原始链接及全部公开互动数据；体验判断归因创作者",
+              "metricHistory": [
+                {
+                  "captured": "2026-09-10 10:14",
+                  "metrics": {
+                    "views": "182614",
+                    "likes": "7315",
+                    "favorites": "723",
+                    "comments": "576",
+                    "shares": "1379"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 10:21",
+                  "metrics": {
+                    "views": "195220",
+                    "likes": "7730",
+                    "favorites": "769",
+                    "comments": "620",
+                    "shares": "1463"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 10:53",
+                  "metrics": {
+                    "views": "233031",
+                    "likes": "9087",
+                    "favorites": "886",
+                    "comments": "750",
+                    "shares": "1715"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 10:55",
+                  "metrics": {
+                    "views": "236418",
+                    "likes": "9189",
+                    "favorites": "894",
+                    "comments": "760",
+                    "shares": "1735"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:08",
+                  "metrics": {
+                    "views": "252974",
+                    "likes": "9755",
+                    "favorites": "942",
+                    "comments": "771",
+                    "shares": "1840"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:21",
+                  "metrics": {
+                    "views": "270819",
+                    "likes": "10427",
+                    "favorites": "1008",
+                    "comments": "806",
+                    "shares": "1941"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:45",
+                  "metrics": {
+                    "views": "304622",
+                    "likes": "11599",
+                    "favorites": "1108",
+                    "comments": "880",
+                    "shares": "2161"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:54",
+                  "metrics": {
+                    "views": "319491",
+                    "likes": "12159",
+                    "favorites": "1152",
+                    "comments": "905",
+                    "shares": "2249"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:09",
+                  "metrics": {
+                    "views": "348570",
+                    "likes": "13241",
+                    "favorites": "1224",
+                    "comments": "952",
+                    "shares": "2443"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:31",
+                  "metrics": {
+                    "views": "398081",
+                    "likes": "15094",
+                    "favorites": "1366",
+                    "comments": "1033",
+                    "shares": "2805"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:43",
+                  "metrics": {
+                    "views": "425024",
+                    "likes": "15992",
+                    "favorites": "1426",
+                    "comments": "1074",
+                    "shares": "2941"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:06",
+                  "metrics": {
+                    "views": "461976",
+                    "likes": "17242",
+                    "favorites": "1534",
+                    "comments": "1131",
+                    "shares": "3142"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:22",
+                  "metrics": {
+                    "views": "483932",
+                    "likes": "17934",
+                    "favorites": "1595",
+                    "comments": "1157",
+                    "shares": "3259"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:35",
+                  "metrics": {
+                    "views": "501353",
+                    "likes": "18586",
+                    "favorites": "1654",
+                    "comments": "1182",
+                    "shares": "3339"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:53",
+                  "metrics": {
+                    "views": "521142",
+                    "likes": "19248",
+                    "favorites": "1706",
+                    "comments": "1202",
+                    "shares": "3410"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:09",
+                  "metrics": {
+                    "views": "534033",
+                    "likes": "19713",
+                    "favorites": "1744",
+                    "comments": "1228",
+                    "shares": "3468"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:36",
+                  "metrics": {
+                    "views": "556455",
+                    "likes": "20509",
+                    "favorites": "1819",
+                    "comments": "1285",
+                    "shares": "3566"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:44",
+                  "metrics": {
+                    "views": "563004",
+                    "likes": "20758",
+                    "favorites": "1830",
+                    "comments": "1305",
+                    "shares": "3600"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 15:08",
+                  "metrics": {
+                    "views": "583235",
+                    "likes": "21436",
+                    "favorites": "1893",
+                    "comments": "1334",
+                    "shares": "3708"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 15:39",
+                  "metrics": {
+                    "views": "611612",
+                    "likes": "22449",
+                    "favorites": "1953",
+                    "comments": "1373",
+                    "shares": "3823"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:00",
+                  "metrics": {
+                    "views": "628513",
+                    "likes": "23091",
+                    "favorites": "1997",
+                    "comments": "1394",
+                    "shares": "3895"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:05",
+                  "metrics": {
+                    "views": "631317",
+                    "likes": "23211",
+                    "favorites": "2007",
+                    "comments": "1395",
+                    "shares": "3901"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:20",
+                  "metrics": {
+                    "views": "639115",
+                    "likes": "23488",
+                    "favorites": "2033",
+                    "comments": "1412",
+                    "shares": "3917"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:34",
+                  "metrics": {
+                    "views": "647410",
+                    "likes": "23754",
+                    "favorites": "2057",
+                    "comments": "1424",
+                    "shares": "3938"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:53",
+                  "metrics": {
+                    "views": "657362",
+                    "likes": "24113",
+                    "favorites": "2106",
+                    "comments": "1443",
+                    "shares": "3979"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:06",
+                  "metrics": {
+                    "views": "665073",
+                    "likes": "24417",
+                    "favorites": "2134",
+                    "comments": "1453",
+                    "shares": "4026"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:21",
+                  "metrics": {
+                    "views": "673843",
+                    "likes": "24793",
+                    "favorites": "2170",
+                    "comments": "1462",
+                    "shares": "4072"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:39",
+                  "metrics": {
+                    "views": "684957",
+                    "likes": "25203",
+                    "favorites": "2214",
+                    "comments": "1470",
+                    "shares": "4110"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:56",
+                  "metrics": {
+                    "views": "696153",
+                    "likes": "25623",
+                    "favorites": "2261",
+                    "comments": "1490",
+                    "shares": "4158"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:53",
+                  "metrics": {
+                    "views": "1174144",
+                    "likes": "43070",
+                    "favorites": "3756",
+                    "comments": "2013",
+                    "shares": "5544"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:54",
+                  "metrics": {
+                    "views": "1174689",
+                    "likes": "43080",
+                    "favorites": "3758",
+                    "comments": "2014",
+                    "shares": "5544"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:55",
+                  "metrics": {
+                    "views": "1174689",
+                    "likes": "43087",
+                    "favorites": "3759",
+                    "comments": "2014",
+                    "shares": "5544"
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:20",
+                  "metrics": {
+                    "views": "1252990",
+                    "likes": "46050",
+                    "favorites": "4027",
+                    "comments": "2089",
+                    "shares": "5654"
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:21",
+                  "metrics": {
+                    "views": "1252990",
+                    "likes": "46052",
+                    "favorites": "4027",
+                    "comments": "2089",
+                    "shares": "5655"
+                  }
+                },
+                {
+                  "captured": "2026-09-13 08:27",
+                  "metrics": {
+                    "views": "1403602",
+                    "likes": "52108",
+                    "favorites": "4604",
+                    "comments": "2231",
+                    "shares": "5837"
+                  }
+                },
+                {
+                  "captured": "2026-09-14 08:31",
+                  "metrics": {
+                    "views": "1471154",
+                    "likes": "54520",
+                    "favorites": "4806",
+                    "comments": "2292",
+                    "shares": "5906"
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:22",
+                  "metrics": {
+                    "views": "1502192",
+                    "likes": "55448",
+                    "favorites": "4868",
+                    "comments": "2314",
+                    "shares": "5936"
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:23",
+                  "metrics": {
+                    "views": "1502192",
+                    "likes": "55448",
+                    "favorites": "4868",
+                    "comments": "2314",
+                    "shares": "5936"
+                  }
+                },
+                {
+                  "captured": "2026-09-16 08:06",
+                  "metrics": {
+                    "views": "1521323",
+                    "likes": "56021",
+                    "favorites": "4909",
+                    "comments": "2321",
+                    "shares": "5955"
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:52",
+                  "metrics": {
+                    "views": "1541772",
+                    "likes": "56507",
+                    "favorites": "4948",
+                    "comments": "2330",
+                    "shares": "5966"
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:53",
+                  "metrics": {
+                    "views": "1541772",
+                    "likes": "56507",
+                    "favorites": "4948",
+                    "comments": "2330",
+                    "shares": "5966"
+                  }
+                }
+              ]
+            },
+            {
+              "title": "iPhone Duo上手体验！折痕控制太离谱了",
+              "url": "https://www.bilibili.com/video/BV1FDYb6qEQ5/",
+              "platform": "哔哩哔哩",
+              "creator": "虽然但是张黑黑",
+              "duration": "00:47",
+              "published": "2026-09-10",
+              "metrics": {
+                "views": "1253149",
+                "likes": "10597",
+                "favorites": "2956",
+                "comments": "7018",
+                "shares": "7519"
+              },
+              "captured": "2026-09-17 11:53",
+              "status": "9月10日哔哩哔哩热门榜新增；Apple 官方发布页与平台公开接口已核验账号、标题、发布时间、时长、原始链接及全部公开互动数据；体验判断归因创作者",
+              "metricHistory": [
+                {
+                  "captured": "2026-09-10 10:14",
+                  "metrics": {
+                    "views": "493932",
+                    "likes": "4398",
+                    "favorites": "2015",
+                    "comments": "3309",
+                    "shares": "5444"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 10:21",
+                  "metrics": {
+                    "views": "508627",
+                    "likes": "4495",
+                    "favorites": "2036",
+                    "comments": "3415",
+                    "shares": "5548"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 10:53",
+                  "metrics": {
+                    "views": "538065",
+                    "likes": "4659",
+                    "favorites": "2083",
+                    "comments": "3519",
+                    "shares": "5732"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 10:55",
+                  "metrics": {
+                    "views": "540165",
+                    "likes": "4669",
+                    "favorites": "2088",
+                    "comments": "3527",
+                    "shares": "5744"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:08",
+                  "metrics": {
+                    "views": "550788",
+                    "likes": "4721",
+                    "favorites": "2108",
+                    "comments": "3610",
+                    "shares": "5812"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:21",
+                  "metrics": {
+                    "views": "562492",
+                    "likes": "4779",
+                    "favorites": "2130",
+                    "comments": "3686",
+                    "shares": "5884"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:45",
+                  "metrics": {
+                    "views": "582012",
+                    "likes": "4878",
+                    "favorites": "2154",
+                    "comments": "3842",
+                    "shares": "5997"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:54",
+                  "metrics": {
+                    "views": "590701",
+                    "likes": "4922",
+                    "favorites": "2161",
+                    "comments": "3882",
+                    "shares": "6049"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:09",
+                  "metrics": {
+                    "views": "611941",
+                    "likes": "5025",
+                    "favorites": "2192",
+                    "comments": "4000",
+                    "shares": "6177"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:31",
+                  "metrics": {
+                    "views": "637630",
+                    "likes": "5145",
+                    "favorites": "2225",
+                    "comments": "4181",
+                    "shares": "6309"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:43",
+                  "metrics": {
+                    "views": "653409",
+                    "likes": "5227",
+                    "favorites": "2237",
+                    "comments": "4272",
+                    "shares": "6400"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:06",
+                  "metrics": {
+                    "views": "676592",
+                    "likes": "5345",
+                    "favorites": "2268",
+                    "comments": "4431",
+                    "shares": "6505"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:22",
+                  "metrics": {
+                    "views": "690774",
+                    "likes": "5414",
+                    "favorites": "2284",
+                    "comments": "4509",
+                    "shares": "6572"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:35",
+                  "metrics": {
+                    "views": "699478",
+                    "likes": "5460",
+                    "favorites": "2299",
+                    "comments": "4560",
+                    "shares": "6612"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:53",
+                  "metrics": {
+                    "views": "710238",
+                    "likes": "5505",
+                    "favorites": "2317",
+                    "comments": "4615",
+                    "shares": "6663"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:09",
+                  "metrics": {
+                    "views": "718658",
+                    "likes": "5553",
+                    "favorites": "2331",
+                    "comments": "4669",
+                    "shares": "6699"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:36",
+                  "metrics": {
+                    "views": "731218",
+                    "likes": "5615",
+                    "favorites": "2340",
+                    "comments": "4761",
+                    "shares": "6743"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:44",
+                  "metrics": {
+                    "views": "734632",
+                    "likes": "5627",
+                    "favorites": "2342",
+                    "comments": "4789",
+                    "shares": "6759"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 15:08",
+                  "metrics": {
+                    "views": "745155",
+                    "likes": "5668",
+                    "favorites": "2358",
+                    "comments": "4870",
+                    "shares": "6785"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 15:39",
+                  "metrics": {
+                    "views": "756713",
+                    "likes": "5711",
+                    "favorites": "2368",
+                    "comments": "4855",
+                    "shares": "6825"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:00",
+                  "metrics": {
+                    "views": "763796",
+                    "likes": "5734",
+                    "favorites": "2374",
+                    "comments": "4888",
+                    "shares": "6849"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:05",
+                  "metrics": {
+                    "views": "765398",
+                    "likes": "5746",
+                    "favorites": "2374",
+                    "comments": "4902",
+                    "shares": "6853"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:20",
+                  "metrics": {
+                    "views": "770340",
+                    "likes": "5763",
+                    "favorites": "2380",
+                    "comments": "4932",
+                    "shares": "6863"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:34",
+                  "metrics": {
+                    "views": "774497",
+                    "likes": "5781",
+                    "favorites": "2389",
+                    "comments": "4953",
+                    "shares": "6879"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:53",
+                  "metrics": {
+                    "views": "779795",
+                    "likes": "5805",
+                    "favorites": "2391",
+                    "comments": "4985",
+                    "shares": "6896"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:06",
+                  "metrics": {
+                    "views": "783327",
+                    "likes": "5820",
+                    "favorites": "2399",
+                    "comments": "5016",
+                    "shares": "6907"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:21",
+                  "metrics": {
+                    "views": "786896",
+                    "likes": "5837",
+                    "favorites": "2402",
+                    "comments": "5038",
+                    "shares": "6916"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:39",
+                  "metrics": {
+                    "views": "790869",
+                    "likes": "5855",
+                    "favorites": "2405",
+                    "comments": "5063",
+                    "shares": "6929"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:56",
+                  "metrics": {
+                    "views": "794978",
+                    "likes": "5878",
+                    "favorites": "2415",
+                    "comments": "5087",
+                    "shares": "6938"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:53",
+                  "metrics": {
+                    "views": "1166929",
+                    "likes": "10297",
+                    "favorites": "2768",
+                    "comments": "6700",
+                    "shares": "7460"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:54",
+                  "metrics": {
+                    "views": "1166968",
+                    "likes": "10297",
+                    "favorites": "2768",
+                    "comments": "6700",
+                    "shares": "7460"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:55",
+                  "metrics": {
+                    "views": "1166968",
+                    "likes": "10297",
+                    "favorites": "2768",
+                    "comments": "6701",
+                    "shares": "7460"
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:20",
+                  "metrics": {
+                    "views": "1175062",
+                    "likes": "10347",
+                    "favorites": "2795",
+                    "comments": "6733",
+                    "shares": "7473"
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:21",
+                  "metrics": {
+                    "views": "1175062",
+                    "likes": "10347",
+                    "favorites": "2795",
+                    "comments": "6733",
+                    "shares": "7473"
+                  }
+                },
+                {
+                  "captured": "2026-09-13 08:27",
+                  "metrics": {
+                    "views": "1192813",
+                    "likes": "10411",
+                    "favorites": "2838",
+                    "comments": "6784",
+                    "shares": "7486"
+                  }
+                },
+                {
+                  "captured": "2026-09-14 08:31",
+                  "metrics": {
+                    "views": "1202872",
+                    "likes": "10450",
+                    "favorites": "2869",
+                    "comments": "6810",
+                    "shares": "7492"
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:22",
+                  "metrics": {
+                    "views": "1222652",
+                    "likes": "10519",
+                    "favorites": "2909",
+                    "comments": "6919",
+                    "shares": "7502"
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:23",
+                  "metrics": {
+                    "views": "1222658",
+                    "likes": "10519",
+                    "favorites": "2909",
+                    "comments": "6919",
+                    "shares": "7502"
+                  }
+                },
+                {
+                  "captured": "2026-09-16 08:06",
+                  "metrics": {
+                    "views": "1235812",
+                    "likes": "10550",
+                    "favorites": "2939",
+                    "comments": "6960",
+                    "shares": "7509"
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:52",
+                  "metrics": {
+                    "views": "1253149",
+                    "likes": "10597",
+                    "favorites": "2956",
+                    "comments": "7018",
+                    "shares": "7519"
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:53",
+                  "metrics": {
+                    "views": "1253149",
+                    "likes": "10597",
+                    "favorites": "2956",
+                    "comments": "7018",
+                    "shares": "7519"
+                  }
+                }
+              ]
+            },
+            {
+              "title": "新CEO，新形态，新时代｜十分钟看懂2026苹果秋季新品发布会",
+              "url": "https://www.bilibili.com/video/BV1VbYh68E6V/",
+              "platform": "哔哩哔哩",
+              "creator": "盐酸HClknight",
+              "duration": "09:33",
+              "published": "2026-09-10",
+              "metrics": {
+                "views": "135459",
+                "likes": "4246",
+                "favorites": "1286",
+                "comments": "512",
+                "shares": "428"
+              },
+              "captured": "2026-09-17 11:53",
+              "status": "9月10日哔哩哔哩热门榜新增；Apple 官方发布页与平台公开接口已核验账号、标题、发布时间、时长、原始链接及全部公开互动数据；体验判断归因创作者",
+              "metricHistory": [
+                {
+                  "captured": "2026-09-10 10:14",
+                  "metrics": {
+                    "views": "60646",
+                    "likes": "1567",
+                    "favorites": "1082",
+                    "comments": "162",
+                    "shares": "292"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 10:21",
+                  "metrics": {
+                    "views": "63448",
+                    "likes": "1598",
+                    "favorites": "1083",
+                    "comments": "167",
+                    "shares": "307"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 10:53",
+                  "metrics": {
+                    "views": "68752",
+                    "likes": "1646",
+                    "favorites": "1095",
+                    "comments": "184",
+                    "shares": "323"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 10:55",
+                  "metrics": {
+                    "views": "69187",
+                    "likes": "1649",
+                    "favorites": "1095",
+                    "comments": "185",
+                    "shares": "325"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:08",
+                  "metrics": {
+                    "views": "70897",
+                    "likes": "1663",
+                    "favorites": "1099",
+                    "comments": "193",
+                    "shares": "332"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:21",
+                  "metrics": {
+                    "views": "72665",
+                    "likes": "1676",
+                    "favorites": "1105",
+                    "comments": "200",
+                    "shares": "337"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:45",
+                  "metrics": {
+                    "views": "75745",
+                    "likes": "1698",
+                    "favorites": "1115",
+                    "comments": "207",
+                    "shares": "346"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:54",
+                  "metrics": {
+                    "views": "77300",
+                    "likes": "1704",
+                    "favorites": "1115",
+                    "comments": "208",
+                    "shares": "350"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:09",
+                  "metrics": {
+                    "views": "80216",
+                    "likes": "1729",
+                    "favorites": "1121",
+                    "comments": "214",
+                    "shares": "357"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:31",
+                  "metrics": {
+                    "views": "84224",
+                    "likes": "1758",
+                    "favorites": "1135",
+                    "comments": "224",
+                    "shares": "363"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:43",
+                  "metrics": {
+                    "views": "86472",
+                    "likes": "1777",
+                    "favorites": "1141",
+                    "comments": "234",
+                    "shares": "370"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:06",
+                  "metrics": {
+                    "views": "90417",
+                    "likes": "1809",
+                    "favorites": "1156",
+                    "comments": "245",
+                    "shares": "375"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:22",
+                  "metrics": {
+                    "views": "92392",
+                    "likes": "1818",
+                    "favorites": "1163",
+                    "comments": "248",
+                    "shares": "379"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:35",
+                  "metrics": {
+                    "views": "93749",
+                    "likes": "1832",
+                    "favorites": "1167",
+                    "comments": "251",
+                    "shares": "379"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:53",
+                  "metrics": {
+                    "views": "95714",
+                    "likes": "1840",
+                    "favorites": "1172",
+                    "comments": "253",
+                    "shares": "382"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:09",
+                  "metrics": {
+                    "views": "97225",
+                    "likes": "1852",
+                    "favorites": "1178",
+                    "comments": "256",
+                    "shares": "386"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:36",
+                  "metrics": {
+                    "views": "99519",
+                    "likes": "1868",
+                    "favorites": "1182",
+                    "comments": "262",
+                    "shares": "392"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:44",
+                  "metrics": {
+                    "views": "100121",
+                    "likes": "1871",
+                    "favorites": "1184",
+                    "comments": "266",
+                    "shares": "393"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 15:08",
+                  "metrics": {
+                    "views": "101750",
+                    "likes": "1889",
+                    "favorites": "1190",
+                    "comments": "270",
+                    "shares": "397"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 15:39",
+                  "metrics": {
+                    "views": "103581",
+                    "likes": "1895",
+                    "favorites": "1196",
+                    "comments": "276",
+                    "shares": "399"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:00",
+                  "metrics": {
+                    "views": "104718",
+                    "likes": "1902",
+                    "favorites": "1201",
+                    "comments": "280",
+                    "shares": "401"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:05",
+                  "metrics": {
+                    "views": "105040",
+                    "likes": "1905",
+                    "favorites": "1201",
+                    "comments": "282",
+                    "shares": "401"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:20",
+                  "metrics": {
+                    "views": "106051",
+                    "likes": "1911",
+                    "favorites": "1202",
+                    "comments": "284",
+                    "shares": "404"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:34",
+                  "metrics": {
+                    "views": "106842",
+                    "likes": "3917",
+                    "favorites": "1215",
+                    "comments": "286",
+                    "shares": "405"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:53",
+                  "metrics": {
+                    "views": "107804",
+                    "likes": "3927",
+                    "favorites": "1218",
+                    "comments": "286",
+                    "shares": "405"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:06",
+                  "metrics": {
+                    "views": "108556",
+                    "likes": "3935",
+                    "favorites": "1220",
+                    "comments": "287",
+                    "shares": "405"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:21",
+                  "metrics": {
+                    "views": "109245",
+                    "likes": "3940",
+                    "favorites": "1221",
+                    "comments": "289",
+                    "shares": "405"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:39",
+                  "metrics": {
+                    "views": "110128",
+                    "likes": "3950",
+                    "favorites": "1224",
+                    "comments": "290",
+                    "shares": "405"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:56",
+                  "metrics": {
+                    "views": "110926",
+                    "likes": "3955",
+                    "favorites": "1224",
+                    "comments": "291",
+                    "shares": "406"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:53",
+                  "metrics": {
+                    "views": "130763",
+                    "likes": "4165",
+                    "favorites": "1267",
+                    "comments": "333",
+                    "shares": "426"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:54",
+                  "metrics": {
+                    "views": "130767",
+                    "likes": "4165",
+                    "favorites": "1266",
+                    "comments": "333",
+                    "shares": "426"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:55",
+                  "metrics": {
+                    "views": "130771",
+                    "likes": "4165",
+                    "favorites": "1266",
+                    "comments": "333",
+                    "shares": "426"
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:20",
+                  "metrics": {
+                    "views": "131775",
+                    "likes": "4201",
+                    "favorites": "1274",
+                    "comments": "435",
+                    "shares": "426"
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:21",
+                  "metrics": {
+                    "views": "131775",
+                    "likes": "4201",
+                    "favorites": "1274",
+                    "comments": "435",
+                    "shares": "426"
+                  }
+                },
+                {
+                  "captured": "2026-09-13 08:27",
+                  "metrics": {
+                    "views": "133726",
+                    "likes": "4234",
+                    "favorites": "1290",
+                    "comments": "509",
+                    "shares": "427"
+                  }
+                },
+                {
+                  "captured": "2026-09-14 08:31",
+                  "metrics": {
+                    "views": "134830",
+                    "likes": "4243",
+                    "favorites": "1292",
+                    "comments": "509",
+                    "shares": "427"
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:22",
+                  "metrics": {
+                    "views": "135148",
+                    "likes": "4244",
+                    "favorites": "1290",
+                    "comments": "509",
+                    "shares": "428"
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:23",
+                  "metrics": {
+                    "views": "135148",
+                    "likes": "4244",
+                    "favorites": "1290",
+                    "comments": "509",
+                    "shares": "428"
+                  }
+                },
+                {
+                  "captured": "2026-09-16 08:06",
+                  "metrics": {
+                    "views": "135289",
+                    "likes": "4246",
+                    "favorites": "1289",
+                    "comments": "509",
+                    "shares": "428"
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:52",
+                  "metrics": {
+                    "views": "135459",
+                    "likes": "4246",
+                    "favorites": "1286",
+                    "comments": "512",
+                    "shares": "428"
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:53",
+                  "metrics": {
+                    "views": "135459",
+                    "likes": "4246",
+                    "favorites": "1286",
+                    "comments": "512",
+                    "shares": "428"
+                  }
+                }
+              ]
+            },
+            {
+              "title": "iPhone Duo 折叠机的最大优点！｜大耳朵TV",
+              "url": "https://www.bilibili.com/video/BV1TBYb61ESg/",
+              "platform": "哔哩哔哩",
+              "creator": "大耳朵TV",
+              "duration": "04:30",
+              "published": "2026-09-10",
+              "metrics": {
+                "views": "644077",
+                "likes": "9580",
+                "favorites": "1620",
+                "comments": "4261",
+                "shares": "2960"
+              },
+              "captured": "2026-09-17 11:53",
+              "status": "2026-09-10 10:53 扫描新进入哔哩哔哩热门榜第 17 位；平台公开接口已核验账号、标题、发布时间、时长、原始链接及全部公开互动数据；与站内 iPhone Duo 主题为同平台关联版本，体验判断归因创作者",
+              "metricHistory": [
+                {
+                  "captured": "2026-09-10 10:55",
+                  "metrics": {
+                    "views": "217823",
+                    "likes": "4043",
+                    "favorites": "698",
+                    "comments": "1906",
+                    "shares": "1482"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:08",
+                  "metrics": {
+                    "views": "224444",
+                    "likes": "4166",
+                    "favorites": "710",
+                    "comments": "1975",
+                    "shares": "1522"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:21",
+                  "metrics": {
+                    "views": "233366",
+                    "likes": "4301",
+                    "favorites": "735",
+                    "comments": "2057",
+                    "shares": "1572"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:45",
+                  "metrics": {
+                    "views": "249231",
+                    "likes": "4524",
+                    "favorites": "782",
+                    "comments": "2166",
+                    "shares": "1692"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:54",
+                  "metrics": {
+                    "views": "255242",
+                    "likes": "4619",
+                    "favorites": "799",
+                    "comments": "2219",
+                    "shares": "1723"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:09",
+                  "metrics": {
+                    "views": "267403",
+                    "likes": "4783",
+                    "favorites": "821",
+                    "comments": "2337",
+                    "shares": "1787"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:31",
+                  "metrics": {
+                    "views": "285082",
+                    "likes": "5056",
+                    "favorites": "849",
+                    "comments": "2474",
+                    "shares": "1905"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:43",
+                  "metrics": {
+                    "views": "294532",
+                    "likes": "5203",
+                    "favorites": "865",
+                    "comments": "2545",
+                    "shares": "1950"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:06",
+                  "metrics": {
+                    "views": "309052",
+                    "likes": "5456",
+                    "favorites": "899",
+                    "comments": "2631",
+                    "shares": "2038"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:22",
+                  "metrics": {
+                    "views": "317425",
+                    "likes": "5604",
+                    "favorites": "907",
+                    "comments": "2688",
+                    "shares": "2078"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:35",
+                  "metrics": {
+                    "views": "325054",
+                    "likes": "5738",
+                    "favorites": "941",
+                    "comments": "2713",
+                    "shares": "2119"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:53",
+                  "metrics": {
+                    "views": "334997",
+                    "likes": "5872",
+                    "favorites": "962",
+                    "comments": "2783",
+                    "shares": "2165"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:09",
+                  "metrics": {
+                    "views": "343875",
+                    "likes": "5996",
+                    "favorites": "982",
+                    "comments": "2875",
+                    "shares": "2205"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:36",
+                  "metrics": {
+                    "views": "356465",
+                    "likes": "6139",
+                    "favorites": "1023",
+                    "comments": "2995",
+                    "shares": "2256"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:44",
+                  "metrics": {
+                    "views": "358791",
+                    "likes": "6182",
+                    "favorites": "1029",
+                    "comments": "3011",
+                    "shares": "2265"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 15:08",
+                  "metrics": {
+                    "views": "365438",
+                    "likes": "6295",
+                    "favorites": "1041",
+                    "comments": "3088",
+                    "shares": "2291"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 15:39",
+                  "metrics": {
+                    "views": "373731",
+                    "likes": "6405",
+                    "favorites": "1061",
+                    "comments": "3181",
+                    "shares": "2328"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:00",
+                  "metrics": {
+                    "views": "378702",
+                    "likes": "6476",
+                    "favorites": "1076",
+                    "comments": "3223",
+                    "shares": "2346"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:05",
+                  "metrics": {
+                    "views": "379740",
+                    "likes": "6487",
+                    "favorites": "1078",
+                    "comments": "3235",
+                    "shares": "2352"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:20",
+                  "metrics": {
+                    "views": "383006",
+                    "likes": "6529",
+                    "favorites": "1086",
+                    "comments": "3260",
+                    "shares": "2361"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:34",
+                  "metrics": {
+                    "views": "386166",
+                    "likes": "6583",
+                    "favorites": "1098",
+                    "comments": "3288",
+                    "shares": "2375"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:53",
+                  "metrics": {
+                    "views": "389809",
+                    "likes": "6635",
+                    "favorites": "1111",
+                    "comments": "3309",
+                    "shares": "2386"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:06",
+                  "metrics": {
+                    "views": "392496",
+                    "likes": "6674",
+                    "favorites": "1115",
+                    "comments": "3324",
+                    "shares": "2397"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:21",
+                  "metrics": {
+                    "views": "395428",
+                    "likes": "6727",
+                    "favorites": "1126",
+                    "comments": "3349",
+                    "shares": "2412"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:39",
+                  "metrics": {
+                    "views": "399011",
+                    "likes": "6785",
+                    "favorites": "1136",
+                    "comments": "3373",
+                    "shares": "2426"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:56",
+                  "metrics": {
+                    "views": "402427",
+                    "likes": "6847",
+                    "favorites": "1140",
+                    "comments": "3396",
+                    "shares": "2432"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:53",
+                  "metrics": {
+                    "views": "542998",
+                    "likes": "8748",
+                    "favorites": "1409",
+                    "comments": "4000",
+                    "shares": "2839"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:54",
+                  "metrics": {
+                    "views": "543077",
+                    "likes": "8749",
+                    "favorites": "1409",
+                    "comments": "4000",
+                    "shares": "2839"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:55",
+                  "metrics": {
+                    "views": "543163",
+                    "likes": "8749",
+                    "favorites": "1409",
+                    "comments": "4000",
+                    "shares": "2839"
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:20",
+                  "metrics": {
+                    "views": "560268",
+                    "likes": "8913",
+                    "favorites": "1446",
+                    "comments": "4058",
+                    "shares": "2868"
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:21",
+                  "metrics": {
+                    "views": "560296",
+                    "likes": "8913",
+                    "favorites": "1446",
+                    "comments": "4058",
+                    "shares": "2868"
+                  }
+                },
+                {
+                  "captured": "2026-09-13 08:27",
+                  "metrics": {
+                    "views": "586865",
+                    "likes": "9161",
+                    "favorites": "1494",
+                    "comments": "4146",
+                    "shares": "2901"
+                  }
+                },
+                {
+                  "captured": "2026-09-14 08:31",
+                  "metrics": {
+                    "views": "611808",
+                    "likes": "9364",
+                    "favorites": "1543",
+                    "comments": "4205",
+                    "shares": "2929"
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:22",
+                  "metrics": {
+                    "views": "627093",
+                    "likes": "9461",
+                    "favorites": "1576",
+                    "comments": "4236",
+                    "shares": "2940"
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:23",
+                  "metrics": {
+                    "views": "627093",
+                    "likes": "9461",
+                    "favorites": "1576",
+                    "comments": "4236",
+                    "shares": "2940"
+                  }
+                },
+                {
+                  "captured": "2026-09-16 08:06",
+                  "metrics": {
+                    "views": "635498",
+                    "likes": "9525",
+                    "favorites": "1609",
+                    "comments": "4250",
+                    "shares": "2952"
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:52",
+                  "metrics": {
+                    "views": "644077",
+                    "likes": "9580",
+                    "favorites": "1620",
+                    "comments": "4261",
+                    "shares": "2960"
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:53",
+                  "metrics": {
+                    "views": "644077",
+                    "likes": "9580",
+                    "favorites": "1620",
+                    "comments": "4261",
+                    "shares": "2960"
+                  }
+                }
+              ]
+            },
+            {
+              "title": "【全网最细】iPhone Duo 体验，最强折叠？15999 值吗？",
+              "url": "https://www.bilibili.com/video/BV1nLYh6uED8/",
+              "platform": "哔哩哔哩",
+              "creator": "橙红Iris",
+              "duration": "07:55",
+              "published": "2026-09-10",
+              "metrics": {
+                "views": "497175",
+                "likes": "19940",
+                "favorites": "3473",
+                "comments": "2537",
+                "shares": "1986"
+              },
+              "captured": "2026-09-17 11:53",
+              "status": "2026-09-10 10:53 扫描新进入哔哩哔哩热门榜第 48 位；平台公开接口已核验账号、标题、发布时间、时长、原始链接及全部公开互动数据；与站内 iPhone Duo 主题为同平台关联版本，体验判断归因创作者",
+              "metricHistory": [
+                {
+                  "captured": "2026-09-10 10:55",
+                  "metrics": {
+                    "views": "58623",
+                    "likes": "7798",
+                    "favorites": "1714",
+                    "comments": "532",
+                    "shares": "1127"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:08",
+                  "metrics": {
+                    "views": "61051",
+                    "likes": "7887",
+                    "favorites": "1725",
+                    "comments": "563",
+                    "shares": "1143"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:21",
+                  "metrics": {
+                    "views": "64937",
+                    "likes": "7982",
+                    "favorites": "1754",
+                    "comments": "600",
+                    "shares": "1163"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:45",
+                  "metrics": {
+                    "views": "75389",
+                    "likes": "8172",
+                    "favorites": "1805",
+                    "comments": "699",
+                    "shares": "1219"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:54",
+                  "metrics": {
+                    "views": "79554",
+                    "likes": "8250",
+                    "favorites": "1821",
+                    "comments": "724",
+                    "shares": "1237"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:09",
+                  "metrics": {
+                    "views": "88519",
+                    "likes": "8413",
+                    "favorites": "1852",
+                    "comments": "783",
+                    "shares": "1265"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:31",
+                  "metrics": {
+                    "views": "102315",
+                    "likes": "8675",
+                    "favorites": "1910",
+                    "comments": "900",
+                    "shares": "1311"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:43",
+                  "metrics": {
+                    "views": "109508",
+                    "likes": "8837",
+                    "favorites": "1940",
+                    "comments": "943",
+                    "shares": "1345"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:06",
+                  "metrics": {
+                    "views": "121362",
+                    "likes": "9114",
+                    "favorites": "1978",
+                    "comments": "1051",
+                    "shares": "1387"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:22",
+                  "metrics": {
+                    "views": "129405",
+                    "likes": "9276",
+                    "favorites": "2005",
+                    "comments": "1112",
+                    "shares": "1424"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:35",
+                  "metrics": {
+                    "views": "134904",
+                    "likes": "9378",
+                    "favorites": "2015",
+                    "comments": "1146",
+                    "shares": "1440"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:53",
+                  "metrics": {
+                    "views": "140921",
+                    "likes": "9489",
+                    "favorites": "2044",
+                    "comments": "1186",
+                    "shares": "1459"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:09",
+                  "metrics": {
+                    "views": "147428",
+                    "likes": "9602",
+                    "favorites": "2064",
+                    "comments": "1230",
+                    "shares": "1482"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:36",
+                  "metrics": {
+                    "views": "158198",
+                    "likes": "13854",
+                    "favorites": "2300",
+                    "comments": "1305",
+                    "shares": "1521"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:44",
+                  "metrics": {
+                    "views": "161174",
+                    "likes": "13933",
+                    "favorites": "2320",
+                    "comments": "1323",
+                    "shares": "1534"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 15:08",
+                  "metrics": {
+                    "views": "169639",
+                    "likes": "14099",
+                    "favorites": "2350",
+                    "comments": "1368",
+                    "shares": "1555"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 15:39",
+                  "metrics": {
+                    "views": "178887",
+                    "likes": "14276",
+                    "favorites": "2374",
+                    "comments": "1452",
+                    "shares": "1576"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:00",
+                  "metrics": {
+                    "views": "185012",
+                    "likes": "14372",
+                    "favorites": "2402",
+                    "comments": "1494",
+                    "shares": "1596"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:05",
+                  "metrics": {
+                    "views": "186359",
+                    "likes": "14402",
+                    "favorites": "2406",
+                    "comments": "1503",
+                    "shares": "1598"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:20",
+                  "metrics": {
+                    "views": "190514",
+                    "likes": "14489",
+                    "favorites": "2422",
+                    "comments": "1542",
+                    "shares": "1606"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:34",
+                  "metrics": {
+                    "views": "194230",
+                    "likes": "14555",
+                    "favorites": "2438",
+                    "comments": "1569",
+                    "shares": "1617"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:53",
+                  "metrics": {
+                    "views": "198191",
+                    "likes": "14630",
+                    "favorites": "2453",
+                    "comments": "1615",
+                    "shares": "1625"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:06",
+                  "metrics": {
+                    "views": "200961",
+                    "likes": "14683",
+                    "favorites": "2458",
+                    "comments": "1640",
+                    "shares": "1627"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:21",
+                  "metrics": {
+                    "views": "204225",
+                    "likes": "14753",
+                    "favorites": "2470",
+                    "comments": "1675",
+                    "shares": "1633"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:39",
+                  "metrics": {
+                    "views": "207754",
+                    "likes": "14814",
+                    "favorites": "2483",
+                    "comments": "1714",
+                    "shares": "1636"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:56",
+                  "metrics": {
+                    "views": "211074",
+                    "likes": "14875",
+                    "favorites": "2495",
+                    "comments": "1737",
+                    "shares": "1643"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:53",
+                  "metrics": {
+                    "views": "338525",
+                    "likes": "18346",
+                    "favorites": "2993",
+                    "comments": "2182",
+                    "shares": "1815"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:54",
+                  "metrics": {
+                    "views": "338625",
+                    "likes": "18346",
+                    "favorites": "2992",
+                    "comments": "2182",
+                    "shares": "1815"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:55",
+                  "metrics": {
+                    "views": "338625",
+                    "likes": "18346",
+                    "favorites": "2992",
+                    "comments": "2182",
+                    "shares": "1816"
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:20",
+                  "metrics": {
+                    "views": "360443",
+                    "likes": "18611",
+                    "favorites": "3065",
+                    "comments": "2221",
+                    "shares": "1841"
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:21",
+                  "metrics": {
+                    "views": "360443",
+                    "likes": "18611",
+                    "favorites": "3065",
+                    "comments": "2221",
+                    "shares": "1841"
+                  }
+                },
+                {
+                  "captured": "2026-09-13 08:27",
+                  "metrics": {
+                    "views": "400088",
+                    "likes": "19056",
+                    "favorites": "3181",
+                    "comments": "2324",
+                    "shares": "1878"
+                  }
+                },
+                {
+                  "captured": "2026-09-14 08:31",
+                  "metrics": {
+                    "views": "435628",
+                    "likes": "19404",
+                    "favorites": "3286",
+                    "comments": "2392",
+                    "shares": "1908"
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:22",
+                  "metrics": {
+                    "views": "464102",
+                    "likes": "19651",
+                    "favorites": "3374",
+                    "comments": "2456",
+                    "shares": "1953"
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:23",
+                  "metrics": {
+                    "views": "464102",
+                    "likes": "19651",
+                    "favorites": "3374",
+                    "comments": "2456",
+                    "shares": "1953"
+                  }
+                },
+                {
+                  "captured": "2026-09-16 08:06",
+                  "metrics": {
+                    "views": "480996",
+                    "likes": "19810",
+                    "favorites": "3423",
+                    "comments": "2484",
+                    "shares": "1968"
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:52",
+                  "metrics": {
+                    "views": "497175",
+                    "likes": "19940",
+                    "favorites": "3473",
+                    "comments": "2537",
+                    "shares": "1986"
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:53",
+                  "metrics": {
+                    "views": "497175",
+                    "likes": "19940",
+                    "favorites": "3473",
+                    "comments": "2537",
+                    "shares": "1986"
+                  }
+                }
+              ]
+            },
+            {
+              "title": "[杜比]iPhone Duo上手，这个折痕控制真好啊",
+              "url": "https://www.bilibili.com/video/BV1baYb6SEGy",
+              "platform": "哔哩哔哩",
+              "creator": "两颗皮蛋",
+              "duration": "06:19",
+              "published": "2026-09-10",
+              "metrics": {
+                "views": "651699",
+                "likes": "20349",
+                "favorites": "7070",
+                "comments": "3755",
+                "shares": "921"
+              },
+              "captured": "2026-09-17 11:53",
+              "status": "2026-09-10 13:53 重点名单扫描完成后新进入哔哩哔哩热门榜第 26 位；平台公开接口已核验账号、标题、发布时间、时长、原始链接及全部公开互动数据；作为同主题独立创作者版本保留",
+              "metricHistory": [
+                {
+                  "captured": "2026-09-10 13:53",
+                  "metrics": {
+                    "views": "222845",
+                    "likes": "2369",
+                    "favorites": "1783",
+                    "comments": "1539",
+                    "shares": "451"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:09",
+                  "metrics": {
+                    "views": "228387",
+                    "likes": "2399",
+                    "favorites": "1789",
+                    "comments": "1586",
+                    "shares": "461"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:36",
+                  "metrics": {
+                    "views": "237693",
+                    "likes": "2439",
+                    "favorites": "1803",
+                    "comments": "1635",
+                    "shares": "473"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:44",
+                  "metrics": {
+                    "views": "240009",
+                    "likes": "2443",
+                    "favorites": "1805",
+                    "comments": "1649",
+                    "shares": "478"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 15:08",
+                  "metrics": {
+                    "views": "249760",
+                    "likes": "2472",
+                    "favorites": "1815",
+                    "comments": "1709",
+                    "shares": "503"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 15:39",
+                  "metrics": {
+                    "views": "265209",
+                    "likes": "2527",
+                    "favorites": "1832",
+                    "comments": "1834",
+                    "shares": "530"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:00",
+                  "metrics": {
+                    "views": "272585",
+                    "likes": "2566",
+                    "favorites": "1838",
+                    "comments": "1907",
+                    "shares": "543"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:05",
+                  "metrics": {
+                    "views": "274096",
+                    "likes": "2572",
+                    "favorites": "1841",
+                    "comments": "1918",
+                    "shares": "547"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:20",
+                  "metrics": {
+                    "views": "280720",
+                    "likes": "2592",
+                    "favorites": "1851",
+                    "comments": "1958",
+                    "shares": "555"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:34",
+                  "metrics": {
+                    "views": "289648",
+                    "likes": "2666",
+                    "favorites": "1871",
+                    "comments": "2036",
+                    "shares": "571"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:53",
+                  "metrics": {
+                    "views": "298150",
+                    "likes": "2723",
+                    "favorites": "1887",
+                    "comments": "2119",
+                    "shares": "580"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:06",
+                  "metrics": {
+                    "views": "302947",
+                    "likes": "2741",
+                    "favorites": "1897",
+                    "comments": "2143",
+                    "shares": "589"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:21",
+                  "metrics": {
+                    "views": "307847",
+                    "likes": "2774",
+                    "favorites": "1910",
+                    "comments": "2204",
+                    "shares": "600"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:39",
+                  "metrics": {
+                    "views": "315356",
+                    "likes": "2820",
+                    "favorites": "1925",
+                    "comments": "2255",
+                    "shares": "610"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:56",
+                  "metrics": {
+                    "views": "322992",
+                    "likes": "3627",
+                    "favorites": "1930",
+                    "comments": "2191",
+                    "shares": "629"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:53",
+                  "metrics": {
+                    "views": "476601",
+                    "likes": "15010",
+                    "favorites": "5199",
+                    "comments": "2970",
+                    "shares": "799"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:54",
+                  "metrics": {
+                    "views": "476729",
+                    "likes": "15010",
+                    "favorites": "5199",
+                    "comments": "2971",
+                    "shares": "799"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:55",
+                  "metrics": {
+                    "views": "476859",
+                    "likes": "15010",
+                    "favorites": "5199",
+                    "comments": "2971",
+                    "shares": "799"
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:20",
+                  "metrics": {
+                    "views": "504761",
+                    "likes": "15156",
+                    "favorites": "5250",
+                    "comments": "3138",
+                    "shares": "819"
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:21",
+                  "metrics": {
+                    "views": "504761",
+                    "likes": "15156",
+                    "favorites": "5250",
+                    "comments": "3138",
+                    "shares": "819"
+                  }
+                },
+                {
+                  "captured": "2026-09-13 08:27",
+                  "metrics": {
+                    "views": "548534",
+                    "likes": "16886",
+                    "favorites": "6831",
+                    "comments": "3340",
+                    "shares": "846"
+                  }
+                },
+                {
+                  "captured": "2026-09-14 08:31",
+                  "metrics": {
+                    "views": "587721",
+                    "likes": "17091",
+                    "favorites": "6923",
+                    "comments": "3482",
+                    "shares": "871"
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:22",
+                  "metrics": {
+                    "views": "612493",
+                    "likes": "17185",
+                    "favorites": "6977",
+                    "comments": "3626",
+                    "shares": "890"
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:23",
+                  "metrics": {
+                    "views": "612510",
+                    "likes": "17185",
+                    "favorites": "6977",
+                    "comments": "3626",
+                    "shares": "890"
+                  }
+                },
+                {
+                  "captured": "2026-09-16 08:06",
+                  "metrics": {
+                    "views": "631618",
+                    "likes": "20251",
+                    "favorites": "7032",
+                    "comments": "3699",
+                    "shares": "905"
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:52",
+                  "metrics": {
+                    "views": "651699",
+                    "likes": "20349",
+                    "favorites": "7070",
+                    "comments": "3755",
+                    "shares": "921"
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:53",
+                  "metrics": {
+                    "views": "651699",
+                    "likes": "20349",
+                    "favorites": "7070",
+                    "comments": "3755",
+                    "shares": "921"
+                  }
+                }
+              ]
+            },
+            {
+              "title": "新iPhone选Duo折叠还是ProMax？我找了14位科技区UP主聊一聊！",
+              "url": "https://www.bilibili.com/video/BV1cKYK6uE2J/",
+              "platform": "哔哩哔哩",
+              "creator": "箱庭计划",
+              "duration": "11:35",
+              "published": "2026-09-10",
+              "metrics": {
+                "views": "656048",
+                "likes": "7795",
+                "favorites": "2657",
+                "comments": "1489",
+                "shares": "168"
+              },
+              "captured": "2026-09-17 11:53",
+              "status": "9月10日14:42哔哩哔哩热门榜新增；平台公开接口已核验账号、标题、发布时间、时长、原始链接及全部公开互动数据；产品取舍属于创作者访谈与观点",
+              "metricHistory": [
+                {
+                  "captured": "2026-09-10 14:44",
+                  "metrics": {
+                    "views": "77593",
+                    "likes": "3742",
+                    "favorites": "1786",
+                    "comments": "373",
+                    "shares": "63"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 15:08",
+                  "metrics": {
+                    "views": "100800",
+                    "likes": "4067",
+                    "favorites": "1836",
+                    "comments": "469",
+                    "shares": "79"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 15:39",
+                  "metrics": {
+                    "views": "136200",
+                    "likes": "4504",
+                    "favorites": "1912",
+                    "comments": "555",
+                    "shares": "91"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:00",
+                  "metrics": {
+                    "views": "152121",
+                    "likes": "4711",
+                    "favorites": "1956",
+                    "comments": "616",
+                    "shares": "97"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:05",
+                  "metrics": {
+                    "views": "155118",
+                    "likes": "4754",
+                    "favorites": "1966",
+                    "comments": "626",
+                    "shares": "98"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:20",
+                  "metrics": {
+                    "views": "165362",
+                    "likes": "4955",
+                    "favorites": "1999",
+                    "comments": "659",
+                    "shares": "103"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:34",
+                  "metrics": {
+                    "views": "171760",
+                    "likes": "5203",
+                    "favorites": "2036",
+                    "comments": "688",
+                    "shares": "106"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:53",
+                  "metrics": {
+                    "views": "180106",
+                    "likes": "5550",
+                    "favorites": "2087",
+                    "comments": "726",
+                    "shares": "112"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:06",
+                  "metrics": {
+                    "views": "187214",
+                    "likes": "5826",
+                    "favorites": "2125",
+                    "comments": "748",
+                    "shares": "116"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:21",
+                  "metrics": {
+                    "views": "195612",
+                    "likes": "6135",
+                    "favorites": "2175",
+                    "comments": "778",
+                    "shares": "120"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:39",
+                  "metrics": {
+                    "views": "202354",
+                    "likes": "6190",
+                    "favorites": "2189",
+                    "comments": "803",
+                    "shares": "120"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:56",
+                  "metrics": {
+                    "views": "207722",
+                    "likes": "6221",
+                    "favorites": "2199",
+                    "comments": "814",
+                    "shares": "122"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:53",
+                  "metrics": {
+                    "views": "376518",
+                    "likes": "6996",
+                    "favorites": "2423",
+                    "comments": "1066",
+                    "shares": "149"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:54",
+                  "metrics": {
+                    "views": "376566",
+                    "likes": "6996",
+                    "favorites": "2423",
+                    "comments": "1066",
+                    "shares": "149"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:55",
+                  "metrics": {
+                    "views": "376566",
+                    "likes": "6996",
+                    "favorites": "2423",
+                    "comments": "1066",
+                    "shares": "149"
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:20",
+                  "metrics": {
+                    "views": "430876",
+                    "likes": "7169",
+                    "favorites": "2470",
+                    "comments": "1089",
+                    "shares": "157"
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:21",
+                  "metrics": {
+                    "views": "430876",
+                    "likes": "7170",
+                    "favorites": "2471",
+                    "comments": "1089",
+                    "shares": "157"
+                  }
+                },
+                {
+                  "captured": "2026-09-13 08:27",
+                  "metrics": {
+                    "views": "531108",
+                    "likes": "7467",
+                    "favorites": "2564",
+                    "comments": "1359",
+                    "shares": "161"
+                  }
+                },
+                {
+                  "captured": "2026-09-14 08:31",
+                  "metrics": {
+                    "views": "637558",
+                    "likes": "7682",
+                    "favorites": "2624",
+                    "comments": "1471",
+                    "shares": "165"
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:22",
+                  "metrics": {
+                    "views": "640693",
+                    "likes": "7713",
+                    "favorites": "2633",
+                    "comments": "1478",
+                    "shares": "165"
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:23",
+                  "metrics": {
+                    "views": "640693",
+                    "likes": "7713",
+                    "favorites": "2633",
+                    "comments": "1478",
+                    "shares": "165"
+                  }
+                },
+                {
+                  "captured": "2026-09-16 08:06",
+                  "metrics": {
+                    "views": "642121",
+                    "likes": "7732",
+                    "favorites": "2635",
+                    "comments": "1483",
+                    "shares": "166"
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:52",
+                  "metrics": {
+                    "views": "656048",
+                    "likes": "7795",
+                    "favorites": "2657",
+                    "comments": "1489",
+                    "shares": "168"
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:53",
+                  "metrics": {
+                    "views": "656048",
+                    "likes": "7795",
+                    "favorites": "2657",
+                    "comments": "1489",
+                    "shares": "168"
+                  }
+                }
+              ]
+            },
+            {
+              "title": "锐评2026苹果秋季新品发布会：iPhone Duo、iPhone 18 Pro、Apple Watch、AirPods",
+              "url": "https://www.bilibili.com/video/BV1jeYN6cEdH/",
+              "platform": "哔哩哔哩",
+              "creator": "林捂捂",
+              "duration": "15:28",
+              "published": "2026-09-10",
+              "metrics": {
+                "views": "715260",
+                "likes": "33633",
+                "favorites": "6368",
+                "comments": "3224",
+                "shares": "2760"
+              },
+              "captured": "2026-09-17 11:53",
+              "status": "9月10日14:42哔哩哔哩热门榜新增；平台公开接口已核验账号、标题、发布时间、时长、原始链接及全部公开互动数据；锐评内容属于创作者观点",
+              "metricHistory": [
+                {
+                  "captured": "2026-09-10 14:44",
+                  "metrics": {
+                    "views": "48784",
+                    "likes": "5806",
+                    "favorites": "1564",
+                    "comments": "483",
+                    "shares": "782"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 15:08",
+                  "metrics": {
+                    "views": "53266",
+                    "likes": "6045",
+                    "favorites": "1602",
+                    "comments": "536",
+                    "shares": "803"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 15:39",
+                  "metrics": {
+                    "views": "60902",
+                    "likes": "6371",
+                    "favorites": "1658",
+                    "comments": "579",
+                    "shares": "833"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:00",
+                  "metrics": {
+                    "views": "69796",
+                    "likes": "6676",
+                    "favorites": "1701",
+                    "comments": "619",
+                    "shares": "859"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:05",
+                  "metrics": {
+                    "views": "71263",
+                    "likes": "6724",
+                    "favorites": "1708",
+                    "comments": "625",
+                    "shares": "864"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:20",
+                  "metrics": {
+                    "views": "75603",
+                    "likes": "6872",
+                    "favorites": "1741",
+                    "comments": "653",
+                    "shares": "871"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:34",
+                  "metrics": {
+                    "views": "78760",
+                    "likes": "6998",
+                    "favorites": "1772",
+                    "comments": "699",
+                    "shares": "881"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:53",
+                  "metrics": {
+                    "views": "82076",
+                    "likes": "7138",
+                    "favorites": "1803",
+                    "comments": "753",
+                    "shares": "894"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:06",
+                  "metrics": {
+                    "views": "84003",
+                    "likes": "7223",
+                    "favorites": "1826",
+                    "comments": "779",
+                    "shares": "901"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:21",
+                  "metrics": {
+                    "views": "86546",
+                    "likes": "9420",
+                    "favorites": "2279",
+                    "comments": "781",
+                    "shares": "909"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:39",
+                  "metrics": {
+                    "views": "89829",
+                    "likes": "10015",
+                    "favorites": "2762",
+                    "comments": "798",
+                    "shares": "1238"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:56",
+                  "metrics": {
+                    "views": "93987",
+                    "likes": "10281",
+                    "favorites": "2899",
+                    "comments": "823",
+                    "shares": "1246"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:53",
+                  "metrics": {
+                    "views": "453250",
+                    "likes": "27305",
+                    "favorites": "4933",
+                    "comments": "2273",
+                    "shares": "2466"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:54",
+                  "metrics": {
+                    "views": "453447",
+                    "likes": "27308",
+                    "favorites": "4933",
+                    "comments": "2273",
+                    "shares": "2467"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:55",
+                  "metrics": {
+                    "views": "453635",
+                    "likes": "27308",
+                    "favorites": "4933",
+                    "comments": "2273",
+                    "shares": "2467"
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:20",
+                  "metrics": {
+                    "views": "505860",
+                    "likes": "28387",
+                    "favorites": "5131",
+                    "comments": "2416",
+                    "shares": "2540"
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:21",
+                  "metrics": {
+                    "views": "505932",
+                    "likes": "28387",
+                    "favorites": "5131",
+                    "comments": "2416",
+                    "shares": "2540"
+                  }
+                },
+                {
+                  "captured": "2026-09-13 08:27",
+                  "metrics": {
+                    "views": "585960",
+                    "likes": "30150",
+                    "favorites": "5420",
+                    "comments": "2635",
+                    "shares": "2632"
+                  }
+                },
+                {
+                  "captured": "2026-09-14 08:31",
+                  "metrics": {
+                    "views": "640167",
+                    "likes": "31353",
+                    "favorites": "5594",
+                    "comments": "2807",
+                    "shares": "2689"
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:22",
+                  "metrics": {
+                    "views": "674978",
+                    "likes": "32083",
+                    "favorites": "5736",
+                    "comments": "2904",
+                    "shares": "2730"
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:23",
+                  "metrics": {
+                    "views": "674978",
+                    "likes": "32083",
+                    "favorites": "5736",
+                    "comments": "2904",
+                    "shares": "2730"
+                  }
+                },
+                {
+                  "captured": "2026-09-16 08:06",
+                  "metrics": {
+                    "views": "692715",
+                    "likes": "32587",
+                    "favorites": "5783",
+                    "comments": "3084",
+                    "shares": "2748"
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:52",
+                  "metrics": {
+                    "views": "715260",
+                    "likes": "33633",
+                    "favorites": "6368",
+                    "comments": "3224",
+                    "shares": "2760"
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:53",
+                  "metrics": {
+                    "views": "715260",
+                    "likes": "33633",
+                    "favorites": "6368",
+                    "comments": "3224",
+                    "shares": "2760"
+                  }
+                }
+              ]
+            },
+            {
+              "title": "【短的发布会】 Only Apple Can Duo！15999的苹果折叠屏iPhone Duo摸着友商过河？",
+              "url": "https://www.bilibili.com/video/BV1GkYN6RERr/",
+              "platform": "哔哩哔哩",
+              "creator": "短的发布会",
+              "duration": "05:23",
+              "published": "2026-09-10",
+              "metrics": {
+                "views": "1043963",
+                "likes": "35736",
+                "favorites": "5719",
+                "comments": "4633",
+                "shares": "3296"
+              },
+              "captured": "2026-09-17 11:53",
+              "status": "9月10日15:37哔哩哔哩热门榜新增；平台公开接口已核验账号、标题、发布时间、时长、原始链接及全部公开互动数据；产品评价与定价判断属于创作者观点；与同题其他评测视频关联",
+              "metricHistory": [
+                {
+                  "captured": "2026-09-10 15:39",
+                  "metrics": {
+                    "views": "100340",
+                    "likes": "4637",
+                    "favorites": "639",
+                    "comments": "1010",
+                    "shares": "603"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:00",
+                  "metrics": {
+                    "views": "108004",
+                    "likes": "4971",
+                    "favorites": "687",
+                    "comments": "1061",
+                    "shares": "650"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:05",
+                  "metrics": {
+                    "views": "109913",
+                    "likes": "5067",
+                    "favorites": "695",
+                    "comments": "1074",
+                    "shares": "656"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:20",
+                  "metrics": {
+                    "views": "115278",
+                    "likes": "5318",
+                    "favorites": "735",
+                    "comments": "1136",
+                    "shares": "682"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:34",
+                  "metrics": {
+                    "views": "121436",
+                    "likes": "5585",
+                    "favorites": "770",
+                    "comments": "1187",
+                    "shares": "717"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:53",
+                  "metrics": {
+                    "views": "131096",
+                    "likes": "5989",
+                    "favorites": "822",
+                    "comments": "1243",
+                    "shares": "752"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:06",
+                  "metrics": {
+                    "views": "139008",
+                    "likes": "6310",
+                    "favorites": "859",
+                    "comments": "1300",
+                    "shares": "791"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:21",
+                  "metrics": {
+                    "views": "146551",
+                    "likes": "6614",
+                    "favorites": "910",
+                    "comments": "1359",
+                    "shares": "826"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:39",
+                  "metrics": {
+                    "views": "155970",
+                    "likes": "7002",
+                    "favorites": "980",
+                    "comments": "1443",
+                    "shares": "881"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:56",
+                  "metrics": {
+                    "views": "165778",
+                    "likes": "7396",
+                    "favorites": "1025",
+                    "comments": "1511",
+                    "shares": "916"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:53",
+                  "metrics": {
+                    "views": "579920",
+                    "likes": "22758",
+                    "favorites": "3156",
+                    "comments": "3307",
+                    "shares": "2376"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:54",
+                  "metrics": {
+                    "views": "580429",
+                    "likes": "22777",
+                    "favorites": "3155",
+                    "comments": "3309",
+                    "shares": "2379"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:55",
+                  "metrics": {
+                    "views": "580987",
+                    "likes": "22779",
+                    "favorites": "3155",
+                    "comments": "3309",
+                    "shares": "2380"
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:20",
+                  "metrics": {
+                    "views": "691579",
+                    "likes": "26414",
+                    "favorites": "3803",
+                    "comments": "3620",
+                    "shares": "2665"
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:21",
+                  "metrics": {
+                    "views": "691579",
+                    "likes": "26415",
+                    "favorites": "3803",
+                    "comments": "3620",
+                    "shares": "2665"
+                  }
+                },
+                {
+                  "captured": "2026-09-13 08:27",
+                  "metrics": {
+                    "views": "868412",
+                    "likes": "31194",
+                    "favorites": "4883",
+                    "comments": "4115",
+                    "shares": "3001"
+                  }
+                },
+                {
+                  "captured": "2026-09-14 08:31",
+                  "metrics": {
+                    "views": "952308",
+                    "likes": "33368",
+                    "favorites": "5348",
+                    "comments": "4339",
+                    "shares": "3120"
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:22",
+                  "metrics": {
+                    "views": "994033",
+                    "likes": "34402",
+                    "favorites": "5507",
+                    "comments": "4452",
+                    "shares": "3203"
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:23",
+                  "metrics": {
+                    "views": "994033",
+                    "likes": "34402",
+                    "favorites": "5507",
+                    "comments": "4452",
+                    "shares": "3203"
+                  }
+                },
+                {
+                  "captured": "2026-09-16 08:06",
+                  "metrics": {
+                    "views": "1020706",
+                    "likes": "35005",
+                    "favorites": "5613",
+                    "comments": "4558",
+                    "shares": "3256"
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:52",
+                  "metrics": {
+                    "views": "1043963",
+                    "likes": "35736",
+                    "favorites": "5719",
+                    "comments": "4633",
+                    "shares": "3296"
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:53",
+                  "metrics": {
+                    "views": "1043963",
+                    "likes": "35736",
+                    "favorites": "5719",
+                    "comments": "4633",
+                    "shares": "3296"
+                  }
+                }
+              ]
+            },
+            {
+              "title": "A20 Pro来啦！散热拉满？iPhone Duo/18 Pro现场上手",
+              "url": "https://www.bilibili.com/video/BV1JVYM6GEof/",
+              "platform": "哔哩哔哩",
+              "creator": "极客湾Geekerwan",
+              "duration": "05:41",
+              "published": "2026-09-10",
+              "metrics": {
+                "views": "1277858",
+                "likes": "37752",
+                "favorites": "4462",
+                "comments": "8339",
+                "shares": "2711"
+              },
+              "captured": "2026-09-17 11:53",
+              "status": "2026-09-10 16:34 重点名单扫描完成后新进入哔哩哔哩热门榜；平台公开接口已核验账号、标题、发布时间、时长、原始链接及全部公开互动数据；作为 A20 Pro 与 iPhone Duo/18 Pro 的独立实测信号保留",
+              "metricHistory": [
+                {
+                  "captured": "2026-09-10 16:34",
+                  "metrics": {
+                    "views": "146958",
+                    "likes": "6715",
+                    "favorites": "943",
+                    "comments": "2062",
+                    "shares": "550"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:53",
+                  "metrics": {
+                    "views": "168810",
+                    "likes": "7652",
+                    "favorites": "1065",
+                    "comments": "2396",
+                    "shares": "616"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:06",
+                  "metrics": {
+                    "views": "184027",
+                    "likes": "8310",
+                    "favorites": "1162",
+                    "comments": "2581",
+                    "shares": "660"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:21",
+                  "metrics": {
+                    "views": "198357",
+                    "likes": "8973",
+                    "favorites": "1241",
+                    "comments": "2750",
+                    "shares": "703"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:39",
+                  "metrics": {
+                    "views": "218807",
+                    "likes": "9746",
+                    "favorites": "1351",
+                    "comments": "2914",
+                    "shares": "745"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:56",
+                  "metrics": {
+                    "views": "240926",
+                    "likes": "10648",
+                    "favorites": "1448",
+                    "comments": "3089",
+                    "shares": "823"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:53",
+                  "metrics": {
+                    "views": "923542",
+                    "likes": "30878",
+                    "favorites": "3743",
+                    "comments": "7447",
+                    "shares": "2347"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:54",
+                  "metrics": {
+                    "views": "923838",
+                    "likes": "30887",
+                    "favorites": "3743",
+                    "comments": "7447",
+                    "shares": "2347"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:55",
+                  "metrics": {
+                    "views": "923838",
+                    "likes": "30890",
+                    "favorites": "3743",
+                    "comments": "7447",
+                    "shares": "2347"
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:20",
+                  "metrics": {
+                    "views": "1000150",
+                    "likes": "32720",
+                    "favorites": "3957",
+                    "comments": "7683",
+                    "shares": "2436"
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:21",
+                  "metrics": {
+                    "views": "1000150",
+                    "likes": "32723",
+                    "favorites": "3957",
+                    "comments": "7683",
+                    "shares": "2436"
+                  }
+                },
+                {
+                  "captured": "2026-09-13 08:27",
+                  "metrics": {
+                    "views": "1110781",
+                    "likes": "35324",
+                    "favorites": "4255",
+                    "comments": "8040",
+                    "shares": "2591"
+                  }
+                },
+                {
+                  "captured": "2026-09-14 08:31",
+                  "metrics": {
+                    "views": "1178694",
+                    "likes": "36419",
+                    "favorites": "4344",
+                    "comments": "8157",
+                    "shares": "2649"
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:22",
+                  "metrics": {
+                    "views": "1221747",
+                    "likes": "37050",
+                    "favorites": "4398",
+                    "comments": "8271",
+                    "shares": "2687"
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:23",
+                  "metrics": {
+                    "views": "1221747",
+                    "likes": "37050",
+                    "favorites": "4398",
+                    "comments": "8271",
+                    "shares": "2687"
+                  }
+                },
+                {
+                  "captured": "2026-09-16 08:06",
+                  "metrics": {
+                    "views": "1246389",
+                    "likes": "37402",
+                    "favorites": "4438",
+                    "comments": "8302",
+                    "shares": "2696"
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:52",
+                  "metrics": {
+                    "views": "1277858",
+                    "likes": "37752",
+                    "favorites": "4462",
+                    "comments": "8339",
+                    "shares": "2711"
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:53",
+                  "metrics": {
+                    "views": "1277858",
+                    "likes": "37752",
+                    "favorites": "4462",
+                    "comments": "8339",
+                    "shares": "2711"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "cat": "社会",
+          "title": "《流浪地球：望日》首支预告登顶：国产科幻 IP 如何延伸世界观",
+          "hook": "刘慈欣原著授权的《流浪地球：望日》发布首支预告，4 小时内登上哔哩哔哩热门榜首。适合拆解头部科幻 IP 的世界观扩展、原著授权、工业化制作与观众预期管理。主题标签：国产科幻、流浪地球、刘慈欣、影视工业、IP开发、文化消费。",
+          "platform": "哔哩哔哩",
+          "source": "https://www.bilibili.com/video/BV1tSYx66EvP/",
+          "tags": [
+            "国产科幻",
+            "流浪地球",
+            "刘慈欣",
+            "影视工业",
+            "IP开发",
+            "文化消费"
+          ],
+          "videos": [
+            {
+              "title": "刘慈欣原著授权 |《流浪地球：望日》首支预告片",
+              "url": "https://www.bilibili.com/video/BV1tSYx66EvP/",
+              "platform": "哔哩哔哩",
+              "creator": "流浪地球望日",
+              "duration": "03:40",
+              "published": "2026-09-10 11:00",
+              "metrics": {
+                "views": "8026539",
+                "likes": "225533",
+                "favorites": "77331",
+                "comments": "14396",
+                "shares": "45219"
+              },
+              "captured": "2026-09-17 11:53",
+              "status": "哔哩哔哩热门榜第 1；账号、标题、发布时间、时长、原始链接及播放、点赞、收藏、评论、转发均由平台公开接口核验",
+              "metricHistory": [
+                {
+                  "captured": "2026-09-10 14:36",
+                  "metrics": {
+                    "views": "872289",
+                    "likes": "95243",
+                    "favorites": "23864",
+                    "comments": "3581",
+                    "shares": "9781"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:44",
+                  "metrics": {
+                    "views": "914445",
+                    "likes": "95762",
+                    "favorites": "24025",
+                    "comments": "3744",
+                    "shares": "10185"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 15:08",
+                  "metrics": {
+                    "views": "1043476",
+                    "likes": "97431",
+                    "favorites": "24500",
+                    "comments": "4187",
+                    "shares": "11444"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 15:39",
+                  "metrics": {
+                    "views": "1193173",
+                    "likes": "99459",
+                    "favorites": "25010",
+                    "comments": "4663",
+                    "shares": "12833"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:00",
+                  "metrics": {
+                    "views": "1308820",
+                    "likes": "100950",
+                    "favorites": "25414",
+                    "comments": "5047",
+                    "shares": "13747"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:05",
+                  "metrics": {
+                    "views": "1337629",
+                    "likes": "101295",
+                    "favorites": "25517",
+                    "comments": "5127",
+                    "shares": "13930"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:20",
+                  "metrics": {
+                    "views": "1415240",
+                    "likes": "102223",
+                    "favorites": "25794",
+                    "comments": "5318",
+                    "shares": "14516"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:34",
+                  "metrics": {
+                    "views": "1487222",
+                    "likes": "103111",
+                    "favorites": "26058",
+                    "comments": "5505",
+                    "shares": "15048"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:53",
+                  "metrics": {
+                    "views": "1587652",
+                    "likes": "104401",
+                    "favorites": "26472",
+                    "comments": "5758",
+                    "shares": "15806"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:06",
+                  "metrics": {
+                    "views": "1655701",
+                    "likes": "105223",
+                    "favorites": "26756",
+                    "comments": "5894",
+                    "shares": "16301"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:21",
+                  "metrics": {
+                    "views": "1723673",
+                    "likes": "106116",
+                    "favorites": "27074",
+                    "comments": "6073",
+                    "shares": "16821"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:39",
+                  "metrics": {
+                    "views": "1821189",
+                    "likes": "107280",
+                    "favorites": "27525",
+                    "comments": "6310",
+                    "shares": "17499"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:56",
+                  "metrics": {
+                    "views": "1928494",
+                    "likes": "108690",
+                    "favorites": "28021",
+                    "comments": "6558",
+                    "shares": "18174"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:53",
+                  "metrics": {
+                    "views": "7057652",
+                    "likes": "203370",
+                    "favorites": "68647",
+                    "comments": "12739",
+                    "shares": "40893"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:54",
+                  "metrics": {
+                    "views": "7058477",
+                    "likes": "203384",
+                    "favorites": "68657",
+                    "comments": "12741",
+                    "shares": "40897"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:55",
+                  "metrics": {
+                    "views": "7058477",
+                    "likes": "203391",
+                    "favorites": "68658",
+                    "comments": "12741",
+                    "shares": "40898"
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:20",
+                  "metrics": {
+                    "views": "7128140",
+                    "likes": "205832",
+                    "favorites": "69726",
+                    "comments": "12966",
+                    "shares": "41569"
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:21",
+                  "metrics": {
+                    "views": "7128140",
+                    "likes": "205833",
+                    "favorites": "69727",
+                    "comments": "12966",
+                    "shares": "41569"
+                  }
+                },
+                {
+                  "captured": "2026-09-13 08:27",
+                  "metrics": {
+                    "views": "7596960",
+                    "likes": "218411",
+                    "favorites": "74617",
+                    "comments": "13625",
+                    "shares": "43749"
+                  }
+                },
+                {
+                  "captured": "2026-09-14 08:31",
+                  "metrics": {
+                    "views": "7986501",
+                    "likes": "224074",
+                    "favorites": "76939",
+                    "comments": "13998",
+                    "shares": "44649"
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:22",
+                  "metrics": {
+                    "views": "8002378",
+                    "likes": "224633",
+                    "favorites": "77133",
+                    "comments": "14135",
+                    "shares": "44859"
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:23",
+                  "metrics": {
+                    "views": "8002378",
+                    "likes": "224633",
+                    "favorites": "77133",
+                    "comments": "14136",
+                    "shares": "44859"
+                  }
+                },
+                {
+                  "captured": "2026-09-16 08:06",
+                  "metrics": {
+                    "views": "8017231",
+                    "likes": "225194",
+                    "favorites": "77250",
+                    "comments": "14299",
+                    "shares": "45101"
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:52",
+                  "metrics": {
+                    "views": "8026539",
+                    "likes": "225533",
+                    "favorites": "77331",
+                    "comments": "14396",
+                    "shares": "45219"
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:53",
+                  "metrics": {
+                    "views": "8026539",
+                    "likes": "225533",
+                    "favorites": "77331",
+                    "comments": "14396",
+                    "shares": "45219"
+                  }
+                }
+              ]
+            }
+          ],
+          "score": 15413634
+        },
+        {
+          "cat": "社会",
+          "score": 11732196,
+          "title": "物业费账单视频走红：高物业费对应了什么服务与成本",
+          "hook": "一条以“物业费最贵”为题的视频在近48小时快速升温。适合从公共区域维护、人工与能耗、收费透明度及业主议价机制切入，讨论住宅服务的真实成本和信任缺口；具体账单与场景以作者展示为准。",
+          "platform": "哔哩哔哩",
+          "source": "https://www.bilibili.com/video/BV1xsYn6pEw4/",
+          "tags": [
+            "物业费",
+            "住房",
+            "消费权益",
+            "社区治理",
+            "收费透明"
+          ],
+          "videos": [
+            {
+              "title": "《物业费最贵の一集》",
+              "url": "https://www.bilibili.com/video/BV1xsYn6pEw4/",
+              "platform": "哔哩哔哩",
+              "creator": "伤心欲茄222",
+              "duration": "02:50",
+              "published": "2026-09-09",
+              "metrics": {
+                "views": "4608001",
+                "likes": "328388",
+                "favorites": "20001",
+                "comments": "6808",
+                "shares": "2874"
+              },
+              "captured": "2026-09-17 11:53",
+              "status": "9月10日补扫发现的近48小时高互动内容；平台公开接口已核验账号、标题、发布时间、时长、原始链接及全部公开互动数据；费用与服务细节来自作者场景展示",
+              "metricHistory": [
+                {
+                  "captured": "2026-09-10 10:14",
+                  "metrics": {
+                    "views": "947096",
+                    "likes": "75549",
+                    "favorites": "3692",
+                    "comments": "2856",
+                    "shares": "747"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 10:21",
+                  "metrics": {
+                    "views": "964967",
+                    "likes": "76769",
+                    "favorites": "3733",
+                    "comments": "2916",
+                    "shares": "757"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 10:53",
+                  "metrics": {
+                    "views": "997025",
+                    "likes": "78909",
+                    "favorites": "3805",
+                    "comments": "3040",
+                    "shares": "773"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 10:55",
+                  "metrics": {
+                    "views": "999352",
+                    "likes": "79046",
+                    "favorites": "3814",
+                    "comments": "3046",
+                    "shares": "773"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:08",
+                  "metrics": {
+                    "views": "1015218",
+                    "likes": "80139",
+                    "favorites": "3846",
+                    "comments": "3101",
+                    "shares": "776"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:21",
+                  "metrics": {
+                    "views": "1033568",
+                    "likes": "81421",
+                    "favorites": "3884",
+                    "comments": "3183",
+                    "shares": "786"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:45",
+                  "metrics": {
+                    "views": "1059707",
+                    "likes": "83280",
+                    "favorites": "3945",
+                    "comments": "3293",
+                    "shares": "796"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:54",
+                  "metrics": {
+                    "views": "1073074",
+                    "likes": "84137",
+                    "favorites": "3980",
+                    "comments": "3338",
+                    "shares": "801"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:09",
+                  "metrics": {
+                    "views": "1099054",
+                    "likes": "85767",
+                    "favorites": "4043",
+                    "comments": "3432",
+                    "shares": "813"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:31",
+                  "metrics": {
+                    "views": "1136063",
+                    "likes": "88379",
+                    "favorites": "4132",
+                    "comments": "3534",
+                    "shares": "835"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:43",
+                  "metrics": {
+                    "views": "1156602",
+                    "likes": "89794",
+                    "favorites": "4185",
+                    "comments": "3594",
+                    "shares": "846"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:06",
+                  "metrics": {
+                    "views": "1190157",
+                    "likes": "92260",
+                    "favorites": "4291",
+                    "comments": "3703",
+                    "shares": "859"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:22",
+                  "metrics": {
+                    "views": "1208274",
+                    "likes": "93427",
+                    "favorites": "4337",
+                    "comments": "3757",
+                    "shares": "870"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:35",
+                  "metrics": {
+                    "views": "1220077",
+                    "likes": "94199",
+                    "favorites": "4374",
+                    "comments": "3811",
+                    "shares": "877"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:53",
+                  "metrics": {
+                    "views": "1232319",
+                    "likes": "95053",
+                    "favorites": "4403",
+                    "comments": "3861",
+                    "shares": "883"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:09",
+                  "metrics": {
+                    "views": "1248530",
+                    "likes": "96132",
+                    "favorites": "4467",
+                    "comments": "3919",
+                    "shares": "889"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:36",
+                  "metrics": {
+                    "views": "1300557",
+                    "likes": "99291",
+                    "favorites": "4622",
+                    "comments": "4086",
+                    "shares": "921"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:44",
+                  "metrics": {
+                    "views": "1319533",
+                    "likes": "100293",
+                    "favorites": "4680",
+                    "comments": "4132",
+                    "shares": "936"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 15:08",
+                  "metrics": {
+                    "views": "1358436",
+                    "likes": "102960",
+                    "favorites": "4827",
+                    "comments": "4255",
+                    "shares": "961"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 15:39",
+                  "metrics": {
+                    "views": "1406528",
+                    "likes": "105986",
+                    "favorites": "4979",
+                    "comments": "4400",
+                    "shares": "982"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:00",
+                  "metrics": {
+                    "views": "1440233",
+                    "likes": "108282",
+                    "favorites": "5093",
+                    "comments": "4505",
+                    "shares": "1004"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:05",
+                  "metrics": {
+                    "views": "1448485",
+                    "likes": "108734",
+                    "favorites": "5116",
+                    "comments": "4526",
+                    "shares": "1011"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:20",
+                  "metrics": {
+                    "views": "1464409",
+                    "likes": "109872",
+                    "favorites": "5178",
+                    "comments": "4578",
+                    "shares": "1023"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:34",
+                  "metrics": {
+                    "views": "1484686",
+                    "likes": "111052",
+                    "favorites": "5239",
+                    "comments": "4618",
+                    "shares": "1037"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:53",
+                  "metrics": {
+                    "views": "1513629",
+                    "likes": "112942",
+                    "favorites": "5333",
+                    "comments": "4662",
+                    "shares": "1050"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:06",
+                  "metrics": {
+                    "views": "1532585",
+                    "likes": "114268",
+                    "favorites": "5411",
+                    "comments": "4716",
+                    "shares": "1059"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:21",
+                  "metrics": {
+                    "views": "1557170",
+                    "likes": "115786",
+                    "favorites": "5496",
+                    "comments": "4773",
+                    "shares": "1076"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:39",
+                  "metrics": {
+                    "views": "1585615",
+                    "likes": "117746",
+                    "favorites": "5601",
+                    "comments": "4843",
+                    "shares": "1091"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:56",
+                  "metrics": {
+                    "views": "1618904",
+                    "likes": "119886",
+                    "favorites": "5721",
+                    "comments": "4913",
+                    "shares": "1112"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:53",
+                  "metrics": {
+                    "views": "2612873",
+                    "likes": "190434",
+                    "favorites": "10333",
+                    "comments": "6987",
+                    "shares": "1756"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:54",
+                  "metrics": {
+                    "views": "2613684",
+                    "likes": "190539",
+                    "favorites": "10342",
+                    "comments": "6988",
+                    "shares": "1756"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:55",
+                  "metrics": {
+                    "views": "2614548",
+                    "likes": "190556",
+                    "favorites": "10343",
+                    "comments": "6988",
+                    "shares": "1756"
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:20",
+                  "metrics": {
+                    "views": "2894752",
+                    "likes": "211262",
+                    "favorites": "12041",
+                    "comments": "7481",
+                    "shares": "1918"
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:21",
+                  "metrics": {
+                    "views": "2895561",
+                    "likes": "211271",
+                    "favorites": "12041",
+                    "comments": "7481",
+                    "shares": "1918"
+                  }
+                },
+                {
+                  "captured": "2026-09-13 08:27",
+                  "metrics": {
+                    "views": "3667931",
+                    "likes": "266468",
+                    "favorites": "15850",
+                    "comments": "8800",
+                    "shares": "2312"
+                  }
+                },
+                {
+                  "captured": "2026-09-14 08:31",
+                  "metrics": {
+                    "views": "4059641",
+                    "likes": "294922",
+                    "favorites": "17789",
+                    "comments": "9329",
+                    "shares": "2506"
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:22",
+                  "metrics": {
+                    "views": "4286431",
+                    "likes": "308945",
+                    "favorites": "18673",
+                    "comments": "9809",
+                    "shares": "2658"
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:23",
+                  "metrics": {
+                    "views": "4286611",
+                    "likes": "308949",
+                    "favorites": "18673",
+                    "comments": "9809",
+                    "shares": "2659"
+                  }
+                },
+                {
+                  "captured": "2026-09-16 08:06",
+                  "metrics": {
+                    "views": "4461051",
+                    "likes": "319290",
+                    "favorites": "19398",
+                    "comments": "10239",
+                    "shares": "2770"
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:52",
+                  "metrics": {
+                    "views": "4608001",
+                    "likes": "328388",
+                    "favorites": "20001",
+                    "comments": "6808",
+                    "shares": "2874"
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:53",
+                  "metrics": {
+                    "views": "4608001",
+                    "likes": "328388",
+                    "favorites": "20001",
+                    "comments": "6808",
+                    "shares": "2874"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "cat": "科技",
+          "score": 4100403,
+          "title": "iPhone 18 Pro/Max 首轮实测登榜：成熟直板旗舰如何与折叠新品分工",
+          "hook": "在 iPhone Duo 抢走发布会注意力的同时，iPhone 18 Pro/Max 的首轮体验视频也进入 B站热门。适合比较直板旗舰与折叠新品的产品分层、换机理由和价格带，判断苹果是扩大高端市场还是制造内部替代。",
+          "platform": "哔哩哔哩 / Apple Newsroom",
+          "source": "https://www.apple.com.cn/newsroom/2026/09/apple-introduces-iphone-18-pro-and-iphone-18-pro-max/",
+          "tags": [
+            "Apple",
+            "iPhone 18 Pro",
+            "消费电子",
+            "产品分层",
+            "换机周期",
+            "供应链",
+            "Apple Watch",
+            "AirPods"
+          ],
+          "videos": [
+            {
+              "title": "「小白」苹果iPhone18 Pro/Max体验：尽善尽美？",
+              "url": "https://www.bilibili.com/video/BV13hYb6nEhx/",
+              "platform": "哔哩哔哩",
+              "creator": "小白测评",
+              "duration": "04:42",
+              "published": "2026-09-10",
+              "metrics": {
+                "views": "1381383",
+                "likes": "33781",
+                "favorites": "7629",
+                "comments": "6763",
+                "shares": "4403"
+              },
+              "captured": "2026-09-17 11:53",
+              "status": "9月10日哔哩哔哩热门榜新增；平台公开接口已核验账号、标题、发布时间、时长、原始链接及全部公开互动数据；产品体验与“尽善尽美”表述属于创作者观点",
+              "metricHistory": [
+                {
+                  "captured": "2026-09-10 10:14",
+                  "metrics": {
+                    "views": "375712",
+                    "likes": "12278",
+                    "favorites": "2817",
+                    "comments": "2264",
+                    "shares": "1971"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 10:21",
+                  "metrics": {
+                    "views": "388419",
+                    "likes": "12629",
+                    "favorites": "2894",
+                    "comments": "2364",
+                    "shares": "2039"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 10:53",
+                  "metrics": {
+                    "views": "418443",
+                    "likes": "13467",
+                    "favorites": "3087",
+                    "comments": "2635",
+                    "shares": "2185"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 10:55",
+                  "metrics": {
+                    "views": "420707",
+                    "likes": "13528",
+                    "favorites": "3099",
+                    "comments": "2655",
+                    "shares": "2196"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:08",
+                  "metrics": {
+                    "views": "431732",
+                    "likes": "13838",
+                    "favorites": "3165",
+                    "comments": "2744",
+                    "shares": "2240"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:21",
+                  "metrics": {
+                    "views": "443208",
+                    "likes": "14135",
+                    "favorites": "3243",
+                    "comments": "2832",
+                    "shares": "2272"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:45",
+                  "metrics": {
+                    "views": "463164",
+                    "likes": "14691",
+                    "favorites": "3364",
+                    "comments": "2973",
+                    "shares": "2354"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:54",
+                  "metrics": {
+                    "views": "471774",
+                    "likes": "14936",
+                    "favorites": "3423",
+                    "comments": "3025",
+                    "shares": "2395"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:09",
+                  "metrics": {
+                    "views": "488379",
+                    "likes": "15406",
+                    "favorites": "3526",
+                    "comments": "3125",
+                    "shares": "2465"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:31",
+                  "metrics": {
+                    "views": "514415",
+                    "likes": "16173",
+                    "favorites": "3674",
+                    "comments": "3274",
+                    "shares": "2564"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:43",
+                  "metrics": {
+                    "views": "529538",
+                    "likes": "16678",
+                    "favorites": "3778",
+                    "comments": "3372",
+                    "shares": "2622"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:06",
+                  "metrics": {
+                    "views": "551869",
+                    "likes": "17419",
+                    "favorites": "3908",
+                    "comments": "3498",
+                    "shares": "2687"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:22",
+                  "metrics": {
+                    "views": "564445",
+                    "likes": "17769",
+                    "favorites": "3993",
+                    "comments": "3597",
+                    "shares": "2733"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:35",
+                  "metrics": {
+                    "views": "572849",
+                    "likes": "18013",
+                    "favorites": "4038",
+                    "comments": "3652",
+                    "shares": "2752"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:53",
+                  "metrics": {
+                    "views": "583849",
+                    "likes": "18280",
+                    "favorites": "4102",
+                    "comments": "3714",
+                    "shares": "2781"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:09",
+                  "metrics": {
+                    "views": "592117",
+                    "likes": "18500",
+                    "favorites": "4148",
+                    "comments": "3779",
+                    "shares": "2811"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:36",
+                  "metrics": {
+                    "views": "605482",
+                    "likes": "18833",
+                    "favorites": "4224",
+                    "comments": "3880",
+                    "shares": "2863"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:44",
+                  "metrics": {
+                    "views": "608941",
+                    "likes": "18899",
+                    "favorites": "4235",
+                    "comments": "3911",
+                    "shares": "2872"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 15:08",
+                  "metrics": {
+                    "views": "619851",
+                    "likes": "19157",
+                    "favorites": "4289",
+                    "comments": "3987",
+                    "shares": "2916"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 15:39",
+                  "metrics": {
+                    "views": "633361",
+                    "likes": "19493",
+                    "favorites": "4376",
+                    "comments": "4100",
+                    "shares": "2962"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:00",
+                  "metrics": {
+                    "views": "642249",
+                    "likes": "19700",
+                    "favorites": "4424",
+                    "comments": "4153",
+                    "shares": "2983"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:05",
+                  "metrics": {
+                    "views": "645320",
+                    "likes": "19758",
+                    "favorites": "4438",
+                    "comments": "4167",
+                    "shares": "2990"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:20",
+                  "metrics": {
+                    "views": "652218",
+                    "likes": "19935",
+                    "favorites": "4469",
+                    "comments": "4221",
+                    "shares": "3017"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:34",
+                  "metrics": {
+                    "views": "659660",
+                    "likes": "20085",
+                    "favorites": "4499",
+                    "comments": "4262",
+                    "shares": "3038"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:53",
+                  "metrics": {
+                    "views": "667375",
+                    "likes": "20282",
+                    "favorites": "4552",
+                    "comments": "4314",
+                    "shares": "3059"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:06",
+                  "metrics": {
+                    "views": "672063",
+                    "likes": "20398",
+                    "favorites": "4591",
+                    "comments": "4338",
+                    "shares": "3071"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:21",
+                  "metrics": {
+                    "views": "678027",
+                    "likes": "20532",
+                    "favorites": "4625",
+                    "comments": "4363",
+                    "shares": "3086"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:39",
+                  "metrics": {
+                    "views": "685058",
+                    "likes": "20719",
+                    "favorites": "4663",
+                    "comments": "4408",
+                    "shares": "3099"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:56",
+                  "metrics": {
+                    "views": "692453",
+                    "likes": "20898",
+                    "favorites": "4704",
+                    "comments": "4460",
+                    "shares": "3120"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:53",
+                  "metrics": {
+                    "views": "971039",
+                    "likes": "27455",
+                    "favorites": "6126",
+                    "comments": "5559",
+                    "shares": "3812"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:54",
+                  "metrics": {
+                    "views": "971237",
+                    "likes": "27458",
+                    "favorites": "6127",
+                    "comments": "5561",
+                    "shares": "3813"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:55",
+                  "metrics": {
+                    "views": "971457",
+                    "likes": "27459",
+                    "favorites": "6127",
+                    "comments": "5561",
+                    "shares": "3813"
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:20",
+                  "metrics": {
+                    "views": "1022916",
+                    "likes": "28492",
+                    "favorites": "6357",
+                    "comments": "5742",
+                    "shares": "3895"
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:21",
+                  "metrics": {
+                    "views": "1022916",
+                    "likes": "28492",
+                    "favorites": "6357",
+                    "comments": "5742",
+                    "shares": "3895"
+                  }
+                },
+                {
+                  "captured": "2026-09-13 08:27",
+                  "metrics": {
+                    "views": "1139850",
+                    "likes": "30519",
+                    "favorites": "6794",
+                    "comments": "6144",
+                    "shares": "4102"
+                  }
+                },
+                {
+                  "captured": "2026-09-14 08:31",
+                  "metrics": {
+                    "views": "1227026",
+                    "likes": "31870",
+                    "favorites": "7095",
+                    "comments": "6398",
+                    "shares": "4220"
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:22",
+                  "metrics": {
+                    "views": "1282955",
+                    "likes": "32584",
+                    "favorites": "7271",
+                    "comments": "6535",
+                    "shares": "4288"
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:23",
+                  "metrics": {
+                    "views": "1282977",
+                    "likes": "32584",
+                    "favorites": "7271",
+                    "comments": "6536",
+                    "shares": "4288"
+                  }
+                },
+                {
+                  "captured": "2026-09-16 08:06",
+                  "metrics": {
+                    "views": "1318178",
+                    "likes": "33035",
+                    "favorites": "7378",
+                    "comments": "6634",
+                    "shares": "4335"
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:52",
+                  "metrics": {
+                    "views": "1381383",
+                    "likes": "33781",
+                    "favorites": "7629",
+                    "comments": "6763",
+                    "shares": "4403"
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:53",
+                  "metrics": {
+                    "views": "1381383",
+                    "likes": "33781",
+                    "favorites": "7629",
+                    "comments": "6763",
+                    "shares": "4403"
+                  }
+                }
+              ]
+            },
+            {
+              "title": "「小白」苹果Apple Watch S12/Ultra4 AirPods 5系列体验！",
+              "url": "https://www.bilibili.com/video/BV1XVYa6bEcb/",
+              "platform": "哔哩哔哩",
+              "creator": "小白测评",
+              "duration": "04:24",
+              "published": "2026-09-10",
+              "metrics": {
+                "views": "325933",
+                "likes": "10441",
+                "favorites": "2491",
+                "comments": "1256",
+                "shares": "1270"
+              },
+              "captured": "2026-09-17 11:53",
+              "status": "9月10日哔哩哔哩热门榜新增；平台公开接口已核验小白测评账号、标题、发布时间、时长、原始链接及全部公开互动数据；与苹果秋季新品发布会主题关联，产品体验判断归因创作者",
+              "metricHistory": [
+                {
+                  "captured": "2026-09-10 10:24",
+                  "metrics": {
+                    "views": "89738",
+                    "likes": "3547",
+                    "favorites": "1150",
+                    "comments": "433",
+                    "shares": "760"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 10:53",
+                  "metrics": {
+                    "views": "96990",
+                    "likes": "3802",
+                    "favorites": "1217",
+                    "comments": "486",
+                    "shares": "787"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 10:55",
+                  "metrics": {
+                    "views": "97534",
+                    "likes": "3818",
+                    "favorites": "1220",
+                    "comments": "491",
+                    "shares": "789"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:08",
+                  "metrics": {
+                    "views": "100524",
+                    "likes": "4920",
+                    "favorites": "1296",
+                    "comments": "502",
+                    "shares": "795"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:21",
+                  "metrics": {
+                    "views": "103962",
+                    "likes": "5032",
+                    "favorites": "1323",
+                    "comments": "530",
+                    "shares": "809"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:45",
+                  "metrics": {
+                    "views": "109788",
+                    "likes": "5222",
+                    "favorites": "1367",
+                    "comments": "557",
+                    "shares": "821"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:54",
+                  "metrics": {
+                    "views": "112386",
+                    "likes": "5298",
+                    "favorites": "1393",
+                    "comments": "569",
+                    "shares": "835"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:09",
+                  "metrics": {
+                    "views": "117359",
+                    "likes": "5462",
+                    "favorites": "1430",
+                    "comments": "589",
+                    "shares": "844"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:31",
+                  "metrics": {
+                    "views": "124843",
+                    "likes": "5710",
+                    "favorites": "1472",
+                    "comments": "617",
+                    "shares": "866"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:43",
+                  "metrics": {
+                    "views": "129072",
+                    "likes": "5857",
+                    "favorites": "1495",
+                    "comments": "626",
+                    "shares": "879"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:06",
+                  "metrics": {
+                    "views": "135578",
+                    "likes": "6095",
+                    "favorites": "1547",
+                    "comments": "644",
+                    "shares": "894"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:22",
+                  "metrics": {
+                    "views": "139225",
+                    "likes": "6222",
+                    "favorites": "1578",
+                    "comments": "666",
+                    "shares": "908"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:35",
+                  "metrics": {
+                    "views": "141710",
+                    "likes": "6313",
+                    "favorites": "1601",
+                    "comments": "678",
+                    "shares": "913"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:53",
+                  "metrics": {
+                    "views": "144910",
+                    "likes": "6418",
+                    "favorites": "1628",
+                    "comments": "694",
+                    "shares": "922"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:09",
+                  "metrics": {
+                    "views": "147246",
+                    "likes": "6488",
+                    "favorites": "1641",
+                    "comments": "702",
+                    "shares": "928"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:36",
+                  "metrics": {
+                    "views": "150825",
+                    "likes": "6614",
+                    "favorites": "1668",
+                    "comments": "710",
+                    "shares": "940"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:44",
+                  "metrics": {
+                    "views": "151790",
+                    "likes": "6632",
+                    "favorites": "1669",
+                    "comments": "713",
+                    "shares": "942"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 15:08",
+                  "metrics": {
+                    "views": "154774",
+                    "likes": "6718",
+                    "favorites": "1689",
+                    "comments": "730",
+                    "shares": "953"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 15:39",
+                  "metrics": {
+                    "views": "158296",
+                    "likes": "6852",
+                    "favorites": "1720",
+                    "comments": "748",
+                    "shares": "960"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:00",
+                  "metrics": {
+                    "views": "160526",
+                    "likes": "6913",
+                    "favorites": "1737",
+                    "comments": "765",
+                    "shares": "964"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:05",
+                  "metrics": {
+                    "views": "161103",
+                    "likes": "6932",
+                    "favorites": "1740",
+                    "comments": "769",
+                    "shares": "964"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:20",
+                  "metrics": {
+                    "views": "162438",
+                    "likes": "6970",
+                    "favorites": "1750",
+                    "comments": "775",
+                    "shares": "968"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:34",
+                  "metrics": {
+                    "views": "163721",
+                    "likes": "7021",
+                    "favorites": "1761",
+                    "comments": "789",
+                    "shares": "972"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:53",
+                  "metrics": {
+                    "views": "165159",
+                    "likes": "7080",
+                    "favorites": "1770",
+                    "comments": "799",
+                    "shares": "973"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:06",
+                  "metrics": {
+                    "views": "166101",
+                    "likes": "7123",
+                    "favorites": "1782",
+                    "comments": "810",
+                    "shares": "977"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:21",
+                  "metrics": {
+                    "views": "167173",
+                    "likes": "7156",
+                    "favorites": "1790",
+                    "comments": "820",
+                    "shares": "979"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:39",
+                  "metrics": {
+                    "views": "168429",
+                    "likes": "7206",
+                    "favorites": "1801",
+                    "comments": "829",
+                    "shares": "981"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:56",
+                  "metrics": {
+                    "views": "169720",
+                    "likes": "7262",
+                    "favorites": "1809",
+                    "comments": "840",
+                    "shares": "984"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:53",
+                  "metrics": {
+                    "views": "242144",
+                    "likes": "9078",
+                    "favorites": "2180",
+                    "comments": "1035",
+                    "shares": "1149"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:54",
+                  "metrics": {
+                    "views": "242262",
+                    "likes": "9079",
+                    "favorites": "2180",
+                    "comments": "1035",
+                    "shares": "1149"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:55",
+                  "metrics": {
+                    "views": "242262",
+                    "likes": "9081",
+                    "favorites": "2181",
+                    "comments": "1035",
+                    "shares": "1149"
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:20",
+                  "metrics": {
+                    "views": "257191",
+                    "likes": "9355",
+                    "favorites": "2247",
+                    "comments": "1066",
+                    "shares": "1166"
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:21",
+                  "metrics": {
+                    "views": "257191",
+                    "likes": "9355",
+                    "favorites": "2247",
+                    "comments": "1066",
+                    "shares": "1166"
+                  }
+                },
+                {
+                  "captured": "2026-09-13 08:27",
+                  "metrics": {
+                    "views": "283461",
+                    "likes": "9817",
+                    "favorites": "2348",
+                    "comments": "1138",
+                    "shares": "1203"
+                  }
+                },
+                {
+                  "captured": "2026-09-14 08:31",
+                  "metrics": {
+                    "views": "301879",
+                    "likes": "10111",
+                    "favorites": "2403",
+                    "comments": "1195",
+                    "shares": "1222"
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:22",
+                  "metrics": {
+                    "views": "312286",
+                    "likes": "10243",
+                    "favorites": "2431",
+                    "comments": "1222",
+                    "shares": "1246"
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:23",
+                  "metrics": {
+                    "views": "312286",
+                    "likes": "10243",
+                    "favorites": "2431",
+                    "comments": "1222",
+                    "shares": "1246"
+                  }
+                },
+                {
+                  "captured": "2026-09-16 08:06",
+                  "metrics": {
+                    "views": "318777",
+                    "likes": "10324",
+                    "favorites": "2446",
+                    "comments": "1237",
+                    "shares": "1254"
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:52",
+                  "metrics": {
+                    "views": "325933",
+                    "likes": "10441",
+                    "favorites": "2491",
+                    "comments": "1256",
+                    "shares": "1270"
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:53",
+                  "metrics": {
+                    "views": "325933",
+                    "likes": "10441",
+                    "favorites": "2491",
+                    "comments": "1256",
+                    "shares": "1270"
+                  }
+                }
+              ]
+            },
+            {
+              "title": "iPhone 18 Pro 长这样！你更喜欢冰川蓝还是勃艮第红？",
+              "url": "https://www.bilibili.com/video/BV1gaYb6SEpm",
+              "platform": "哔哩哔哩",
+              "creator": "钟文泽",
+              "duration": "05:53",
+              "published": "2026-09-10",
+              "metrics": {
+                "views": "627997",
+                "likes": "8643",
+                "favorites": "1501",
+                "comments": "3234",
+                "shares": "2732"
+              },
+              "captured": "2026-09-17 11:53",
+              "status": "2026-09-10 13:53 重点名单扫描完成后新进入哔哩哔哩热门榜第 30 位；平台公开接口已核验账号、标题、发布时间、时长、原始链接及全部公开互动数据；作为同主题独立创作者版本保留",
+              "metricHistory": [
+                {
+                  "captured": "2026-09-10 13:53",
+                  "metrics": {
+                    "views": "400061",
+                    "likes": "5936",
+                    "favorites": "1089",
+                    "comments": "2250",
+                    "shares": "2164"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:09",
+                  "metrics": {
+                    "views": "405836",
+                    "likes": "6022",
+                    "favorites": "1104",
+                    "comments": "2293",
+                    "shares": "2193"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:36",
+                  "metrics": {
+                    "views": "414611",
+                    "likes": "6144",
+                    "favorites": "1127",
+                    "comments": "2350",
+                    "shares": "2238"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:44",
+                  "metrics": {
+                    "views": "417094",
+                    "likes": "6172",
+                    "favorites": "1128",
+                    "comments": "2356",
+                    "shares": "2245"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 15:08",
+                  "metrics": {
+                    "views": "422884",
+                    "likes": "6267",
+                    "favorites": "1144",
+                    "comments": "2411",
+                    "shares": "2262"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 15:39",
+                  "metrics": {
+                    "views": "429950",
+                    "likes": "6372",
+                    "favorites": "1167",
+                    "comments": "2473",
+                    "shares": "2288"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:00",
+                  "metrics": {
+                    "views": "434424",
+                    "likes": "6418",
+                    "favorites": "1174",
+                    "comments": "2516",
+                    "shares": "2308"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:05",
+                  "metrics": {
+                    "views": "435478",
+                    "likes": "6426",
+                    "favorites": "1174",
+                    "comments": "2526",
+                    "shares": "2315"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:20",
+                  "metrics": {
+                    "views": "438749",
+                    "likes": "6462",
+                    "favorites": "1176",
+                    "comments": "2538",
+                    "shares": "2321"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:34",
+                  "metrics": {
+                    "views": "441800",
+                    "likes": "6497",
+                    "favorites": "1184",
+                    "comments": "2554",
+                    "shares": "2333"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:53",
+                  "metrics": {
+                    "views": "445643",
+                    "likes": "6558",
+                    "favorites": "1199",
+                    "comments": "2570",
+                    "shares": "2343"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:06",
+                  "metrics": {
+                    "views": "448143",
+                    "likes": "6588",
+                    "favorites": "1207",
+                    "comments": "2579",
+                    "shares": "2348"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:21",
+                  "metrics": {
+                    "views": "451108",
+                    "likes": "6630",
+                    "favorites": "1214",
+                    "comments": "2597",
+                    "shares": "2359"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:39",
+                  "metrics": {
+                    "views": "454437",
+                    "likes": "6675",
+                    "favorites": "1222",
+                    "comments": "2622",
+                    "shares": "2371"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:56",
+                  "metrics": {
+                    "views": "458028",
+                    "likes": "6718",
+                    "favorites": "1224",
+                    "comments": "2645",
+                    "shares": "2387"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:53",
+                  "metrics": {
+                    "views": "578911",
+                    "likes": "8150",
+                    "favorites": "1453",
+                    "comments": "3135",
+                    "shares": "2671"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:54",
+                  "metrics": {
+                    "views": "578949",
+                    "likes": "8151",
+                    "favorites": "1452",
+                    "comments": "3136",
+                    "shares": "2671"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:55",
+                  "metrics": {
+                    "views": "578949",
+                    "likes": "8151",
+                    "favorites": "1453",
+                    "comments": "3136",
+                    "shares": "2671"
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:20",
+                  "metrics": {
+                    "views": "587936",
+                    "likes": "8255",
+                    "favorites": "1463",
+                    "comments": "3179",
+                    "shares": "2680"
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:21",
+                  "metrics": {
+                    "views": "587936",
+                    "likes": "8255",
+                    "favorites": "1463",
+                    "comments": "3179",
+                    "shares": "2680"
+                  }
+                },
+                {
+                  "captured": "2026-09-13 08:27",
+                  "metrics": {
+                    "views": "603584",
+                    "likes": "8413",
+                    "favorites": "1472",
+                    "comments": "3217",
+                    "shares": "2707"
+                  }
+                },
+                {
+                  "captured": "2026-09-14 08:31",
+                  "metrics": {
+                    "views": "613757",
+                    "likes": "8513",
+                    "favorites": "1488",
+                    "comments": "3223",
+                    "shares": "2717"
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:22",
+                  "metrics": {
+                    "views": "620944",
+                    "likes": "8571",
+                    "favorites": "1493",
+                    "comments": "3234",
+                    "shares": "2724"
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:23",
+                  "metrics": {
+                    "views": "620944",
+                    "likes": "8571",
+                    "favorites": "1493",
+                    "comments": "3234",
+                    "shares": "2724"
+                  }
+                },
+                {
+                  "captured": "2026-09-16 08:06",
+                  "metrics": {
+                    "views": "624856",
+                    "likes": "8605",
+                    "favorites": "1499",
+                    "comments": "3233",
+                    "shares": "2729"
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:52",
+                  "metrics": {
+                    "views": "627997",
+                    "likes": "8643",
+                    "favorites": "1501",
+                    "comments": "3234",
+                    "shares": "2732"
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:53",
+                  "metrics": {
+                    "views": "627997",
+                    "likes": "8643",
+                    "favorites": "1501",
+                    "comments": "3234",
+                    "shares": "2732"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "cat": "社会",
+          "score": 6983884,
+          "title": "“康康爷爷”去世引发集体悼念：陪伴型内容如何形成跨代际情感连接",
+          "hook": "拥有数百万粉丝的“康康爷爷”去世消息进入B站热门，家属转述其临终交代，相关评论集中于长期陪伴和告别。适合讨论老年创作者、家庭账号与观众之间的情感劳动，也要尊重逝者与家属，避免消费悲剧。",
+          "platform": "哔哩哔哩",
+          "source": "https://www.bilibili.com/video/BV1XwYt6nESK/",
+          "tags": [
+            "康康爷爷",
+            "老年创作者",
+            "短视频",
+            "网络悼念",
+            "代际陪伴",
+            "数字记忆"
+          ],
+          "videos": [
+            {
+              "title": "500万粉丝博主“康康爷爷”去世，家属：爷爷临终交代，和大家的故事暂时告一段落了",
+              "url": "https://www.bilibili.com/video/BV1XwYt6nESK/",
+              "platform": "哔哩哔哩",
+              "creator": "九派新闻",
+              "duration": "00:42",
+              "published": "2026-09-09",
+              "metrics": {
+                "views": "1559064",
+                "likes": "258094",
+                "favorites": "8983",
+                "comments": "2195",
+                "shares": "2444"
+              },
+              "captured": "2026-09-17 11:53",
+              "status": "9月10日15:37哔哩哔哩热门榜新增；平台公开接口已核验新闻账号、标题、发布时间、时长、原始链接及全部公开互动数据；死亡消息与临终转述来自家属公开说明及媒体报道",
+              "metricHistory": [
+                {
+                  "captured": "2026-09-10 15:39",
+                  "metrics": {
+                    "views": "430648",
+                    "likes": "61886",
+                    "favorites": "1342",
+                    "comments": "448",
+                    "shares": "813"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:00",
+                  "metrics": {
+                    "views": "446377",
+                    "likes": "64502",
+                    "favorites": "1406",
+                    "comments": "449",
+                    "shares": "846"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:05",
+                  "metrics": {
+                    "views": "450097",
+                    "likes": "65183",
+                    "favorites": "1423",
+                    "comments": "455",
+                    "shares": "854"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:20",
+                  "metrics": {
+                    "views": "461766",
+                    "likes": "66988",
+                    "favorites": "1466",
+                    "comments": "462",
+                    "shares": "874"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:34",
+                  "metrics": {
+                    "views": "470749",
+                    "likes": "68667",
+                    "favorites": "1509",
+                    "comments": "477",
+                    "shares": "907"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:53",
+                  "metrics": {
+                    "views": "482260",
+                    "likes": "70724",
+                    "favorites": "1571",
+                    "comments": "497",
+                    "shares": "938"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:06",
+                  "metrics": {
+                    "views": "491189",
+                    "likes": "72277",
+                    "favorites": "1610",
+                    "comments": "505",
+                    "shares": "961"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:21",
+                  "metrics": {
+                    "views": "502520",
+                    "likes": "74113",
+                    "favorites": "1654",
+                    "comments": "515",
+                    "shares": "991"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:39",
+                  "metrics": {
+                    "views": "518332",
+                    "likes": "76878",
+                    "favorites": "1712",
+                    "comments": "536",
+                    "shares": "1018"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:56",
+                  "metrics": {
+                    "views": "532673",
+                    "likes": "79504",
+                    "favorites": "1794",
+                    "comments": "560",
+                    "shares": "1042"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:53",
+                  "metrics": {
+                    "views": "1230422",
+                    "likes": "196233",
+                    "favorites": "6104",
+                    "comments": "1789",
+                    "shares": "2161"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:54",
+                  "metrics": {
+                    "views": "1230911",
+                    "likes": "196325",
+                    "favorites": "6109",
+                    "comments": "1790",
+                    "shares": "2162"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:55",
+                  "metrics": {
+                    "views": "1231414",
+                    "likes": "196339",
+                    "favorites": "6109",
+                    "comments": "1790",
+                    "shares": "2162"
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:20",
+                  "metrics": {
+                    "views": "1372595",
+                    "likes": "224347",
+                    "favorites": "7413",
+                    "comments": "1971",
+                    "shares": "2294"
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:21",
+                  "metrics": {
+                    "views": "1372815",
+                    "likes": "224354",
+                    "favorites": "7413",
+                    "comments": "1971",
+                    "shares": "2294"
+                  }
+                },
+                {
+                  "captured": "2026-09-13 08:27",
+                  "metrics": {
+                    "views": "1537488",
+                    "likes": "257027",
+                    "favorites": "8912",
+                    "comments": "2141",
+                    "shares": "2428"
+                  }
+                },
+                {
+                  "captured": "2026-09-14 08:31",
+                  "metrics": {
+                    "views": "1546547",
+                    "likes": "257508",
+                    "favorites": "8944",
+                    "comments": "2157",
+                    "shares": "2436"
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:22",
+                  "metrics": {
+                    "views": "1550852",
+                    "likes": "257697",
+                    "favorites": "8953",
+                    "comments": "2175",
+                    "shares": "2440"
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:23",
+                  "metrics": {
+                    "views": "1550855",
+                    "likes": "257697",
+                    "favorites": "8953",
+                    "comments": "2175",
+                    "shares": "2440"
+                  }
+                },
+                {
+                  "captured": "2026-09-16 08:06",
+                  "metrics": {
+                    "views": "1554182",
+                    "likes": "257891",
+                    "favorites": "8965",
+                    "comments": "2188",
+                    "shares": "2440"
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:52",
+                  "metrics": {
+                    "views": "1559064",
+                    "likes": "258094",
+                    "favorites": "8983",
+                    "comments": "2195",
+                    "shares": "2444"
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:53",
+                  "metrics": {
+                    "views": "1559064",
+                    "likes": "258094",
+                    "favorites": "8983",
+                    "comments": "2195",
+                    "shares": "2444"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "cat": "科技",
+          "score": 2025594,
+          "title": "小米 18 Fold 实测登榜：国产折叠旗舰进入折痕与体验硬碰硬阶段",
+          "hook": "小米 18 Fold 评测进入 B站热门，讨论焦点从参数堆叠转向折痕控制、软件适配和长期可靠性。适合与同期 iPhone Duo 放在同一坐标系里，比较折叠屏竞争的真实门槛究竟是硬件形态、生态协同还是售后成本；体验结论归因创作者。",
+          "platform": "哔哩哔哩",
+          "source": "https://www.bilibili.com/video/BV1nTbw67EZf/",
+          "tags": [
+            "小米 18 Fold",
+            "折叠屏",
+            "消费电子",
+            "国产手机",
+            "产品体验",
+            "供应链"
+          ],
+          "videos": [
+            {
+              "title": "小米 18 Fold 评测：折痕非常惊喜，小米史上最佳",
+              "url": "https://www.bilibili.com/video/BV1nTbw67EZf/",
+              "platform": "哔哩哔哩",
+              "creator": "钟文泽",
+              "duration": "14:43",
+              "published": "2026-09-08",
+              "metrics": {
+                "views": "1361394",
+                "likes": "14992",
+                "favorites": "2605",
+                "comments": "7399",
+                "shares": "4677"
+              },
+              "captured": "2026-09-17 11:53",
+              "status": "9月10日哔哩哔哩热门榜新增；平台公开接口已核验钟文泽账号、标题、发布时间、时长、原始链接及全部公开互动数据；折痕和产品评价属于创作者实测观点",
+              "metricHistory": [
+                {
+                  "captured": "2026-09-10 10:24",
+                  "metrics": {
+                    "views": "913054",
+                    "likes": "11885",
+                    "favorites": "2170",
+                    "comments": "6247",
+                    "shares": "3748"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 10:53",
+                  "metrics": {
+                    "views": "920109",
+                    "likes": "11925",
+                    "favorites": "2181",
+                    "comments": "6305",
+                    "shares": "3778"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 10:55",
+                  "metrics": {
+                    "views": "920650",
+                    "likes": "11931",
+                    "favorites": "2181",
+                    "comments": "6307",
+                    "shares": "3781"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:08",
+                  "metrics": {
+                    "views": "923334",
+                    "likes": "11944",
+                    "favorites": "2186",
+                    "comments": "6313",
+                    "shares": "3795"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:21",
+                  "metrics": {
+                    "views": "925984",
+                    "likes": "11956",
+                    "favorites": "2189",
+                    "comments": "6335",
+                    "shares": "3805"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:45",
+                  "metrics": {
+                    "views": "930649",
+                    "likes": "11991",
+                    "favorites": "2194",
+                    "comments": "6359",
+                    "shares": "3831"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:54",
+                  "metrics": {
+                    "views": "932456",
+                    "likes": "12005",
+                    "favorites": "2193",
+                    "comments": "6373",
+                    "shares": "3836"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:09",
+                  "metrics": {
+                    "views": "936031",
+                    "likes": "12024",
+                    "favorites": "2202",
+                    "comments": "6384",
+                    "shares": "3847"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:31",
+                  "metrics": {
+                    "views": "942739",
+                    "likes": "12077",
+                    "favorites": "2200",
+                    "comments": "6417",
+                    "shares": "3871"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:43",
+                  "metrics": {
+                    "views": "946685",
+                    "likes": "12104",
+                    "favorites": "2205",
+                    "comments": "6427",
+                    "shares": "3889"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:06",
+                  "metrics": {
+                    "views": "952796",
+                    "likes": "12141",
+                    "favorites": "2206",
+                    "comments": "6444",
+                    "shares": "3908"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:22",
+                  "metrics": {
+                    "views": "956253",
+                    "likes": "12159",
+                    "favorites": "2208",
+                    "comments": "6460",
+                    "shares": "3922"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:35",
+                  "metrics": {
+                    "views": "958643",
+                    "likes": "12174",
+                    "favorites": "2207",
+                    "comments": "6468",
+                    "shares": "3926"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:53",
+                  "metrics": {
+                    "views": "961897",
+                    "likes": "12192",
+                    "favorites": "2207",
+                    "comments": "6485",
+                    "shares": "3937"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:09",
+                  "metrics": {
+                    "views": "964588",
+                    "likes": "12215",
+                    "favorites": "2209",
+                    "comments": "6497",
+                    "shares": "3948"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:36",
+                  "metrics": {
+                    "views": "968751",
+                    "likes": "12251",
+                    "favorites": "2215",
+                    "comments": "6516",
+                    "shares": "3956"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:44",
+                  "metrics": {
+                    "views": "969868",
+                    "likes": "12256",
+                    "favorites": "2215",
+                    "comments": "6524",
+                    "shares": "3958"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 15:08",
+                  "metrics": {
+                    "views": "973238",
+                    "likes": "12280",
+                    "favorites": "2221",
+                    "comments": "6545",
+                    "shares": "3969"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 15:39",
+                  "metrics": {
+                    "views": "977766",
+                    "likes": "12308",
+                    "favorites": "2228",
+                    "comments": "6573",
+                    "shares": "3986"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:00",
+                  "metrics": {
+                    "views": "980802",
+                    "likes": "12328",
+                    "favorites": "2231",
+                    "comments": "6601",
+                    "shares": "3996"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:05",
+                  "metrics": {
+                    "views": "981509",
+                    "likes": "12332",
+                    "favorites": "2231",
+                    "comments": "6609",
+                    "shares": "4000"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:20",
+                  "metrics": {
+                    "views": "983575",
+                    "likes": "12350",
+                    "favorites": "2231",
+                    "comments": "6625",
+                    "shares": "4006"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:34",
+                  "metrics": {
+                    "views": "985579",
+                    "likes": "12359",
+                    "favorites": "2233",
+                    "comments": "6632",
+                    "shares": "4011"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:53",
+                  "metrics": {
+                    "views": "988159",
+                    "likes": "12386",
+                    "favorites": "2234",
+                    "comments": "6648",
+                    "shares": "4019"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:06",
+                  "metrics": {
+                    "views": "990022",
+                    "likes": "12396",
+                    "favorites": "2237",
+                    "comments": "6655",
+                    "shares": "4024"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:21",
+                  "metrics": {
+                    "views": "991854",
+                    "likes": "12408",
+                    "favorites": "2238",
+                    "comments": "6672",
+                    "shares": "4034"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:39",
+                  "metrics": {
+                    "views": "994128",
+                    "likes": "12428",
+                    "favorites": "2245",
+                    "comments": "6681",
+                    "shares": "4041"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:56",
+                  "metrics": {
+                    "views": "996570",
+                    "likes": "12449",
+                    "favorites": "2249",
+                    "comments": "6695",
+                    "shares": "4049"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:53",
+                  "metrics": {
+                    "views": "1147654",
+                    "likes": "13573",
+                    "favorites": "2428",
+                    "comments": "7207",
+                    "shares": "4372"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:54",
+                  "metrics": {
+                    "views": "1147769",
+                    "likes": "13574",
+                    "favorites": "2429",
+                    "comments": "7207",
+                    "shares": "4373"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:55",
+                  "metrics": {
+                    "views": "1147769",
+                    "likes": "13574",
+                    "favorites": "2429",
+                    "comments": "7207",
+                    "shares": "4373"
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:20",
+                  "metrics": {
+                    "views": "1180556",
+                    "likes": "13836",
+                    "favorites": "2470",
+                    "comments": "7277",
+                    "shares": "4417"
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:21",
+                  "metrics": {
+                    "views": "1180556",
+                    "likes": "13836",
+                    "favorites": "2470",
+                    "comments": "7277",
+                    "shares": "4417"
+                  }
+                },
+                {
+                  "captured": "2026-09-13 08:27",
+                  "metrics": {
+                    "views": "1240262",
+                    "likes": "14263",
+                    "favorites": "2516",
+                    "comments": "7413",
+                    "shares": "4498"
+                  }
+                },
+                {
+                  "captured": "2026-09-14 08:31",
+                  "metrics": {
+                    "views": "1274556",
+                    "likes": "14529",
+                    "favorites": "2534",
+                    "comments": "7422",
+                    "shares": "4562"
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:22",
+                  "metrics": {
+                    "views": "1293502",
+                    "likes": "14663",
+                    "favorites": "2554",
+                    "comments": "7430",
+                    "shares": "4600"
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:23",
+                  "metrics": {
+                    "views": "1293502",
+                    "likes": "14663",
+                    "favorites": "2554",
+                    "comments": "7430",
+                    "shares": "4600"
+                  }
+                },
+                {
+                  "captured": "2026-09-16 08:06",
+                  "metrics": {
+                    "views": "1349951",
+                    "likes": "14911",
+                    "favorites": "2607",
+                    "comments": "7403",
+                    "shares": "4645"
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:52",
+                  "metrics": {
+                    "views": "1361394",
+                    "likes": "14992",
+                    "favorites": "2605",
+                    "comments": "7399",
+                    "shares": "4677"
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:53",
+                  "metrics": {
+                    "views": "1361394",
+                    "likes": "14992",
+                    "favorites": "2605",
+                    "comments": "7399",
+                    "shares": "4677"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "cat": "社会",
+          "score": 3848754,
+          "title": "寒潮下的荒野石屋改造走红：冬季庇护所为何让观众持续追更",
+          "hook": "荒野石屋改造视频进入 B站热门，内容从空间修缮延伸到保温、储粮、夜间用火与长期生存。适合拆解“慢改造+强季节节点+连续剧式悬念”如何形成稳定追更，以及户外生活内容背后的居住安全和实用知识需求。",
+          "platform": "哔哩哔哩",
+          "source": "https://www.bilibili.com/video/BV1o7bV6uEZr/",
+          "tags": [
+            "寒潮",
+            "荒野生存",
+            "石屋改造",
+            "冬季庇护所",
+            "户外生活",
+            "居住安全"
+          ],
+          "videos": [
+            {
+              "title": "寒潮来袭，应对寒冬，深入荒野石屋爆改冬季庇护所，半地下安全屋第一次做夜宵 烤着火躲避寒风",
+              "url": "https://www.bilibili.com/video/BV1o7bV6uEZr/",
+              "platform": "哔哩哔哩",
+              "creator": "漠生铁铁",
+              "duration": "27:08",
+              "published": "2026-09-08 20:00",
+              "metrics": {
+                "views": "2243809",
+                "likes": "53107",
+                "favorites": "25695",
+                "comments": "2298",
+                "shares": "3331"
+              },
+              "captured": "2026-09-17 11:53",
+              "status": "9月10日哔哩哔哩热门榜新进入样本；账号、标题、发布时间、时长、原始链接及播放、点赞、收藏、评论、转发均由平台公开接口核验",
+              "metricHistory": [
+                {
+                  "captured": "2026-09-10 15:08",
+                  "metrics": {
+                    "views": "729266",
+                    "likes": "23564",
+                    "favorites": "9478",
+                    "comments": "1222",
+                    "shares": "1357"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 15:39",
+                  "metrics": {
+                    "views": "735789",
+                    "likes": "23667",
+                    "favorites": "9516",
+                    "comments": "1225",
+                    "shares": "1364"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:00",
+                  "metrics": {
+                    "views": "740033",
+                    "likes": "23738",
+                    "favorites": "9539",
+                    "comments": "1233",
+                    "shares": "1368"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:05",
+                  "metrics": {
+                    "views": "740962",
+                    "likes": "23764",
+                    "favorites": "9552",
+                    "comments": "1235",
+                    "shares": "1368"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:20",
+                  "metrics": {
+                    "views": "743638",
+                    "likes": "23815",
+                    "favorites": "9568",
+                    "comments": "1237",
+                    "shares": "1372"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:34",
+                  "metrics": {
+                    "views": "746154",
+                    "likes": "23860",
+                    "favorites": "9583",
+                    "comments": "1242",
+                    "shares": "1376"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:53",
+                  "metrics": {
+                    "views": "749366",
+                    "likes": "23909",
+                    "favorites": "9614",
+                    "comments": "1244",
+                    "shares": "1378"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:06",
+                  "metrics": {
+                    "views": "753190",
+                    "likes": "23977",
+                    "favorites": "9659",
+                    "comments": "1251",
+                    "shares": "1381"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:21",
+                  "metrics": {
+                    "views": "756886",
+                    "likes": "24057",
+                    "favorites": "9684",
+                    "comments": "1256",
+                    "shares": "1385"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:39",
+                  "metrics": {
+                    "views": "761795",
+                    "likes": "24158",
+                    "favorites": "9727",
+                    "comments": "1259",
+                    "shares": "1395"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:56",
+                  "metrics": {
+                    "views": "767314",
+                    "likes": "24274",
+                    "favorites": "9790",
+                    "comments": "1263",
+                    "shares": "1409"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:53",
+                  "metrics": {
+                    "views": "1151776",
+                    "likes": "32011",
+                    "favorites": "13667",
+                    "comments": "1595",
+                    "shares": "2228"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:54",
+                  "metrics": {
+                    "views": "1152012",
+                    "likes": "32016",
+                    "favorites": "13671",
+                    "comments": "1595",
+                    "shares": "2228"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:55",
+                  "metrics": {
+                    "views": "1152012",
+                    "likes": "32018",
+                    "favorites": "13672",
+                    "comments": "1595",
+                    "shares": "2228"
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:20",
+                  "metrics": {
+                    "views": "1277050",
+                    "likes": "34691",
+                    "favorites": "15036",
+                    "comments": "1683",
+                    "shares": "2386"
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:21",
+                  "metrics": {
+                    "views": "1277050",
+                    "likes": "34694",
+                    "favorites": "15037",
+                    "comments": "1683",
+                    "shares": "2386"
+                  }
+                },
+                {
+                  "captured": "2026-09-13 08:27",
+                  "metrics": {
+                    "views": "1506867",
+                    "likes": "39481",
+                    "favorites": "17840",
+                    "comments": "1823",
+                    "shares": "2588"
+                  }
+                },
+                {
+                  "captured": "2026-09-14 08:31",
+                  "metrics": {
+                    "views": "1737816",
+                    "likes": "43933",
+                    "favorites": "20731",
+                    "comments": "1969",
+                    "shares": "2815"
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:22",
+                  "metrics": {
+                    "views": "1937249",
+                    "likes": "47704",
+                    "favorites": "22767",
+                    "comments": "2113",
+                    "shares": "3021"
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:23",
+                  "metrics": {
+                    "views": "1937366",
+                    "likes": "47705",
+                    "favorites": "22768",
+                    "comments": "2113",
+                    "shares": "3021"
+                  }
+                },
+                {
+                  "captured": "2026-09-16 08:06",
+                  "metrics": {
+                    "views": "2086638",
+                    "likes": "50471",
+                    "favorites": "24192",
+                    "comments": "2202",
+                    "shares": "3183"
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:52",
+                  "metrics": {
+                    "views": "2243809",
+                    "likes": "53107",
+                    "favorites": "25695",
+                    "comments": "2298",
+                    "shares": "3331"
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:53",
+                  "metrics": {
+                    "views": "2243809",
+                    "likes": "53107",
+                    "favorites": "25695",
+                    "comments": "2298",
+                    "shares": "3331"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "cat": "社会",
+          "score": 4779796,
+          "title": "“停捐一月遭催捐”登上热门：公益月捐如何重建信任与沟通边界",
+          "hook": "央视新闻视频聚焦长期月捐者停捐后接到催捐电话引发的争议。适合从公益机构的获客与留存逻辑、捐赠者知情权、电话触达边界和资金透明度切入，讨论善意如何被流程化运营消耗。",
+          "platform": "哔哩哔哩 / 央视新闻",
+          "source": "https://www.bilibili.com/video/BV1nSY468EKw/",
+          "tags": [
+            "公益捐赠",
+            "月捐",
+            "消费者权益",
+            "公益透明",
+            "电话营销",
+            "社会信任"
+          ],
+          "videos": [
+            {
+              "title": "“月捐”数年无人问，停捐一月遭“催捐”！一通催捐电话寒了多少人的心？",
+              "url": "https://www.bilibili.com/video/BV1nSY468EKw/",
+              "platform": "哔哩哔哩",
+              "creator": "央视新闻",
+              "duration": "01:19",
+              "published": "2026-09-09",
+              "metrics": {
+                "views": "1581716",
+                "likes": "148024",
+                "favorites": "4849",
+                "comments": "4755",
+                "shares": "1533"
+              },
+              "captured": "2026-09-17 11:53",
+              "status": "2026-09-10 10:53 扫描新进入哔哩哔哩热门榜第 83 位；央视新闻账号、标题、发布时间、时长、原始链接及全部公开互动数据已由平台公开接口核验；视频中的个案与观点归因原发布者",
+              "metricHistory": [
+                {
+                  "captured": "2026-09-10 10:55",
+                  "metrics": {
+                    "views": "268666",
+                    "likes": "19606",
+                    "favorites": "962",
+                    "comments": "1833",
+                    "shares": "406"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:08",
+                  "metrics": {
+                    "views": "274525",
+                    "likes": "20294",
+                    "favorites": "991",
+                    "comments": "1895",
+                    "shares": "422"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:21",
+                  "metrics": {
+                    "views": "281580",
+                    "likes": "21062",
+                    "favorites": "1012",
+                    "comments": "1985",
+                    "shares": "440"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:45",
+                  "metrics": {
+                    "views": "296299",
+                    "likes": "22571",
+                    "favorites": "1061",
+                    "comments": "2165",
+                    "shares": "465"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:54",
+                  "metrics": {
+                    "views": "302169",
+                    "likes": "23139",
+                    "favorites": "1079",
+                    "comments": "2254",
+                    "shares": "469"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:09",
+                  "metrics": {
+                    "views": "312687",
+                    "likes": "24275",
+                    "favorites": "1109",
+                    "comments": "2369",
+                    "shares": "488"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:31",
+                  "metrics": {
+                    "views": "330807",
+                    "likes": "26296",
+                    "favorites": "1163",
+                    "comments": "2553",
+                    "shares": "536"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:43",
+                  "metrics": {
+                    "views": "341747",
+                    "likes": "27389",
+                    "favorites": "1207",
+                    "comments": "2637",
+                    "shares": "560"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:06",
+                  "metrics": {
+                    "views": "359542",
+                    "likes": "29365",
+                    "favorites": "1279",
+                    "comments": "2814",
+                    "shares": "599"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:22",
+                  "metrics": {
+                    "views": "371360",
+                    "likes": "30684",
+                    "favorites": "1321",
+                    "comments": "2933",
+                    "shares": "635"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:35",
+                  "metrics": {
+                    "views": "378941",
+                    "likes": "31552",
+                    "favorites": "1360",
+                    "comments": "3021",
+                    "shares": "646"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:53",
+                  "metrics": {
+                    "views": "387530",
+                    "likes": "32392",
+                    "favorites": "1391",
+                    "comments": "3097",
+                    "shares": "652"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:09",
+                  "metrics": {
+                    "views": "394390",
+                    "likes": "33112",
+                    "favorites": "1419",
+                    "comments": "3149",
+                    "shares": "666"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:36",
+                  "metrics": {
+                    "views": "404963",
+                    "likes": "34179",
+                    "favorites": "1456",
+                    "comments": "3138",
+                    "shares": "684"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:44",
+                  "metrics": {
+                    "views": "408295",
+                    "likes": "34461",
+                    "favorites": "1475",
+                    "comments": "3147",
+                    "shares": "692"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 15:08",
+                  "metrics": {
+                    "views": "417749",
+                    "likes": "35498",
+                    "favorites": "1503",
+                    "comments": "3204",
+                    "shares": "707"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 15:39",
+                  "metrics": {
+                    "views": "429356",
+                    "likes": "36745",
+                    "favorites": "1541",
+                    "comments": "3280",
+                    "shares": "718"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:00",
+                  "metrics": {
+                    "views": "436495",
+                    "likes": "37582",
+                    "favorites": "1562",
+                    "comments": "3326",
+                    "shares": "724"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:05",
+                  "metrics": {
+                    "views": "437864",
+                    "likes": "37719",
+                    "favorites": "1565",
+                    "comments": "3332",
+                    "shares": "725"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:20",
+                  "metrics": {
+                    "views": "441704",
+                    "likes": "38132",
+                    "favorites": "1575",
+                    "comments": "3348",
+                    "shares": "732"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:34",
+                  "metrics": {
+                    "views": "445982",
+                    "likes": "38599",
+                    "favorites": "1584",
+                    "comments": "3372",
+                    "shares": "740"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:53",
+                  "metrics": {
+                    "views": "452666",
+                    "likes": "39422",
+                    "favorites": "1605",
+                    "comments": "3419",
+                    "shares": "749"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:06",
+                  "metrics": {
+                    "views": "458707",
+                    "likes": "40051",
+                    "favorites": "1618",
+                    "comments": "3444",
+                    "shares": "754"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:21",
+                  "metrics": {
+                    "views": "465620",
+                    "likes": "40805",
+                    "favorites": "1637",
+                    "comments": "3468",
+                    "shares": "761"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:39",
+                  "metrics": {
+                    "views": "472075",
+                    "likes": "41500",
+                    "favorites": "1664",
+                    "comments": "3488",
+                    "shares": "772"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:56",
+                  "metrics": {
+                    "views": "479533",
+                    "likes": "42342",
+                    "favorites": "1690",
+                    "comments": "3519",
+                    "shares": "782"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:53",
+                  "metrics": {
+                    "views": "826151",
+                    "likes": "76168",
+                    "favorites": "2664",
+                    "comments": "4733",
+                    "shares": "1130"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:54",
+                  "metrics": {
+                    "views": "826408",
+                    "likes": "76207",
+                    "favorites": "2665",
+                    "comments": "4733",
+                    "shares": "1130"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:55",
+                  "metrics": {
+                    "views": "826408",
+                    "likes": "76216",
+                    "favorites": "2666",
+                    "comments": "4733",
+                    "shares": "1130"
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:20",
+                  "metrics": {
+                    "views": "955507",
+                    "likes": "87161",
+                    "favorites": "2986",
+                    "comments": "4958",
+                    "shares": "1193"
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:21",
+                  "metrics": {
+                    "views": "955507",
+                    "likes": "87167",
+                    "favorites": "2986",
+                    "comments": "4958",
+                    "shares": "1193"
+                  }
+                },
+                {
+                  "captured": "2026-09-13 08:27",
+                  "metrics": {
+                    "views": "1256511",
+                    "likes": "119100",
+                    "favorites": "3855",
+                    "comments": "4289",
+                    "shares": "1346"
+                  }
+                },
+                {
+                  "captured": "2026-09-14 08:31",
+                  "metrics": {
+                    "views": "1453647",
+                    "likes": "135720",
+                    "favorites": "4369",
+                    "comments": "4471",
+                    "shares": "1441"
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:22",
+                  "metrics": {
+                    "views": "1509508",
+                    "likes": "140452",
+                    "favorites": "4565",
+                    "comments": "4549",
+                    "shares": "1478"
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:23",
+                  "metrics": {
+                    "views": "1509508",
+                    "likes": "140453",
+                    "favorites": "4565",
+                    "comments": "4549",
+                    "shares": "1478"
+                  }
+                },
+                {
+                  "captured": "2026-09-16 08:06",
+                  "metrics": {
+                    "views": "1547050",
+                    "likes": "144309",
+                    "favorites": "4701",
+                    "comments": "4622",
+                    "shares": "1509"
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:52",
+                  "metrics": {
+                    "views": "1581716",
+                    "likes": "148024",
+                    "favorites": "4849",
+                    "comments": "4755",
+                    "shares": "1533"
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:53",
+                  "metrics": {
+                    "views": "1581716",
+                    "likes": "148024",
+                    "favorites": "4849",
+                    "comments": "4755",
+                    "shares": "1533"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "cat": "社会",
+          "score": 5235513,
+          "title": "第42个教师节：尊师叙事从节日祝福转向职业价值与教育家精神",
+          "hook": "9月10日第42个教师节，官方微视频集中呈现教师在品格、信念与成长中的长期作用。适合进一步讨论教师职业吸引力、乡村与特教岗位支持、评价机制和减负，让节日表达落到制度与日常尊重。",
+          "platform": "新华网",
+          "source": "https://www.news.cn/20260910/c85e8bc26fd7451f87a2d88f7f49136b/c.html",
+          "tags": [
+            "教师节",
+            "教育",
+            "教师职业",
+            "教育家精神",
+            "乡村教育",
+            "特教"
+          ],
+          "videos": [
+            {
+              "title": "大先生——第42个教师节献礼微视频",
+              "url": "https://www.news.cn/20260910/c85e8bc26fd7451f87a2d88f7f49136b/c.html",
+              "platform": "新华网",
+              "creator": "新华社",
+              "duration": "未公开",
+              "published": "2026-09-10",
+              "metrics": {
+                "views": null,
+                "likes": null,
+                "favorites": null,
+                "comments": null,
+                "shares": null
+              },
+              "captured": "2026-09-17 11:52",
+              "status": "新华网当日官方微视频；标题、发布日期与原始链接已核验；页面未公开播放、点赞、收藏、评论、转发，全部标为未公开且不计热力",
+              "metricHistory": [
+                {
+                  "captured": "2026-09-10 10:14",
+                  "metrics": {
+                    "views": null,
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:54",
+                  "metrics": {
+                    "views": null,
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:20",
+                  "metrics": {
+                    "views": null,
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-13 08:27",
+                  "metrics": {
+                    "views": null,
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-14 08:31",
+                  "metrics": {
+                    "views": null,
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:22",
+                  "metrics": {
+                    "views": null,
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-16 08:06",
+                  "metrics": {
+                    "views": null,
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:52",
+                  "metrics": {
+                    "views": null,
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                }
+              ]
+            },
+            {
+              "title": "当不同学科老师收到教师节的花？祝天下老师们教师节快乐！",
+              "url": "https://www.bilibili.com/video/BV1JfYJ6gE4D/",
+              "platform": "哔哩哔哩",
+              "creator": "李如儒也是李蠕蠕",
+              "duration": "01:19",
+              "published": "2026-09-09",
+              "metrics": {
+                "views": "2166873",
+                "likes": "138920",
+                "favorites": "11935",
+                "comments": "2081",
+                "shares": "1973"
+              },
+              "captured": "2026-09-17 11:53",
+              "status": "9月10日14:42哔哩哔哩热门榜新增；平台公开接口已核验账号、标题、发布时间、时长、原始链接及全部公开互动数据；作为教师节社会情绪与传播样本收录",
+              "metricHistory": [
+                {
+                  "captured": "2026-09-10 14:44",
+                  "metrics": {
+                    "views": "341951",
+                    "likes": "35729",
+                    "favorites": "1644",
+                    "comments": "678",
+                    "shares": "726"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 15:08",
+                  "metrics": {
+                    "views": "345711",
+                    "likes": "35989",
+                    "favorites": "1659",
+                    "comments": "687",
+                    "shares": "732"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 15:39",
+                  "metrics": {
+                    "views": "352036",
+                    "likes": "36490",
+                    "favorites": "1681",
+                    "comments": "711",
+                    "shares": "740"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:00",
+                  "metrics": {
+                    "views": "359242",
+                    "likes": "37082",
+                    "favorites": "1719",
+                    "comments": "722",
+                    "shares": "748"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:05",
+                  "metrics": {
+                    "views": "361006",
+                    "likes": "37231",
+                    "favorites": "1726",
+                    "comments": "724",
+                    "shares": "753"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:20",
+                  "metrics": {
+                    "views": "367677",
+                    "likes": "37699",
+                    "favorites": "1756",
+                    "comments": "737",
+                    "shares": "757"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:34",
+                  "metrics": {
+                    "views": "372127",
+                    "likes": "38046",
+                    "favorites": "1789",
+                    "comments": "745",
+                    "shares": "761"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:53",
+                  "metrics": {
+                    "views": "377698",
+                    "likes": "38401",
+                    "favorites": "1817",
+                    "comments": "751",
+                    "shares": "765"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:06",
+                  "metrics": {
+                    "views": "381502",
+                    "likes": "38647",
+                    "favorites": "1842",
+                    "comments": "758",
+                    "shares": "767"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:21",
+                  "metrics": {
+                    "views": "386687",
+                    "likes": "38999",
+                    "favorites": "1870",
+                    "comments": "772",
+                    "shares": "769"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:39",
+                  "metrics": {
+                    "views": "395798",
+                    "likes": "39619",
+                    "favorites": "1935",
+                    "comments": "791",
+                    "shares": "780"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:56",
+                  "metrics": {
+                    "views": "406469",
+                    "likes": "40328",
+                    "favorites": "1995",
+                    "comments": "799",
+                    "shares": "798"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:53",
+                  "metrics": {
+                    "views": "844264",
+                    "likes": "69064",
+                    "favorites": "5182",
+                    "comments": "1347",
+                    "shares": "1282"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:54",
+                  "metrics": {
+                    "views": "845095",
+                    "likes": "69096",
+                    "favorites": "5187",
+                    "comments": "1347",
+                    "shares": "1282"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:55",
+                  "metrics": {
+                    "views": "845822",
+                    "likes": "69101",
+                    "favorites": "5187",
+                    "comments": "1347",
+                    "shares": "1282"
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:20",
+                  "metrics": {
+                    "views": "1067301",
+                    "likes": "80447",
+                    "favorites": "6324",
+                    "comments": "1458",
+                    "shares": "1422"
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:21",
+                  "metrics": {
+                    "views": "1067301",
+                    "likes": "80449",
+                    "favorites": "6324",
+                    "comments": "1458",
+                    "shares": "1422"
+                  }
+                },
+                {
+                  "captured": "2026-09-13 08:27",
+                  "metrics": {
+                    "views": "1575820",
+                    "likes": "107564",
+                    "favorites": "9071",
+                    "comments": "1820",
+                    "shares": "1676"
+                  }
+                },
+                {
+                  "captured": "2026-09-14 08:31",
+                  "metrics": {
+                    "views": "1868487",
+                    "likes": "123167",
+                    "favorites": "10438",
+                    "comments": "1969",
+                    "shares": "1814"
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:22",
+                  "metrics": {
+                    "views": "1987929",
+                    "likes": "129441",
+                    "favorites": "10978",
+                    "comments": "2022",
+                    "shares": "1880"
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:23",
+                  "metrics": {
+                    "views": "1987929",
+                    "likes": "129443",
+                    "favorites": "10978",
+                    "comments": "2022",
+                    "shares": "1880"
+                  }
+                },
+                {
+                  "captured": "2026-09-16 08:06",
+                  "metrics": {
+                    "views": "2092643",
+                    "likes": "135142",
+                    "favorites": "11548",
+                    "comments": "2066",
+                    "shares": "1948"
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:52",
+                  "metrics": {
+                    "views": "2166873",
+                    "likes": "138920",
+                    "favorites": "11935",
+                    "comments": "2081",
+                    "shares": "1973"
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:53",
+                  "metrics": {
+                    "views": "2166873",
+                    "likes": "138920",
+                    "favorites": "11935",
+                    "comments": "2081",
+                    "shares": "1973"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "cat": "社会",
+          "score": 2175245,
+          "title": "给蜜蜂喂糖酿出紫色蜜：养蜂操作为何被误读成“造假”",
+          "hook": "养蜂人用火龙果和糖水做实验的视频引发“是否假蜂蜜”的讨论。适合区分越冬或缺蜜期补饲、实验性饲喂与商品蜂蜜标准，延伸到食品标签、科普表达和消费者信任；是否可销售及质量判断应以监管标准和检测为准。",
+          "platform": "哔哩哔哩",
+          "source": "https://www.bilibili.com/video/BV1J5Yb6wE4B/",
+          "tags": [
+            "蜂蜜",
+            "食品安全",
+            "养蜂",
+            "消费认知",
+            "科普",
+            "监管标准"
+          ],
+          "videos": [
+            {
+              "title": "震惊！给蜜蜂喂火龙果！竟然真的能酿出来“紫色的蜜”但是用的是白糖水，真的不是在做假蜂蜜吗？养蜂人为啥要给蜜蜂喂白糖？",
+              "url": "https://www.bilibili.com/video/BV1J5Yb6wE4B/",
+              "platform": "哔哩哔哩",
+              "creator": "蜂农小姜",
+              "duration": "06:13",
+              "published": "2026-09-09",
+              "metrics": {
+                "views": "966435",
+                "likes": "52720",
+                "favorites": "3921",
+                "comments": "2775",
+                "shares": "874"
+              },
+              "captured": "2026-09-17 11:53",
+              "status": "9月10日补扫发现的近48小时高互动内容；平台公开接口已核验账号、标题、发布时间、时长、原始链接及全部公开互动数据；实验过程来自作者展示，食品结论以监管检测为准",
+              "metricHistory": [
+                {
+                  "captured": "2026-09-10 10:14",
+                  "metrics": {
+                    "views": "200389",
+                    "likes": "11889",
+                    "favorites": "881",
+                    "comments": "984",
+                    "shares": "193"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 10:21",
+                  "metrics": {
+                    "views": "205213",
+                    "likes": "12172",
+                    "favorites": "900",
+                    "comments": "1004",
+                    "shares": "197"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 10:53",
+                  "metrics": {
+                    "views": "217925",
+                    "likes": "12948",
+                    "favorites": "950",
+                    "comments": "1050",
+                    "shares": "207"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 10:55",
+                  "metrics": {
+                    "views": "218442",
+                    "likes": "13002",
+                    "favorites": "954",
+                    "comments": "1055",
+                    "shares": "207"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:08",
+                  "metrics": {
+                    "views": "223679",
+                    "likes": "13308",
+                    "favorites": "971",
+                    "comments": "1094",
+                    "shares": "210"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:21",
+                  "metrics": {
+                    "views": "232356",
+                    "likes": "13776",
+                    "favorites": "1010",
+                    "comments": "1121",
+                    "shares": "226"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:45",
+                  "metrics": {
+                    "views": "248252",
+                    "likes": "14636",
+                    "favorites": "1078",
+                    "comments": "1161",
+                    "shares": "241"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:54",
+                  "metrics": {
+                    "views": "254141",
+                    "likes": "14956",
+                    "favorites": "1102",
+                    "comments": "1179",
+                    "shares": "253"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:09",
+                  "metrics": {
+                    "views": "266026",
+                    "likes": "15627",
+                    "favorites": "1148",
+                    "comments": "1206",
+                    "shares": "265"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:31",
+                  "metrics": {
+                    "views": "287341",
+                    "likes": "16733",
+                    "favorites": "1218",
+                    "comments": "1249",
+                    "shares": "291"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:43",
+                  "metrics": {
+                    "views": "298509",
+                    "likes": "17315",
+                    "favorites": "1268",
+                    "comments": "1282",
+                    "shares": "302"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:06",
+                  "metrics": {
+                    "views": "316410",
+                    "likes": "18311",
+                    "favorites": "1361",
+                    "comments": "1332",
+                    "shares": "316"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:22",
+                  "metrics": {
+                    "views": "325972",
+                    "likes": "18830",
+                    "favorites": "1417",
+                    "comments": "1362",
+                    "shares": "320"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:35",
+                  "metrics": {
+                    "views": "334949",
+                    "likes": "19262",
+                    "favorites": "1448",
+                    "comments": "1379",
+                    "shares": "324"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:53",
+                  "metrics": {
+                    "views": "346739",
+                    "likes": "19895",
+                    "favorites": "1497",
+                    "comments": "1421",
+                    "shares": "331"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:09",
+                  "metrics": {
+                    "views": "358332",
+                    "likes": "20577",
+                    "favorites": "1543",
+                    "comments": "1458",
+                    "shares": "342"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:36",
+                  "metrics": {
+                    "views": "375762",
+                    "likes": "21451",
+                    "favorites": "1600",
+                    "comments": "1499",
+                    "shares": "357"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:44",
+                  "metrics": {
+                    "views": "380189",
+                    "likes": "21703",
+                    "favorites": "1618",
+                    "comments": "1506",
+                    "shares": "359"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 15:08",
+                  "metrics": {
+                    "views": "392436",
+                    "likes": "22303",
+                    "favorites": "1671",
+                    "comments": "1535",
+                    "shares": "365"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 15:39",
+                  "metrics": {
+                    "views": "406802",
+                    "likes": "22980",
+                    "favorites": "1716",
+                    "comments": "1567",
+                    "shares": "376"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:00",
+                  "metrics": {
+                    "views": "416468",
+                    "likes": "23512",
+                    "favorites": "1750",
+                    "comments": "1599",
+                    "shares": "383"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:05",
+                  "metrics": {
+                    "views": "418840",
+                    "likes": "23618",
+                    "favorites": "1759",
+                    "comments": "1608",
+                    "shares": "384"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:20",
+                  "metrics": {
+                    "views": "425791",
+                    "likes": "24013",
+                    "favorites": "1779",
+                    "comments": "1619",
+                    "shares": "389"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:34",
+                  "metrics": {
+                    "views": "433240",
+                    "likes": "24440",
+                    "favorites": "1808",
+                    "comments": "1629",
+                    "shares": "394"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:53",
+                  "metrics": {
+                    "views": "442273",
+                    "likes": "25013",
+                    "favorites": "1857",
+                    "comments": "1647",
+                    "shares": "399"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:06",
+                  "metrics": {
+                    "views": "447794",
+                    "likes": "25348",
+                    "favorites": "1891",
+                    "comments": "1666",
+                    "shares": "402"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:21",
+                  "metrics": {
+                    "views": "453057",
+                    "likes": "25615",
+                    "favorites": "1907",
+                    "comments": "1679",
+                    "shares": "407"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:39",
+                  "metrics": {
+                    "views": "460348",
+                    "likes": "26035",
+                    "favorites": "1941",
+                    "comments": "1696",
+                    "shares": "417"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:56",
+                  "metrics": {
+                    "views": "468905",
+                    "likes": "26561",
+                    "favorites": "1976",
+                    "comments": "1719",
+                    "shares": "422"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:53",
+                  "metrics": {
+                    "views": "746539",
+                    "likes": "43174",
+                    "favorites": "3161",
+                    "comments": "2388",
+                    "shares": "690"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:54",
+                  "metrics": {
+                    "views": "746704",
+                    "likes": "43187",
+                    "favorites": "3162",
+                    "comments": "2390",
+                    "shares": "693"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:55",
+                  "metrics": {
+                    "views": "746704",
+                    "likes": "43192",
+                    "favorites": "3162",
+                    "comments": "2389",
+                    "shares": "693"
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:20",
+                  "metrics": {
+                    "views": "780608",
+                    "likes": "45081",
+                    "favorites": "3323",
+                    "comments": "2475",
+                    "shares": "725"
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:21",
+                  "metrics": {
+                    "views": "780608",
+                    "likes": "45081",
+                    "favorites": "3323",
+                    "comments": "2475",
+                    "shares": "725"
+                  }
+                },
+                {
+                  "captured": "2026-09-13 08:27",
+                  "metrics": {
+                    "views": "846613",
+                    "likes": "48302",
+                    "favorites": "3580",
+                    "comments": "2617",
+                    "shares": "777"
+                  }
+                },
+                {
+                  "captured": "2026-09-14 08:31",
+                  "metrics": {
+                    "views": "889426",
+                    "likes": "50008",
+                    "favorites": "3706",
+                    "comments": "2670",
+                    "shares": "812"
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:22",
+                  "metrics": {
+                    "views": "918109",
+                    "likes": "51058",
+                    "favorites": "3802",
+                    "comments": "2745",
+                    "shares": "837"
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:23",
+                  "metrics": {
+                    "views": "918109",
+                    "likes": "51058",
+                    "favorites": "3802",
+                    "comments": "2745",
+                    "shares": "837"
+                  }
+                },
+                {
+                  "captured": "2026-09-16 08:06",
+                  "metrics": {
+                    "views": "942173",
+                    "likes": "51911",
+                    "favorites": "3862",
+                    "comments": "2734",
+                    "shares": "862"
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:52",
+                  "metrics": {
+                    "views": "966435",
+                    "likes": "52720",
+                    "favorites": "3921",
+                    "comments": "2775",
+                    "shares": "874"
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:53",
+                  "metrics": {
+                    "views": "966435",
+                    "likes": "52720",
+                    "favorites": "3921",
+                    "comments": "2775",
+                    "shares": "874"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "cat": "财经",
+          "score": 2567462,
+          "title": "五毛钱铁板豆腐卖到意大利：小摊出海的成本、定价与文化溢价",
+          "hook": "华人在意大利摆摊卖中餐的视频持续升温，用极低食材成本测试海外消费者反馈。适合拆解原料、人工、摊位、合规与税费如何重构毛利，也能讨论中餐出海究竟靠低价、猎奇还是稳定复购；经营数据以作者自述为准。",
+          "platform": "哔哩哔哩",
+          "source": "https://www.bilibili.com/video/BV1aCYx6yEAn/",
+          "tags": [
+            "中餐出海",
+            "小微创业",
+            "定价",
+            "毛利",
+            "跨境经营",
+            "消费观察"
+          ],
+          "videos": [
+            {
+              "title": "在意大利摆摊卖中餐，花5毛钱做铁板豆腐 看看老外啥反应！",
+              "url": "https://www.bilibili.com/video/BV1aCYx6yEAn/",
+              "platform": "哔哩哔哩",
+              "creator": "周丽Giuly在意大利",
+              "duration": "05:27",
+              "published": "2026-09-09",
+              "metrics": {
+                "views": "1034077",
+                "likes": "68996",
+                "favorites": "4321",
+                "comments": "2778",
+                "shares": "640"
+              },
+              "captured": "2026-09-17 11:53",
+              "status": "9月10日补扫发现的近48小时持续升温内容；平台公开接口已核验账号、标题、发布时间、时长、原始链接及全部公开互动数据；成本和顾客反馈属于作者记录",
+              "metricHistory": [
+                {
+                  "captured": "2026-09-10 10:14",
+                  "metrics": {
+                    "views": "184195",
+                    "likes": "14373",
+                    "favorites": "779",
+                    "comments": "769",
+                    "shares": "97"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 10:21",
+                  "metrics": {
+                    "views": "188243",
+                    "likes": "14705",
+                    "favorites": "787",
+                    "comments": "780",
+                    "shares": "98"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 10:53",
+                  "metrics": {
+                    "views": "199027",
+                    "likes": "15445",
+                    "favorites": "824",
+                    "comments": "803",
+                    "shares": "104"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 10:55",
+                  "metrics": {
+                    "views": "199361",
+                    "likes": "15474",
+                    "favorites": "824",
+                    "comments": "805",
+                    "shares": "104"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:08",
+                  "metrics": {
+                    "views": "202020",
+                    "likes": "15623",
+                    "favorites": "837",
+                    "comments": "815",
+                    "shares": "105"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:21",
+                  "metrics": {
+                    "views": "206977",
+                    "likes": "15926",
+                    "favorites": "851",
+                    "comments": "829",
+                    "shares": "108"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:45",
+                  "metrics": {
+                    "views": "219077",
+                    "likes": "16767",
+                    "favorites": "887",
+                    "comments": "866",
+                    "shares": "114"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:54",
+                  "metrics": {
+                    "views": "222143",
+                    "likes": "16939",
+                    "favorites": "893",
+                    "comments": "881",
+                    "shares": "115"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:09",
+                  "metrics": {
+                    "views": "227684",
+                    "likes": "17288",
+                    "favorites": "913",
+                    "comments": "894",
+                    "shares": "122"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:31",
+                  "metrics": {
+                    "views": "243325",
+                    "likes": "18366",
+                    "favorites": "985",
+                    "comments": "920",
+                    "shares": "138"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:43",
+                  "metrics": {
+                    "views": "253330",
+                    "likes": "18962",
+                    "favorites": "1021",
+                    "comments": "937",
+                    "shares": "143"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:06",
+                  "metrics": {
+                    "views": "272542",
+                    "likes": "20034",
+                    "favorites": "1082",
+                    "comments": "983",
+                    "shares": "154"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:22",
+                  "metrics": {
+                    "views": "278004",
+                    "likes": "20416",
+                    "favorites": "1099",
+                    "comments": "1002",
+                    "shares": "156"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:35",
+                  "metrics": {
+                    "views": "282572",
+                    "likes": "20740",
+                    "favorites": "1119",
+                    "comments": "1007",
+                    "shares": "160"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:53",
+                  "metrics": {
+                    "views": "289187",
+                    "likes": "21225",
+                    "favorites": "1138",
+                    "comments": "1026",
+                    "shares": "161"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:09",
+                  "metrics": {
+                    "views": "296188",
+                    "likes": "21721",
+                    "favorites": "1176",
+                    "comments": "1048",
+                    "shares": "166"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:36",
+                  "metrics": {
+                    "views": "302133",
+                    "likes": "22080",
+                    "favorites": "1193",
+                    "comments": "1075",
+                    "shares": "169"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:44",
+                  "metrics": {
+                    "views": "303312",
+                    "likes": "22148",
+                    "favorites": "1202",
+                    "comments": "1077",
+                    "shares": "169"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 15:08",
+                  "metrics": {
+                    "views": "307845",
+                    "likes": "22409",
+                    "favorites": "1218",
+                    "comments": "1084",
+                    "shares": "170"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 15:39",
+                  "metrics": {
+                    "views": "315385",
+                    "likes": "22935",
+                    "favorites": "1256",
+                    "comments": "1094",
+                    "shares": "173"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:00",
+                  "metrics": {
+                    "views": "322159",
+                    "likes": "23358",
+                    "favorites": "1285",
+                    "comments": "1115",
+                    "shares": "176"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:05",
+                  "metrics": {
+                    "views": "324981",
+                    "likes": "23554",
+                    "favorites": "1294",
+                    "comments": "1116",
+                    "shares": "177"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:20",
+                  "metrics": {
+                    "views": "333929",
+                    "likes": "24353",
+                    "favorites": "1336",
+                    "comments": "1134",
+                    "shares": "179"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:34",
+                  "metrics": {
+                    "views": "338677",
+                    "likes": "24636",
+                    "favorites": "1354",
+                    "comments": "1141",
+                    "shares": "181"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:53",
+                  "metrics": {
+                    "views": "344124",
+                    "likes": "25036",
+                    "favorites": "1372",
+                    "comments": "1138",
+                    "shares": "186"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:06",
+                  "metrics": {
+                    "views": "347980",
+                    "likes": "25277",
+                    "favorites": "1387",
+                    "comments": "1143",
+                    "shares": "187"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:21",
+                  "metrics": {
+                    "views": "357099",
+                    "likes": "26010",
+                    "favorites": "1432",
+                    "comments": "1159",
+                    "shares": "189"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:39",
+                  "metrics": {
+                    "views": "373008",
+                    "likes": "27173",
+                    "favorites": "1495",
+                    "comments": "1179",
+                    "shares": "192"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:56",
+                  "metrics": {
+                    "views": "384745",
+                    "likes": "27945",
+                    "favorites": "1537",
+                    "comments": "1197",
+                    "shares": "202"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:53",
+                  "metrics": {
+                    "views": "757687",
+                    "likes": "52117",
+                    "favorites": "3172",
+                    "comments": "2108",
+                    "shares": "422"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:54",
+                  "metrics": {
+                    "views": "757807",
+                    "likes": "52120",
+                    "favorites": "3172",
+                    "comments": "2109",
+                    "shares": "423"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:55",
+                  "metrics": {
+                    "views": "757939",
+                    "likes": "52121",
+                    "favorites": "3172",
+                    "comments": "2109",
+                    "shares": "424"
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:20",
+                  "metrics": {
+                    "views": "804644",
+                    "likes": "54961",
+                    "favorites": "3411",
+                    "comments": "2229",
+                    "shares": "457"
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:21",
+                  "metrics": {
+                    "views": "804644",
+                    "likes": "54962",
+                    "favorites": "3411",
+                    "comments": "2230",
+                    "shares": "457"
+                  }
+                },
+                {
+                  "captured": "2026-09-13 08:27",
+                  "metrics": {
+                    "views": "904809",
+                    "likes": "60502",
+                    "favorites": "3805",
+                    "comments": "2555",
+                    "shares": "523"
+                  }
+                },
+                {
+                  "captured": "2026-09-14 08:31",
+                  "metrics": {
+                    "views": "956381",
+                    "likes": "64028",
+                    "favorites": "3977",
+                    "comments": "2661",
+                    "shares": "566"
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:22",
+                  "metrics": {
+                    "views": "991751",
+                    "likes": "66089",
+                    "favorites": "4109",
+                    "comments": "2693",
+                    "shares": "598"
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:23",
+                  "metrics": {
+                    "views": "991772",
+                    "likes": "66090",
+                    "favorites": "4109",
+                    "comments": "2693",
+                    "shares": "598"
+                  }
+                },
+                {
+                  "captured": "2026-09-16 08:06",
+                  "metrics": {
+                    "views": "1012313",
+                    "likes": "67522",
+                    "favorites": "4209",
+                    "comments": "2731",
+                    "shares": "619"
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:52",
+                  "metrics": {
+                    "views": "1034077",
+                    "likes": "68996",
+                    "favorites": "4321",
+                    "comments": "2778",
+                    "shares": "640"
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:53",
+                  "metrics": {
+                    "views": "1034077",
+                    "likes": "68996",
+                    "favorites": "4321",
+                    "comments": "2778",
+                    "shares": "640"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "cat": "社会",
+          "score": 371003,
+          "title": "癌症为何常先转移到肝：一条热门科普拆解器官“第一站”机制",
+          "hook": "一条解释癌细胞为何常经血流到达肝脏的视频进入 B站热门。适合从门静脉循环、肝脏血流量和肿瘤微环境切入，澄清“常见转移部位”不等于所有癌症都遵循同一路径，并提醒具体筛查与治疗应听从专业医生。",
+          "platform": "哔哩哔哩",
+          "source": "https://www.bilibili.com/video/BV12vYs6wEKG/",
+          "tags": [
+            "癌症",
+            "肝转移",
+            "医学科普",
+            "健康教育",
+            "科学传播",
+            "风险沟通"
+          ],
+          "videos": [
+            {
+              "title": "癌症转移的第一站，为啥总是「肝」？",
+              "url": "https://www.bilibili.com/video/BV12vYs6wEKG/",
+              "platform": "哔哩哔哩",
+              "creator": "知安局",
+              "duration": "06:07",
+              "published": "2026-09-09",
+              "metrics": {
+                "views": "189663",
+                "likes": "5520",
+                "favorites": "4168",
+                "comments": "74",
+                "shares": "219"
+              },
+              "captured": "2026-09-17 11:53",
+              "status": "9月10日重点名单扫描完成后的 B站热门补充；平台公开接口已核验账号、标题、发布时间、时长、原始链接及全部公开互动数据；医学解释属于科普内容，个体诊疗以专业医生意见为准",
+              "metricHistory": [
+                {
+                  "captured": "2026-09-10 12:09",
+                  "metrics": {
+                    "views": "182961",
+                    "likes": "5445",
+                    "favorites": "4155",
+                    "comments": "72",
+                    "shares": "146"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:31",
+                  "metrics": {
+                    "views": "184909",
+                    "likes": "5461",
+                    "favorites": "4165",
+                    "comments": "74",
+                    "shares": "207"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:43",
+                  "metrics": {
+                    "views": "185649",
+                    "likes": "5468",
+                    "favorites": "4165",
+                    "comments": "74",
+                    "shares": "211"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:06",
+                  "metrics": {
+                    "views": "186382",
+                    "likes": "5469",
+                    "favorites": "4166",
+                    "comments": "74",
+                    "shares": "214"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:22",
+                  "metrics": {
+                    "views": "186751",
+                    "likes": "5472",
+                    "favorites": "4165",
+                    "comments": "74",
+                    "shares": "214"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:35",
+                  "metrics": {
+                    "views": "186999",
+                    "likes": "5473",
+                    "favorites": "4165",
+                    "comments": "74",
+                    "shares": "214"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:53",
+                  "metrics": {
+                    "views": "187293",
+                    "likes": "5474",
+                    "favorites": "4165",
+                    "comments": "74",
+                    "shares": "214"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:09",
+                  "metrics": {
+                    "views": "187492",
+                    "likes": "5476",
+                    "favorites": "4166",
+                    "comments": "74",
+                    "shares": "214"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:36",
+                  "metrics": {
+                    "views": "187767",
+                    "likes": "5480",
+                    "favorites": "4168",
+                    "comments": "74",
+                    "shares": "214"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:44",
+                  "metrics": {
+                    "views": "187818",
+                    "likes": "5480",
+                    "favorites": "4168",
+                    "comments": "74",
+                    "shares": "215"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 15:08",
+                  "metrics": {
+                    "views": "187974",
+                    "likes": "5483",
+                    "favorites": "4168",
+                    "comments": "74",
+                    "shares": "216"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 15:39",
+                  "metrics": {
+                    "views": "188145",
+                    "likes": "5484",
+                    "favorites": "4168",
+                    "comments": "74",
+                    "shares": "216"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:00",
+                  "metrics": {
+                    "views": "188223",
+                    "likes": "5485",
+                    "favorites": "4168",
+                    "comments": "74",
+                    "shares": "216"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:05",
+                  "metrics": {
+                    "views": "188243",
+                    "likes": "5485",
+                    "favorites": "4168",
+                    "comments": "74",
+                    "shares": "216"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:20",
+                  "metrics": {
+                    "views": "188290",
+                    "likes": "5485",
+                    "favorites": "4168",
+                    "comments": "74",
+                    "shares": "216"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:34",
+                  "metrics": {
+                    "views": "188329",
+                    "likes": "5485",
+                    "favorites": "4168",
+                    "comments": "74",
+                    "shares": "216"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:53",
+                  "metrics": {
+                    "views": "188375",
+                    "likes": "5487",
+                    "favorites": "4168",
+                    "comments": "74",
+                    "shares": "216"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:06",
+                  "metrics": {
+                    "views": "188403",
+                    "likes": "5488",
+                    "favorites": "4170",
+                    "comments": "74",
+                    "shares": "216"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:21",
+                  "metrics": {
+                    "views": "188449",
+                    "likes": "5488",
+                    "favorites": "4170",
+                    "comments": "74",
+                    "shares": "216"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:39",
+                  "metrics": {
+                    "views": "188496",
+                    "likes": "5489",
+                    "favorites": "4170",
+                    "comments": "74",
+                    "shares": "216"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:56",
+                  "metrics": {
+                    "views": "188539",
+                    "likes": "5489",
+                    "favorites": "4170",
+                    "comments": "74",
+                    "shares": "216"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:53",
+                  "metrics": {
+                    "views": "189275",
+                    "likes": "5504",
+                    "favorites": "4171",
+                    "comments": "74",
+                    "shares": "218"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:54",
+                  "metrics": {
+                    "views": "189275",
+                    "likes": "5504",
+                    "favorites": "4171",
+                    "comments": "74",
+                    "shares": "218"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:55",
+                  "metrics": {
+                    "views": "189275",
+                    "likes": "5504",
+                    "favorites": "4171",
+                    "comments": "74",
+                    "shares": "218"
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:20",
+                  "metrics": {
+                    "views": "189332",
+                    "likes": "5504",
+                    "favorites": "4171",
+                    "comments": "74",
+                    "shares": "218"
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:21",
+                  "metrics": {
+                    "views": "189332",
+                    "likes": "5504",
+                    "favorites": "4171",
+                    "comments": "74",
+                    "shares": "218"
+                  }
+                },
+                {
+                  "captured": "2026-09-13 08:27",
+                  "metrics": {
+                    "views": "189426",
+                    "likes": "5510",
+                    "favorites": "4169",
+                    "comments": "74",
+                    "shares": "218"
+                  }
+                },
+                {
+                  "captured": "2026-09-14 08:31",
+                  "metrics": {
+                    "views": "189511",
+                    "likes": "5510",
+                    "favorites": "4165",
+                    "comments": "74",
+                    "shares": "218"
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:22",
+                  "metrics": {
+                    "views": "189576",
+                    "likes": "5515",
+                    "favorites": "4166",
+                    "comments": "74",
+                    "shares": "218"
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:23",
+                  "metrics": {
+                    "views": "189576",
+                    "likes": "5515",
+                    "favorites": "4166",
+                    "comments": "74",
+                    "shares": "218"
+                  }
+                },
+                {
+                  "captured": "2026-09-16 08:06",
+                  "metrics": {
+                    "views": "189619",
+                    "likes": "5516",
+                    "favorites": "4166",
+                    "comments": "74",
+                    "shares": "219"
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:52",
+                  "metrics": {
+                    "views": "189663",
+                    "likes": "5520",
+                    "favorites": "4168",
+                    "comments": "74",
+                    "shares": "219"
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:53",
+                  "metrics": {
+                    "views": "189663",
+                    "likes": "5520",
+                    "favorites": "4168",
+                    "comments": "74",
+                    "shares": "219"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "cat": "科技",
+          "score": 386255,
+          "title": "vivo X500 Pro Max 开箱登榜：旗舰手机继续用外观与影像制造换机理由",
+          "hook": "vivo X500 Pro Max 开箱视频进入B站热门，家庭成员共同体验的叙事让新品外观和使用感受更具传播性。适合跟进旗舰手机在同质化阶段如何靠设计、影像和场景化表达争夺换机用户；具体体验以作者展示为准。",
+          "platform": "哔哩哔哩",
+          "source": "https://www.bilibili.com/video/BV1fVYK6YEmQ/",
+          "tags": [
+            "vivo",
+            "X500 Pro Max",
+            "智能手机",
+            "消费电子",
+            "旗舰机",
+            "换机周期",
+            "影像"
+          ],
+          "videos": [
+            {
+              "title": "晚爸晚妈合体！vivo X500 Pro Max开箱，外观不一样哦！",
+              "url": "https://www.bilibili.com/video/BV1fVYK6YEmQ/",
+              "platform": "哔哩哔哩",
+              "creator": "科技体验派",
+              "duration": "09:29",
+              "published": "2026-09-10",
+              "metrics": {
+                "views": "152970",
+                "likes": "7705",
+                "favorites": "1496",
+                "comments": "519",
+                "shares": "1459"
+              },
+              "captured": "2026-09-17 11:53",
+              "status": "9月10日15:37哔哩哔哩热门榜新增；平台公开接口已核验账号、标题、发布时间、时长、原始链接及全部公开互动数据；外观与体验判断属于创作者观点",
+              "metricHistory": [
+                {
+                  "captured": "2026-09-10 15:39",
+                  "metrics": {
+                    "views": "73597",
+                    "likes": "6695",
+                    "favorites": "1187",
+                    "comments": "188",
+                    "shares": "1181"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:00",
+                  "metrics": {
+                    "views": "77223",
+                    "likes": "6719",
+                    "favorites": "1196",
+                    "comments": "203",
+                    "shares": "1187"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:05",
+                  "metrics": {
+                    "views": "77994",
+                    "likes": "6724",
+                    "favorites": "1197",
+                    "comments": "204",
+                    "shares": "1193"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:20",
+                  "metrics": {
+                    "views": "80469",
+                    "likes": "6738",
+                    "favorites": "1208",
+                    "comments": "210",
+                    "shares": "1205"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:34",
+                  "metrics": {
+                    "views": "82904",
+                    "likes": "6767",
+                    "favorites": "1213",
+                    "comments": "216",
+                    "shares": "1212"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:53",
+                  "metrics": {
+                    "views": "85146",
+                    "likes": "6786",
+                    "favorites": "1215",
+                    "comments": "219",
+                    "shares": "1222"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:06",
+                  "metrics": {
+                    "views": "86363",
+                    "likes": "6802",
+                    "favorites": "1217",
+                    "comments": "231",
+                    "shares": "1224"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:21",
+                  "metrics": {
+                    "views": "87799",
+                    "likes": "6823",
+                    "favorites": "1220",
+                    "comments": "237",
+                    "shares": "1227"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:39",
+                  "metrics": {
+                    "views": "89224",
+                    "likes": "6839",
+                    "favorites": "1226",
+                    "comments": "244",
+                    "shares": "1234"
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:56",
+                  "metrics": {
+                    "views": "90898",
+                    "likes": "6855",
+                    "favorites": "1236",
+                    "comments": "254",
+                    "shares": "1245"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:53",
+                  "metrics": {
+                    "views": "132197",
+                    "likes": "7418",
+                    "favorites": "1424",
+                    "comments": "413",
+                    "shares": "1399"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:54",
+                  "metrics": {
+                    "views": "132204",
+                    "likes": "7418",
+                    "favorites": "1424",
+                    "comments": "413",
+                    "shares": "1400"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:55",
+                  "metrics": {
+                    "views": "132204",
+                    "likes": "7418",
+                    "favorites": "1424",
+                    "comments": "413",
+                    "shares": "1400"
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:20",
+                  "metrics": {
+                    "views": "135995",
+                    "likes": "7475",
+                    "favorites": "1432",
+                    "comments": "443",
+                    "shares": "1412"
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:21",
+                  "metrics": {
+                    "views": "135995",
+                    "likes": "7475",
+                    "favorites": "1432",
+                    "comments": "443",
+                    "shares": "1412"
+                  }
+                },
+                {
+                  "captured": "2026-09-13 08:27",
+                  "metrics": {
+                    "views": "141211",
+                    "likes": "7549",
+                    "favorites": "1460",
+                    "comments": "486",
+                    "shares": "1422"
+                  }
+                },
+                {
+                  "captured": "2026-09-14 08:31",
+                  "metrics": {
+                    "views": "145640",
+                    "likes": "7605",
+                    "favorites": "1473",
+                    "comments": "498",
+                    "shares": "1439"
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:22",
+                  "metrics": {
+                    "views": "149382",
+                    "likes": "7657",
+                    "favorites": "1482",
+                    "comments": "507",
+                    "shares": "1450"
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:23",
+                  "metrics": {
+                    "views": "149382",
+                    "likes": "7657",
+                    "favorites": "1482",
+                    "comments": "507",
+                    "shares": "1450"
+                  }
+                },
+                {
+                  "captured": "2026-09-16 08:06",
+                  "metrics": {
+                    "views": "151486",
+                    "likes": "7679",
+                    "favorites": "1489",
+                    "comments": "519",
+                    "shares": "1453"
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:52",
+                  "metrics": {
+                    "views": "152970",
+                    "likes": "7705",
+                    "favorites": "1496",
+                    "comments": "519",
+                    "shares": "1459"
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:53",
+                  "metrics": {
+                    "views": "152970",
+                    "likes": "7705",
+                    "favorites": "1496",
+                    "comments": "519",
+                    "shares": "1459"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "cat": "股市投资",
+          "score": 24535,
+          "title": "AI重点：Cathie Wood 反驳“AI 是铁路泡沫”，收入兑现成为资本开支核心检验",
+          "hook": "ARK Invest 用铁路建设作对照，认为 AI 基础设施并非只押注遥远需求，现实收入已在快速形成。适合讨论 AI 资本开支是否过热，以及模型、算力和应用收入能否支撑估值。",
+          "platform": "YouTube / ARK Invest",
+          "source": "https://www.youtube.com/watch?v=KHrnrRrdnRs",
+          "tags": [
+            "AI重点",
+            "资本开支与投资回报",
+            "AI应用商业化",
+            "AI基础设施",
+            "科技投资",
+            "Cathie Wood"
+          ],
+          "videos": [
+            {
+              "title": "AI Revenues Are Screaming",
+              "url": "https://www.youtube.com/watch?v=KHrnrRrdnRs",
+              "platform": "YouTube",
+              "creator": "ARK Invest",
+              "duration": "01:00",
+              "published": "2026-09-09",
+              "metrics": {
+                "views": "17520",
+                "likes": "327",
+                "favorites": null,
+                "comments": "19",
+                "shares": null
+              },
+              "captured": "2026-09-17 11:53",
+              "status": "重点嘉宾 Cathie Wood 在 ARK Invest 官方频道发布；账号身份、标题、发布时间、时长和原始链接已核验；播放、点赞、评论为本次采集公开值，收藏、转发未公开",
+              "metricHistory": [
+                {
+                  "captured": "2026-09-10 04:04",
+                  "metrics": {
+                    "views": "593",
+                    "likes": "35",
+                    "favorites": null,
+                    "comments": "14",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 04:23",
+                  "metrics": {
+                    "views": "749",
+                    "likes": "43",
+                    "favorites": null,
+                    "comments": "15",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 04:37",
+                  "metrics": {
+                    "views": "844",
+                    "likes": "47",
+                    "favorites": null,
+                    "comments": "9",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 10:09",
+                  "metrics": {
+                    "views": "3176",
+                    "likes": "109",
+                    "favorites": null,
+                    "comments": "8",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 10:21",
+                  "metrics": {
+                    "views": "3306",
+                    "likes": "113",
+                    "favorites": null,
+                    "comments": "8",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 10:53",
+                  "metrics": {
+                    "views": "3730",
+                    "likes": "117",
+                    "favorites": null,
+                    "comments": "8",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 10:55",
+                  "metrics": {
+                    "views": "3730",
+                    "likes": "117",
+                    "favorites": null,
+                    "comments": "8",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:08",
+                  "metrics": {
+                    "views": "3869",
+                    "likes": "119",
+                    "favorites": null,
+                    "comments": "9",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:21",
+                  "metrics": {
+                    "views": "3999",
+                    "likes": "121",
+                    "favorites": null,
+                    "comments": "9",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:45",
+                  "metrics": {
+                    "views": "4182",
+                    "likes": "125",
+                    "favorites": null,
+                    "comments": "10",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:54",
+                  "metrics": {
+                    "views": "4268",
+                    "likes": "126",
+                    "favorites": null,
+                    "comments": "10",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:09",
+                  "metrics": {
+                    "views": "4359",
+                    "likes": "128",
+                    "favorites": null,
+                    "comments": "10",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:31",
+                  "metrics": {
+                    "views": "4801",
+                    "likes": "130",
+                    "favorites": null,
+                    "comments": "10",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:43",
+                  "metrics": {
+                    "views": "5143",
+                    "likes": "132",
+                    "favorites": null,
+                    "comments": "10",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:06",
+                  "metrics": {
+                    "views": "5254",
+                    "likes": "135",
+                    "favorites": null,
+                    "comments": "10",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:22",
+                  "metrics": {
+                    "views": "5302",
+                    "likes": "137",
+                    "favorites": null,
+                    "comments": "10",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:35",
+                  "metrics": {
+                    "views": "5332",
+                    "likes": "138",
+                    "favorites": null,
+                    "comments": "10",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:53",
+                  "metrics": {
+                    "views": "5376",
+                    "likes": "138",
+                    "favorites": null,
+                    "comments": "10",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:09",
+                  "metrics": {
+                    "views": "5412",
+                    "likes": "141",
+                    "favorites": null,
+                    "comments": "10",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:36",
+                  "metrics": {
+                    "views": "5474",
+                    "likes": "144",
+                    "favorites": null,
+                    "comments": "10",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:44",
+                  "metrics": {
+                    "views": "5488",
+                    "likes": "145",
+                    "favorites": null,
+                    "comments": "10",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 15:08",
+                  "metrics": {
+                    "views": "5612",
+                    "likes": "145",
+                    "favorites": null,
+                    "comments": "10",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 15:39",
+                  "metrics": {
+                    "views": "5789",
+                    "likes": "148",
+                    "favorites": null,
+                    "comments": "10",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:00",
+                  "metrics": {
+                    "views": "5902",
+                    "likes": "151",
+                    "favorites": null,
+                    "comments": "10",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:05",
+                  "metrics": {
+                    "views": "5927",
+                    "likes": "151",
+                    "favorites": null,
+                    "comments": "10",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:20",
+                  "metrics": {
+                    "views": "5927",
+                    "likes": "152",
+                    "favorites": null,
+                    "comments": "10",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:34",
+                  "metrics": {
+                    "views": "6138",
+                    "likes": "152",
+                    "favorites": null,
+                    "comments": "10",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:53",
+                  "metrics": {
+                    "views": "6249",
+                    "likes": "154",
+                    "favorites": null,
+                    "comments": "10",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:06",
+                  "metrics": {
+                    "views": "6317",
+                    "likes": "156",
+                    "favorites": null,
+                    "comments": "10",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:21",
+                  "metrics": {
+                    "views": "6355",
+                    "likes": "157",
+                    "favorites": null,
+                    "comments": "10",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:39",
+                  "metrics": {
+                    "views": "6424",
+                    "likes": "157",
+                    "favorites": null,
+                    "comments": "10",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:56",
+                  "metrics": {
+                    "views": "6584",
+                    "likes": "159",
+                    "favorites": null,
+                    "comments": "11",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:53",
+                  "metrics": {
+                    "views": "11229",
+                    "likes": "231",
+                    "favorites": null,
+                    "comments": "15",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:54",
+                  "metrics": {
+                    "views": "11229",
+                    "likes": "231",
+                    "favorites": null,
+                    "comments": "15",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:55",
+                  "metrics": {
+                    "views": "11229",
+                    "likes": "231",
+                    "favorites": null,
+                    "comments": "15",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:20",
+                  "metrics": {
+                    "views": "11229",
+                    "likes": "231",
+                    "favorites": null,
+                    "comments": "15",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:21",
+                  "metrics": {
+                    "views": "12422",
+                    "likes": "260",
+                    "favorites": null,
+                    "comments": "15",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-13 08:27",
+                  "metrics": {
+                    "views": "15054",
+                    "likes": "282",
+                    "favorites": null,
+                    "comments": "17",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-14 08:31",
+                  "metrics": {
+                    "views": "15837",
+                    "likes": "297",
+                    "favorites": null,
+                    "comments": "17",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:22",
+                  "metrics": {
+                    "views": "15837",
+                    "likes": "297",
+                    "favorites": null,
+                    "comments": "17",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:23",
+                  "metrics": {
+                    "views": "16211",
+                    "likes": "302",
+                    "favorites": null,
+                    "comments": "17",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-16 08:06",
+                  "metrics": {
+                    "views": "16771",
+                    "likes": "312",
+                    "favorites": null,
+                    "comments": "18",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:52",
+                  "metrics": {
+                    "views": "16771",
+                    "likes": "312",
+                    "favorites": null,
+                    "comments": "18",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:53",
+                  "metrics": {
+                    "views": "17520",
+                    "likes": "327",
+                    "favorites": null,
+                    "comments": "19",
+                    "shares": null
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "cat": "金融",
+          "score": 17692,
+          "title": "美联储沟通转向：透明度下降如何重塑市场定价",
+          "hook": "凯文·沃什治下的美联储正进入更少前瞻指引的时期。Goldman Sachs Exchanges 邀请前美联储理事 Donald Kohn、Stephen Miran 与高盛首席经济学家 Jan Hatzius，辩论“适度不透明”能否改善市场信号，以及它对利率预期和波动率的影响。主题标签：美联储、货币政策、前瞻指引、市场定价、波动率、华尔街机构。",
+          "platform": "YouTube / Goldman Sachs Exchanges",
+          "source": "https://www.youtube.com/watch?v=Bp-Nsh5K7dA",
+          "tags": [
+            "美联储",
+            "货币政策",
+            "前瞻指引",
+            "市场定价",
+            "波动率",
+            "华尔街机构"
+          ],
+          "videos": [
+            {
+              "title": "How Will Less Fed Transparency Affect Markets and the Economy?",
+              "url": "https://www.youtube.com/watch?v=Bp-Nsh5K7dA",
+              "platform": "YouTube",
+              "creator": "Goldman Sachs",
+              "duration": "22:05",
+              "published": "2026-09-09",
+              "metrics": {
+                "views": "17692",
+                "likes": null,
+                "favorites": null,
+                "comments": null,
+                "shares": null
+              },
+              "captured": "2026-09-17 11:53",
+              "status": "重点名单节目 Goldman Sachs Exchanges 当日官方新作；账号身份、标题、发布时间、时长与原始视频链接已核验；播放为本次采集公开值，点赞、收藏、评论、转发未公开",
+              "metricHistory": [
+                {
+                  "captured": "2026-09-10 00:49",
+                  "metrics": {
+                    "views": "144",
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 00:50",
+                  "metrics": {
+                    "views": "144",
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 01:03",
+                  "metrics": {
+                    "views": "186",
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 01:17",
+                  "metrics": {
+                    "views": "216",
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 01:32",
+                  "metrics": {
+                    "views": "267",
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 01:53",
+                  "metrics": {
+                    "views": "304",
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 02:07",
+                  "metrics": {
+                    "views": "314",
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 02:18",
+                  "metrics": {
+                    "views": "316",
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 02:33",
+                  "metrics": {
+                    "views": "331",
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 02:50",
+                  "metrics": {
+                    "views": "336",
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 03:06",
+                  "metrics": {
+                    "views": "346",
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 03:23",
+                  "metrics": {
+                    "views": "364",
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 03:33",
+                  "metrics": {
+                    "views": "375",
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 03:49",
+                  "metrics": {
+                    "views": "399",
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 04:04",
+                  "metrics": {
+                    "views": "467",
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 04:23",
+                  "metrics": {
+                    "views": "515",
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 04:37",
+                  "metrics": {
+                    "views": "583",
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 10:09",
+                  "metrics": {
+                    "views": "3674",
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 10:21",
+                  "metrics": {
+                    "views": "3717",
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 10:53",
+                  "metrics": {
+                    "views": "3981",
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 10:55",
+                  "metrics": {
+                    "views": "3981",
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:08",
+                  "metrics": {
+                    "views": "4081",
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:21",
+                  "metrics": {
+                    "views": "4197",
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:45",
+                  "metrics": {
+                    "views": "4350",
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:54",
+                  "metrics": {
+                    "views": "4410",
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:09",
+                  "metrics": {
+                    "views": "4509",
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:31",
+                  "metrics": {
+                    "views": "4727",
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:43",
+                  "metrics": {
+                    "views": "4980",
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:06",
+                  "metrics": {
+                    "views": "5205",
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:22",
+                  "metrics": {
+                    "views": "5224",
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:35",
+                  "metrics": {
+                    "views": "5233",
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:53",
+                  "metrics": {
+                    "views": "5260",
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:09",
+                  "metrics": {
+                    "views": "5289",
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:36",
+                  "metrics": {
+                    "views": "5345",
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:44",
+                  "metrics": {
+                    "views": "5359",
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 15:08",
+                  "metrics": {
+                    "views": "5454",
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 15:39",
+                  "metrics": {
+                    "views": "5609",
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:00",
+                  "metrics": {
+                    "views": "5698",
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:05",
+                  "metrics": {
+                    "views": "5711",
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:20",
+                  "metrics": {
+                    "views": "5793",
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:34",
+                  "metrics": {
+                    "views": "5868",
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:53",
+                  "metrics": {
+                    "views": "5966",
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:06",
+                  "metrics": {
+                    "views": "6036",
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:21",
+                  "metrics": {
+                    "views": "6084",
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:39",
+                  "metrics": {
+                    "views": "6188",
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:56",
+                  "metrics": {
+                    "views": "6301",
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:53",
+                  "metrics": {
+                    "views": "15043",
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:54",
+                  "metrics": {
+                    "views": "15043",
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:55",
+                  "metrics": {
+                    "views": "15043",
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:20",
+                  "metrics": {
+                    "views": "15043",
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:21",
+                  "metrics": {
+                    "views": "16393",
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-13 08:27",
+                  "metrics": {
+                    "views": "16925",
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-14 08:31",
+                  "metrics": {
+                    "views": "17545",
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:22",
+                  "metrics": {
+                    "views": "17545",
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:23",
+                  "metrics": {
+                    "views": "17763",
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-16 08:06",
+                  "metrics": {
+                    "views": "17481",
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:52",
+                  "metrics": {
+                    "views": "17481",
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:53",
+                  "metrics": {
+                    "views": "17692",
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "cat": "科技",
+          "title": "AI重点：Meta Muse 与 Anthropic 人才流动同场，硅谷重新争论“AI Doom”",
+          "hook": "TBPN 的当日科技快讯把 Meta Muse 智能体、Anthropic 研究员离职与 AI 风险争论放在同一叙事中。适合拆解前沿模型竞争如何同时影响产品发布、人才流动和安全治理；节目标题中的判断应归因 TBPN。",
+          "platform": "YouTube / TBPN",
+          "tags": [
+            "AI重点",
+            "智能体",
+            "Meta Muse",
+            "Anthropic",
+            "人才流动",
+            "监管版权安全",
+            "硅谷科技"
+          ],
+          "score": 14709,
+          "source": "https://www.youtube.com/watch?v=O6kJgoUk-RY",
+          "videos": [
+            {
+              "title": "Apple’s iPhone Duo, Meta’s Muse AI Agent, Anthropic Researcher Quits Over AI Doom | Diet TBPN",
+              "url": "https://www.youtube.com/watch?v=O6kJgoUk-RY",
+              "platform": "YouTube",
+              "creator": "TBPN",
+              "duration": "31:56",
+              "published": "2026-09-10",
+              "metrics": {
+                "views": "12429",
+                "likes": "99",
+                "favorites": null,
+                "comments": "12",
+                "shares": null
+              },
+              "captured": "2026-09-17 11:53",
+              "status": "重点节目 TBPN 官方频道于 2026-09-10 08:52（北京时间）发布；账号身份、标题、发布时间、时长和原始链接已核验；播放、点赞为本次采集公开值，收藏、评论、转发未公开；与站内 iPhone Duo 和 Meta Muse 主题相关联",
+              "metricHistory": [
+                {
+                  "captured": "2026-09-10 10:53",
+                  "metrics": {
+                    "views": "540",
+                    "likes": "17",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 10:55",
+                  "metrics": {
+                    "views": "551",
+                    "likes": "18",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:08",
+                  "metrics": {
+                    "views": "588",
+                    "likes": "18",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:21",
+                  "metrics": {
+                    "views": "641",
+                    "likes": "21",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:45",
+                  "metrics": {
+                    "views": "717",
+                    "likes": "22",
+                    "favorites": null,
+                    "comments": "1",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:54",
+                  "metrics": {
+                    "views": "755",
+                    "likes": "23",
+                    "favorites": null,
+                    "comments": "1",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:09",
+                  "metrics": {
+                    "views": "803",
+                    "likes": "26",
+                    "favorites": null,
+                    "comments": "2",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:31",
+                  "metrics": {
+                    "views": "1035",
+                    "likes": "34",
+                    "favorites": null,
+                    "comments": "2",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:43",
+                  "metrics": {
+                    "views": "1434",
+                    "likes": "36",
+                    "favorites": null,
+                    "comments": "3",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:06",
+                  "metrics": {
+                    "views": "1712",
+                    "likes": "39",
+                    "favorites": null,
+                    "comments": "3",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:22",
+                  "metrics": {
+                    "views": "1780",
+                    "likes": "40",
+                    "favorites": null,
+                    "comments": "3",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:35",
+                  "metrics": {
+                    "views": "1814",
+                    "likes": "42",
+                    "favorites": null,
+                    "comments": "3",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:53",
+                  "metrics": {
+                    "views": "1928",
+                    "likes": "44",
+                    "favorites": null,
+                    "comments": "3",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:09",
+                  "metrics": {
+                    "views": "2013",
+                    "likes": "44",
+                    "favorites": null,
+                    "comments": "3",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:36",
+                  "metrics": {
+                    "views": "2217",
+                    "likes": "48",
+                    "favorites": null,
+                    "comments": "3",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:44",
+                  "metrics": {
+                    "views": "2256",
+                    "likes": "48",
+                    "favorites": null,
+                    "comments": "3",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 15:08",
+                  "metrics": {
+                    "views": "2629",
+                    "likes": "51",
+                    "favorites": null,
+                    "comments": "3",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 15:39",
+                  "metrics": {
+                    "views": "3126",
+                    "likes": "52",
+                    "favorites": null,
+                    "comments": "3",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:00",
+                  "metrics": {
+                    "views": "3423",
+                    "likes": "54",
+                    "favorites": null,
+                    "comments": "3",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:05",
+                  "metrics": {
+                    "views": "3463",
+                    "likes": "54",
+                    "favorites": null,
+                    "comments": "3",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:20",
+                  "metrics": {
+                    "views": "3719",
+                    "likes": "55",
+                    "favorites": null,
+                    "comments": "3",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:34",
+                  "metrics": {
+                    "views": "3959",
+                    "likes": "55",
+                    "favorites": null,
+                    "comments": "3",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:53",
+                  "metrics": {
+                    "views": "4277",
+                    "likes": "55",
+                    "favorites": null,
+                    "comments": "3",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:06",
+                  "metrics": {
+                    "views": "4497",
+                    "likes": "55",
+                    "favorites": null,
+                    "comments": "3",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:21",
+                  "metrics": {
+                    "views": "4619",
+                    "likes": "55",
+                    "favorites": null,
+                    "comments": "3",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:39",
+                  "metrics": {
+                    "views": "4887",
+                    "likes": "57",
+                    "favorites": null,
+                    "comments": "3",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:56",
+                  "metrics": {
+                    "views": "5391",
+                    "likes": "58",
+                    "favorites": null,
+                    "comments": "3",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:53",
+                  "metrics": {
+                    "views": "11193",
+                    "likes": "93",
+                    "favorites": null,
+                    "comments": "9",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:54",
+                  "metrics": {
+                    "views": "11193",
+                    "likes": "93",
+                    "favorites": null,
+                    "comments": "9",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:55",
+                  "metrics": {
+                    "views": "11193",
+                    "likes": "93",
+                    "favorites": null,
+                    "comments": "9",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:20",
+                  "metrics": {
+                    "views": "11193",
+                    "likes": "93",
+                    "favorites": null,
+                    "comments": "9",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:21",
+                  "metrics": {
+                    "views": "11592",
+                    "likes": "94",
+                    "favorites": null,
+                    "comments": "9",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-13 08:27",
+                  "metrics": {
+                    "views": "11987",
+                    "likes": "95",
+                    "favorites": null,
+                    "comments": "11",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-14 08:31",
+                  "metrics": {
+                    "views": "12187",
+                    "likes": "97",
+                    "favorites": null,
+                    "comments": "12",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:22",
+                  "metrics": {
+                    "views": "12187",
+                    "likes": "97",
+                    "favorites": null,
+                    "comments": "12",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:23",
+                  "metrics": {
+                    "views": "12274",
+                    "likes": "98",
+                    "favorites": null,
+                    "comments": "12",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-16 08:06",
+                  "metrics": {
+                    "views": "12356",
+                    "likes": "98",
+                    "favorites": null,
+                    "comments": "12",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:52",
+                  "metrics": {
+                    "views": "12356",
+                    "likes": "98",
+                    "favorites": null,
+                    "comments": "12",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:53",
+                  "metrics": {
+                    "views": "12429",
+                    "likes": "99",
+                    "favorites": null,
+                    "comments": "12",
+                    "shares": null
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "cat": "科技",
+          "score": 14963,
+          "title": "AI重点：This Week in Startups 追问 OpenAI 数学论文争议，科研验证成焦点",
+          "hook": "Jason Calacanis 主持的新一期节目把争论从“AI 是否解出千禧难题”推进到研究流程与学术归属：预印本、模型辅助证明、同行验证与机构传播之间应如何划线。适合延续 OpenAI 数学推理话题，并强调尚无数学界正式确认。",
+          "platform": "YouTube / This Week in Startups",
+          "source": "https://www.youtube.com/watch?v=1vSi26ckhe4",
+          "tags": [
+            "AI重点",
+            "模型与AGI",
+            "OpenAI",
+            "Navier–Stokes",
+            "数学推理",
+            "科研可验证性",
+            "学术争议"
+          ],
+          "videos": [
+            {
+              "title": "Did OpenAI Steal the Navier-Stokes Solution? | E2335",
+              "url": "https://www.youtube.com/watch?v=1vSi26ckhe4",
+              "platform": "YouTube",
+              "creator": "This Week in Startups",
+              "duration": "01:20:42",
+              "published": "2026-09-09",
+              "metrics": {
+                "views": "13123",
+                "likes": "77",
+                "favorites": null,
+                "comments": "12",
+                "shares": null
+              },
+              "captured": "2026-09-17 11:53",
+              "status": "priorityGuests 中 Jason Calacanis 主持的 This Week in Startups 官方频道新一期；北京时间 2026-09-10 07:41 发布，账号、标题、发布时间、时长和原始链接已核验。播放、点赞、评论为本次公开值；收藏、转发未公开。节目讨论 OpenAI 与 Navier–Stokes 预印本争议，观点归因节目参与者，不视为数学界已正式确认解决",
+              "metricHistory": [
+                {
+                  "captured": "2026-09-10 11:56",
+                  "metrics": {
+                    "views": "622",
+                    "likes": "23",
+                    "favorites": null,
+                    "comments": "3",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:09",
+                  "metrics": {
+                    "views": "658",
+                    "likes": "23",
+                    "favorites": null,
+                    "comments": "3",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:31",
+                  "metrics": {
+                    "views": "1365",
+                    "likes": "23",
+                    "favorites": null,
+                    "comments": "3",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:43",
+                  "metrics": {
+                    "views": "1755",
+                    "likes": "25",
+                    "favorites": null,
+                    "comments": "3",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:06",
+                  "metrics": {
+                    "views": "1996",
+                    "likes": "27",
+                    "favorites": null,
+                    "comments": "3",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:22",
+                  "metrics": {
+                    "views": "2045",
+                    "likes": "27",
+                    "favorites": null,
+                    "comments": "3",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:35",
+                  "metrics": {
+                    "views": "2106",
+                    "likes": "27",
+                    "favorites": null,
+                    "comments": "3",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:53",
+                  "metrics": {
+                    "views": "2209",
+                    "likes": "27",
+                    "favorites": null,
+                    "comments": "3",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:09",
+                  "metrics": {
+                    "views": "2320",
+                    "likes": "28",
+                    "favorites": null,
+                    "comments": "3",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:36",
+                  "metrics": {
+                    "views": "2469",
+                    "likes": "30",
+                    "favorites": null,
+                    "comments": "3",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:44",
+                  "metrics": {
+                    "views": "2492",
+                    "likes": "30",
+                    "favorites": null,
+                    "comments": "3",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 15:08",
+                  "metrics": {
+                    "views": "2706",
+                    "likes": "32",
+                    "favorites": null,
+                    "comments": "4",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 15:39",
+                  "metrics": {
+                    "views": "3022",
+                    "likes": "32",
+                    "favorites": null,
+                    "comments": "4",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:00",
+                  "metrics": {
+                    "views": "3227",
+                    "likes": "32",
+                    "favorites": null,
+                    "comments": "4",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:05",
+                  "metrics": {
+                    "views": "3289",
+                    "likes": "32",
+                    "favorites": null,
+                    "comments": "4",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:20",
+                  "metrics": {
+                    "views": "3493",
+                    "likes": "32",
+                    "favorites": null,
+                    "comments": "4",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:34",
+                  "metrics": {
+                    "views": "3668",
+                    "likes": "34",
+                    "favorites": null,
+                    "comments": "5",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:53",
+                  "metrics": {
+                    "views": "4005",
+                    "likes": "35",
+                    "favorites": null,
+                    "comments": "5",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:06",
+                  "metrics": {
+                    "views": "4215",
+                    "likes": "36",
+                    "favorites": null,
+                    "comments": "5",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:21",
+                  "metrics": {
+                    "views": "4328",
+                    "likes": "36",
+                    "favorites": null,
+                    "comments": "5",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:39",
+                  "metrics": {
+                    "views": "4467",
+                    "likes": "39",
+                    "favorites": null,
+                    "comments": "5",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:56",
+                  "metrics": {
+                    "views": "4857",
+                    "likes": "39",
+                    "favorites": null,
+                    "comments": "5",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:53",
+                  "metrics": {
+                    "views": "10505",
+                    "likes": "61",
+                    "favorites": null,
+                    "comments": "10",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:54",
+                  "metrics": {
+                    "views": "10505",
+                    "likes": "61",
+                    "favorites": null,
+                    "comments": "10",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:55",
+                  "metrics": {
+                    "views": "10509",
+                    "likes": "61",
+                    "favorites": null,
+                    "comments": "10",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:20",
+                  "metrics": {
+                    "views": "10509",
+                    "likes": "61",
+                    "favorites": null,
+                    "comments": "10",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:21",
+                  "metrics": {
+                    "views": "11239",
+                    "likes": "70",
+                    "favorites": null,
+                    "comments": "10",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-13 08:27",
+                  "metrics": {
+                    "views": "11779",
+                    "likes": "71",
+                    "favorites": null,
+                    "comments": "10",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-14 08:31",
+                  "metrics": {
+                    "views": "12539",
+                    "likes": "73",
+                    "favorites": null,
+                    "comments": "11",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:22",
+                  "metrics": {
+                    "views": "12539",
+                    "likes": "73",
+                    "favorites": null,
+                    "comments": "11",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:23",
+                  "metrics": {
+                    "views": "12955",
+                    "likes": "77",
+                    "favorites": null,
+                    "comments": "12",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-16 08:06",
+                  "metrics": {
+                    "views": "13049",
+                    "likes": "77",
+                    "favorites": null,
+                    "comments": "12",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:52",
+                  "metrics": {
+                    "views": "13049",
+                    "likes": "77",
+                    "favorites": null,
+                    "comments": "12",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:53",
+                  "metrics": {
+                    "views": "13123",
+                    "likes": "77",
+                    "favorites": null,
+                    "comments": "12",
+                    "shares": null
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "cat": "国际时政",
+          "score": 4283,
+          "title": "AI重点：纽约州用 AI 清理行政规则，同时收紧青少年社媒通知",
+          "hook": "Decoder 同日发布两段纽约州长 Kathy Hochul 访谈：一段讲用 AI 审视州政府规则、政策与委员会，另一段讲限制平台向未成年人发送夜间通知。适合把“政府内部 AI 提效”和“平台监管”放在同一框架下，讨论效率、问责与言论边界。",
+          "platform": "YouTube / Decoder",
+          "source": "https://www.youtube.com/watch?v=jv7___KkdJQ",
+          "tags": [
+            "AI重点",
+            "AI应用商业化",
+            "政府数字化",
+            "监管版权安全",
+            "未成年人保护",
+            "社交平台",
+            "纽约州"
+          ],
+          "videos": [
+            {
+              "title": "The bizarre rules AI found in New York",
+              "url": "https://www.youtube.com/watch?v=jv7___KkdJQ",
+              "platform": "YouTube",
+              "creator": "Decoder with Nilay Patel",
+              "duration": "00:48",
+              "published": "2026-09-09",
+              "metrics": {
+                "views": "1752",
+                "likes": "19",
+                "favorites": null,
+                "comments": "5",
+                "shares": null
+              },
+              "captured": "2026-09-17 11:53",
+              "status": "重点节目 Decoder 官方频道近48小时新视频；YouTube 公开页已核验标题、频道、发布日期、时长、原始链接、播放、点赞与评论；收藏和转发未公开；AI 用途为纽约州长本人在访谈中的陈述",
+              "metricHistory": [
+                {
+                  "captured": "2026-09-10 12:09",
+                  "metrics": {
+                    "views": "1270",
+                    "likes": "11",
+                    "favorites": null,
+                    "comments": "4",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:31",
+                  "metrics": {
+                    "views": "1321",
+                    "likes": "11",
+                    "favorites": null,
+                    "comments": "4",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:43",
+                  "metrics": {
+                    "views": "1270",
+                    "likes": "11",
+                    "favorites": null,
+                    "comments": "4",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:06",
+                  "metrics": {
+                    "views": "1353",
+                    "likes": "11",
+                    "favorites": null,
+                    "comments": "4",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:22",
+                  "metrics": {
+                    "views": "1354",
+                    "likes": "11",
+                    "favorites": null,
+                    "comments": "4",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:35",
+                  "metrics": {
+                    "views": "1355",
+                    "likes": "11",
+                    "favorites": null,
+                    "comments": "4",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:53",
+                  "metrics": {
+                    "views": "1354",
+                    "likes": "11",
+                    "favorites": null,
+                    "comments": "4",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:09",
+                  "metrics": {
+                    "views": "1354",
+                    "likes": "11",
+                    "favorites": null,
+                    "comments": "4",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:36",
+                  "metrics": {
+                    "views": "1354",
+                    "likes": "11",
+                    "favorites": null,
+                    "comments": "4",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:44",
+                  "metrics": {
+                    "views": "1355",
+                    "likes": "11",
+                    "favorites": null,
+                    "comments": "4",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 15:08",
+                  "metrics": {
+                    "views": "1372",
+                    "likes": "11",
+                    "favorites": null,
+                    "comments": "4",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 15:39",
+                  "metrics": {
+                    "views": "1372",
+                    "likes": "11",
+                    "favorites": null,
+                    "comments": "4",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:00",
+                  "metrics": {
+                    "views": "1385",
+                    "likes": "11",
+                    "favorites": null,
+                    "comments": "4",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:05",
+                  "metrics": {
+                    "views": "1372",
+                    "likes": "11",
+                    "favorites": null,
+                    "comments": "4",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:20",
+                  "metrics": {
+                    "views": "1372",
+                    "likes": "11",
+                    "favorites": null,
+                    "comments": "4",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:34",
+                  "metrics": {
+                    "views": "1372",
+                    "likes": "11",
+                    "favorites": null,
+                    "comments": "4",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:53",
+                  "metrics": {
+                    "views": "1372",
+                    "likes": "11",
+                    "favorites": null,
+                    "comments": "4",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:06",
+                  "metrics": {
+                    "views": "1372",
+                    "likes": "11",
+                    "favorites": null,
+                    "comments": "4",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:21",
+                  "metrics": {
+                    "views": "1372",
+                    "likes": "11",
+                    "favorites": null,
+                    "comments": "4",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:39",
+                  "metrics": {
+                    "views": "1407",
+                    "likes": "11",
+                    "favorites": null,
+                    "comments": "4",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:56",
+                  "metrics": {
+                    "views": "1372",
+                    "likes": "11",
+                    "favorites": null,
+                    "comments": "4",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:53",
+                  "metrics": {
+                    "views": "1560",
+                    "likes": "14",
+                    "favorites": null,
+                    "comments": "5",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:54",
+                  "metrics": {
+                    "views": "1560",
+                    "likes": "14",
+                    "favorites": null,
+                    "comments": "5",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:55",
+                  "metrics": {
+                    "views": "1560",
+                    "likes": "14",
+                    "favorites": null,
+                    "comments": "5",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:20",
+                  "metrics": {
+                    "views": "1560",
+                    "likes": "14",
+                    "favorites": null,
+                    "comments": "5",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:21",
+                  "metrics": {
+                    "views": "1593",
+                    "likes": "15",
+                    "favorites": null,
+                    "comments": "5",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-13 08:27",
+                  "metrics": {
+                    "views": "1636",
+                    "likes": "15",
+                    "favorites": null,
+                    "comments": "5",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-14 08:31",
+                  "metrics": {
+                    "views": "1661",
+                    "likes": "16",
+                    "favorites": null,
+                    "comments": "5",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:22",
+                  "metrics": {
+                    "views": "1661",
+                    "likes": "16",
+                    "favorites": null,
+                    "comments": "5",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:23",
+                  "metrics": {
+                    "views": "1692",
+                    "likes": "17",
+                    "favorites": null,
+                    "comments": "5",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-16 08:06",
+                  "metrics": {
+                    "views": "1727",
+                    "likes": "19",
+                    "favorites": null,
+                    "comments": "5",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:52",
+                  "metrics": {
+                    "views": "1727",
+                    "likes": "19",
+                    "favorites": null,
+                    "comments": "5",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:53",
+                  "metrics": {
+                    "views": "1752",
+                    "likes": "19",
+                    "favorites": null,
+                    "comments": "5",
+                    "shares": null
+                  }
+                }
+              ]
+            },
+            {
+              "title": "Gov. Hochul: New York is tougher on Meta",
+              "url": "https://www.youtube.com/watch?v=u9Y8bgFjX6o",
+              "platform": "YouTube",
+              "creator": "Decoder with Nilay Patel",
+              "duration": "01:17",
+              "published": "2026-09-09",
+              "metrics": {
+                "views": "1501",
+                "likes": "20",
+                "favorites": null,
+                "comments": "5",
+                "shares": null
+              },
+              "captured": "2026-09-17 11:53",
+              "status": "重点节目 Decoder 官方频道近48小时新视频；YouTube 公开页已核验标题、频道、发布日期、时长、原始链接、播放、点赞与评论；收藏和转发未公开；政策立场为纽约州长本人在访谈中的陈述",
+              "metricHistory": [
+                {
+                  "captured": "2026-09-10 12:09",
+                  "metrics": {
+                    "views": "1146",
+                    "likes": "15",
+                    "favorites": null,
+                    "comments": "3",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:31",
+                  "metrics": {
+                    "views": "1161",
+                    "likes": "15",
+                    "favorites": null,
+                    "comments": "3",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:43",
+                  "metrics": {
+                    "views": "1167",
+                    "likes": "15",
+                    "favorites": null,
+                    "comments": "3",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:06",
+                  "metrics": {
+                    "views": "1176",
+                    "likes": "15",
+                    "favorites": null,
+                    "comments": "3",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:22",
+                  "metrics": {
+                    "views": "1167",
+                    "likes": "15",
+                    "favorites": null,
+                    "comments": "3",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:35",
+                  "metrics": {
+                    "views": "1167",
+                    "likes": "15",
+                    "favorites": null,
+                    "comments": "3",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:53",
+                  "metrics": {
+                    "views": "1167",
+                    "likes": "15",
+                    "favorites": null,
+                    "comments": "3",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:09",
+                  "metrics": {
+                    "views": "1167",
+                    "likes": "15",
+                    "favorites": null,
+                    "comments": "3",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:36",
+                  "metrics": {
+                    "views": "1187",
+                    "likes": "15",
+                    "favorites": null,
+                    "comments": "3",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:44",
+                  "metrics": {
+                    "views": "1167",
+                    "likes": "15",
+                    "favorites": null,
+                    "comments": "3",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 15:08",
+                  "metrics": {
+                    "views": "1167",
+                    "likes": "15",
+                    "favorites": null,
+                    "comments": "3",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 15:39",
+                  "metrics": {
+                    "views": "1167",
+                    "likes": "15",
+                    "favorites": null,
+                    "comments": "3",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:00",
+                  "metrics": {
+                    "views": "1167",
+                    "likes": "15",
+                    "favorites": null,
+                    "comments": "4",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:05",
+                  "metrics": {
+                    "views": "1199",
+                    "likes": "15",
+                    "favorites": null,
+                    "comments": "4",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:20",
+                  "metrics": {
+                    "views": "1201",
+                    "likes": "15",
+                    "favorites": null,
+                    "comments": "4",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:34",
+                  "metrics": {
+                    "views": "1146",
+                    "likes": "15",
+                    "favorites": null,
+                    "comments": "4",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:53",
+                  "metrics": {
+                    "views": "1201",
+                    "likes": "15",
+                    "favorites": null,
+                    "comments": "4",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:06",
+                  "metrics": {
+                    "views": "1201",
+                    "likes": "15",
+                    "favorites": null,
+                    "comments": "4",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:21",
+                  "metrics": {
+                    "views": "1211",
+                    "likes": "15",
+                    "favorites": null,
+                    "comments": "4",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:39",
+                  "metrics": {
+                    "views": "1201",
+                    "likes": "15",
+                    "favorites": null,
+                    "comments": "4",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:56",
+                  "metrics": {
+                    "views": "1201",
+                    "likes": "15",
+                    "favorites": null,
+                    "comments": "4",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:53",
+                  "metrics": {
+                    "views": "1369",
+                    "likes": "19",
+                    "favorites": null,
+                    "comments": "4",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:54",
+                  "metrics": {
+                    "views": "1369",
+                    "likes": "19",
+                    "favorites": null,
+                    "comments": "4",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:55",
+                  "metrics": {
+                    "views": "1369",
+                    "likes": "19",
+                    "favorites": null,
+                    "comments": "4",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:20",
+                  "metrics": {
+                    "views": "1369",
+                    "likes": "19",
+                    "favorites": null,
+                    "comments": "4",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:21",
+                  "metrics": {
+                    "views": "1414",
+                    "likes": "19",
+                    "favorites": null,
+                    "comments": "4",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-13 08:27",
+                  "metrics": {
+                    "views": "1455",
+                    "likes": "19",
+                    "favorites": null,
+                    "comments": "5",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-14 08:31",
+                  "metrics": {
+                    "views": "1476",
+                    "likes": "19",
+                    "favorites": null,
+                    "comments": "5",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:22",
+                  "metrics": {
+                    "views": "1476",
+                    "likes": "19",
+                    "favorites": null,
+                    "comments": "5",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:23",
+                  "metrics": {
+                    "views": "1480",
+                    "likes": "19",
+                    "favorites": null,
+                    "comments": "5",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-16 08:06",
+                  "metrics": {
+                    "views": "1488",
+                    "likes": "19",
+                    "favorites": null,
+                    "comments": "5",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:52",
+                  "metrics": {
+                    "views": "1488",
+                    "likes": "19",
+                    "favorites": null,
+                    "comments": "5",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:53",
+                  "metrics": {
+                    "views": "1501",
+                    "likes": "20",
+                    "favorites": null,
+                    "comments": "5",
+                    "shares": null
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "cat": "科技",
+          "title": "AI重点：AI 伪造身份升级，网络防御进入智能体对抗阶段",
+          "hook": "重点嘉宾 Reid Hoffman 的官方频道采访信息安全分析师 Dozie Anazia，讨论 AI 伪造 CFO 面孔与声音、Claude 和 Codex 自动开发与渗透测试、红蓝对抗和自主网络防御边界。适合拆解“当身份凭证也能被生成，企业如何重建可信验证与智能体安全防线”。主题标签：AI重点、智能体、AI安全、网络安全、身份验证、渗透测试、监管版权安全。",
+          "platform": "YouTube / Reid Hoffman",
+          "source": "https://www.youtube.com/watch?v=ifRqR720anU",
+          "tags": [
+            "AI重点",
+            "智能体",
+            "AI安全",
+            "网络安全",
+            "身份验证",
+            "渗透测试",
+            "监管版权安全"
+          ],
+          "videos": [
+            {
+              "title": "Can we defend against AI hacks? | Dozie Anazia",
+              "url": "https://www.youtube.com/watch?v=ifRqR720anU",
+              "platform": "YouTube",
+              "creator": "Reid Hoffman",
+              "duration": "39:23",
+              "published": "2026-09-09",
+              "metrics": {
+                "views": "17918",
+                "likes": "24",
+                "favorites": null,
+                "comments": "1",
+                "shares": null
+              },
+              "captured": "2026-09-17 11:53",
+              "status": "重点名单嘉宾 Reid Hoffman 官方频道当日访谈；频道、标题、发布时间、时长和原始链接已核验；本次采集公开播放为 2，点赞、收藏、评论、转发未公开",
+              "metricHistory": [
+                {
+                  "captured": "2026-09-09 22:06",
+                  "metrics": {
+                    "views": "2",
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-09 22:07",
+                  "metrics": {
+                    "views": "3",
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-09 22:22",
+                  "metrics": {
+                    "views": "8",
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-09 22:34",
+                  "metrics": {
+                    "views": "11",
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-09 22:50",
+                  "metrics": {
+                    "views": "14",
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-09 23:03",
+                  "metrics": {
+                    "views": "18",
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-09 23:21",
+                  "metrics": {
+                    "views": "19",
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-09 23:33",
+                  "metrics": {
+                    "views": "19",
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-09 23:48",
+                  "metrics": {
+                    "views": "22",
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 00:07",
+                  "metrics": {
+                    "views": "26",
+                    "likes": "1",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 00:22",
+                  "metrics": {
+                    "views": "26",
+                    "likes": "1",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 00:46",
+                  "metrics": {
+                    "views": "26",
+                    "likes": "1",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 00:50",
+                  "metrics": {
+                    "views": "26",
+                    "likes": "1",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 01:03",
+                  "metrics": {
+                    "views": "26",
+                    "likes": "1",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 01:17",
+                  "metrics": {
+                    "views": "26",
+                    "likes": "1",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 01:32",
+                  "metrics": {
+                    "views": "26",
+                    "likes": "1",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 01:53",
+                  "metrics": {
+                    "views": "39",
+                    "likes": "1",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 02:07",
+                  "metrics": {
+                    "views": "40",
+                    "likes": "1",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 02:18",
+                  "metrics": {
+                    "views": "40",
+                    "likes": "1",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 02:33",
+                  "metrics": {
+                    "views": "40",
+                    "likes": "1",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 02:50",
+                  "metrics": {
+                    "views": "40",
+                    "likes": "1",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 03:06",
+                  "metrics": {
+                    "views": "76",
+                    "likes": "1",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 03:23",
+                  "metrics": {
+                    "views": "88",
+                    "likes": "1",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 03:33",
+                  "metrics": {
+                    "views": "108",
+                    "likes": "1",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 03:49",
+                  "metrics": {
+                    "views": "133",
+                    "likes": "1",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 04:04",
+                  "metrics": {
+                    "views": "145",
+                    "likes": "1",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 04:23",
+                  "metrics": {
+                    "views": "185",
+                    "likes": "1",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 04:37",
+                  "metrics": {
+                    "views": "228",
+                    "likes": "1",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 10:09",
+                  "metrics": {
+                    "views": "796",
+                    "likes": "7",
+                    "favorites": null,
+                    "comments": "1",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 10:21",
+                  "metrics": {
+                    "views": "811",
+                    "likes": "7",
+                    "favorites": null,
+                    "comments": "1",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 10:53",
+                  "metrics": {
+                    "views": "838",
+                    "likes": "7",
+                    "favorites": null,
+                    "comments": "1",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 10:55",
+                  "metrics": {
+                    "views": "838",
+                    "likes": "7",
+                    "favorites": null,
+                    "comments": "1",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:08",
+                  "metrics": {
+                    "views": "845",
+                    "likes": "10",
+                    "favorites": null,
+                    "comments": "1",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:21",
+                  "metrics": {
+                    "views": "851",
+                    "likes": "10",
+                    "favorites": null,
+                    "comments": "1",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:45",
+                  "metrics": {
+                    "views": "859",
+                    "likes": "10",
+                    "favorites": null,
+                    "comments": "1",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:54",
+                  "metrics": {
+                    "views": "859",
+                    "likes": "10",
+                    "favorites": null,
+                    "comments": "1",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:09",
+                  "metrics": {
+                    "views": "886",
+                    "likes": "11",
+                    "favorites": null,
+                    "comments": "1",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:31",
+                  "metrics": {
+                    "views": "909",
+                    "likes": "11",
+                    "favorites": null,
+                    "comments": "1",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:43",
+                  "metrics": {
+                    "views": "965",
+                    "likes": "11",
+                    "favorites": null,
+                    "comments": "1",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:06",
+                  "metrics": {
+                    "views": "1107",
+                    "likes": "11",
+                    "favorites": null,
+                    "comments": "1",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:22",
+                  "metrics": {
+                    "views": "1175",
+                    "likes": "11",
+                    "favorites": null,
+                    "comments": "1",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:35",
+                  "metrics": {
+                    "views": "1212",
+                    "likes": "11",
+                    "favorites": null,
+                    "comments": "1",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:53",
+                  "metrics": {
+                    "views": "1240",
+                    "likes": "12",
+                    "favorites": null,
+                    "comments": "1",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:09",
+                  "metrics": {
+                    "views": "1271",
+                    "likes": "12",
+                    "favorites": null,
+                    "comments": "1",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:36",
+                  "metrics": {
+                    "views": "1295",
+                    "likes": "12",
+                    "favorites": null,
+                    "comments": "1",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:44",
+                  "metrics": {
+                    "views": "1305",
+                    "likes": "12",
+                    "favorites": null,
+                    "comments": "1",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 15:08",
+                  "metrics": {
+                    "views": "1316",
+                    "likes": "12",
+                    "favorites": null,
+                    "comments": "1",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 15:39",
+                  "metrics": {
+                    "views": "1333",
+                    "likes": "12",
+                    "favorites": null,
+                    "comments": "1",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:00",
+                  "metrics": {
+                    "views": "1317",
+                    "likes": "12",
+                    "favorites": null,
+                    "comments": "1",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:05",
+                  "metrics": {
+                    "views": "1317",
+                    "likes": "12",
+                    "favorites": null,
+                    "comments": "1",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:20",
+                  "metrics": {
+                    "views": "1317",
+                    "likes": "12",
+                    "favorites": null,
+                    "comments": "1",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:34",
+                  "metrics": {
+                    "views": "1317",
+                    "likes": "12",
+                    "favorites": null,
+                    "comments": "1",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:53",
+                  "metrics": {
+                    "views": "1317",
+                    "likes": "12",
+                    "favorites": null,
+                    "comments": "1",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:06",
+                  "metrics": {
+                    "views": "1350",
+                    "likes": "12",
+                    "favorites": null,
+                    "comments": "1",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:21",
+                  "metrics": {
+                    "views": "1317",
+                    "likes": "12",
+                    "favorites": null,
+                    "comments": "1",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:39",
+                  "metrics": {
+                    "views": "1317",
+                    "likes": "12",
+                    "favorites": null,
+                    "comments": "1",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:56",
+                  "metrics": {
+                    "views": "1317",
+                    "likes": "12",
+                    "favorites": null,
+                    "comments": "1",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:53",
+                  "metrics": {
+                    "views": "4000",
+                    "likes": "17",
+                    "favorites": null,
+                    "comments": "1",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:54",
+                  "metrics": {
+                    "views": "4000",
+                    "likes": "17",
+                    "favorites": null,
+                    "comments": "1",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:55",
+                  "metrics": {
+                    "views": "4000",
+                    "likes": "17",
+                    "favorites": null,
+                    "comments": "1",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:20",
+                  "metrics": {
+                    "views": "4000",
+                    "likes": "17",
+                    "favorites": null,
+                    "comments": "1",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:21",
+                  "metrics": {
+                    "views": "5142",
+                    "likes": "18",
+                    "favorites": null,
+                    "comments": "1",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-13 08:27",
+                  "metrics": {
+                    "views": "7555",
+                    "likes": "19",
+                    "favorites": null,
+                    "comments": "1",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-14 08:31",
+                  "metrics": {
+                    "views": "9914",
+                    "likes": "19",
+                    "favorites": null,
+                    "comments": "1",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:22",
+                  "metrics": {
+                    "views": "9914",
+                    "likes": "19",
+                    "favorites": null,
+                    "comments": "1",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:23",
+                  "metrics": {
+                    "views": "12259",
+                    "likes": "19",
+                    "favorites": null,
+                    "comments": "1",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-16 08:06",
+                  "metrics": {
+                    "views": "14814",
+                    "likes": "19",
+                    "favorites": null,
+                    "comments": "1",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:52",
+                  "metrics": {
+                    "views": "14814",
+                    "likes": "19",
+                    "favorites": null,
+                    "comments": "1",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:53",
+                  "metrics": {
+                    "views": "17918",
+                    "likes": "24",
+                    "favorites": null,
+                    "comments": "1",
+                    "shares": null
+                  }
+                }
+              ]
+            }
+          ],
+          "score": 18423
+        },
+        {
+          "cat": "金融",
+          "score": 2098,
+          "title": "Odd Lots 百元钞洗钱短版上线：数字支付时代现金需求为何仍旺",
+          "hook": "Bloomberg Television 发布 Odd Lots 节目的 83 秒官方短版，聚焦百元钞在贸易型洗钱与平行金融网络中的角色。适合解释现金需求、跨境结算、银行合规和反洗钱成本之间的张力；现金使用本身不应被等同于犯罪。",
+          "platform": "YouTube / Odd Lots",
+          "source": "https://www.youtube.com/watch?v=YhKKcO0nZck",
+          "tags": [
+            "美元现金",
+            "反洗钱",
+            "跨境结算",
+            "银行合规",
+            "平行金融",
+            "数字支付"
+          ],
+          "videos": [
+            {
+              "title": "Odd Lots: Why Money Launderers Love $100 Bills",
+              "url": "https://www.youtube.com/watch?v=YhKKcO0nZck",
+              "platform": "YouTube",
+              "creator": "Bloomberg Television",
+              "duration": "01:23",
+              "published": "2026-09-09",
+              "metrics": {
+                "views": "1698",
+                "likes": "20",
+                "favorites": null,
+                "comments": null,
+                "shares": null
+              },
+              "captured": "2026-09-17 11:53",
+              "status": "重点节目 Odd Lots 的 Bloomberg Television 官方短版；2026-09-10 约 08:28（北京时间）上线，账号、标题、发布时间、时长和原始链接已核验；播放、点赞为本次公开值，收藏、评论、转发未公开；与站内 Apple Podcasts 及 Bloomberg Podcasts 长版为同内容关联版本",
+              "metricHistory": [
+                {
+                  "captured": "2026-09-10 11:09",
+                  "metrics": {
+                    "views": "370",
+                    "likes": "5",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:21",
+                  "metrics": {
+                    "views": "374",
+                    "likes": "6",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:45",
+                  "metrics": {
+                    "views": "384",
+                    "likes": "6",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:54",
+                  "metrics": {
+                    "views": "388",
+                    "likes": "6",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:09",
+                  "metrics": {
+                    "views": "400",
+                    "likes": "7",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:31",
+                  "metrics": {
+                    "views": "478",
+                    "likes": "8",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:43",
+                  "metrics": {
+                    "views": "506",
+                    "likes": "8",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:06",
+                  "metrics": {
+                    "views": "561",
+                    "likes": "9",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:22",
+                  "metrics": {
+                    "views": "571",
+                    "likes": "11",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:35",
+                  "metrics": {
+                    "views": "576",
+                    "likes": "11",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:53",
+                  "metrics": {
+                    "views": "587",
+                    "likes": "11",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:09",
+                  "metrics": {
+                    "views": "597",
+                    "likes": "11",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:36",
+                  "metrics": {
+                    "views": "608",
+                    "likes": "11",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:44",
+                  "metrics": {
+                    "views": "618",
+                    "likes": "11",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 15:08",
+                  "metrics": {
+                    "views": "652",
+                    "likes": "12",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 15:39",
+                  "metrics": {
+                    "views": "692",
+                    "likes": "12",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:00",
+                  "metrics": {
+                    "views": "724",
+                    "likes": "12",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:05",
+                  "metrics": {
+                    "views": "728",
+                    "likes": "12",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:20",
+                  "metrics": {
+                    "views": "741",
+                    "likes": "12",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:34",
+                  "metrics": {
+                    "views": "757",
+                    "likes": "12",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:53",
+                  "metrics": {
+                    "views": "772",
+                    "likes": "12",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:06",
+                  "metrics": {
+                    "views": "781",
+                    "likes": "12",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:21",
+                  "metrics": {
+                    "views": "797",
+                    "likes": "12",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:39",
+                  "metrics": {
+                    "views": "814",
+                    "likes": "12",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:56",
+                  "metrics": {
+                    "views": "839",
+                    "likes": "13",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:53",
+                  "metrics": {
+                    "views": "1290",
+                    "likes": "16",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:54",
+                  "metrics": {
+                    "views": "1290",
+                    "likes": "16",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:55",
+                  "metrics": {
+                    "views": "1282",
+                    "likes": "16",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:20",
+                  "metrics": {
+                    "views": "1282",
+                    "likes": "16",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:21",
+                  "metrics": {
+                    "views": "1374",
+                    "likes": "18",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-13 08:27",
+                  "metrics": {
+                    "views": "1551",
+                    "likes": "21",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-14 08:31",
+                  "metrics": {
+                    "views": "1615",
+                    "likes": "20",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:22",
+                  "metrics": {
+                    "views": "1615",
+                    "likes": "20",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:23",
+                  "metrics": {
+                    "views": "1643",
+                    "likes": "20",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-16 08:06",
+                  "metrics": {
+                    "views": "1667",
+                    "likes": "20",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:52",
+                  "metrics": {
+                    "views": "1667",
+                    "likes": "20",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:53",
+                  "metrics": {
+                    "views": "1698",
+                    "likes": "20",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "cat": "科技",
+          "score": 2300,
+          "title": "AI重点：Sonos 与 Google 继续谈 Gemini 接入，语音入口之争回到合作现实",
+          "hook": "Sonos CEO Tom Conrad 表示，公司希望延续与 Google 的合作，并继续讨论让 Gemini 进入 Sonos 产品。适合追踪生成式 AI 助手如何落地家庭硬件，以及平台控制、兼容性、数据权限和生态谈判如何决定用户能否真正用上新模型。",
+          "platform": "YouTube / Decoder",
+          "source": "https://www.youtube.com/watch?v=pvlHoHdHWTc",
+          "tags": [
+            "AI重点",
+            "AI应用商业化",
+            "Gemini",
+            "智能音箱",
+            "语音助手",
+            "平台生态",
+            "Sonos"
+          ],
+          "videos": [
+            {
+              "title": "Google and Sonos messy relationship",
+              "url": "https://www.youtube.com/watch?v=pvlHoHdHWTc",
+              "platform": "YouTube",
+              "creator": "Decoder with Nilay Patel",
+              "duration": "00:32",
+              "published": "2026-09-09",
+              "metrics": {
+                "views": "1900",
+                "likes": "20",
+                "favorites": null,
+                "comments": null,
+                "shares": null
+              },
+              "captured": "2026-09-17 11:53",
+              "status": "重点节目 Decoder 官方频道近48小时新视频；YouTube 公开页已核验标题、频道、发布日期、时长、原始链接、播放与点赞；评论、收藏和转发未公开；合作进展为 Sonos CEO 本人在访谈中的陈述",
+              "metricHistory": [
+                {
+                  "captured": "2026-09-10 12:09",
+                  "metrics": {
+                    "views": "539",
+                    "likes": "6",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:31",
+                  "metrics": {
+                    "views": "570",
+                    "likes": "6",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:43",
+                  "metrics": {
+                    "views": "604",
+                    "likes": "7",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:06",
+                  "metrics": {
+                    "views": "625",
+                    "likes": "7",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:22",
+                  "metrics": {
+                    "views": "629",
+                    "likes": "7",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:35",
+                  "metrics": {
+                    "views": "629",
+                    "likes": "7",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:53",
+                  "metrics": {
+                    "views": "629",
+                    "likes": "7",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:09",
+                  "metrics": {
+                    "views": "629",
+                    "likes": "7",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:36",
+                  "metrics": {
+                    "views": "629",
+                    "likes": "7",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:44",
+                  "metrics": {
+                    "views": "629",
+                    "likes": "7",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 15:08",
+                  "metrics": {
+                    "views": "629",
+                    "likes": "7",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 15:39",
+                  "metrics": {
+                    "views": "722",
+                    "likes": "7",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:00",
+                  "metrics": {
+                    "views": "747",
+                    "likes": "7",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:05",
+                  "metrics": {
+                    "views": "755",
+                    "likes": "7",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:20",
+                  "metrics": {
+                    "views": "771",
+                    "likes": "7",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:34",
+                  "metrics": {
+                    "views": "780",
+                    "likes": "7",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:53",
+                  "metrics": {
+                    "views": "807",
+                    "likes": "7",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:06",
+                  "metrics": {
+                    "views": "832",
+                    "likes": "7",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:21",
+                  "metrics": {
+                    "views": "842",
+                    "likes": "7",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:39",
+                  "metrics": {
+                    "views": "863",
+                    "likes": "7",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:56",
+                  "metrics": {
+                    "views": "863",
+                    "likes": "7",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:53",
+                  "metrics": {
+                    "views": "1329",
+                    "likes": "10",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:54",
+                  "metrics": {
+                    "views": "1329",
+                    "likes": "10",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:55",
+                  "metrics": {
+                    "views": "1329",
+                    "likes": "10",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:20",
+                  "metrics": {
+                    "views": "1329",
+                    "likes": "10",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:21",
+                  "metrics": {
+                    "views": "1468",
+                    "likes": "11",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-13 08:27",
+                  "metrics": {
+                    "views": "1658",
+                    "likes": "14",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-14 08:31",
+                  "metrics": {
+                    "views": "1817",
+                    "likes": "19",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:22",
+                  "metrics": {
+                    "views": "1817",
+                    "likes": "19",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:23",
+                  "metrics": {
+                    "views": "1845",
+                    "likes": "19",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-16 08:06",
+                  "metrics": {
+                    "views": "1866",
+                    "likes": "20",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:52",
+                  "metrics": {
+                    "views": "1866",
+                    "likes": "20",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:53",
+                  "metrics": {
+                    "views": "1900",
+                    "likes": "20",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "cat": "科技",
+          "title": "儿童 AI 陪伴与 Mozilla 安全治理同场：产品价值之外先看边界",
+          "hook": "重点名单节目 The Cognitive Revolution 当日直播把儿童 AI 陪伴与 Mozilla 安全议题放在一起。适合拆解面向未成年人的陪伴型 AI 如何处理依赖、隐私、内容安全和家长控制，以及开源生态中的安全责任。主题标签：AI重点、AI陪伴、未成年人保护、隐私安全、开源治理、监管版权安全。",
+          "platform": "YouTube / The Cognitive Revolution",
+          "tags": [
+            "AI重点",
+            "AI陪伴",
+            "未成年人保护",
+            "隐私安全",
+            "开源治理",
+            "监管版权安全"
+          ],
+          "videos": [
+            {
+              "title": "AI Companions for Kids + Security at Mozilla",
+              "url": "https://www.youtube.com/watch?v=lGwmnQrN4Es",
+              "platform": "YouTube",
+              "creator": "Cognitive Revolution \"How AI Changes Everything\"",
+              "duration": "02:40:15",
+              "published": "2026-09-09",
+              "metrics": {
+                "views": "607",
+                "likes": "2",
+                "favorites": null,
+                "comments": "1",
+                "shares": null
+              },
+              "status": "重点名单节目 The Cognitive Revolution 当日官方直播；账号、标题、发布时间与原始链接已核验；采集时直播进行中，播放与点赞为当时公开值，时长、收藏、评论、转发未公开",
+              "captured": "2026-09-17 11:53",
+              "metricHistory": [
+                {
+                  "captured": "2026-09-10 02:07",
+                  "metrics": {
+                    "views": "18",
+                    "likes": "1",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 02:18",
+                  "metrics": {
+                    "views": "20",
+                    "likes": "1",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 02:33",
+                  "metrics": {
+                    "views": "22",
+                    "likes": "1",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 02:50",
+                  "metrics": {
+                    "views": "23",
+                    "likes": "1",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 03:06",
+                  "metrics": {
+                    "views": "23",
+                    "likes": "1",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 03:23",
+                  "metrics": {
+                    "views": "24",
+                    "likes": "1",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 03:33",
+                  "metrics": {
+                    "views": "24",
+                    "likes": "1",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 03:49",
+                  "metrics": {
+                    "views": "25",
+                    "likes": "2",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 04:04",
+                  "metrics": {
+                    "views": "34",
+                    "likes": "2",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 04:23",
+                  "metrics": {
+                    "views": "45",
+                    "likes": "2",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 04:37",
+                  "metrics": {
+                    "views": "61",
+                    "likes": "2",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 10:09",
+                  "metrics": {
+                    "views": "332",
+                    "likes": "2",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 10:21",
+                  "metrics": {
+                    "views": "335",
+                    "likes": "2",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 10:53",
+                  "metrics": {
+                    "views": "310",
+                    "likes": "2",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 10:55",
+                  "metrics": {
+                    "views": "338",
+                    "likes": "2",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:08",
+                  "metrics": {
+                    "views": "343",
+                    "likes": "2",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:21",
+                  "metrics": {
+                    "views": "310",
+                    "likes": "2",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:45",
+                  "metrics": {
+                    "views": "338",
+                    "likes": "2",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 11:54",
+                  "metrics": {
+                    "views": "338",
+                    "likes": "2",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:09",
+                  "metrics": {
+                    "views": "338",
+                    "likes": "2",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:31",
+                  "metrics": {
+                    "views": "343",
+                    "likes": "2",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 12:43",
+                  "metrics": {
+                    "views": "338",
+                    "likes": "2",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:06",
+                  "metrics": {
+                    "views": "338",
+                    "likes": "2",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:22",
+                  "metrics": {
+                    "views": "345",
+                    "likes": "2",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:35",
+                  "metrics": {
+                    "views": "338",
+                    "likes": "2",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 13:53",
+                  "metrics": {
+                    "views": "338",
+                    "likes": "2",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:09",
+                  "metrics": {
+                    "views": "343",
+                    "likes": "2",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:36",
+                  "metrics": {
+                    "views": "403",
+                    "likes": "2",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 14:44",
+                  "metrics": {
+                    "views": "403",
+                    "likes": "2",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 15:08",
+                  "metrics": {
+                    "views": "403",
+                    "likes": "2",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 15:39",
+                  "metrics": {
+                    "views": "423",
+                    "likes": "2",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:00",
+                  "metrics": {
+                    "views": "423",
+                    "likes": "2",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:05",
+                  "metrics": {
+                    "views": "423",
+                    "likes": "2",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:20",
+                  "metrics": {
+                    "views": "423",
+                    "likes": "2",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:34",
+                  "metrics": {
+                    "views": "423",
+                    "likes": "2",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 16:53",
+                  "metrics": {
+                    "views": "423",
+                    "likes": "2",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:06",
+                  "metrics": {
+                    "views": "423",
+                    "likes": "2",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:21",
+                  "metrics": {
+                    "views": "423",
+                    "likes": "2",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:39",
+                  "metrics": {
+                    "views": "423",
+                    "likes": "2",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-10 17:56",
+                  "metrics": {
+                    "views": "423",
+                    "likes": "2",
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:53",
+                  "metrics": {
+                    "views": "537",
+                    "likes": "2",
+                    "favorites": null,
+                    "comments": "1",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:54",
+                  "metrics": {
+                    "views": "537",
+                    "likes": "2",
+                    "favorites": null,
+                    "comments": "1",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:55",
+                  "metrics": {
+                    "views": "537",
+                    "likes": "2",
+                    "favorites": null,
+                    "comments": "1",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:20",
+                  "metrics": {
+                    "views": "537",
+                    "likes": "2",
+                    "favorites": null,
+                    "comments": "1",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:21",
+                  "metrics": {
+                    "views": "556",
+                    "likes": "2",
+                    "favorites": null,
+                    "comments": "1",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-13 08:27",
+                  "metrics": {
+                    "views": "568",
+                    "likes": "2",
+                    "favorites": null,
+                    "comments": "1",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-14 08:31",
+                  "metrics": {
+                    "views": "593",
+                    "likes": "2",
+                    "favorites": null,
+                    "comments": "1",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:22",
+                  "metrics": {
+                    "views": "593",
+                    "likes": "2",
+                    "favorites": null,
+                    "comments": "1",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:23",
+                  "metrics": {
+                    "views": "603",
+                    "likes": "2",
+                    "favorites": null,
+                    "comments": "1",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-16 08:06",
+                  "metrics": {
+                    "views": "607",
+                    "likes": "2",
+                    "favorites": null,
+                    "comments": "1",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:52",
+                  "metrics": {
+                    "views": "607",
+                    "likes": "2",
+                    "favorites": null,
+                    "comments": "1",
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:53",
+                  "metrics": {
+                    "views": "607",
+                    "likes": "2",
+                    "favorites": null,
+                    "comments": "1",
+                    "shares": null
+                  }
+                }
+              ]
+            }
+          ],
+          "source": "https://www.youtube.com/watch?v=lGwmnQrN4Es",
+          "score": 672
+        },
+        {
+          "cat": "国际时政",
+          "score": 0,
+          "title": "巴拿马籍油轮在伊拉克海域遭不明物击中：海湾航运风险继续外溢",
+          "hook": "伊拉克交通部称，一艘巴拿马籍燃油油轮在伊拉克领海被不明来源物体击中，船体受损但暂无人员伤亡或燃油泄漏，事件仍在调查。适合追踪霍尔木兹周边冲突如何传导至保险费率、油轮绕航与能源价格，不提前判定袭击方。",
+          "platform": "新华网英文版",
+          "source": "https://english.news.cn/20260909/19aef968f72544bdbd52a097561ca2b6/c.html",
+          "tags": [
+            "海湾局势",
+            "油轮",
+            "伊拉克",
+            "霍尔木兹",
+            "航运保险",
+            "能源安全"
+          ],
+          "videos": [
+            {
+              "title": "Panamanian oil tanker hit by unknown projectile in Iraqi waters",
+              "url": "https://english.news.cn/20260909/19aef968f72544bdbd52a097561ca2b6/c.html",
+              "platform": "新华网英文版",
+              "creator": "新华社 / 伊拉克交通部",
+              "duration": "未公开",
+              "published": "2026-09-09",
+              "metrics": {
+                "views": null,
+                "likes": null,
+                "favorites": null,
+                "comments": null,
+                "shares": null
+              },
+              "captured": "2026-09-17 11:52",
+              "status": "伊拉克交通部通报经新华社转述并于9月10日晨补录；袭击来源仍在调查，不作推断；页面未公开互动指标，全部不计热力",
+              "metricHistory": [
+                {
+                  "captured": "2026-09-10 10:14",
+                  "metrics": {
+                    "views": null,
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:54",
+                  "metrics": {
+                    "views": null,
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:20",
+                  "metrics": {
+                    "views": null,
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-13 08:27",
+                  "metrics": {
+                    "views": null,
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-14 08:31",
+                  "metrics": {
+                    "views": null,
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:22",
+                  "metrics": {
+                    "views": null,
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-16 08:06",
+                  "metrics": {
+                    "views": null,
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:52",
+                  "metrics": {
+                    "views": null,
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "cat": "国际时政",
+          "score": 0,
+          "title": "乌方称打击俄新罗西斯克海军基地：黑海港口与能源设施风险抬升",
+          "hook": "乌克兰总统泽连斯基称乌方打击俄克拉斯诺达尔边疆区新罗西斯克海军基地，涉及油品装载码头、军港设施与携带“口径”导弹的舰艇；俄方同日称打击乌方军工和物流设施。适合追踪黑海航运、能源出口和报复升级风险，战果仍需独立核验。",
+          "platform": "新华网英文版",
+          "source": "https://english.news.cn/europe/20260909/19a4c36652ca40a8acc7ed4b1c8e1d24/c.html",
+          "tags": [
+            "俄乌冲突",
+            "黑海",
+            "新罗西斯克",
+            "能源运输",
+            "海军基地",
+            "航运风险"
+          ],
+          "videos": [
+            {
+              "title": "Ukraine says it struck naval base in Russia's Krasnodar region",
+              "url": "https://english.news.cn/europe/20260909/19a4c36652ca40a8acc7ed4b1c8e1d24/c.html",
+              "platform": "新华网英文版",
+              "creator": "新华社",
+              "duration": "未公开",
+              "published": "2026-09-09",
+              "metrics": {
+                "views": null,
+                "likes": null,
+                "favorites": null,
+                "comments": null,
+                "shares": null
+              },
+              "captured": "2026-09-17 11:52",
+              "status": "新华社当日滚动新闻于9月10日晨补录；乌方与俄方说法均明确归因，战果未作独立确认；页面未公开互动指标，全部不计热力",
+              "metricHistory": [
+                {
+                  "captured": "2026-09-10 10:14",
+                  "metrics": {
+                    "views": null,
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:54",
+                  "metrics": {
+                    "views": null,
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:20",
+                  "metrics": {
+                    "views": null,
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-13 08:27",
+                  "metrics": {
+                    "views": null,
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-14 08:31",
+                  "metrics": {
+                    "views": null,
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:22",
+                  "metrics": {
+                    "views": null,
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-16 08:06",
+                  "metrics": {
+                    "views": null,
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:52",
+                  "metrics": {
+                    "views": null,
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "cat": "社会",
+          "title": "停捐一月遭“催捐”：公益机构沟通边界引争议",
+          "hook": "四川一名单亲妈妈称，因生意不景气暂停坚持多年的月捐后接到公益机构询问电话，相关视频登上站内热门。事件适合讨论持续捐赠机制、公益机构回访边界与普通捐赠人的信任维护；当事经历与机构责任以权威后续调查为准。",
+          "platform": "哔哩哔哩 / 闪电新闻",
+          "source": "https://sdxw.iqilu.com/share/YS0yMS0xNzM4MzU5Mg.html",
+          "score": 5844273,
+          "videos": [
+            {
+              "title": "月捐数年“无人问” 停捐一月遭“催捐”？四川单亲妈妈自曝“寒心”经历 多名网友评论区晒同款经历",
+              "url": "https://www.bilibili.com/video/BV1xrbs6pEjp/",
+              "platform": "哔哩哔哩",
+              "creator": "闪电新闻",
+              "duration": "01:44",
+              "metrics": {
+                "views": "2162453",
+                "likes": "159504",
+                "favorites": "5935",
+                "comments": "13117",
+                "shares": "2493"
+              },
+              "captured": "2026-09-17 11:53",
+              "status": "哔哩哔哩公开接口已核验互动数据；当事人叙述及网友经历由闪电新闻公开报道交叉核验，涉事机构责任与完整事实以权威后续调查为准",
+              "metricHistory": [
+                {
+                  "captured": "2026-09-11 20:54",
+                  "metrics": {
+                    "views": "2155339",
+                    "likes": "159007",
+                    "favorites": "5906",
+                    "comments": "13003",
+                    "shares": "2478"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:55",
+                  "metrics": {
+                    "views": "2155339",
+                    "likes": "159007",
+                    "favorites": "5906",
+                    "comments": "13003",
+                    "shares": "2478"
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:20",
+                  "metrics": {
+                    "views": "2156899",
+                    "likes": "159094",
+                    "favorites": "5912",
+                    "comments": "13024",
+                    "shares": "2479"
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:21",
+                  "metrics": {
+                    "views": "2156899",
+                    "likes": "159094",
+                    "favorites": "5912",
+                    "comments": "13024",
+                    "shares": "2479"
+                  }
+                },
+                {
+                  "captured": "2026-09-13 08:27",
+                  "metrics": {
+                    "views": "2160006",
+                    "likes": "159332",
+                    "favorites": "5933",
+                    "comments": "13084",
+                    "shares": "2487"
+                  }
+                },
+                {
+                  "captured": "2026-09-14 08:31",
+                  "metrics": {
+                    "views": "2161468",
+                    "likes": "159456",
+                    "favorites": "5939",
+                    "comments": "13101",
+                    "shares": "2488"
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:22",
+                  "metrics": {
+                    "views": "2161872",
+                    "likes": "159470",
+                    "favorites": "5938",
+                    "comments": "13111",
+                    "shares": "2488"
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:23",
+                  "metrics": {
+                    "views": "2161872",
+                    "likes": "159470",
+                    "favorites": "5938",
+                    "comments": "13111",
+                    "shares": "2488"
+                  }
+                },
+                {
+                  "captured": "2026-09-16 08:06",
+                  "metrics": {
+                    "views": "2162124",
+                    "likes": "159486",
+                    "favorites": "5936",
+                    "comments": "13111",
+                    "shares": "2489"
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:52",
+                  "metrics": {
+                    "views": "2162453",
+                    "likes": "159504",
+                    "favorites": "5935",
+                    "comments": "13117",
+                    "shares": "2493"
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:53",
+                  "metrics": {
+                    "views": "2162453",
+                    "likes": "159504",
+                    "favorites": "5935",
+                    "comments": "13117",
+                    "shares": "2493"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "cat": "社会",
+          "title": "400 万超跑被“蚂蚁搬家”式拆空",
+          "hook": "上海一辆长期停放地库的近 400 万元超跑，被三名嫌疑人分 8 次拆走轮毂、车门、座椅等部件；案件适合讨论长期停车风险、物业安保责任与汽配销赃链条。",
+          "platform": "哔哩哔哩 / 微博视频号 / 看看新闻",
+          "source": "https://weibo.com/2/detail/5339423534220797",
+          "score": 1753286,
+          "videos": [
+            {
+              "title": "400万超跑被拆成空壳!车主回国傻眼:座位都没了",
+              "url": "https://www.bilibili.com/video/BV1CZtf61EUp/",
+              "platform": "哔哩哔哩",
+              "creator": "看看新闻Knews",
+              "duration": "01:04",
+              "metrics": {
+                "views": "906761",
+                "likes": "28484",
+                "favorites": "884",
+                "comments": "869",
+                "shares": "262"
+              },
+              "captured": "2026-09-17 11:53",
+              "status": "哔哩哔哩公开接口已核验互动数据；案情由看看新闻视频与微博公开内容交叉核验，嫌疑人已被批捕",
+              "metricHistory": [
+                {
+                  "captured": "2026-09-11 20:54",
+                  "metrics": {
+                    "views": "905018",
+                    "likes": "28421",
+                    "favorites": "881",
+                    "comments": "866",
+                    "shares": "258"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:55",
+                  "metrics": {
+                    "views": "905018",
+                    "likes": "28421",
+                    "favorites": "881",
+                    "comments": "866",
+                    "shares": "258"
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:20",
+                  "metrics": {
+                    "views": "905129",
+                    "likes": "28424",
+                    "favorites": "882",
+                    "comments": "866",
+                    "shares": "258"
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:21",
+                  "metrics": {
+                    "views": "905129",
+                    "likes": "28424",
+                    "favorites": "882",
+                    "comments": "866",
+                    "shares": "258"
+                  }
+                },
+                {
+                  "captured": "2026-09-13 08:27",
+                  "metrics": {
+                    "views": "905351",
+                    "likes": "28429",
+                    "favorites": "883",
+                    "comments": "866",
+                    "shares": "259"
+                  }
+                },
+                {
+                  "captured": "2026-09-14 08:31",
+                  "metrics": {
+                    "views": "905920",
+                    "likes": "28453",
+                    "favorites": "884",
+                    "comments": "865",
+                    "shares": "261"
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:22",
+                  "metrics": {
+                    "views": "906345",
+                    "likes": "28471",
+                    "favorites": "883",
+                    "comments": "867",
+                    "shares": "262"
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:23",
+                  "metrics": {
+                    "views": "906346",
+                    "likes": "28471",
+                    "favorites": "883",
+                    "comments": "867",
+                    "shares": "262"
+                  }
+                },
+                {
+                  "captured": "2026-09-16 08:06",
+                  "metrics": {
+                    "views": "906560",
+                    "likes": "28477",
+                    "favorites": "883",
+                    "comments": "869",
+                    "shares": "262"
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:52",
+                  "metrics": {
+                    "views": "906761",
+                    "likes": "28484",
+                    "favorites": "884",
+                    "comments": "869",
+                    "shares": "262"
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:53",
+                  "metrics": {
+                    "views": "906761",
+                    "likes": "28484",
+                    "favorites": "884",
+                    "comments": "869",
+                    "shares": "262"
+                  }
+                }
+              ]
+            },
+            {
+              "title": "僵尸超跑成空壳：400 万豪车被“蚂蚁搬家”式拆解",
+              "url": "https://weibo.com/2/detail/5339410180604641",
+              "platform": "微博视频号",
+              "creator": "周蓬安",
+              "duration": "01:40",
+              "metrics": {
+                "views": "234000",
+                "likes": null,
+                "favorites": null,
+                "comments": null,
+                "shares": null
+              },
+              "captured": "2026-09-17 11:52",
+              "status": "公开页面已核验 23.4 万次观看；点赞、收藏、评论、转发未公开，不计入对应加权项",
+              "metricHistory": [
+                {
+                  "captured": "2026-09-11 20:54",
+                  "metrics": {
+                    "views": "234000",
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:20",
+                  "metrics": {
+                    "views": "234000",
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-13 08:27",
+                  "metrics": {
+                    "views": "234000",
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-14 08:31",
+                  "metrics": {
+                    "views": "234000",
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:22",
+                  "metrics": {
+                    "views": "234000",
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-16 08:06",
+                  "metrics": {
+                    "views": "234000",
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:52",
+                  "metrics": {
+                    "views": "234000",
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "cat": "社会",
+          "title": "报火警上传视频遭开屏广告阻断",
+          "hook": "深圳一名市民拨打 119 后按短信链接上传现场视频，手机浏览器开屏广告导致操作受阻。深圳消防回应称视频仅用于辅助研判、不会影响正常出警，适合讨论紧急场景下的开屏广告治理与公共服务链路设计。",
+          "platform": "哔哩哔哩 / 抖音精选 / 羊城晚报",
+          "source": "https://news.ifeng.com/c/8w78NmWMX5T",
+          "score": 5408825,
+          "videos": [
+            {
+              "title": "女子打119报警后 上传火警视频却跳转出开屏广告",
+              "url": "https://www.bilibili.com/video/BV1e3td6nEEw/",
+              "platform": "哔哩哔哩",
+              "creator": "闪电新闻",
+              "duration": "01:11",
+              "metrics": {
+                "views": "1971905",
+                "likes": "153762",
+                "favorites": "7147",
+                "comments": "6693",
+                "shares": "2905"
+              },
+              "captured": "2026-09-17 11:53",
+              "status": "哔哩哔哩公开接口已核验互动数据；深圳消防回应视频上传仅辅助研判、不影响出警，开屏广告来自报警人手机浏览器",
+              "metricHistory": [
+                {
+                  "captured": "2026-09-11 20:54",
+                  "metrics": {
+                    "views": "1955352",
+                    "likes": "152197",
+                    "favorites": "7003",
+                    "comments": "6601",
+                    "shares": "2856"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:55",
+                  "metrics": {
+                    "views": "1955352",
+                    "likes": "152197",
+                    "favorites": "7003",
+                    "comments": "6601",
+                    "shares": "2856"
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:20",
+                  "metrics": {
+                    "views": "1958026",
+                    "likes": "152410",
+                    "favorites": "7027",
+                    "comments": "6610",
+                    "shares": "2862"
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:21",
+                  "metrics": {
+                    "views": "1958026",
+                    "likes": "152410",
+                    "favorites": "7027",
+                    "comments": "6610",
+                    "shares": "2862"
+                  }
+                },
+                {
+                  "captured": "2026-09-13 08:27",
+                  "metrics": {
+                    "views": "1963106",
+                    "likes": "152899",
+                    "favorites": "7074",
+                    "comments": "6636",
+                    "shares": "2882"
+                  }
+                },
+                {
+                  "captured": "2026-09-14 08:31",
+                  "metrics": {
+                    "views": "1966458",
+                    "likes": "153259",
+                    "favorites": "7091",
+                    "comments": "6661",
+                    "shares": "2889"
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:22",
+                  "metrics": {
+                    "views": "1968797",
+                    "likes": "153464",
+                    "favorites": "7112",
+                    "comments": "6672",
+                    "shares": "2895"
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:23",
+                  "metrics": {
+                    "views": "1968797",
+                    "likes": "153464",
+                    "favorites": "7112",
+                    "comments": "6672",
+                    "shares": "2895"
+                  }
+                },
+                {
+                  "captured": "2026-09-16 08:06",
+                  "metrics": {
+                    "views": "1970178",
+                    "likes": "153587",
+                    "favorites": "7125",
+                    "comments": "6677",
+                    "shares": "2901"
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:52",
+                  "metrics": {
+                    "views": "1971905",
+                    "likes": "153762",
+                    "favorites": "7147",
+                    "comments": "6693",
+                    "shares": "2905"
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:53",
+                  "metrics": {
+                    "views": "1971905",
+                    "likes": "153762",
+                    "favorites": "7147",
+                    "comments": "6693",
+                    "shares": "2905"
+                  }
+                }
+              ]
+            },
+            {
+              "title": "误触、强制跳转、躲猫猫关闭键，畸形广告生意到底要贪到什么程度？",
+              "url": "https://jingxuan.douyin.com/m/video/7681251790674758912",
+              "platform": "抖音精选",
+              "creator": "冯不疯",
+              "duration": "04:09",
+              "metrics": {
+                "views": null,
+                "likes": null,
+                "favorites": null,
+                "comments": null,
+                "shares": null
+              },
+              "captured": "2026-09-17 11:52",
+              "status": "原视频与发布时间可访问；播放、点赞、收藏、评论、转发未公开，不计热力；视频中的行业规模等判断属于作者表述",
+              "metricHistory": [
+                {
+                  "captured": "2026-09-11 20:54",
+                  "metrics": {
+                    "views": null,
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:20",
+                  "metrics": {
+                    "views": null,
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-13 08:27",
+                  "metrics": {
+                    "views": null,
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-14 08:31",
+                  "metrics": {
+                    "views": null,
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:22",
+                  "metrics": {
+                    "views": null,
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-16 08:06",
+                  "metrics": {
+                    "views": null,
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:52",
+                  "metrics": {
+                    "views": null,
+                    "likes": null,
+                    "favorites": null,
+                    "comments": null,
+                    "shares": null
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "cat": "财经",
+          "title": "公共服务调价与家庭生活成本讨论",
+          "hook": "围绕公共交通、水电燃气等公共服务价格变化的公开视频获得高播放与高互动，适合拆解地方财政、成本传导、价格听证与居民负担；视频标题与判断属于作者观点，具体调价以各地官方文件为准。",
+          "platform": "哔哩哔哩",
+          "source": "",
+          "score": 2513345,
+          "videos": [
+            {
+              "title": "轰轰烈烈的公共大涨价开始了",
+              "url": "https://www.bilibili.com/video/BV1B38b6pE2w/",
+              "platform": "哔哩哔哩",
+              "creator": "章北海official",
+              "duration": "10:42",
+              "metrics": {
+                "views": "920405",
+                "likes": "50612",
+                "favorites": "12776",
+                "comments": "8294",
+                "shares": "6057"
+              },
+              "captured": "2026-09-17 11:53",
+              "status": "哔哩哔哩公开接口已核验互动数据；视频标题与价格判断属于作者观点，具体调价项目、地区和幅度以各地官方文件为准",
+              "metricHistory": [
+                {
+                  "captured": "2026-09-11 20:54",
+                  "metrics": {
+                    "views": "891902",
+                    "likes": "49468",
+                    "favorites": "12515",
+                    "comments": "8098",
+                    "shares": "5955"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:55",
+                  "metrics": {
+                    "views": "891902",
+                    "likes": "49468",
+                    "favorites": "12515",
+                    "comments": "8098",
+                    "shares": "5955"
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:20",
+                  "metrics": {
+                    "views": "893961",
+                    "likes": "49537",
+                    "favorites": "12540",
+                    "comments": "8117",
+                    "shares": "5962"
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:21",
+                  "metrics": {
+                    "views": "893961",
+                    "likes": "49537",
+                    "favorites": "12540",
+                    "comments": "8117",
+                    "shares": "5962"
+                  }
+                },
+                {
+                  "captured": "2026-09-13 08:27",
+                  "metrics": {
+                    "views": "899321",
+                    "likes": "49772",
+                    "favorites": "12587",
+                    "comments": "8129",
+                    "shares": "5975"
+                  }
+                },
+                {
+                  "captured": "2026-09-14 08:31",
+                  "metrics": {
+                    "views": "906176",
+                    "likes": "50049",
+                    "favorites": "12641",
+                    "comments": "8207",
+                    "shares": "5999"
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:22",
+                  "metrics": {
+                    "views": "912573",
+                    "likes": "50287",
+                    "favorites": "12695",
+                    "comments": "8245",
+                    "shares": "6020"
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:23",
+                  "metrics": {
+                    "views": "912573",
+                    "likes": "50287",
+                    "favorites": "12695",
+                    "comments": "8246",
+                    "shares": "6020"
+                  }
+                },
+                {
+                  "captured": "2026-09-16 08:06",
+                  "metrics": {
+                    "views": "917652",
+                    "likes": "50499",
+                    "favorites": "12746",
+                    "comments": "8279",
+                    "shares": "6041"
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:52",
+                  "metrics": {
+                    "views": "920405",
+                    "likes": "50612",
+                    "favorites": "12776",
+                    "comments": "8294",
+                    "shares": "6057"
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:53",
+                  "metrics": {
+                    "views": "920405",
+                    "likes": "50612",
+                    "favorites": "12776",
+                    "comments": "8294",
+                    "shares": "6057"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "cat": "社会",
+          "title": "误充值数千万亿后的不当得利判决",
+          "hook": "平台把账号 ID 错当充值金额，用户实际消费 25 万余元后拒绝返还；法院判决揭示虚拟额度、平台风控与不当得利的法律边界。",
+          "platform": "哔哩哔哩 / 澎湃新闻",
+          "source": "https://www.thepaper.cn/newsDetail_forward_34000315",
+          "score": 1305312,
+          "videos": [
+            {
+              "title": "充值1000元误到账26419933亿元，用户挥霍25万元拒不返还，法院判了",
+              "url": "https://www.bilibili.com/video/BV1u5t966Esu/",
+              "platform": "哔哩哔哩",
+              "creator": "川观新闻",
+              "duration": "00:33",
+              "metrics": {
+                "views": "821077",
+                "likes": "18449",
+                "favorites": "1015",
+                "comments": "1828",
+                "shares": "1811"
+              },
+              "captured": "2026-09-17 11:53",
+              "status": "哔哩哔哩公开接口已核验；案件事实与已生效判决由澎湃新闻公开报道交叉核验",
+              "metricHistory": [
+                {
+                  "captured": "2026-09-11 20:54",
+                  "metrics": {
+                    "views": "818244",
+                    "likes": "18364",
+                    "favorites": "1010",
+                    "comments": "1865",
+                    "shares": "1805"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:55",
+                  "metrics": {
+                    "views": "818244",
+                    "likes": "18364",
+                    "favorites": "1010",
+                    "comments": "1865",
+                    "shares": "1805"
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:20",
+                  "metrics": {
+                    "views": "818361",
+                    "likes": "18367",
+                    "favorites": "1008",
+                    "comments": "1865",
+                    "shares": "1805"
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:21",
+                  "metrics": {
+                    "views": "818361",
+                    "likes": "18367",
+                    "favorites": "1008",
+                    "comments": "1865",
+                    "shares": "1805"
+                  }
+                },
+                {
+                  "captured": "2026-09-13 08:27",
+                  "metrics": {
+                    "views": "819089",
+                    "likes": "18393",
+                    "favorites": "1009",
+                    "comments": "1865",
+                    "shares": "1807"
+                  }
+                },
+                {
+                  "captured": "2026-09-14 08:31",
+                  "metrics": {
+                    "views": "819591",
+                    "likes": "18409",
+                    "favorites": "1011",
+                    "comments": "1825",
+                    "shares": "1807"
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:22",
+                  "metrics": {
+                    "views": "819861",
+                    "likes": "18419",
+                    "favorites": "1012",
+                    "comments": "1826",
+                    "shares": "1808"
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:23",
+                  "metrics": {
+                    "views": "819861",
+                    "likes": "18419",
+                    "favorites": "1012",
+                    "comments": "1826",
+                    "shares": "1808"
+                  }
+                },
+                {
+                  "captured": "2026-09-16 08:06",
+                  "metrics": {
+                    "views": "820207",
+                    "likes": "18431",
+                    "favorites": "1011",
+                    "comments": "1827",
+                    "shares": "1810"
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:52",
+                  "metrics": {
+                    "views": "821077",
+                    "likes": "18449",
+                    "favorites": "1015",
+                    "comments": "1828",
+                    "shares": "1811"
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:53",
+                  "metrics": {
+                    "views": "821077",
+                    "likes": "18449",
+                    "favorites": "1015",
+                    "comments": "1828",
+                    "shares": "1811"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "cat": "科技",
+          "title": "DeepSeek 融资传闻引发 AI 资本竞赛讨论",
+          "hook": "围绕 DeepSeek 新一轮大额融资的公开视频快速升温；融资规模来自视频作者表述，尚缺独立公开信源确认，适合拆解 AI 公司的资金需求与资本开支逻辑。",
+          "platform": "哔哩哔哩",
+          "source": "",
+          "score": 1529984,
+          "videos": [
+            {
+              "title": "Deepseek突然连融两轮500亿，梁文锋到底想干嘛？",
+              "url": "https://www.bilibili.com/video/BV18Ut76rEdb/",
+              "platform": "哔哩哔哩",
+              "creator": "小Lin竖着说",
+              "duration": "06:27",
+              "metrics": {
+                "views": "667894",
+                "likes": "33239",
+                "favorites": "7081",
+                "comments": "1515",
+                "shares": "1774"
+              },
+              "captured": "2026-09-17 11:53",
+              "status": "哔哩哔哩公开接口已核验互动数据；融资轮次与金额来自作者表述，未见独立公开信源确认，不作为已证实事实",
+              "metricHistory": [
+                {
+                  "captured": "2026-09-11 20:54",
+                  "metrics": {
+                    "views": "601145",
+                    "likes": "30358",
+                    "favorites": "6550",
+                    "comments": "1424",
+                    "shares": "1610"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:55",
+                  "metrics": {
+                    "views": "601145",
+                    "likes": "30358",
+                    "favorites": "6550",
+                    "comments": "1424",
+                    "shares": "1610"
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:20",
+                  "metrics": {
+                    "views": "604807",
+                    "likes": "30526",
+                    "favorites": "6584",
+                    "comments": "1427",
+                    "shares": "1617"
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:21",
+                  "metrics": {
+                    "views": "604814",
+                    "likes": "30526",
+                    "favorites": "6584",
+                    "comments": "1427",
+                    "shares": "1617"
+                  }
+                },
+                {
+                  "captured": "2026-09-13 08:27",
+                  "metrics": {
+                    "views": "616703",
+                    "likes": "31114",
+                    "favorites": "6700",
+                    "comments": "1445",
+                    "shares": "1640"
+                  }
+                },
+                {
+                  "captured": "2026-09-14 08:31",
+                  "metrics": {
+                    "views": "627203",
+                    "likes": "31586",
+                    "favorites": "6779",
+                    "comments": "1457",
+                    "shares": "1665"
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:22",
+                  "metrics": {
+                    "views": "636351",
+                    "likes": "31927",
+                    "favorites": "6837",
+                    "comments": "1467",
+                    "shares": "1695"
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:23",
+                  "metrics": {
+                    "views": "636351",
+                    "likes": "31927",
+                    "favorites": "6837",
+                    "comments": "1467",
+                    "shares": "1695"
+                  }
+                },
+                {
+                  "captured": "2026-09-16 08:06",
+                  "metrics": {
+                    "views": "646116",
+                    "likes": "32362",
+                    "favorites": "6911",
+                    "comments": "1475",
+                    "shares": "1722"
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:52",
+                  "metrics": {
+                    "views": "667894",
+                    "likes": "33239",
+                    "favorites": "7081",
+                    "comments": "1515",
+                    "shares": "1774"
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:53",
+                  "metrics": {
+                    "views": "667894",
+                    "likes": "33239",
+                    "favorites": "7081",
+                    "comments": "1515",
+                    "shares": "1774"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "cat": "科技",
+          "title": "Anthropic 上市预期与 AI 泡沫争论",
+          "hook": "高互动视频把 Anthropic 上市预期与 AI 估值泡沫放在一起讨论，适合延展到模型公司的收入质量、现金消耗与上市窗口。",
+          "platform": "哔哩哔哩",
+          "source": "",
+          "score": 486365,
+          "videos": [
+            {
+              "title": "Anthropic要上市，如何判断AI泡沫？",
+              "url": "https://www.bilibili.com/video/BV16Utj6QEvD/",
+              "platform": "哔哩哔哩",
+              "creator": "内部看美国",
+              "duration": "19:59",
+              "metrics": {
+                "views": "187375",
+                "likes": "9745",
+                "favorites": "2070",
+                "comments": "2180",
+                "shares": "618"
+              },
+              "captured": "2026-09-17 11:53",
+              "status": "哔哩哔哩公开接口已核验互动数据；上市时间与估值判断属于作者分析，以公司正式披露为准",
+              "metricHistory": [
+                {
+                  "captured": "2026-09-11 20:54",
+                  "metrics": {
+                    "views": "178102",
+                    "likes": "9537",
+                    "favorites": "2009",
+                    "comments": "2115",
+                    "shares": "602"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:55",
+                  "metrics": {
+                    "views": "178102",
+                    "likes": "9537",
+                    "favorites": "2009",
+                    "comments": "2115",
+                    "shares": "602"
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:20",
+                  "metrics": {
+                    "views": "178954",
+                    "likes": "9552",
+                    "favorites": "2018",
+                    "comments": "2119",
+                    "shares": "602"
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:21",
+                  "metrics": {
+                    "views": "178954",
+                    "likes": "9552",
+                    "favorites": "2018",
+                    "comments": "2119",
+                    "shares": "602"
+                  }
+                },
+                {
+                  "captured": "2026-09-13 08:27",
+                  "metrics": {
+                    "views": "180721",
+                    "likes": "9595",
+                    "favorites": "2027",
+                    "comments": "2132",
+                    "shares": "603"
+                  }
+                },
+                {
+                  "captured": "2026-09-14 08:31",
+                  "metrics": {
+                    "views": "182495",
+                    "likes": "9643",
+                    "favorites": "2045",
+                    "comments": "2139",
+                    "shares": "609"
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:22",
+                  "metrics": {
+                    "views": "184190",
+                    "likes": "9682",
+                    "favorites": "2057",
+                    "comments": "2151",
+                    "shares": "613"
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:23",
+                  "metrics": {
+                    "views": "184190",
+                    "likes": "9682",
+                    "favorites": "2057",
+                    "comments": "2151",
+                    "shares": "613"
+                  }
+                },
+                {
+                  "captured": "2026-09-16 08:06",
+                  "metrics": {
+                    "views": "185526",
+                    "likes": "9702",
+                    "favorites": "2064",
+                    "comments": "2166",
+                    "shares": "615"
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:52",
+                  "metrics": {
+                    "views": "187375",
+                    "likes": "9745",
+                    "favorites": "2070",
+                    "comments": "2180",
+                    "shares": "618"
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:53",
+                  "metrics": {
+                    "views": "187375",
+                    "likes": "9745",
+                    "favorites": "2070",
+                    "comments": "2180",
+                    "shares": "618"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "cat": "科技",
+          "title": "DeepSeek Harness 开源：国产 AI Agent 进入插件化竞争",
+          "hook": "DeepSeek 发布开源 Harness 开发者预览版，以“万物皆插件”和全链路可追溯为核心；多条实测视频破百万播放，适合拆解 Agent 工程化、插件生态与国产 AI 编程工具竞争。",
+          "platform": "哔哩哔哩 / DeepSeek",
+          "source": "https://www.deepseek.com/harness/en/",
+          "score": 7889299,
+          "videos": [
+            {
+              "title": "DeepSeek Harness 首发实测 + 入门教程，夯爆了！梁神我错了",
+              "url": "https://www.bilibili.com/video/BV1VkgK6NEZS/",
+              "platform": "哔哩哔哩",
+              "creator": "程序员鱼皮",
+              "duration": "16:33",
+              "metrics": {
+                "views": "1598745",
+                "likes": "64263",
+                "favorites": "80732",
+                "comments": "5138",
+                "shares": "14426"
+              },
+              "captured": "2026-09-17 11:53",
+              "status": "哔哩哔哩公开接口已核验互动数据；产品为开发者预览版，功能与兼容性以 DeepSeek 官方说明为准",
+              "metricHistory": [
+                {
+                  "captured": "2026-09-11 20:54",
+                  "metrics": {
+                    "views": "1516136",
+                    "likes": "61860",
+                    "favorites": "76903",
+                    "comments": "4992",
+                    "shares": "13367"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:55",
+                  "metrics": {
+                    "views": "1516136",
+                    "likes": "61860",
+                    "favorites": "76904",
+                    "comments": "4993",
+                    "shares": "13367"
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:20",
+                  "metrics": {
+                    "views": "1520112",
+                    "likes": "61985",
+                    "favorites": "77079",
+                    "comments": "4994",
+                    "shares": "13419"
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:21",
+                  "metrics": {
+                    "views": "1520112",
+                    "likes": "61985",
+                    "favorites": "77079",
+                    "comments": "4994",
+                    "shares": "13419"
+                  }
+                },
+                {
+                  "captured": "2026-09-13 08:27",
+                  "metrics": {
+                    "views": "1532484",
+                    "likes": "62299",
+                    "favorites": "77584",
+                    "comments": "5025",
+                    "shares": "13587"
+                  }
+                },
+                {
+                  "captured": "2026-09-14 08:31",
+                  "metrics": {
+                    "views": "1545684",
+                    "likes": "62691",
+                    "favorites": "78221",
+                    "comments": "5038",
+                    "shares": "13729"
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:22",
+                  "metrics": {
+                    "views": "1562057",
+                    "likes": "63175",
+                    "favorites": "78985",
+                    "comments": "5068",
+                    "shares": "13955"
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:23",
+                  "metrics": {
+                    "views": "1562074",
+                    "likes": "63175",
+                    "favorites": "78985",
+                    "comments": "5068",
+                    "shares": "13955"
+                  }
+                },
+                {
+                  "captured": "2026-09-16 08:06",
+                  "metrics": {
+                    "views": "1578171",
+                    "likes": "63638",
+                    "favorites": "79729",
+                    "comments": "5101",
+                    "shares": "14149"
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:52",
+                  "metrics": {
+                    "views": "1598720",
+                    "likes": "64263",
+                    "favorites": "80732",
+                    "comments": "5138",
+                    "shares": "14426"
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:53",
+                  "metrics": {
+                    "views": "1598745",
+                    "likes": "64263",
+                    "favorites": "80732",
+                    "comments": "5138",
+                    "shares": "14426"
+                  }
+                }
+              ]
+            },
+            {
+              "title": "【网络热门AI鉴定】DeepSeek Harness是什么？强在哪里？Harness实测效果如何？一口气搞懂！",
+              "url": "https://www.bilibili.com/video/BV11CgF6uE4k/",
+              "platform": "哔哩哔哩",
+              "creator": "Git源宝",
+              "duration": "04:47",
+              "metrics": {
+                "views": "1262293",
+                "likes": "25258",
+                "favorites": "12663",
+                "comments": "1008",
+                "shares": "2303"
+              },
+              "captured": "2026-09-17 11:53",
+              "status": "哔哩哔哩公开接口已核验互动数据；实测结论属于作者评价，产品状态以 DeepSeek 官方说明为准",
+              "metricHistory": [
+                {
+                  "captured": "2026-09-11 20:54",
+                  "metrics": {
+                    "views": "1261471",
+                    "likes": "25247",
+                    "favorites": "12672",
+                    "comments": "1010",
+                    "shares": "2301"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:55",
+                  "metrics": {
+                    "views": "1261471",
+                    "likes": "25247",
+                    "favorites": "12672",
+                    "comments": "1010",
+                    "shares": "2301"
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:20",
+                  "metrics": {
+                    "views": "1261560",
+                    "likes": "25249",
+                    "favorites": "12674",
+                    "comments": "1010",
+                    "shares": "2301"
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:21",
+                  "metrics": {
+                    "views": "1261560",
+                    "likes": "25249",
+                    "favorites": "12674",
+                    "comments": "1010",
+                    "shares": "2301"
+                  }
+                },
+                {
+                  "captured": "2026-09-13 08:27",
+                  "metrics": {
+                    "views": "1261713",
+                    "likes": "25250",
+                    "favorites": "12668",
+                    "comments": "1009",
+                    "shares": "2301"
+                  }
+                },
+                {
+                  "captured": "2026-09-14 08:31",
+                  "metrics": {
+                    "views": "1261858",
+                    "likes": "25251",
+                    "favorites": "12666",
+                    "comments": "1009",
+                    "shares": "2301"
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:22",
+                  "metrics": {
+                    "views": "1262043",
+                    "likes": "25255",
+                    "favorites": "12668",
+                    "comments": "1009",
+                    "shares": "2301"
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:23",
+                  "metrics": {
+                    "views": "1262043",
+                    "likes": "25255",
+                    "favorites": "12668",
+                    "comments": "1009",
+                    "shares": "2301"
+                  }
+                },
+                {
+                  "captured": "2026-09-16 08:06",
+                  "metrics": {
+                    "views": "1262175",
+                    "likes": "25255",
+                    "favorites": "12665",
+                    "comments": "1008",
+                    "shares": "2302"
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:52",
+                  "metrics": {
+                    "views": "1262293",
+                    "likes": "25258",
+                    "favorites": "12663",
+                    "comments": "1008",
+                    "shares": "2303"
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:53",
+                  "metrics": {
+                    "views": "1262293",
+                    "likes": "25258",
+                    "favorites": "12663",
+                    "comments": "1008",
+                    "shares": "2303"
+                  }
+                }
+              ]
+            },
+            {
+              "title": "再见Claude Code！你好DeepSeek Harness！",
+              "url": "https://www.bilibili.com/video/BV1wugF6YEL3/",
+              "platform": "哔哩哔哩",
+              "creator": "Lau博士的云组会",
+              "duration": "04:45",
+              "metrics": {
+                "views": "674881",
+                "likes": "12870",
+                "favorites": "9522",
+                "comments": "2095",
+                "shares": "1797"
+              },
+              "captured": "2026-09-17 11:53",
+              "status": "哔哩哔哩公开接口已核验互动数据；标题含作者观点，产品能力以 DeepSeek 官方说明为准",
+              "metricHistory": [
+                {
+                  "captured": "2026-09-11 20:54",
+                  "metrics": {
+                    "views": "673756",
+                    "likes": "12848",
+                    "favorites": "9524",
+                    "comments": "2098",
+                    "shares": "1795"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:55",
+                  "metrics": {
+                    "views": "673756",
+                    "likes": "12848",
+                    "favorites": "9524",
+                    "comments": "2098",
+                    "shares": "1795"
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:20",
+                  "metrics": {
+                    "views": "673825",
+                    "likes": "12851",
+                    "favorites": "9525",
+                    "comments": "2099",
+                    "shares": "1795"
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:21",
+                  "metrics": {
+                    "views": "673825",
+                    "likes": "12851",
+                    "favorites": "9525",
+                    "comments": "2099",
+                    "shares": "1795"
+                  }
+                },
+                {
+                  "captured": "2026-09-13 08:27",
+                  "metrics": {
+                    "views": "673988",
+                    "likes": "12853",
+                    "favorites": "9522",
+                    "comments": "2095",
+                    "shares": "1796"
+                  }
+                },
+                {
+                  "captured": "2026-09-14 08:31",
+                  "metrics": {
+                    "views": "674204",
+                    "likes": "12856",
+                    "favorites": "9522",
+                    "comments": "2095",
+                    "shares": "1796"
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:22",
+                  "metrics": {
+                    "views": "674424",
+                    "likes": "12861",
+                    "favorites": "9523",
+                    "comments": "2095",
+                    "shares": "1796"
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:23",
+                  "metrics": {
+                    "views": "674424",
+                    "likes": "12861",
+                    "favorites": "9523",
+                    "comments": "2095",
+                    "shares": "1796"
+                  }
+                },
+                {
+                  "captured": "2026-09-16 08:06",
+                  "metrics": {
+                    "views": "674626",
+                    "likes": "12866",
+                    "favorites": "9520",
+                    "comments": "2095",
+                    "shares": "1796"
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:52",
+                  "metrics": {
+                    "views": "674881",
+                    "likes": "12870",
+                    "favorites": "9522",
+                    "comments": "2095",
+                    "shares": "1797"
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:53",
+                  "metrics": {
+                    "views": "674881",
+                    "likes": "12870",
+                    "favorites": "9522",
+                    "comments": "2095",
+                    "shares": "1797"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "cat": "财经",
+          "title": "全球长债收益率上行与资产估值压力",
+          "hook": "围绕美日长期国债收益率上行的视频获得高互动，市场关注点从降息节奏转向期限溢价、财政压力与全球资产估值重定价。",
+          "platform": "哔哩哔哩",
+          "source": "",
+          "score": 339533,
+          "videos": [
+            {
+              "title": "西方债市持续崩跌，靠美军干预债市？10年期日债收益率破3%，10年期美债破4.8%，冲击全球金融市场估值",
+              "url": "https://www.bilibili.com/video/BV14BtX6NEsN/",
+              "platform": "哔哩哔哩",
+              "creator": "星话大白",
+              "duration": "06:47",
+              "metrics": {
+                "views": "153413",
+                "likes": "7717",
+                "favorites": "737",
+                "comments": "667",
+                "shares": "135"
+              },
+              "captured": "2026-09-17 11:53",
+              "status": "哔哩哔哩公开接口已核验互动数据；市场解读属于作者观点，具体收益率与政策信息以官方市场数据为准",
+              "metricHistory": [
+                {
+                  "captured": "2026-09-11 20:54",
+                  "metrics": {
+                    "views": "142725",
+                    "likes": "7610",
+                    "favorites": "729",
+                    "comments": "662",
+                    "shares": "132"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:55",
+                  "metrics": {
+                    "views": "142725",
+                    "likes": "7610",
+                    "favorites": "729",
+                    "comments": "662",
+                    "shares": "132"
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:20",
+                  "metrics": {
+                    "views": "143660",
+                    "likes": "7618",
+                    "favorites": "728",
+                    "comments": "663",
+                    "shares": "132"
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:21",
+                  "metrics": {
+                    "views": "143660",
+                    "likes": "7618",
+                    "favorites": "728",
+                    "comments": "663",
+                    "shares": "132"
+                  }
+                },
+                {
+                  "captured": "2026-09-13 08:27",
+                  "metrics": {
+                    "views": "146003",
+                    "likes": "7639",
+                    "favorites": "732",
+                    "comments": "663",
+                    "shares": "132"
+                  }
+                },
+                {
+                  "captured": "2026-09-14 08:31",
+                  "metrics": {
+                    "views": "148274",
+                    "likes": "7656",
+                    "favorites": "732",
+                    "comments": "664",
+                    "shares": "133"
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:22",
+                  "metrics": {
+                    "views": "150005",
+                    "likes": "7672",
+                    "favorites": "732",
+                    "comments": "664",
+                    "shares": "134"
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:23",
+                  "metrics": {
+                    "views": "150005",
+                    "likes": "7672",
+                    "favorites": "732",
+                    "comments": "664",
+                    "shares": "134"
+                  }
+                },
+                {
+                  "captured": "2026-09-16 08:06",
+                  "metrics": {
+                    "views": "151635",
+                    "likes": "7692",
+                    "favorites": "733",
+                    "comments": "667",
+                    "shares": "135"
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:52",
+                  "metrics": {
+                    "views": "153413",
+                    "likes": "7717",
+                    "favorites": "737",
+                    "comments": "667",
+                    "shares": "135"
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:53",
+                  "metrics": {
+                    "views": "153413",
+                    "likes": "7717",
+                    "favorites": "737",
+                    "comments": "667",
+                    "shares": "135"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "cat": "社会",
+          "title": "微信“单删提示”引发社交关系讨论",
+          "hook": "“微信单删提示”相关内容快速传播，用户关注好友关系是否被删除、产品边界与社交压力；具体功能范围以微信官方说明为准。",
+          "platform": "哔哩哔哩",
+          "source": "",
+          "score": 335816,
+          "videos": [
+            {
+              "title": "“微信 单删提示”冲上热搜，客服回应",
+              "url": "https://www.bilibili.com/video/BV1LKtd69EKq/",
+              "platform": "哔哩哔哩",
+              "creator": "川观新闻",
+              "duration": "00:32",
+              "metrics": {
+                "views": "268251",
+                "likes": "2951",
+                "favorites": "175",
+                "comments": "172",
+                "shares": "54"
+              },
+              "captured": "2026-09-17 11:53",
+              "status": "哔哩哔哩公开接口已核验互动数据；功能范围与上线状态以微信官方说明为准",
+              "metricHistory": [
+                {
+                  "captured": "2026-09-11 20:54",
+                  "metrics": {
+                    "views": "252661",
+                    "likes": "2797",
+                    "favorites": "166",
+                    "comments": "160",
+                    "shares": "50"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:55",
+                  "metrics": {
+                    "views": "252661",
+                    "likes": "2797",
+                    "favorites": "166",
+                    "comments": "160",
+                    "shares": "50"
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:20",
+                  "metrics": {
+                    "views": "253825",
+                    "likes": "2810",
+                    "favorites": "166",
+                    "comments": "161",
+                    "shares": "51"
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:21",
+                  "metrics": {
+                    "views": "253825",
+                    "likes": "2810",
+                    "favorites": "166",
+                    "comments": "161",
+                    "shares": "51"
+                  }
+                },
+                {
+                  "captured": "2026-09-13 08:27",
+                  "metrics": {
+                    "views": "256184",
+                    "likes": "2827",
+                    "favorites": "170",
+                    "comments": "161",
+                    "shares": "51"
+                  }
+                },
+                {
+                  "captured": "2026-09-14 08:31",
+                  "metrics": {
+                    "views": "259535",
+                    "likes": "2867",
+                    "favorites": "174",
+                    "comments": "164",
+                    "shares": "51"
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:22",
+                  "metrics": {
+                    "views": "261324",
+                    "likes": "2887",
+                    "favorites": "174",
+                    "comments": "166",
+                    "shares": "52"
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:23",
+                  "metrics": {
+                    "views": "261324",
+                    "likes": "2887",
+                    "favorites": "174",
+                    "comments": "166",
+                    "shares": "52"
+                  }
+                },
+                {
+                  "captured": "2026-09-16 08:06",
+                  "metrics": {
+                    "views": "265090",
+                    "likes": "2916",
+                    "favorites": "174",
+                    "comments": "169",
+                    "shares": "53"
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:52",
+                  "metrics": {
+                    "views": "268251",
+                    "likes": "2951",
+                    "favorites": "175",
+                    "comments": "172",
+                    "shares": "54"
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:53",
+                  "metrics": {
+                    "views": "268251",
+                    "likes": "2951",
+                    "favorites": "175",
+                    "comments": "172",
+                    "shares": "54"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "cat": "国际时政",
+          "title": "时代广场刺杀事件引发城市公共安全关注",
+          "hook": "相关视频在站内获得高播放与高互动，讨论聚焦美国大城市治安与公共空间安全；案情细节以当地警方和权威媒体后续通报为准。",
+          "platform": "哔哩哔哩",
+          "source": "",
+          "score": 1496267,
+          "videos": [
+            {
+              "title": "美国银行副总裁时代广场被刺身亡",
+              "url": "https://www.bilibili.com/video/BV1xBtE6TE2Z/",
+              "platform": "哔哩哔哩",
+              "creator": "军情阿甘",
+              "duration": "01:03",
+              "metrics": {
+                "views": "752902",
+                "likes": "33139",
+                "favorites": "1398",
+                "comments": "1043",
+                "shares": "1118"
+              },
+              "captured": "2026-09-17 11:53",
+              "status": "哔哩哔哩公开接口已核验互动数据；案情细节以当地警方和权威媒体后续通报为准",
+              "metricHistory": [
+                {
+                  "captured": "2026-09-11 20:54",
+                  "metrics": {
+                    "views": "684386",
+                    "likes": "30062",
+                    "favorites": "1265",
+                    "comments": "992",
+                    "shares": "1095"
+                  }
+                },
+                {
+                  "captured": "2026-09-11 20:55",
+                  "metrics": {
+                    "views": "684386",
+                    "likes": "30062",
+                    "favorites": "1265",
+                    "comments": "992",
+                    "shares": "1095"
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:20",
+                  "metrics": {
+                    "views": "691461",
+                    "likes": "30426",
+                    "favorites": "1286",
+                    "comments": "1001",
+                    "shares": "1097"
+                  }
+                },
+                {
+                  "captured": "2026-09-12 08:21",
+                  "metrics": {
+                    "views": "691461",
+                    "likes": "30427",
+                    "favorites": "1286",
+                    "comments": "1001",
+                    "shares": "1097"
+                  }
+                },
+                {
+                  "captured": "2026-09-13 08:27",
+                  "metrics": {
+                    "views": "707838",
+                    "likes": "31402",
+                    "favorites": "1334",
+                    "comments": "1011",
+                    "shares": "1100"
+                  }
+                },
+                {
+                  "captured": "2026-09-14 08:31",
+                  "metrics": {
+                    "views": "720623",
+                    "likes": "32043",
+                    "favorites": "1363",
+                    "comments": "1022",
+                    "shares": "1106"
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:22",
+                  "metrics": {
+                    "views": "728080",
+                    "likes": "32363",
+                    "favorites": "1373",
+                    "comments": "1023",
+                    "shares": "1110"
+                  }
+                },
+                {
+                  "captured": "2026-09-15 10:23",
+                  "metrics": {
+                    "views": "728080",
+                    "likes": "32363",
+                    "favorites": "1373",
+                    "comments": "1023",
+                    "shares": "1110"
+                  }
+                },
+                {
+                  "captured": "2026-09-16 08:06",
+                  "metrics": {
+                    "views": "740278",
+                    "likes": "32748",
+                    "favorites": "1385",
+                    "comments": "1031",
+                    "shares": "1114"
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:52",
+                  "metrics": {
+                    "views": "752902",
+                    "likes": "33139",
+                    "favorites": "1398",
+                    "comments": "1043",
+                    "shares": "1118"
+                  }
+                },
+                {
+                  "captured": "2026-09-17 11:53",
+                  "metrics": {
+                    "views": "752902",
+                    "likes": "33139",
+                    "favorites": "1398",
+                    "comments": "1043",
+                    "shares": "1118"
                   }
                 }
               ]

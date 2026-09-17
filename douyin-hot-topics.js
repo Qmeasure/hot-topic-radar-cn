@@ -1,111 +1,12 @@
 window.DOUYIN_HOT_TOPICS={
   "schemaVersion": 1,
-  "date": "2026-09-16",
-  "capturedAt": "2026-09-16T08:06:57+08:00",
+  "date": "2026-09-17",
+  "capturedAt": "2026-09-17T11:52:42+08:00",
   "source": "TikHub Douyin App V3 hot search list",
   "sourceStatus": "partial",
   "sourceIssue": "TikHub HTTP 402",
   "positioning": "AI投资",
   "topics": [
-    {
-      "id": "video-7685196022947056911",
-      "topic": "初始预算只有500，新手如何通过AiGC吃上饭？ 结合我最近做得AiGC的项目，聊聊我眼中对于小白玩家如何在两极分化的Ai漫剧Ai短剧赛道站稳脚跟，实现收益的正向飞轮",
-      "interactions": 11268,
-      "rank": null,
-      "signal": "抖音对标热点 · 11,268 公开互动",
-      "hotValue": 11268,
-      "viewCount": 96253,
-      "videoCount": 1,
-      "content": "以“初始预算只有500，新手如何通过AiGC吃上饭？ 结合我最近做得AiGC的项目，聊聊我眼中对于小白玩家如何在两极分化的Ai漫剧Ai短剧赛道站稳脚跟，实现收益的正向飞轮”为事实入口，不复述新闻，重点拆解相关公司的竞争位置、资本开支、产业链受益方与估值风险。",
-      "why": "这是近三天抖音 AI 内容中的高互动样本，公开点赞、评论、收藏和分享合计 11,268；题材与AI投资主线直接相关。",
-      "benefit": "帮助账号建立“AI事件发生后，谁投入、谁受益、谁被重估”的投资分析心智，同时借鉴已经被抖音用户验证的传播切口。",
-      "searchUrl": "https://www.douyin.com/video/7685196022947056911",
-      "videos": [
-        {
-          "id": "7685196022947056911",
-          "creator": "柱子哥TzFilm",
-          "title": "初始预算只有500，新手如何通过AiGC吃上饭？ 结合我最近做得AiGC的项目，聊聊我眼中对于小白玩家如何在两极分化的Ai漫剧Ai短剧赛道站稳脚跟，实现收益的正向飞轮\n#青年创作者成长计划 #AI新星计划 #抖音精选App征稿中 #抖音前沿科技首发计划",
-          "url": "https://www.douyin.com/video/7685196022947056911",
-          "publishedAt": "2026-09-14T09:25:43+08:00",
-          "durationSeconds": 486,
-          "metrics": {
-            "views": 96253,
-            "likes": 7239,
-            "comments": 172,
-            "favorites": 3065,
-            "shares": 792
-          },
-          "capturedAt": "2026-09-15T10:02:01+08:00",
-          "status": "TikHub Douyin App V3 已核验；原始播放地址为时效链接。"
-        }
-      ]
-    },
-    {
-      "id": "video-7685066167526423205",
-      "topic": "AI三巨头呼吁集体刹车AI行情彻底变天？",
-      "interactions": 9704,
-      "rank": null,
-      "signal": "抖音对标热点 · 9,704 公开互动",
-      "hotValue": 9704,
-      "viewCount": null,
-      "videoCount": 1,
-      "content": "以“AI三巨头呼吁集体刹车AI行情彻底变天？”为事实入口，不复述新闻，重点拆解相关公司的竞争位置、资本开支、产业链受益方与估值风险。",
-      "why": "这是近三天抖音 AI 内容中的高互动样本，公开点赞、评论、收藏和分享合计 9,704；题材与AI投资主线直接相关。",
-      "benefit": "帮助账号建立“AI事件发生后，谁投入、谁受益、谁被重估”的投资分析心智，同时借鉴已经被抖音用户验证的传播切口。",
-      "searchUrl": "https://www.douyin.com/video/7685066167526423205",
-      "videos": [
-        {
-          "id": "7685066167526423205",
-          "creator": "周媛",
-          "title": "AI三巨头呼吁集体刹车AI行情彻底变天？ #燃起来了大国重器",
-          "url": "https://www.douyin.com/video/7685066167526423205",
-          "publishedAt": "2026-09-14T01:01:43+08:00",
-          "durationSeconds": 431,
-          "metrics": {
-            "views": null,
-            "likes": 7108,
-            "comments": 518,
-            "favorites": 1053,
-            "shares": 1025
-          },
-          "capturedAt": "2026-09-15T10:02:01+08:00",
-          "status": "TikHub Douyin App V3 已核验；原始播放地址为时效链接。"
-        }
-      ]
-    },
-    {
-      "id": "video-7684969931573644587",
-      "topic": "当AI和机器取代人：岗位永久消失后谁来买单？",
-      "interactions": 5987,
-      "rank": null,
-      "signal": "抖音对标热点 · 5,987 公开互动",
-      "hotValue": 5987,
-      "viewCount": null,
-      "videoCount": 1,
-      "content": "以“当AI和机器取代人：岗位永久消失后谁来买单？”为事实入口，不复述新闻，重点拆解相关公司的竞争位置、资本开支、产业链受益方与估值风险。",
-      "why": "这是近三天抖音 AI 内容中的高互动样本，公开点赞、评论、收藏和分享合计 5,987；题材与AI投资主线直接相关。",
-      "benefit": "帮助账号建立“AI事件发生后，谁投入、谁受益、谁被重估”的投资分析心智，同时借鉴已经被抖音用户验证的传播切口。",
-      "searchUrl": "https://www.douyin.com/video/7684969931573644587",
-      "videos": [
-        {
-          "id": "7684969931573644587",
-          "creator": "阳和平说事儿",
-          "title": "当AI和机器取代人：岗位永久消失后谁来买单？",
-          "url": "https://www.douyin.com/video/7684969931573644587",
-          "publishedAt": "2026-09-14T08:00:00+08:00",
-          "durationSeconds": 287,
-          "metrics": {
-            "views": null,
-            "likes": 4513,
-            "comments": 581,
-            "favorites": 525,
-            "shares": 368
-          },
-          "capturedAt": "2026-09-15T10:02:01+08:00",
-          "status": "TikHub Douyin App V3 已核验；原始播放地址为时效链接。"
-        }
-      ]
-    },
     {
       "id": "video-7685273078969097578",
       "topic": "AI真的要减速吗？美国人的阴谋而已 我对这场AI减速舆论的理解是：它不是说AI产业要熄火了，而是行业开始进入了新的竞争阶段。过去大家比的是谁的模型更强、谁的算力更多；接下来，大家还要比拼谁能制定行业的规则，谁能把安全变成新的竞争壁垒。对于中国来说，别人喊不喊减速，一点并不重要。重要的是，我们要继续推进自主研发，提升工程能力，补齐产业链短板，在这场全球AI竞争中建立自己的技术优势。AI的速度可以调整，但硅基时代的产业变革远远没有结束。这个时候，我们不能慢下来",
@@ -173,39 +74,6 @@ window.DOUYIN_HOT_TOPICS={
       ]
     },
     {
-      "id": "video-7684843663960174153",
-      "topic": "拿人类命运下注？美国AI巨头疯狂竞速！",
-      "interactions": 3608,
-      "rank": null,
-      "signal": "抖音对标热点 · 3,608 公开互动",
-      "hotValue": 3608,
-      "viewCount": null,
-      "videoCount": 1,
-      "content": "以“拿人类命运下注？美国AI巨头疯狂竞速！”为事实入口，不复述新闻，重点拆解相关公司的竞争位置、资本开支、产业链受益方与估值风险。",
-      "why": "这是近三天抖音 AI 内容中的高互动样本，公开点赞、评论、收藏和分享合计 3,608；题材与AI投资主线直接相关。",
-      "benefit": "帮助账号建立“AI事件发生后，谁投入、谁受益、谁被重估”的投资分析心智，同时借鉴已经被抖音用户验证的传播切口。",
-      "searchUrl": "https://www.douyin.com/video/7684843663960174153",
-      "videos": [
-        {
-          "id": "7684843663960174153",
-          "creator": "猴哥军情",
-          "title": "拿人类命运下注？美国AI巨头疯狂竞速！ #AI #人工智能 #机器人 #科技 #未来",
-          "url": "https://www.douyin.com/video/7684843663960174153",
-          "publishedAt": "2026-09-13T10:55:22+08:00",
-          "durationSeconds": 40,
-          "metrics": {
-            "views": null,
-            "likes": 2511,
-            "comments": 545,
-            "favorites": 166,
-            "shares": 386
-          },
-          "capturedAt": "2026-09-15T10:02:01+08:00",
-          "status": "TikHub Douyin App V3 已核验；原始播放地址为时效链接。"
-        }
-      ]
-    },
-    {
       "id": "video-7685360652113808659",
       "topic": "大佬说AI刚进入应用爆发期，我在外滩大会，看到蚂蚁正在发生的三个重要变化",
       "interactions": 2159,
@@ -232,39 +100,6 @@ window.DOUYIN_HOT_TOPICS={
             "comments": 37,
             "favorites": 281,
             "shares": 62
-          },
-          "capturedAt": "2026-09-15T10:02:01+08:00",
-          "status": "TikHub Douyin App V3 已核验；原始播放地址为时效链接。"
-        }
-      ]
-    },
-    {
-      "id": "video-7685145073855878066",
-      "topic": "Anthropic 达里奥：我们必须放缓 AI 前沿研究！奥特曼、马斯克秒支持",
-      "interactions": 785,
-      "rank": null,
-      "signal": "抖音对标热点 · 785 公开互动",
-      "hotValue": 785,
-      "viewCount": 22320,
-      "videoCount": 1,
-      "content": "以“Anthropic 达里奥：我们必须放缓 AI 前沿研究！奥特曼、马斯克秒支持”为事实入口，不复述新闻，重点拆解相关公司的竞争位置、资本开支、产业链受益方与估值风险。",
-      "why": "这是近三天抖音 AI 内容中的高互动样本，公开点赞、评论、收藏和分享合计 785；题材与AI投资主线直接相关。",
-      "benefit": "帮助账号建立“AI事件发生后，谁投入、谁受益、谁被重估”的投资分析心智，同时借鉴已经被抖音用户验证的传播切口。",
-      "searchUrl": "https://www.douyin.com/video/7685145073855878066",
-      "videos": [
-        {
-          "id": "7685145073855878066",
-          "creator": "老郑说 AI 前瞻",
-          "title": "Anthropic 达里奥：我们必须放缓 AI 前沿研究！奥特曼、马斯克秒支持\n#马斯克 #Anthropic #openai #达里奥 #老郑说AI前瞻",
-          "url": "https://www.douyin.com/video/7685145073855878066",
-          "publishedAt": "2026-09-14T06:07:56+08:00",
-          "durationSeconds": 396,
-          "metrics": {
-            "views": 22320,
-            "likes": 532,
-            "comments": 101,
-            "favorites": 106,
-            "shares": 46
           },
           "capturedAt": "2026-09-15T10:02:01+08:00",
           "status": "TikHub Douyin App V3 已核验；原始播放地址为时效链接。"
@@ -331,6 +166,138 @@ window.DOUYIN_HOT_TOPICS={
             "comments": 57,
             "favorites": 35,
             "shares": 113
+          },
+          "capturedAt": "2026-09-15T10:02:01+08:00",
+          "status": "TikHub Douyin App V3 已核验；原始播放地址为时效链接。"
+        }
+      ]
+    },
+    {
+      "id": "video-7685307922066312458",
+      "topic": "那个拍出神作《牌子》的AI导演，带着他的巅峰之作回来了。 2.5",
+      "interactions": 322,
+      "rank": null,
+      "signal": "抖音对标热点 · 322 公开互动",
+      "hotValue": 322,
+      "viewCount": 11453,
+      "videoCount": 1,
+      "content": "以“那个拍出神作《牌子》的AI导演，带着他的巅峰之作回来了。 2.5”为事实入口，不复述新闻，重点拆解相关公司的竞争位置、资本开支、产业链受益方与估值风险。",
+      "why": "这是近三天抖音 AI 内容中的高互动样本，公开点赞、评论、收藏和分享合计 322；题材与AI投资主线直接相关。",
+      "benefit": "帮助账号建立“AI事件发生后，谁投入、谁受益、谁被重估”的投资分析心智，同时借鉴已经被抖音用户验证的传播切口。",
+      "searchUrl": "https://www.douyin.com/video/7685307922066312458",
+      "videos": [
+        {
+          "id": "7685307922066312458",
+          "creator": "数字生命卡兹克",
+          "title": "那个拍出神作《牌子》的AI导演，带着他的巅峰之作回来了。 #抖音前沿科技首发计划 #AI短片 #Seedance 2.5 #AI新星计划 #数字生命卡兹克",
+          "url": "https://www.douyin.com/video/7685307922066312458",
+          "publishedAt": "2026-09-14T16:39:57+08:00",
+          "durationSeconds": 60,
+          "metrics": {
+            "views": 11453,
+            "likes": 240,
+            "comments": 5,
+            "favorites": 56,
+            "shares": 21
+          },
+          "capturedAt": "2026-09-15T10:02:01+08:00",
+          "status": "TikHub Douyin App V3 已核验；原始播放地址为时效链接。"
+        }
+      ]
+    },
+    {
+      "id": "video-7685346463076912410",
+      "topic": "AI会毁灭全人类？巨头集体踩刹车对科技股的影响。",
+      "interactions": 137,
+      "rank": null,
+      "signal": "抖音对标热点 · 137 公开互动",
+      "hotValue": 137,
+      "viewCount": null,
+      "videoCount": 1,
+      "content": "以“AI会毁灭全人类？巨头集体踩刹车对科技股的影响。”为事实入口，不复述新闻，重点拆解相关公司的竞争位置、资本开支、产业链受益方与估值风险。",
+      "why": "这是近三天抖音 AI 内容中的高互动样本，公开点赞、评论、收藏和分享合计 137；题材与AI投资主线直接相关。",
+      "benefit": "帮助账号建立“AI事件发生后，谁投入、谁受益、谁被重估”的投资分析心智，同时借鉴已经被抖音用户验证的传播切口。",
+      "searchUrl": "https://www.douyin.com/video/7685346463076912410",
+      "videos": [
+        {
+          "id": "7685346463076912410",
+          "creator": "金融康博士",
+          "title": "AI会毁灭全人类？巨头集体踩刹车对科技股的影响。#财经 #AI #投资 #资本市场 #认知",
+          "url": "https://www.douyin.com/video/7685346463076912410",
+          "publishedAt": "2026-09-14T19:09:30+08:00",
+          "durationSeconds": 549,
+          "metrics": {
+            "views": null,
+            "likes": 101,
+            "comments": 9,
+            "favorites": 20,
+            "shares": 7
+          },
+          "capturedAt": "2026-09-15T10:02:01+08:00",
+          "status": "TikHub Douyin App V3 已核验；原始播放地址为时效链接。"
+        }
+      ]
+    },
+    {
+      "id": "video-7685347621917019427",
+      "topic": "中国和美国做企业AI的区别到底在哪？ 为什么中国的企业AI没有美国那么大的体量？中国做企业AI到底能不能赚钱？怎么赚钱？企业AI专家孟虎老师告诉你答案！",
+      "interactions": 3,
+      "rank": null,
+      "signal": "抖音对标热点 · 3 公开互动",
+      "hotValue": 3,
+      "viewCount": null,
+      "videoCount": 1,
+      "content": "以“中国和美国做企业AI的区别到底在哪？ 为什么中国的企业AI没有美国那么大的体量？中国做企业AI到底能不能赚钱？怎么赚钱？企业AI专家孟虎老师告诉你答案！”为事实入口，不复述新闻，重点拆解相关公司的竞争位置、资本开支、产业链受益方与估值风险。",
+      "why": "这是近三天抖音 AI 内容中的高互动样本，公开点赞、评论、收藏和分享合计 3；题材与AI投资主线直接相关。",
+      "benefit": "帮助账号建立“AI事件发生后，谁投入、谁受益、谁被重估”的投资分析心智，同时借鉴已经被抖音用户验证的传播切口。",
+      "searchUrl": "https://www.douyin.com/video/7685347621917019427",
+      "videos": [
+        {
+          "id": "7685347621917019427",
+          "creator": "李菲特—智富界",
+          "title": "中国和美国做企业AI的区别到底在哪？ 为什么中国的企业AI没有美国那么大的体量？中国做企业AI到底能不能赚钱？怎么赚钱？企业AI专家孟虎老师告诉你答案！\n#AI #燃起来了大国重器 #真财实学计划 #零距离看懂财经 #企业AI",
+          "url": "https://www.douyin.com/video/7685347621917019427",
+          "publishedAt": "2026-09-14T19:14:01+08:00",
+          "durationSeconds": 108,
+          "metrics": {
+            "views": null,
+            "likes": 2,
+            "comments": 0,
+            "favorites": 1,
+            "shares": 0
+          },
+          "capturedAt": "2026-09-15T10:02:01+08:00",
+          "status": "TikHub Douyin App V3 已核验；原始播放地址为时效链接。"
+        }
+      ]
+    },
+    {
+      "id": "video-7685350601256881462",
+      "topic": "企业AI居然能做到千万年营收？这其中的秘诀是什么？",
+      "interactions": 1,
+      "rank": null,
+      "signal": "抖音对标热点 · 1 公开互动",
+      "hotValue": 1,
+      "viewCount": null,
+      "videoCount": 1,
+      "content": "以“企业AI居然能做到千万年营收？这其中的秘诀是什么？”为事实入口，不复述新闻，重点拆解相关公司的竞争位置、资本开支、产业链受益方与估值风险。",
+      "why": "这是近三天抖音 AI 内容中的高互动样本，公开点赞、评论、收藏和分享合计 1；题材与AI投资主线直接相关。",
+      "benefit": "帮助账号建立“AI事件发生后，谁投入、谁受益、谁被重估”的投资分析心智，同时借鉴已经被抖音用户验证的传播切口。",
+      "searchUrl": "https://www.douyin.com/video/7685350601256881462",
+      "videos": [
+        {
+          "id": "7685350601256881462",
+          "creator": "李菲特—智富界",
+          "title": "企业AI居然能做到千万年营收？这其中的秘诀是什么？ #抖音前沿科技首发计划 #AI #零距离看懂财经 #真财实学计划 #燃起来了大国重器",
+          "url": "https://www.douyin.com/video/7685350601256881462",
+          "publishedAt": "2026-09-14T21:26:00+08:00",
+          "durationSeconds": 157,
+          "metrics": {
+            "views": null,
+            "likes": 1,
+            "comments": 0,
+            "favorites": 0,
+            "shares": 0
           },
           "capturedAt": "2026-09-15T10:02:01+08:00",
           "status": "TikHub Douyin App V3 已核验；原始播放地址为时效链接。"

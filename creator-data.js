@@ -1,6 +1,6 @@
 window.CREATOR_WATCHLIST={
   "updated": "2026-09-07",
-  "sourceProfilesUpdatedAt": "2026-09-16T00:01:26.134Z",
+  "sourceProfilesUpdatedAt": "2026-09-17T03:50:26.799Z",
   "platforms": {
     "douyin": [
       {
